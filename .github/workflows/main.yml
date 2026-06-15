@@ -2,7 +2,7 @@ name: Fetch Maritime Feeds
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Fetch RSS feeds
         run: |
           mkdir -p feeds
-          feeds="deck-officers engine-ratings catering-staff engine-officers deck-ratings electricians-jobboard offshore cadets full-crew tanker-fleet"
+          feeds="deck-officers engine-ratings catering-staff engine-officers deck-ratings electricians-jobboard offshore cadets full-crew tanker-fleet oil-gas onshore passenger-cruise yachts-jobs companies-jobs careers security"
           for feed in $feeds; do
             curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
               "https://maritime-union.com/rss/$feed" -o "feeds/$feed.xml"
