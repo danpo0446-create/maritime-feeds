@@ -1,0 +1,31 @@
+name: Fetch Maritime Feeds
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS feeds
+        run: |
+          mkdir -p feeds
+          feeds="deck-officers engine-ratings catering-staff engine-officers deck-ratings electricians-jobboard offshore cadets full-crew tanker-fleet"
+          for feed in $feeds; do
+            curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
+              "https://maritime-union.com/rss/$feed" -o "feeds/$feed.xml"
+            echo "Fetched: $feed"
+          done
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/
+          git diff --staged --quiet || git commit -m "Update feeds $(date -u '+%Y-%m-%d %H:%M')"
+          git push
