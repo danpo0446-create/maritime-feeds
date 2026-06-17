@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-06-2026</dc:date>
+  <dc:date>17-06-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222800/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222799/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222779/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222792/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222791/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222790/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222784/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222801/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222801/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222801/</link>
+  <title>[Gold Job] Chief Engineer on TSHDredgers at </title>
+  <dc:date>2026-06-16 13:22:38</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222800/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222800/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222800/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222790/</link>
   <title>[Gold Job] Chief Engineer for Self-Propelled Jack-Up Barge  at </title>
   <dc:date>2026-06-11 10:26:19</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222784/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222784/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222784/</link>
-  <title>[Gold Job] Second Engineer for DP2 PSV vessel at </title>
-  <dc:date>2026-06-10 10:31:20</dc:date>
  </item>
 </rdf:RDF>
