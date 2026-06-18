@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-06-2026</dc:date>
+  <dc:date>18-06-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222803/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222800/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222799/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222795/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222792/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222791/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222790/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222803/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222803/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222803/</link>
+  <title>[Gold Job] ETO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-06-17 12:12:14</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222801/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222801/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222801/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222791/</link>
   <title>[Gold Job] Chief Engineer for DP2 AHTS vessel at </title>
   <dc:date>2026-06-11 10:28:11</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222790/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222790/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222790/</link>
-  <title>[Gold Job] Chief Engineer for Self-Propelled Jack-Up Barge  at </title>
-  <dc:date>2026-06-11 10:26:19</dc:date>
  </item>
 </rdf:RDF>
