@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-06-2026</dc:date>
+  <dc:date>19-06-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222807/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222778/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222763/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222739/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222674/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222639/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222626/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222621/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222807/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222807/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222807/</link>
+  <title>[Gold Job] KTSHIP - ASAP vacancies - 18 JUN at </title>
+  <dc:date>2026-06-18 14:04:26</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222778/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222778/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222778/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222626/</link>
   <title>[AI Job] Master, OOW, and Marine Engineer Positions on Guard Vessels – STCW and CoC Required at OJ Crew</title>
   <dc:date>2026-04-30 14:41:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222621/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;ORCA&lt;/span&gt; Crew Services is looking for an Equipment Operator for several trips.&lt;/p&gt;&lt;p&gt;Vessel type: Accommodation Barge (non-DP)&lt;br /&gt;&#10;Starting date: 2026-09-01&lt;br /&gt;&#10;Duration: 2 weeks&lt;br /&gt;&#10;Location: Europe&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222621/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222621/</link>
-  <title>[AI Job] Equipment Operator on Accommodation Barge – Non-DP at Orca Crew Services NL</title>
-  <dc:date>2026-04-30 14:40:34</dc:date>
  </item>
 </rdf:RDF>
