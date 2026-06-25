@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>24-06-2026</dc:date>
+  <dc:date>25-06-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222822/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222815/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222814/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222811/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222796/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222794/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222793/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222789/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222822/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222822/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222822/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-06-24 10:18:39</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222815/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222815/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222815/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222793/</link>
   <title>[Gold Job] Master DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
   <dc:date>2026-06-12 10:38:54</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222789/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222789/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222789/</link>
-  <title>[Gold Job] Master for Self-Propelled Jack-Up Barge at </title>
-  <dc:date>2026-06-11 10:24:18</dc:date>
  </item>
 </rdf:RDF>
