@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-06-2026</dc:date>
+  <dc:date>26-06-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222826/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222825/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222804/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222797/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222758/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222709/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222681/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222696/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222691/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222689/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222826/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222826/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222826/</link>
+  <title>[Gold Job] HIRING – OFFSHORE VESSEL CREW at </title>
+  <dc:date>2026-06-25 13:14:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/222825/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222825/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222825/</link>
+  <title>[Gold Job] WE ARE HIRING – MASTER | CHIEF OFFICER | CHIEF ENGINEER Offshore Vessel at </title>
+  <dc:date>2026-06-25 13:10:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222804/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222804/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222804/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/222696/</link>
   <title>[Gold Job] ETO on SCOV DP2 – 400-435 EUR per day  at </title>
   <dc:date>2026-05-15 18:28:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222691/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222691/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222691/</link>
-  <title>[Gold Job] AB/Crane Operator on SCOV DP2  - 450-475 EUR per day UK FWP at </title>
-  <dc:date>2026-05-14 17:11:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222689/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222689/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222689/</link>
-  <title>[Gold Job] Bosun on SCOV DP2 - 250 – 265 EUR per day UK FWP at </title>
-  <dc:date>2026-05-14 17:07:07</dc:date>
  </item>
 </rdf:RDF>

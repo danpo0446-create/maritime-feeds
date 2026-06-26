@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-06-2026</dc:date>
+  <dc:date>26-06-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222824/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222821/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222820/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222819/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222813/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222810/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222809/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222824/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222824/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222824/</link>
+  <title>[Gold Job] ETO for DP2 Fast Supply Intervention Vessel at </title>
+  <dc:date>2026-06-25 10:38:13</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222821/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222821/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222821/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222810/</link>
   <title>[Gold Job] Third Engineer for Panamax Bulk Carrier Vessel at </title>
   <dc:date>2026-06-19 10:47:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222809/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222809/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222809/</link>
-  <title>[Gold Job] Chief Engineer for 4 Point Mooring DSV / Maintenance Work Boat (NON DP) Vessel at </title>
-  <dc:date>2026-06-19 10:46:44</dc:date>
  </item>
 </rdf:RDF>
