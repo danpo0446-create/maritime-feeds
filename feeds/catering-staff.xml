@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-06-2026</dc:date>
+  <dc:date>30-06-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222839/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222697/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222683/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222656/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222595/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222561/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222542/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222538/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222839/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222839/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222839/</link>
+  <title>[Gold Job] Chief Cook / 5+-1 / General cargo 37000DWT at </title>
+  <dc:date>2026-06-29 13:10:04</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222697/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222697/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222697/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222542/</link>
   <title>[AI Job] Second Cook for Cable Layer Vessel – STCW Certificates Required at OJ Crew</title>
   <dc:date>2026-04-23 23:02:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222538/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;6 weeks contract in North Sea on Jack Up vessel starting 6th May.&lt;/p&gt;&lt;p&gt;Must hold:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;BOISET&lt;/span&gt; CA &lt;span class=&quot;caps&quot;&gt;EBS&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s&lt;/li&gt;&lt;li&gt;Ships Cook CoC&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222538/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222538/</link>
-  <title>[AI Job] Offshore Ships Cook – BOISET CA EBS Required at Select Offshore</title>
-  <dc:date>2026-04-23 23:02:15</dc:date>
  </item>
 </rdf:RDF>
