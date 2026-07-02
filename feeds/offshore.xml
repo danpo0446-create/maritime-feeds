@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-07-2026</dc:date>
+  <dc:date>02-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222849/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222848/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222845/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222844/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222843/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222804/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222797/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222758/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222711/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222710/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222849/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222849/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222849/</link>
+  <title>[Gold Job]  2nd Officer DPO – Offshore Support Vessel at </title>
+  <dc:date>2026-07-02 05:28:32</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/222848/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222848/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222848/</link>
+  <title>[Gold Job] Cable Driver (DED) / Fitter at </title>
+  <dc:date>2026-07-02 05:25:57</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222845/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222845/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222845/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/222758/</link>
   <title>[Gold Job] (DED) DECK ENGINE DRIVER SUPERVISOR at </title>
   <dc:date>2026-06-02 12:56:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222711/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;We&amp;rsquo;re continuously looking to connect with experienced and motivated &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;s for upcoming offshore projects on DP vessels. Whether you&amp;rsquo;re currently available or exploring your next opportunity, we welcome you to get in touch.&amp;nbsp;&lt;/p&gt;&#10;&#10;&lt;p&gt;At True Horizon Crewing, we value teamwork, clear communication, and long-term partnerships &amp;mdash; both with our crew and our clients. If you&amp;rsquo;re seeking a professional yet personal crewing experience, you&amp;rsquo;ll enjoy working with us.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;To be considered, you should have:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;Experience as &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt; on DP-II heavy lift or offshore construction vessels&lt;/li&gt;&#10;&#9;&lt;li&gt;Valid DP and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;Travel documents in order for short-notice deployment&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;h3&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h3&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;DP Certification&lt;/li&gt;&#10;&#9;&lt;li&gt;Dutch &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; Endorsement&lt;/li&gt;&#10;&#9;&lt;li&gt;Valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt; training&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;We work with both EU and international candidates with proven offshore experience. If this sounds like you, we&amp;rsquo;d love to hear from you.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222711/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222711/</link>
-  <title>[Hot Job] Dynamic Positioning Operator (DPO) at True Horizon Crewing</title>
-  <dc:date>2026-05-22 16:00:01</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222710/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;We are looking for a Chief Officer / Marof for a coaster vessel operating mainly in North West Europe on short sea trade, offering a stable rotation and a practical, hands-on working environment onboard.&lt;/p&gt;&#10;&#10;&lt;p&gt;This role suits officers who enjoy working in a smaller crew, combining navigational responsibilities with day-to-day involvement in deck operations, cargo handling and technical oversight onboard. You will act as the Captain&amp;rsquo;s right hand and play a key role in the safe and efficient operation of the vessel.&lt;/p&gt;&#10;&#10;&lt;p&gt;The position may suit both experienced officers and motivated junior candidates looking to take the next step in their career. The vessel owner operates a fleet in a dynamic trading pattern with sea and river voyages.&lt;/p&gt;&#10;&#10;&lt;h3&gt;&lt;strong&gt;Assignment Details:&lt;/strong&gt;&lt;/h3&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;Position:&lt;/strong&gt;&amp;nbsp;Chief Officer / Marof&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;Vessel:&lt;/strong&gt;&amp;nbsp;Coaster vessel&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;Trading area:&lt;/strong&gt;&amp;nbsp;Sea and river trade / short sea operations&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&amp;nbsp;8 weeks on / 8 weeks off&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;Dayrate:&lt;/strong&gt;&amp;nbsp;In line with sector standards&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;True Horizon Crewing is a Netherlands based maritime crewing agency specialised in providing experienced offshore and marine professionals including Masters, Chief Officers, Engineers and &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;&amp;rsquo;s.&lt;/p&gt;&#10;&#10;&lt;p&gt;At True Horizon Crewing, we value clear communication, professionalism, and long-term relationships &amp;mdash; even for short-term assignments. We work closely with both our crew and clients to ensure smooth operations and transparent cooperation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222710/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222710/</link>
-  <title>[Hot Job] Chief Officer Marof for a coaster vessel at True Horizon Crewing</title>
-  <dc:date>2026-05-21 16:00:01</dc:date>
  </item>
 </rdf:RDF>
