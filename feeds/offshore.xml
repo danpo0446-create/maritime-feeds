@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-07-2026</dc:date>
+  <dc:date>03-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222853/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222852/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222849/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222848/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222845/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222826/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222825/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222804/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222797/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222758/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222853/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222853/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222853/</link>
+  <title>[Gold Job] WE ARE LOOING FOR EXPERIENCED PROFESIONALS OF THE FF: 2ND ENGINEER, DECK FOREMAN at </title>
+  <dc:date>2026-07-03 09:05:49</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/222852/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222852/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222852/</link>
+  <title>[Gold Job] 2nd Officer DPO – Offshore Support Vessel at </title>
+  <dc:date>2026-07-03 07:21:48</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222849/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222849/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222849/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/222804/</link>
   <title>[Gold Job] WE ARE HIRING – ORDINARY SEAMAN (OS) FOR WIND FARM VESSEL at </title>
   <dc:date>2026-06-18 10:42:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222797/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222797/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222797/</link>
-  <title>[Gold Job] HIRING NOW – ETO DPM (Offshore)  at </title>
-  <dc:date>2026-06-16 06:17:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222758/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222758/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222758/</link>
-  <title>[Gold Job] (DED) DECK ENGINE DRIVER SUPERVISOR at </title>
-  <dc:date>2026-06-02 12:56:35</dc:date>
  </item>
 </rdf:RDF>
