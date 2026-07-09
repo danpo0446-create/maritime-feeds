@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>08-07-2026</dc:date>
+  <dc:date>09-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222870/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222839/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222697/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222683/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222622/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222595/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222561/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222542/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222870/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222870/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222870/</link>
+  <title>[Gold Job] Cook  at </title>
+  <dc:date>2026-07-08 11:01:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222839/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222839/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222839/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222561/</link>
   <title>[AI Job] Hotel Manager for Cable Layer Vessel – US B1 Visa Required at Orca Crew Services NL</title>
   <dc:date>2026-04-24 20:18:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222542/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Conditions:&lt;br /&gt;&#10;Salary: negotiable&lt;br /&gt;&#10;Joining: 03.06.2026&lt;br /&gt;&#10;Duration: 4 weeks &amp;#8211; rotation&lt;br /&gt;&#10;&lt;br /&gt;&#10;Requirements:&lt;br /&gt;&#10;Cook cert;&lt;br /&gt;&#10;Hygiene cert or &lt;span class=&quot;caps&quot;&gt;HACCP&lt;/span&gt;;&lt;br /&gt;&#10;&lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;FOET&lt;/span&gt; (Opito);&lt;br /&gt;&#10;Valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates;&lt;br /&gt;&#10;Medical certificate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222542/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222542/</link>
-  <title>[AI Job] Second Cook for Cable Layer Vessel – STCW Certificates Required at OJ Crew</title>
-  <dc:date>2026-04-23 23:02:41</dc:date>
  </item>
 </rdf:RDF>
