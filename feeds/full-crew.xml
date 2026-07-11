@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>10-07-2026</dc:date>
+  <dc:date>11-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222877/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222807/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222778/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222763/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222675/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222674/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222639/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222626/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222877/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222877/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222877/</link>
+  <title>[Gold Job] KTSHIP - ASAP vacancies - 10 JUL at </title>
+  <dc:date>2026-07-10 13:28:43</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222807/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222807/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222807/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222639/</link>
   <title>[AI Job] Crane Operator Stage 3 and AB on MPSV – STCW Required at OJ Crew</title>
   <dc:date>2026-04-30 14:45:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222626/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Our respective client is seeking crew (Master/OOW/MM) for Guard vessels. Start Date: 15.05.2026. Contract: 1 month +/- 1 month. Good working conditions. Possible rotational employment. Taxes paid by the employer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates&lt;/li&gt;&lt;li&gt;Medical Certificate&lt;/li&gt;&lt;li&gt;Good English&lt;/li&gt;&lt;li&gt;Valid CoC (Master/OOW &amp;#8211; II/2, II/1; MM &amp;#8211; &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/4 or &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5)&lt;/li&gt;&lt;li&gt;Experience in rank on similar fleet (advantage)&lt;/li&gt;&lt;li&gt;Candidates without offshore experience are considered.&lt;/li&gt;&lt;/ul&gt;If interested and available, please send your CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222626/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222626/</link>
-  <title>[AI Job] Master, OOW, and Marine Engineer Positions on Guard Vessels – STCW and CoC Required at OJ Crew</title>
-  <dc:date>2026-04-30 14:41:41</dc:date>
  </item>
 </rdf:RDF>

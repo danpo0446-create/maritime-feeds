@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>10-07-2026</dc:date>
+  <dc:date>11-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222873/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222759/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222747/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222717/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222642/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222638/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222636/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222624/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222873/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222873/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222873/</link>
+  <title>[Gold Job] AB / Panamax 87DWT / Russian crew / Starlink / WW at </title>
+  <dc:date>2026-07-10 10:08:10</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222759/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222759/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222759/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222636/</link>
   <title>[AI Job] Urgent Able-Bodied Seaman (AB) for Multicat Vessel – STCW Required at offshore-operations</title>
   <dc:date>2026-04-30 14:45:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222624/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;We are looking for an AB for an Accommodation Barge (non-DP).&lt;/p&gt;&lt;p&gt;Contract type: Several Trips&lt;/p&gt;&lt;p&gt;Starting date: 2026-09-01&lt;/p&gt;&lt;p&gt;Duration: 2 weeks&lt;/p&gt;&lt;p&gt;Location: Europe&lt;/p&gt;&lt;p&gt;If interested and available, please send your CV to&amp;#8230;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222624/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222624/</link>
-  <title>[AI Job] AB on Accommodation Barge – Europe Deployment at Orca Crew Services NL</title>
-  <dc:date>2026-04-30 14:41:13</dc:date>
  </item>
 </rdf:RDF>

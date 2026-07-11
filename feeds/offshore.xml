@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>10-07-2026</dc:date>
+  <dc:date>11-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/222878/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222853/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222852/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222849/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222843/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222826/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222825/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222804/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/222878/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222878/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/222878/</link>
+  <title>[Gold Job] URGENT REQUIREMENT FOR MASTER,CH OFF,CH ENG,2ND OFF DPO,2ND ENG at </title>
+  <dc:date>2026-07-10 14:00:26</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222853/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222853/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222853/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222825/</link>
   <title>[Gold Job] WE ARE HIRING – MASTER | CHIEF OFFICER | CHIEF ENGINEER Offshore Vessel at </title>
   <dc:date>2026-06-25 13:10:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222804/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222804/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222804/</link>
-  <title>[Gold Job] WE ARE HIRING – ORDINARY SEAMAN (OS) FOR WIND FARM VESSEL at </title>
-  <dc:date>2026-06-18 10:42:21</dc:date>
  </item>
 </rdf:RDF>
