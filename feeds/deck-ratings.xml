@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-07-2026</dc:date>
+  <dc:date>13-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223034/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222873/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222759/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222747/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222649/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222642/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222638/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222636/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223034/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;VACANCY&lt;/span&gt;: Able Seaman (AB)&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;Heavy-Lift / General Cargo Vessel &amp;middot; 6 &amp;plusmn; 1 months &amp;middot; &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,700&amp;ndash;1,800 &amp;middot; Immediate joining&lt;/p&gt;&#10;&#10;&lt;hr /&gt;&#10;&lt;p&gt;We are looking for an experienced Able Seaman (AB) to join a Heavy-Lift / General Cargo vessel operating worldwide. The ideal candidate has solid crane experience on heavy-lift ships, is familiar with lashing and securing of project cargo, and can handle mooring and deck maintenance duties without supervision. This is a short-notice position, so only candidates available immediately will be considered. Nationality: Georgian or Azerbaijani.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Key responsibilities:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;- Mooring and unmooring operations, anchor handling&lt;br /&gt;&#10; &amp;#8211; Crane operations (deck cranes) &amp;ndash; loading / discharging heavy-lift items&lt;br /&gt;&#10; &amp;#8211; Cargo securing and lashing&lt;br /&gt;&#10; &amp;#8211; Routine deck maintenance (painting, chipping, greasing)&lt;br /&gt;&#10; &amp;#8211; Standing wheelhouse watches as directed by the Officer of the Watch&lt;br /&gt;&#10; &amp;#8211; Assisting with mooring stations and emergency drills&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Essential requirements:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;- Valid AB certificate of competency&lt;br /&gt;&#10; &amp;#8211; Minimum 2 years&amp;#39; sea service in rank on heavy-lift or general cargo vessels&lt;br /&gt;&#10; &amp;#8211; Proven experience with deck cranes on heavy-lift ships&lt;br /&gt;&#10; &amp;#8211; Nationality: Georgian or Azerbaijani (mandatory)&lt;br /&gt;&#10; &amp;#8211; Good working knowledge of English (oral and written)&lt;br /&gt;&#10; &amp;#8211; All valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates and seafarer&amp;#39;s medical&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;- Competitive monthly salary in &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;&lt;br /&gt;&#10; &amp;#8211; Full crew travel arrangements (joining and repatriation)&lt;br /&gt;&#10; &amp;#8211; Modern vessel with well-maintained equipment&lt;br /&gt;&#10; &amp;#8211; Professional and supportive onboard environment&lt;br /&gt;&#10; &amp;#8211; Prompt joining formalities &amp;ndash; quick mobilization&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223034/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223034/</link>
+  <title>[AI Job] AB (Able Seaman) Job on Heavy-Lift General Cargo Vessel at desecrew.com</title>
+  <dc:date>2026-07-12 19:53:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222873/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222873/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222873/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222638/</link>
   <title>[AI Job] Able Seaman Positions Available on Various Vessels – Immediate Start at Select Offshore</title>
   <dc:date>2026-04-30 14:45:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222636/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;OOL&lt;/span&gt; is looking for an Able-Bodied Seaman (AB) to join a Multicat vessel in the UK.&lt;/p&gt;&lt;p&gt;Details:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Vessel: Multicat&lt;/li&gt;&lt;li&gt;Duration: 4 weeks&lt;/li&gt;&lt;li&gt;Joining location: Portland&lt;/li&gt;&lt;li&gt;Rate: £215 per day&lt;/li&gt;&lt;li&gt;Scope of work: M.O.D work&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requirements:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UK nationals only&lt;/li&gt;&lt;li&gt;AB CoC&lt;/li&gt;&lt;li&gt;Valid &lt;span class=&quot;caps&quot;&gt;ENG&lt;/span&gt; 1&lt;/li&gt;&lt;li&gt;All valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If interested and available, please send your CV to&amp;#8230;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222636/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222636/</link>
-  <title>[AI Job] Urgent Able-Bodied Seaman (AB) for Multicat Vessel – STCW Required at offshore-operations</title>
-  <dc:date>2026-04-30 14:45:06</dc:date>
  </item>
 </rdf:RDF>

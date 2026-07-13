@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-07-2026</dc:date>
+  <dc:date>13-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223038/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222630/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222629/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222448/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/220703/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/203874/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/220643/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/220467/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223038/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime crewing agency is seeking applications for positions on an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessel. Interested candidates should submit their applications via email, clearly stating their rank in the subject line. Further details regarding specific roles, joining dates, and contract terms will be provided upon successful application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223038/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223038/</link>
+  <title>[AI Job] LPG Vessel Crew Vacancy at PT ABIYASA PUTRA SAMUDRA</title>
+  <dc:date>2026-07-12 20:32:31</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222630/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Position: Chief Engineer&lt;br /&gt;&#10;Vessel: &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;TANKER&lt;/span&gt;&lt;br /&gt;&#10;&lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; / Built: 56,500 / 2024&lt;/p&gt;&lt;p&gt;Requirements:&lt;br /&gt;&#10;• Previous experience in the same rank on the &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; with ME-C experience in the last 4-5 years of sea service&lt;br /&gt;&#10;• Good English&lt;/p&gt;&lt;p&gt;Terms:&lt;br /&gt;&#10;• Salary: Negotiable&lt;br /&gt;&#10;• Rotation: 4M ON / 4M &lt;span class=&quot;caps&quot;&gt;OFF&lt;/span&gt;&lt;br /&gt;&#10;• Joining: &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;&lt;/p&gt;&lt;p&gt;If interested and available, please send your CV to the contacts provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222630/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222630/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/220643/</link>
   <title>[AI Job] 3rd Officer Position on Tanker Vessel – Long Term Contract at Lighthaus-Marine GmbH</title>
   <dc:date>2026-02-02 11:11:17</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/220467/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Position available for an Electrical Officer of the Watch (&lt;span class=&quot;caps&quot;&gt;EOOW&lt;/span&gt;) to join an Oil Tanker. The duration of the contract is approximately 3 weeks. The role requires a UK &lt;span class=&quot;caps&quot;&gt;EOOW&lt;/span&gt; (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/1) Certificate of Competency (&lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt;) with a Tanker Endorsement. Candidates must have the right to work in the UK.&lt;/p&gt;&lt;p&gt;If interested and available, please send your CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/220467/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/220467/</link>
-  <title>[AI Job] Electrical Officer of the Watch (EOOW) on Oil Tanker – Tanker Endorsement Required at Seaworthy Consulting LTD</title>
-  <dc:date>2026-01-25 20:13:30</dc:date>
  </item>
 </rdf:RDF>

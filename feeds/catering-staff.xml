@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-07-2026</dc:date>
+  <dc:date>13-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223032/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222870/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222839/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222697/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222631/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222622/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222595/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222561/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223032/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Cook position is available on a Multipurpose Offshore Vessel operating in Europe. The contract duration is 6 weeks, with a joining date of July 14, 2026. This role is suitable for experienced catering staff seeking opportunities at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223032/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223032/</link>
+  <title>[AI Job] Cook Vacancy on Multipurpose Offshore Vessel at ORCA Crew Services</title>
+  <dc:date>2026-07-12 19:53:46</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222870/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222870/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222870/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222595/</link>
   <title>[AI Job] Stewardess on Geotechnical Drilling Vessel – STCW and Food Hygiene Required at WRS - Worldwide Recruitment Solutions</title>
   <dc:date>2026-04-27 12:03:57</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222561/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;ORCA&lt;/span&gt; Crew Services is looking for a Hotel Manager to join a cable layer vessel.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Contract type:&lt;/strong&gt; Several Trips&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vessel type:&lt;/strong&gt; Cable layer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Starting date:&lt;/strong&gt; 2026-05-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 6 weeks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Special requirements:&lt;/strong&gt; US B1 Visa, &lt;span class=&quot;caps&quot;&gt;GWO&lt;/span&gt; Sea Survival, &lt;span class=&quot;caps&quot;&gt;BOISET&lt;/span&gt;, experience on similar vessels&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222561/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222561/</link>
-  <title>[AI Job] Hotel Manager for Cable Layer Vessel – US B1 Visa Required at Orca Crew Services NL</title>
-  <dc:date>2026-04-24 20:18:30</dc:date>
  </item>
 </rdf:RDF>
