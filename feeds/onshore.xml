@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Onshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-07-2026</dc:date>
+  <dc:date>14-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223149/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223106/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222768/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222725/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222723/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222719/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222706/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222708/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222707/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222647/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223149/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An experienced Project Director is sought to lead the engineering, procurement, construction, installation, and commissioning (&lt;span class=&quot;caps&quot;&gt;EPCIC&lt;/span&gt;) of offshore wind &lt;span class=&quot;caps&quot;&gt;HVDC&lt;/span&gt; converter station projects. This role involves global multi-site leadership, client and stakeholder management, and overseeing yard operations, marine logistics, and offshore installation. The position requires a Bachelor&amp;#39;s/Master&amp;#39;s degree in Engineering and 20-25+ years of &lt;span class=&quot;caps&quot;&gt;EPCIC&lt;/span&gt; experience in heavy offshore sectors, with mandatory experience in North Sea deployment or for European transmission operators.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223149/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223149/</link>
+  <title>[AI Job] Project Director Job - Offshore Wind EPCIC at L&amp;T Energy Offshore Wind</title>
+  <dc:date>2026-07-13 19:39:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223106/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Hessen, Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Crane Operator is sought for a logistics and cargo handling role in Hessen, Germany. Responsibilities include loading and unloading ships, trucks, and rail wagons, and operating crane systems. A minimum of 3 years of experience, B2 German language proficiency, and a valid driving license are required. The gross monthly salary is &amp;euro;2,800.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223106/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223106/</link>
+  <title>[AI Job] Crane Operator Job in Hessen, Germany at globaltalentsquare.com</title>
+  <dc:date>2026-07-13 12:40:22</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/222768/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222768/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/222768/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/222708/</link>
   <title>[Hot Job] IFS training instructor at International Food Service PH</title>
   <dc:date>2026-05-19 16:00:01</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222707/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;ABOUT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;IFS&lt;/span&gt;:&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;&#10;&#10;International Food Services (&lt;span class=&quot;caps&quot;&gt;IFS&lt;/span&gt;) is an independently owned maritime catering organization. We offer marine catering solutions of the highest quality and monitor the consumption on board and deliveries for our clients in the shipping industry. &lt;span class=&quot;caps&quot;&gt;IFS&lt;/span&gt; has offices in Antwerp, Singapore, Poland and Manila. We stand for a no-nonsense approach with a dedicated team, and we try to make a difference for our clients. Passion for the job and sustainable collaboration are very important for us. We aim to increase our clients&amp;#39; buying power by reducing waste and inefficiencies. We achieve this by training and supporting the crew on board and improving the well-being on board of the crew.&lt;br /&gt;&#10;&#10;&lt;br /&gt;&#10;&#10;&lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;ABOUT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;THE&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;POSITION&lt;/span&gt;:&lt;/strong&gt;&lt;br /&gt;&#10;&#10;We are looking for a skilled and experienced AI Developer to join our team.The ideal candidate has a strong background in building and deploying AI solutions using Azure AI Foundry, OpenAI, and Azure Logic Apps.In this role, you will be responsible for designing, implementing, and maintaining AI-driven applications that optimize business processes and drive innovation.&lt;br /&gt;&#10;&#10;&lt;br /&gt;&#10;&#10;&lt;strong&gt;Key Responsibilities:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;Design and Deploy AI Solutions: Build and deploy AI models and applications using Azure AI Foundry and OpenAI services.&lt;/li&gt;&#10;&#9;&lt;li&gt;Integrate AI into Business Workflows: Create and manage automated workflows by integrating AI capabilities into business processes using Azure Logic Apps.&lt;/li&gt;&#10;&#9;&lt;li&gt;Collaborate Across Teams: Work closely with software engineers and business stakeholders to gather requirements and deliver AI solutions aligned with organizational needs.&lt;/li&gt;&#10;&#9;&lt;li&gt;Optimize AI Models: Fine-tune and optimize AI models for enhanced performance, accuracy, and reliability.&lt;/li&gt;&#10;&#9;&lt;li&gt;Maintain AI Systems: Monitor AI systems to ensure high availability and scalability, troubleshoot issues and implement updates as necessary.&lt;/li&gt;&#10;&#9;&lt;li&gt;Stay Current with AI Advancements: Keep up with emerging trends in AI technologies, tools, and best practices to ensure continuous improvement and innovation.&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;&amp;nbsp;&lt;strong&gt;What are we looking for:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;Experience: Proven experience building Agentic applications in production: &lt;span class=&quot;caps&quot;&gt;RAG&lt;/span&gt;, tool/function calling, multi-step workflows, guardrails, and deterministic enforcement for business rules.&lt;/li&gt;&#10;&#9;&lt;li&gt;Technical skills &amp;amp; technologies: Programming Languages: Python Version Controls: Git&#10;&#9;&lt;ul&gt;&#10;&#9;&#9;&lt;li&gt;Cloud Platforms and Services: Microsoft Azure, Azure DevOps, Azure AI Foundry, Azure OpenAI, Azure Functions (&lt;span class=&quot;caps&quot;&gt;HTTP&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;s), Logic Apps (workflow automation)&lt;/li&gt;&#10;&#9;&#9;&lt;li&gt;AI/ML Technologies: &lt;span class=&quot;caps&quot;&gt;LLM&lt;/span&gt;s, &lt;span class=&quot;caps&quot;&gt;RAG&lt;/span&gt;, semantic search/embeddings, agents/tool calling, ML , Natural Language Processing (&lt;span class=&quot;caps&quot;&gt;NLP&lt;/span&gt;), Optical Character Recognition (&lt;span class=&quot;caps&quot;&gt;OCR&lt;/span&gt;), Speech Recognition(nice to have)&lt;/li&gt;&#10;&#9;&#9;&lt;li&gt;Frameworks and Libraries: .NET Core, Azure &lt;span class=&quot;caps&quot;&gt;SDK&lt;/span&gt;s, experience with Angular 14+ is a plus&lt;/li&gt;&#10;&#9;&#9;&lt;li&gt;Databases and Data Management: Azure &lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt; Database, &lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt; Server, Azure Cache for Redis&lt;/li&gt;&#10;&#9;&lt;/ul&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li&gt;Analytical Skills: Strong problem-solving skills and the ability to analyse complex data sets to derive actionable insights.&lt;/li&gt;&#10;&#9;&lt;li&gt;Communication Skills: Excellent verbal and written communication skills (English) to effectively collaborate with team members and stakeholders.&lt;/li&gt;&#10;&#9;&lt;li&gt;Adaptability: Ability to quickly learn new technologies and adapt to changing project requirements.&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;&amp;nbsp;&lt;strong&gt;What do we offer:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;Attractive salary and additional benefits.&lt;/li&gt;&#10;&#9;&lt;li&gt;Opportunity for development in a global company.&lt;/li&gt;&#10;&#9;&lt;li&gt;Working in an international team.&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;&amp;nbsp;Are you looking for a new challenge in a dynamic, international, family owned company?Don&amp;rsquo;t look any further and send your application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222707/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222707/</link>
-  <title>[Hot Job] AI Developer to join our team at International Food Service PH</title>
-  <dc:date>2026-05-19 14:24:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222647/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Crane Operators from Europe needed for a 4-month project in Germany. The rotation schedule is 14 days on and 14 days off with permanent payment.&lt;/p&gt;&lt;p&gt;If interested and available, please send your CV to &lt;a href=&apos;mailto:crewing@lighthaus-marine.eu&apos;&gt;crewing@lighthaus-marine.eu&lt;/a&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222647/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222647/</link>
-  <title>[AI Job] Crane Operator for Germany Project – 4 Months Contract at Lighthaus-Marine GmbH</title>
-  <dc:date>2026-05-01 08:02:32</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-07-2026</dc:date>
+  <dc:date>14-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223111/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/220750/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/220556/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219907/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/219629/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219357/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/200874/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/200500/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223111/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; New Forest&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An apprenticeship opportunity is available within the marine industry, offering a chance to build a promising career. Successful candidates will join a team and can achieve high levels of success, following in the footsteps of previous top-scoring trainees. The closing date for applications is Sunday. Further details can be found online.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223111/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223111/</link>
+  <title>[AI Job] Apprentice Job - Marine Industry at Buckler&apos;s Hard Yacht Harbour</title>
+  <dc:date>2026-07-13 12:40:22</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/220750/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;We are currently looking for Engine Cadets for immediate embarkation.&lt;/p&gt;&lt;p&gt;Candidates who are available to join at short notice and meet the required standards are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/220750/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/220750/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/200874/</link>
   <title>[Hot Job] Deck Cadet for Ro-Ro Vessel at Danica Crewing Services</title>
   <dc:date>2025-09-02 18:00:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/200500/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;em&gt;&lt;span class=&quot;caps&quot;&gt;UAMAX&lt;/span&gt; Shipmanagement &amp;nbsp;is a crewing agency which is the main connecting link in the chain &amp;ldquo;shipowner-seafarer&amp;rdquo;. Our company is a licenced Crew Provider with great experience in the sphere we are working.&lt;/em&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;img alt=&quot;bulker&quot; src=&quot;http://maritime-union.com/uploads/files/images/bulker(5).jpg&quot; style=&quot;height:449px; width:640px&quot; /&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;We are looking for:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;Position: &lt;strong&gt;Electro Cadet&lt;/strong&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;Ship Type: Bulker&lt;/li&gt;&#10;&#9;&lt;li&gt;Salary: 800 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Please send your CV to:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/200500/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/200500/</link>
-  <title>[Hot Job] Electro Cadet for Bulker Vessel with salary 800 USD at UAMAX</title>
-  <dc:date>2025-08-31 18:00:04</dc:date>
  </item>
 </rdf:RDF>
