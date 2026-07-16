@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-07-2026</dc:date>
+  <dc:date>16-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223607/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223608/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223532/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223533/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223531/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223492/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223495/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223431/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223416/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223407/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223607/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Cook is required to prepare meals for the crew onboard a vessel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223607/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223607/</link>
+  <title>[AI Job] Cook Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223608/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Messman position is available, responsible for serving food and maintaining messroom cleanliness.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223608/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223608/</link>
+  <title>[AI Job] Messman Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223532/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Italian flag&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Personnel are sought for Steward, Stewardess, Hostess, Bartender, and Waiter positions on Italian flag Ro Ro Pax and Ro Ro Cargo vessels. Experience is advantageous but not required. The contract duration is approximately 2 months, with potential for extension. Knowledge of the Italian language is considered a plus. All standard Italian flag benefits are provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223532/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223532/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223431/</link>
   <title>[AI Job] Messman Job on Ro Pax Vessel at Clyde Marine Recruitment</title>
   <dc:date>2026-07-14 17:29:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223416/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Plumbers are sought for the Engine Department aboard &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; Cruises passenger vessels. Candidates should have prior experience in ship or hotel environments, good English, and knowledge of sanitary systems maintenance and repair. &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates are preferred. This role requires the ability to work effectively in an international team and adapt to maritime life.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223416/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223416/</link>
-  <title>[AI Job] Plumber Job on MSC Cruises Ship at World of Seamen Group</title>
-  <dc:date>2026-07-14 17:29:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223407/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Plumbers are sought to join the Engine Department aboard modern cruise ships. Candidates should possess prior experience in plumbing systems, good English communication skills, and the ability to work in an international team. &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates are advantageous. This role offers the chance to gain international experience and build a career at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223407/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223407/</link>
-  <title>[AI Job] Plumber Job on Cruise Ship at World of Seamen Group</title>
-  <dc:date>2026-07-14 17:29:37</dc:date>
  </item>
 </rdf:RDF>

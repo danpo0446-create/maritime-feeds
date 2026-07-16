@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-07-2026</dc:date>
+  <dc:date>16-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223609/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223605/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223606/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223554/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223474/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223409/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223342/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223318/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223165/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223156/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223157/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223148/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223103/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223609/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Fitter/Welder is needed for mechanical repairs and fabrication tasks onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223609/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223609/</link>
+  <title>[AI Job] Fitter/Welder Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:40</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223605/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Oiler is needed to assist with the maintenance and lubrication of engine room machinery.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223605/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223605/</link>
+  <title>[AI Job] Oiler Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223606/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Wiper position is available to support the engine department with cleaning and basic maintenance tasks.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223606/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223606/</link>
+  <title>[AI Job] Wiper Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223554/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Hamburg&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An apprenticeship as a Ship Mechanic (M/F/D) is available in Hamburg. This full-time, onsite position offers a career start within a leading maritime solutions provider. The role is based in Hamburg.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223554/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223554/</link>
+  <title>[AI Job] Ship Mechanic Apprenticeship - Hamburg at Fairplay Schleppdampfschiffs-Reederei Richard Borchard GmbH</title>
+  <dc:date>2026-07-14 21:54:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223474/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Piraeus, Greece or Misurata, Libya&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Qualified Oilers and Fitters are urgently sought to join a Container Vessel. The position offers a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,100/month for Oilers and &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,500/month for Fitters. Joining is expected within one week in Piraeus, Greece, or Misurata, Libya. Applicants must possess a Panama Seaman&amp;#39;s Passport and relevant experience. All nationalities are welcome.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223474/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223474/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/223165/</link>
   <title>[AI Job] Engine Fitter Job on Bulk Carrier Vessel at OSM Thome Jobs at Sea</title>
   <dc:date>2026-07-13 20:24:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223156/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Offshore / International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Deck Motorman position available on a Pipe-Lay Vessel for offshore construction. Joining is scheduled for July 20-21, 2026, with a contract duration of 2 weeks. Required qualifications include &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt; with CA-&lt;span class=&quot;caps&quot;&gt;EBS&lt;/span&gt;, full &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; package, Marlins Test, relevant experience on similar vessels, and a valid medical certificate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223156/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223156/</link>
-  <title>[AI Job] Motorman Job on Pipe-Lay Vessel at BalticCareer</title>
-  <dc:date>2026-07-13 20:24:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223157/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Fitter is sought for an Ore carrier vessel. The contract duration is 4 months +/- 1, with joining expected at the beginning of August. The salary offered is 3700 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Candidates must have relevant experience on similar vessels, hold a &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents, and a medical certificate. A good command of English is required, and only EU passport holders will be considered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223157/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223157/</link>
-  <title>[AI Job] Fitter Job on Ore Carrier Vessel at OJ Crew</title>
-  <dc:date>2026-07-13 20:24:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223148/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Oiler with a minimum of 2 years of experience on similar vessel types is required for an &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt; vessel operating under an &lt;span class=&quot;caps&quot;&gt;ADNOC&lt;/span&gt; project. Candidates must possess an Able Seafarer Engine / Oiler (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5) &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; issued from their home country, with all documents valid for 12 months. Applicants should not hold a valid &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; visa. Immediate joining is expected. Salary is to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223148/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223148/</link>
-  <title>[AI Job] Oiler Job on AHTS Vessel - ADNOC Project at Aavishka</title>
-  <dc:date>2026-07-13 19:39:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223103/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Oiler is sought for an &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt; DP vessel engaged in an &lt;span class=&quot;caps&quot;&gt;ADNOC&lt;/span&gt; project. The role requires a minimum of 2 years of experience as an Oiler on similar vessel types, with an Able Seafarer Engine / Oiler (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5) &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; from the home country. All documents must be valid for 12 months, and candidates should not possess a valid &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; visa. Salary is to be discussed, with immediate joining required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223103/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223103/</link>
-  <title>[AI Job] Oiler Job on AHTS Vessel - ADNOC Project at aavishka.com</title>
-  <dc:date>2026-07-13 12:40:21</dc:date>
  </item>
 </rdf:RDF>

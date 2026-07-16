@@ -4,22 +4,52 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-07-2026</dc:date>
+  <dc:date>16-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223564/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223566/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223557/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223561/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223543/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223488/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223489/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223471/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223421/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223395/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223367/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223374/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223363/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223327/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223322/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223564/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An initiative application is welcomed for roles within the tanker fleet. This is an opportunity to join an international team focused on teamwork and employee development. The company offers a supportive environment with potential career progression pathways.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223564/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223564/</link>
+  <title>[AI Job] Initiative Application - Tanker Fleet at German Tanker Shipping GmbH &amp; Company KG</title>
+  <dc:date>2026-07-14 21:54:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223566/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Mate (First Officer) is sought to join a fleet operating on worldwide trade routes. The role requires valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 95 certificates, including advanced training for oil and chemical tankers. Strong leadership, safety awareness, and fluent English are essential. Experience on oil/chemical tankers is advantageous. This position offers a permanent contract and career growth opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223566/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223566/</link>
+  <title>[AI Job] Chief Mate Job on Oil and Chemical Tanker at German Tanker Shipping GmbH &amp; Company KG</title>
+  <dc:date>2026-07-14 21:54:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223557/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Nautical Officer (&lt;span class=&quot;caps&quot;&gt;OOW&lt;/span&gt;) role is open on a tanker vessel. Join an international environment that prioritizes teamwork and employee development. This position offers a supportive atmosphere where individual contributions are valued, with potential pathways for career progression ashore.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223557/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223557/</link>
+  <title>[AI Job] Nautical Officer (OOW) Vacancy - Tanker at German Tanker Shipping GmbH &amp; Company KG</title>
+  <dc:date>2026-07-14 21:54:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223561/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A &lt;span class=&quot;caps&quot;&gt;QSSM&lt;/span&gt;/HSE position is available within the tanker shipping sector. This role is part of an international team that values collaboration and employee growth. The company provides a supportive environment with opportunities for career advancement, including potential shore-based roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223561/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223561/</link>
+  <title>[AI Job] QSSM/HSE Role - Tanker Shipping at German Tanker Shipping GmbH &amp; Company KG</title>
+  <dc:date>2026-07-14 21:54:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223543/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Qualified crew members are sought for Crude Oil Tanker &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; operations. This role requires adherence to high safety and professional standards within the tanker business. The company offers fair treatment, timely payment according to international maritime tariffs, and a structured training program for cadets. Interested individuals are encouraged to submit their applications.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223543/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223543/</link>
+  <title>[AI Job] Crude Oil Tanker VLCC Crew Vacancy at DS Crewing GmbH</title>
+  <dc:date>2026-07-14 21:54:31</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223488/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Master, Second Officer, Chief Engineer, Second Engineer, and Third Engineer are sought for oil and chemical tanker vessels. Previous experience on similar tankers and a valid Turkish Seaman&amp;#39;s Book are required. Joining is urgent in July. Positions are available on 40,000-80,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223488/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223488/</link>
@@ -49,35 +79,5 @@
   <link>https://maritime-union.com/job/223395/</link>
   <title>[AI Job] LNG Officer Vacancies - LNG Carrier Fleet at Zorovic Maritime Services</title>
   <dc:date>2026-07-14 17:29:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223367/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; España&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime position is available on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;/LPG vessel under the French flag. The contract duration is 4 weeks on and 4 weeks off. English language proficiency is required. The joining date is imminent.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223367/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223367/</link>
-  <title>[AI Job] LNG/LPG Crew Vacancy - French Flag at CANDINA GROUP</title>
-  <dc:date>2026-07-14 17:29:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223374/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Perú Venezuela&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A position for an Officer on an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tanker is available for routes between Peru and Venezuela. Candidates with experience on gas vessels are sought for immediate embarkation. Specific joining dates and contract details will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223374/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223374/</link>
-  <title>[AI Job] Officer LPG Job - Gas Tanker at CANDINA GROUP</title>
-  <dc:date>2026-07-14 17:29:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223363/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime company is seeking an Officer for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessel. This position is open to Asian seafarers with 3-4 years of sea-going experience. An immediate opening is available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223363/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223363/</link>
-  <title>[AI Job] LPG Officer Vacancy at CANDINA GROUP</title>
-  <dc:date>2026-07-14 17:29:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223327/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Officer is sought for a Chemical/Oil Tanker vessel up to 15000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The role requires 3 years of tanker experience, including 1 year on product tankers, and 12 months in rank experience. Candidates must possess valid tanker specialisation certificates and have very good English proficiency. The contract duration is 56 days on and 54 days off. Joining is scheduled for July 2026. A salary of 10029 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per worked month is offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223327/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223327/</link>
-  <title>[AI Job] Chief Officer Job - Chemical/Oil Tanker 10029 EUR at Nedcon Maritime Manpower Supply</title>
-  <dc:date>2026-07-14 17:29:27</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223322/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Vacancies are currently open for seafarers on an expanding gas fleet, including &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessels. Interested candidates are invited to submit their applications online or via email.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223322/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223322/</link>
-  <title>[AI Job] LNG/LPG Fleet Vacancies at PASAT Shipping Services Ltd.</title>
-  <dc:date>2026-07-14 17:29:26</dc:date>
  </item>
 </rdf:RDF>

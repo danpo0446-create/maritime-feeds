@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-07-2026</dc:date>
+  <dc:date>16-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223601/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223526/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223525/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223512/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223380/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223377/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223336/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223310/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223601/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrician/ETO is needed to maintain and repair all electrical equipment and systems onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223601/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223601/</link>
+  <title>[AI Job] Electrician/ETO Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223526/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrical Engineer is sought for a container vessel, with a joining date of 19.07.2026 for a 3-month contract. Responsibilities include maintenance and repair of electrical equipment, administration of planned maintenance, and ensuring compliance with safety procedures. Candidates should be certified, fluent in English, and possess experience in electrical/electronic fields, with a preference for 3 years on short sea vessels. Knowledge of &lt;span class=&quot;caps&quot;&gt;PLC&lt;/span&gt; and fault finding is beneficial.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223526/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223526/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223336/</link>
   <title>[AI Job] Junior ETO Job on Ro-Pax Ferry at Clyde Marine Recruitment</title>
   <dc:date>2026-07-14 17:29:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223310/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; position is available on a demanding passenger vessel. The salary offered is between &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 7,000 and 9,000. Previous cruise or passenger vessel experience is preferred, but strong attitude and dedication will also be considered. Applicants must be resilient, adaptable, and committed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223310/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223310/</link>
-  <title>[AI Job] Chief ETO Job on Passenger Vessel USD 7,000 and 9,000 at Carnival cruise lines</title>
-  <dc:date>2026-07-14 08:28:04</dc:date>
  </item>
 </rdf:RDF>

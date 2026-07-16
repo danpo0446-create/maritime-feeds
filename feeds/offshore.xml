@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-07-2026</dc:date>
+  <dc:date>16-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223551/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223535/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223517/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223514/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223507/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223505/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223502/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223501/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223551/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A position for a Ship Mechanic is available within the Fairplay Towage Group. This role offers the chance to work on state-of-the-art vessels and be part of a globally recognized leader in maritime services. The company emphasizes professional development and a supportive team environment. Interested candidates are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223551/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223551/</link>
+  <title>[AI Job] Ship Mechanic Job - Tugboat at Fairplay Towage Group</title>
+  <dc:date>2026-07-14 21:54:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223535/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Vacancies are available for full crew on Walk-to-Work (W2W) offshore vessels, specifically the Windkeeper Offshore type. This role offers a competitive salary with a contract duration of 1 month. The positions are suitable for skilled seamen seeking employment in the offshore sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223535/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223535/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple skilled positions are available for offshore operations in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;, requiring a minimum of 3 years of relevant experience. Roles include operators for drilling, anchors, pipe facing, winching, cable laying, and grouting, along with supervisors for these areas. Candidates should possess a valid passport and offshore experience on barges, production facilities, or marine vessels. &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; experience is preferred. This is a long-term opportunity with immediate departure, offering attractive salaries and overtime.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223502/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223502/</link>
   <title>[AI Job] Offshore Job Openings in UAE - Immediate Departure at Ambe International-Recruitment and Mobility</title>
-  <dc:date>2026-07-14 20:30:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223501/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Chennai / Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Hiring is open for various positions on offshore barges and marine vessels, with a leave rotation of 150 days on and 43 days off. Mandatory experience in offshore production or marine vessels is required, with a minimum of 3-5 years of Gulf experience. Benefits include free food, accommodation, and transportation. Attractive salary plus overtime is offered. Client face-to-face interviews will be held in Chennai on July 16th &amp;amp; 17th and in Mumbai on July 19th &amp;amp; 20th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223501/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223501/</link>
-  <title>[AI Job] Offshore &amp;amp;amp; Marine Vacancies - Client Interview at NMDC UAE</title>
   <dc:date>2026-07-14 20:30:18</dc:date>
  </item>
 </rdf:RDF>

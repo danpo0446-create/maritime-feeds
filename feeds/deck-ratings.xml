@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-07-2026</dc:date>
+  <dc:date>16-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223604/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223603/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223602/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223529/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223467/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223461/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223450/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223403/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223376/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223362/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223357/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223355/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223604/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Ordinary Seaman (OS) position is open for individuals to assist with deck operations and general ship maintenance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223604/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223604/</link>
+  <title>[AI Job] Ordinary Seaman (OS) Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223603/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Able Seaman (AB) is required to perform various deck duties, including navigation and maintenance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223603/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223603/</link>
+  <title>[AI Job] Able Seaman (AB) Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223602/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Bosun position is available, responsible for supervising deck crew and maintaining deck equipment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223602/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223602/</link>
+  <title>[AI Job] Bosun Vacancy at Franco Compania Naviera S.A.</title>
+  <dc:date>2026-07-14 21:54:39</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223529/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Kamchatka&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A fishing company is seeking processing crew members for its fleet operating out of Kamchatka. This role offers a monthly income ranging from 180,000 to 220,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;, with contracts typically lasting 4-5 months. The company provides a social package including travel and paid leave. Applicants must possess the necessary documents and undergo medical examinations. Interested individuals can find more information and apply via the provided contact details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223529/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223529/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/223376/</link>
   <title>[AI Job] Bosun and AB Jobs on Research Vessel 3,540 EUR at CANDINA GROUP</title>
   <dc:date>2026-07-14 17:29:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223362/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Italian flag&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Able Seaman is sought for a RoRo vessel operating under the Italian flag. The contract offers a rotation of 4 months on and 1.5 months off. A monthly salary of 3100 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; is provided, with social security and pension fully covered. EU passport is required, and basic Italian language skills are necessary. Italian Fiscal Code holders are particularly encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223362/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223362/</link>
-  <title>[AI Job] Able Seaman Job on RoRo Vessel 3100 EUR at CANDINA GROUP</title>
-  <dc:date>2026-07-14 17:29:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223357/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Seeking an Able Seaman/Cook for a cement carrier vessel. This role requires a versatile individual capable of performing both deck duties and culinary tasks. The position is open for immediate application. Interested candidates are encouraged to submit their CV for consideration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223357/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223357/</link>
-  <title>[AI Job] AB/Cook Vacancy on Cement Carrier at CANDINA GROUP</title>
-  <dc:date>2026-07-14 17:29:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223355/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Honduras/Latin America&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Seeking an Able Seaman/Cook for a Surveillance Ship, with joining expected in Honduras or Latin America. This role requires candidates with experience in both deck duties and culinary services. Further details on contract duration and specific requirements will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223355/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223355/</link>
-  <title>[AI Job] AB/Cook Job on Surveillance Ship at CANDINA GROUP</title>
-  <dc:date>2026-07-14 17:29:30</dc:date>
  </item>
 </rdf:RDF>
