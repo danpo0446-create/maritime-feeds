@@ -4,22 +4,28 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-07-2026</dc:date>
+  <dc:date>17-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223729/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223534/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223462/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223413/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223417/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223415/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223413/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223405/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223406/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223408/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223410/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223404/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223729/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple job vacancies are available across all departments on a cruise ship. This is an opportunity to join a large fleet operating in Dubai. Interested candidates are encouraged to apply via the provided link for further details on specific roles and requirements.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223729/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223729/</link>
+  <title>[AI Job] Cruise Ship Job Vacancies - All Departments at Dream Cruises</title>
+  <dc:date>2026-07-16 14:19:11</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223534/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Steward position is available on RoRo Pax vessels for qualified personnel, with or without sea experience. Attractive salaries and contracts are offered for Italian-flagged vessels, including all benefits. Contact for more information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223534/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223534/</link>
@@ -32,6 +38,12 @@
   <title>[AI Job] Deckhand Job on Passenger Transfer Vessel at Bridgemans Services Group LP (BSG)</title>
   <dc:date>2026-07-14 18:49:08</dc:date>
  </item>
+ <item rdf:about="https://maritime-union.com/job/223413/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Opportunities are available for various roles within guest services and hospitality on cruise ships. Interested candidates are invited to submit their CVs for consideration. This is a chance to build a career at sea within the cruise industry, focusing on guest experience and onboard services.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223413/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223413/</link>
+  <title>[AI Job] Cruise Ship Jobs - Guest Services Hospitality Roles at World of Seamen Group</title>
+  <dc:date>2026-07-14 17:29:38</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223417/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Opportunities are available for crew members to join the Engine and Deck Departments on cruise ships. This role offers a chance to become part of a global team and travel the world. Candidates with relevant skills and a passion for a career at sea are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223417/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223417/</link>
@@ -42,12 +54,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A cruise ship is seeking an Assistant Refrigeration Technician with experience in refrigeration and air conditioning systems. Knowledge of cooling equipment maintenance and repair is required. Previous maritime, hospitality, or industrial experience is advantageous. Strong English communication skills and a technical mindset are essential. &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates are preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223415/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223415/</link>
   <title>[AI Job] Assistant Refrigeration Technician Job - Cruise Ship at World of Seamen Group</title>
-  <dc:date>2026-07-14 17:29:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223413/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Opportunities are available for various roles within guest services and hospitality on cruise ships. Interested candidates are invited to submit their CVs for consideration. This is a chance to build a career at sea within the cruise industry, focusing on guest experience and onboard services.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223413/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223413/</link>
-  <title>[AI Job] Cruise Ship Jobs - Guest Services Hospitality Roles at World of Seamen Group</title>
   <dc:date>2026-07-14 17:29:38</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/223405/">
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223410/</link>
   <title>[AI Job] Water Park Staff Job on MSC Cruises Ship at World of Seamen Group</title>
   <dc:date>2026-07-14 17:29:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223404/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple technical positions are available on a cruise ship, including Plumber, Assistant Refrigeration Technician, Wiper, and Assistant Electrician. Candidates with relevant experience are invited to apply for upcoming embarkations. This is an opportunity to join a leading cruise company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223404/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223404/</link>
-  <title>[AI Job] Technical Crew Vacancies on Cruise Ship at World of Seamen Group</title>
-  <dc:date>2026-07-14 17:29:36</dc:date>
  </item>
 </rdf:RDF>

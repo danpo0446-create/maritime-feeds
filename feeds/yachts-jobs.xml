@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-07-2026</dc:date>
+  <dc:date>17-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223730/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223694/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223496/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223490/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223381/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223308/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223282/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223223/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223182/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223040/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223730/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Albania&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced workers are sought for interior yacht components finishing roles in Albania. This position offers a competitive salary and benefits, with opportunities for long-term career growth. Immediate hiring is available for qualified candidates seeking international employment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223730/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223730/</link>
+  <title>[AI Job] Yacht Interior Finishing Workers Job in Albania at JobsGlobal.com</title>
+  <dc:date>2026-07-16 14:19:11</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223694/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Seeking a skilled Carpenter and Technician for a yacht position. Responsibilities include general carpentry work and technical maintenance onboard. Previous experience in a similar role is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223694/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223694/</link>
+  <title>[AI Job] Yacht Carpenter and Technician Job at linkedin</title>
+  <dc:date>2026-07-16 12:31:05</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223496/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Key West, Florida&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Skilled and dependable Maintenance Mechanics are sought for a yacht maintenance role in Key West, Florida. This position involves performing a wide range of maintenance, repair, and troubleshooting tasks across various marine systems and equipment. The ideal candidate will have proven experience in mechanical and electrical systems, with a strong background in marine electrical systems troubleshooting and propulsion systems maintenance. Familiarity with rigging, fabrication, and welding is also beneficial. This is an employee-owned company offering health, dental, vision, and life insurance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223496/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223496/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223223/</link>
   <title>[AI Job] Yacht Crew Vacancies - Master, Engineer, Stewardess, Deckhand at ORCA MS Group</title>
   <dc:date>2026-07-13 22:01:34</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223182/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Deckhand position is available on an 80m private and charter motor yacht. The role requires a minimum of 1 year of experience in the yachting industry. The offered salary is $4,000 per month. This is an excellent opportunity for an experienced individual seeking their next role in the yachting sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223182/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223182/</link>
-  <title>[AI Job] Deckhand Job on 80m Motor Yacht at Yotspot</title>
-  <dc:date>2026-07-13 20:24:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223040/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Greece&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Deckhand position is available on a 29m Motor Yacht (M/Y) for charter operations in Greece. This role is ideal for individuals seeking opportunities within the yachting industry. Further details and additional listings can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223040/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223040/</link>
-  <title>[AI Job] Deckhand Job on Motor Yacht (M/Y) at Seazone</title>
-  <dc:date>2026-07-12 20:32:31</dc:date>
  </item>
 </rdf:RDF>

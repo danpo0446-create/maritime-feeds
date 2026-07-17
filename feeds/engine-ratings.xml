@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-07-2026</dc:date>
+  <dc:date>17-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223707/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223677/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223609/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223605/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223606/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223409/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223342/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223318/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223165/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223707/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Henderson, Perth WA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Mechanical Fitter position is available for work on marine mechanical installation and vessel construction projects in Henderson, Perth WA. Candidates should possess experience in mechanical fitting, shipbuilding, or heavy industry. This role is within the growing WA Defence and Marine Industry, focusing on major projects and complex mechanical works.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223707/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223707/</link>
+  <title>[AI Job] Mechanical Fitter Job in Henderson, Perth WA at Legeneering</title>
+  <dc:date>2026-07-16 12:31:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223677/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Motorman (&lt;span class=&quot;caps&quot;&gt;MTM&lt;/span&gt;) or Oiler position is available on an Oil/Chemical Tanker operating worldwide. This role is based with the team in the Philippines. Key responsibilities include assisting engineers with maintenance and operations onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223677/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223677/</link>
+  <title>[AI Job] Motorman / Oiler Job on Oil/Chemical Tanker at OSM Thome Jobs at Sea</title>
+  <dc:date>2026-07-16 12:31:03</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223609/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Fitter/Welder is needed for mechanical repairs and fabrication tasks onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223609/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223609/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223342/</link>
   <title>[AI Job] Motorman Job on Ferry - Permanent Position at Clyde Marine Recruitment</title>
   <dc:date>2026-07-14 17:29:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223318/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223318/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223318/</link>
-  <title>[Gold Job] Looking for Fitter/Welder on board Ferry with III/5 diploma ASAP  at </title>
-  <dc:date>2026-07-14 16:08:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223165/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Engine Fitter position is available on a Bulk Carrier vessel operating worldwide. This role is based with the company&amp;#39;s team in the Philippines. Further details about the job and application process can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223165/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223165/</link>
-  <title>[AI Job] Engine Fitter Job on Bulk Carrier Vessel at OSM Thome Jobs at Sea</title>
-  <dc:date>2026-07-13 20:24:03</dc:date>
  </item>
 </rdf:RDF>
