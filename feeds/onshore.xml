@@ -4,11 +4,12 @@
   <description>Latest marine jobs for Onshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-07-2026</dc:date>
+  <dc:date>18-07-2026</dc:date>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223646/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223822/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223649/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223646/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223583/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223560/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223149/"/>
@@ -16,20 +17,25 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/222768/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222725/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222723/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222722/"/>
    </rdf:Seq>
   </items>
  </channel>
- <item rdf:about="https://maritime-union.com/job/223646/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco operations&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An experienced Crewing Officer is sought for immediate joining within Offshore Marine Logistics (&lt;span class=&quot;caps&quot;&gt;OML&lt;/span&gt;), supporting Saudi Aramco operations. The role requires proven experience in &lt;span class=&quot;caps&quot;&gt;OML&lt;/span&gt; crewing, knowledge of Saudi Aramco procedures, and strong skills in crew documentation, certifications, visas, and compliance. Candidates with experience on Aramco-approved projects are preferred. This position requires a proactive and results-oriented professional.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223646/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223646/</link>
-  <title>[AI Job] Crewing Officer Job - Offshore Marine Logistics at Shipworkz Marine Services LLC</title>
-  <dc:date>2026-07-15 21:19:44</dc:date>
+ <item rdf:about="https://maritime-union.com/job/223822/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Finland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Skilled professionals are sought for shipbuilding and construction projects in Finland. Open positions include Pipe Fitters, Welders, Heavy Plate Fabricators, Sheet Metal Workers, and Steel Structure Workers. Applicants require a valid Finnish work permit, Occupational Safety Card, Hot Work Certificate, and 3-5 years of relevant experience in shipbuilding or construction. A strong work ethic and commitment to quality and safety are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223822/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223822/</link>
+  <title>[AI Job] Shipbuilding Construction Jobs in Finland at KTS Solution OY</title>
+  <dc:date>2026-07-17 14:21:22</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/223649/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Hiring for &lt;span class=&quot;caps&quot;&gt;HSEQ&lt;/span&gt; Superintendent position on Bulk Carriers. Requires 1-3 years of shore experience and sailing experience as Master Mariner or Chief Engineer on Dry Bulk Fleets. Position based in Mumbai.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223649/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223649/</link>
   <title>[AI Job] HSEQ Superintendent Job on Bulk Carriers at The Shipping Tribune</title>
+  <dc:date>2026-07-15 21:19:44</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223646/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco operations&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An experienced Crewing Officer is sought for immediate joining within Offshore Marine Logistics (&lt;span class=&quot;caps&quot;&gt;OML&lt;/span&gt;), supporting Saudi Aramco operations. The role requires proven experience in &lt;span class=&quot;caps&quot;&gt;OML&lt;/span&gt; crewing, knowledge of Saudi Aramco procedures, and strong skills in crew documentation, certifications, visas, and compliance. Candidates with experience on Aramco-approved projects are preferred. This position requires a proactive and results-oriented professional.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223646/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223646/</link>
+  <title>[AI Job] Crewing Officer Job - Offshore Marine Logistics at Shipworkz Marine Services LLC</title>
   <dc:date>2026-07-15 21:19:44</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/223583/">
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/222723/</link>
   <title>[Hot Job] Steel Erectors at WANTED Spijkenisse</title>
   <dc:date>2026-05-29 19:00:01</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222722/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;📍&amp;nbsp;&lt;strong&gt;Location:&lt;/strong&gt;&amp;nbsp;Netherlands, Belgium, Gewrmany &amp;ndash; several projects&lt;br /&gt;&#10;&#10;📅&amp;nbsp;&lt;strong&gt;Start Date:&lt;/strong&gt; several dates&lt;br /&gt;&#10;&#10;📄&amp;nbsp;&lt;strong&gt;Contract:&lt;/strong&gt;&amp;nbsp;Dutch/Belgian/German temporary agency contract&lt;br /&gt;&#10;&#10;⏳&amp;nbsp;&lt;strong&gt;Hours:&lt;/strong&gt;&amp;nbsp;40 hrs/week guaranteed + possible overtime&lt;/p&gt;&#10;&#10;&lt;h3&gt;&lt;strong&gt;💡 Your Tasks:&lt;/strong&gt;&lt;/h3&gt;&#10;&#10;&lt;p&gt;✅&amp;nbsp;&lt;strong&gt;&lt;strong&gt;Quality Planning and Assurance&lt;/strong&gt;&lt;/strong&gt;&lt;br /&gt;&#10;&#10;✅&amp;nbsp;&lt;strong&gt;Inspection and Testing&lt;/strong&gt;&lt;br /&gt;&#10;&#10;✅&amp;nbsp;&lt;strong&gt;Non-Conformance Management&lt;/strong&gt;&lt;br /&gt;&#10;&#10;✅ &lt;strong&gt;Document Control&lt;/strong&gt;&lt;br /&gt;&#10;&#10;✅ &lt;strong&gt;Compliance and Audits&lt;/strong&gt;&lt;br /&gt;&#10;&#10;✅ &lt;strong&gt;Communication and Coordination&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;h3&gt;&lt;strong&gt;🔥 What We Offer:&lt;/strong&gt;&lt;/h3&gt;&#10;&#10;&lt;p&gt;🏠&amp;nbsp;&lt;strong&gt;Free housing&lt;/strong&gt;&amp;nbsp;(single room in shared apartment)&lt;br /&gt;&#10;&#10;🚗&amp;nbsp;&lt;strong&gt;Company car&lt;/strong&gt;&amp;nbsp;provided (or km allowance if using own car)&lt;br /&gt;&#10;&#10;✈️&amp;nbsp;&lt;strong&gt;First &amp;amp; last flight paid&lt;/strong&gt;&amp;nbsp;(rotation travel at worker&amp;rsquo;s expense)&lt;br /&gt;&#10;&#10;💰&amp;nbsp;&lt;strong&gt;Weekly salary payments&lt;/strong&gt;&lt;br /&gt;&#10;&#10;🩺&amp;nbsp;&lt;strong&gt;Health insurance&lt;/strong&gt;&amp;nbsp;arranged by Wanted and deducted from your growth salary&lt;br /&gt;&#10;&#10;🔄&amp;nbsp;&lt;strong&gt;Preferred rotation:&lt;/strong&gt;&amp;nbsp;6 weeks work / 2 weeks home (flexible)&lt;/p&gt;&#10;&#10;&lt;p&gt;🦺&amp;nbsp;&lt;strong&gt;Bring your own safety shoes (S3 over ankle),&lt;/strong&gt;&amp;nbsp;other &lt;span class=&quot;caps&quot;&gt;PPE&lt;/span&gt; provided by Wanted, if needed&lt;/p&gt;&#10;&#10;&lt;h3&gt;&lt;strong&gt;🔎 Requirements:&lt;/strong&gt;&lt;/h3&gt;&#10;&#10;&lt;p&gt;✔️&amp;nbsp;&lt;strong&gt;3+ years&lt;/strong&gt;&amp;nbsp;of experience in a similar role&lt;br /&gt;&#10;&#10;✔️&amp;nbsp;&lt;strong&gt;Good understanding of English&lt;/strong&gt;&lt;br /&gt;&#10;&#10;✔️&amp;nbsp;&lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;VCA&lt;/span&gt; &amp;amp; &lt;span class=&quot;caps&quot;&gt;BSN&lt;/span&gt;&lt;/strong&gt;&amp;nbsp;(We can help you obtain them if needed)&lt;br /&gt;&#10;&#10;✔️&amp;nbsp;&lt;strong&gt;Driving license&lt;/strong&gt;&amp;nbsp;(Advantage)&lt;/p&gt;&#10;&#10;&lt;p&gt;📩&amp;nbsp;&lt;strong&gt;Interested? Apply now!&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Countries: &lt;/strong&gt;Belgium Germany Netherlands&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Languages: &lt;/strong&gt;English&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222722/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222722/</link>
-  <title>[Hot Job] QA QC – Construction at WANTED Spijkenisse</title>
-  <dc:date>2026-05-27 19:00:01</dc:date>
  </item>
 </rdf:RDF>

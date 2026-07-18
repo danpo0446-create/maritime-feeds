@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-07-2026</dc:date>
+  <dc:date>18-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223707/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223677/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223609/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223474/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223409/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223340/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223342/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223801/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Wiper position is available on a Tug Boat for immediate joining. The role requires 1 sail experience and an Indian Watchkeeping (&lt;span class=&quot;caps&quot;&gt;IND&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;WKP&lt;/span&gt;) certificate. The salary offered is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 400. This is a permanent company position with a stable career opportunity. Limited vacancies are available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223801/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223801/</link>
+  <title>[AI Job] Wiper Job on Tug Boat - Immediate Joining USD 400 at SEAAXIS MARITIME</title>
+  <dc:date>2026-07-17 14:21:19</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223707/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Henderson, Perth WA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Mechanical Fitter position is available for work on marine mechanical installation and vessel construction projects in Henderson, Perth WA. Candidates should possess experience in mechanical fitting, shipbuilding, or heavy industry. This role is within the growing WA Defence and Marine Industry, focusing on major projects and complex mechanical works.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223707/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223707/</link>
@@ -71,12 +77,6 @@
  <item rdf:about="https://maritime-union.com/job/223340/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; North Coast of Scotland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Motorman position is available on a permanent basis for a leading Scottish ferry operator. This role offers a 2 weeks on / 2 weeks off rotation and is based on the North Coast of Scotland. Essential requirements include an &lt;span class=&quot;caps&quot;&gt;EWR&lt;/span&gt; Certificate, valid ENG1 Medical Certificate, and relevant &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification. Previous passenger vessel experience is desirable. A competitive salary package, workplace pension, and health benefits are provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223340/</link>
-  <title>[AI Job] Motorman Job on Ferry - Permanent Position at Clyde Marine Recruitment</title>
-  <dc:date>2026-07-14 17:29:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223342/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; North Coast of Scotland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Motorman position is available on a permanent basis for a ferry operating on the North Coast of Scotland. The role offers a 2 weeks on / 2 weeks off rotation. Essential requirements include &lt;span class=&quot;caps&quot;&gt;EWR&lt;/span&gt; Certificate, valid ENG1 Medical Certificate, and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification. Previous passenger vessel experience is desirable. A competitive salary package, workplace pension, and health benefits are provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223342/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223342/</link>
   <title>[AI Job] Motorman Job on Ferry - Permanent Position at Clyde Marine Recruitment</title>
   <dc:date>2026-07-14 17:29:28</dc:date>
  </item>

@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-07-2026</dc:date>
+  <dc:date>18-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223802/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223783/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223756/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223739/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223699/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223688/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223652/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223651/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223642/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223640/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223615/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223614/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223802/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 3rd Officer is sought for a container vessel. The contract duration is 4 months, with embarkation scheduled for August 20, 2026. Key vessel details include type &lt;span class=&quot;caps&quot;&gt;CONT&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; 9350, built in 2006, and flying the Portugal flag. The main engine is a MaK 9M43.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223802/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223802/</link>
+  <title>[AI Job] 3rd Officer Job on Container Vessel at Columbia Shipmanagement Ukraine Dry Fleet</title>
+  <dc:date>2026-07-17 14:21:20</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223783/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223783/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223783/</link>
+  <title>[Gold Job] Chief Officer DPO for DP2 PSV vessel at </title>
+  <dc:date>2026-07-17 13:47:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223756/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Caribbean Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Master position is available on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel with immediate joining. The contract duration is 10 weeks on/off, with a salary of 22,100 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. The vessel sails in the Caribbean Sea under the Malta flag.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223756/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223756/</link>
+  <title>[AI Job] Master Vacancy on LNG Vessel at BalticCareer</title>
+  <dc:date>2026-07-17 11:39:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223739/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223739/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223739/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/223642/</link>
   <title>[AI Job] Master Vacancy on Container Vessel at Haque &amp; Sons Ltd.</title>
   <dc:date>2026-07-15 21:19:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223640/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Master is sought for a cable laying vessel. Candidates should possess relevant experience for this maritime role. Applications are being reviewed, and suitable candidates will be contacted for potential future vacancies.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223640/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223640/</link>
-  <title>[AI Job] Master Vacancy on Cable Laying Vessel at Columbia Aurus Ship Management Pvt. Ltd.</title>
-  <dc:date>2026-07-15 21:19:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223615/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223615/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223615/</link>
-  <title>[Gold Job] Chief Officer   /  General cargo vessel  / ASAP at </title>
-  <dc:date>2026-07-15 13:10:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223614/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223614/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223614/</link>
-  <title>[Gold Job] Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
-  <dc:date>2026-07-15 10:15:01</dc:date>
  </item>
 </rdf:RDF>

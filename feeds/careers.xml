@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Careers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-07-2026</dc:date>
+  <dc:date>18-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223821/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223797/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223584/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223550/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223470/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223045/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222677/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/222680/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/221315/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/220744/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223821/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Contract Vessel IT Engineer is sought for freelance, per-vessel assignments on commercial vessels globally. This role involves installing and configuring IT infrastructure, networks, and systems onboard. Candidates require prior maritime experience, international travel readiness, and strong knowledge of Windows Server, Active Directory, and &lt;span class=&quot;caps&quot;&gt;TCP&lt;/span&gt;/IP networking. The position offers project-based compensation, with international travel, accommodation, and local transport provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223821/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223821/</link>
+  <title>[AI Job] Contract Vessel IT Engineer Job Worldwide at Shoken 8 Solutions Pte Ltd</title>
+  <dc:date>2026-07-17 14:21:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223797/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple maritime job openings are available across various vessel types including &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;, tankers, bulk carriers, container ships, and RoRo vessels. Open ranks include Master, Chief Officer, Second Officer, Third Officer, Chief Engineer, Second Engineer, Third Engineer, Fourth Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Gas Engineer, Oiler, AB, OS, Wiper, and Fitter/Welder. Specific requirements, joining details, and HR contacts are available in the accompanying banners.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223797/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223797/</link>
+  <title>[AI Job] Maritime Job Openings Update at Merchant Navy Decoded Jobs</title>
+  <dc:date>2026-07-17 14:21:19</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223584/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Opportunities exist for sea-based positions. Applicants must download and complete the &amp;#39;Seaman&amp;rsquo;s Application Prior Joining the Vessel and Assessment Profile&amp;#39; form and submit it via email.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223584/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223584/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/222680/</link>
   <title>[Hot Job] Crew &amp;amp; Payroll Services — Worldwide Maritime Positions (All Ranks, All Vessel Types) at Mercator Crewing</title>
   <dc:date>2026-05-16 16:00:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/221315/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;The Synergy Group offers a wide range of positions on its fleet of oil and also chemical tankers, &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carriers, bulk carriers and container ships worldwide. It prides itself in hiring the best seafarers and providing a first-class environment for them to develop and progress their careers.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://maritime-union.com/uploads/files/images/amad.jpg&quot; style=&quot;height:298px; width:640px&quot; /&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;Always hiring talented people, we take the recruitment process very seriously, and never charge people to join us. Learn more about our procedures here.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/221315/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/221315/</link>
-  <title>[Hot Job] Build your future with Synergy at Synergy Marine Group</title>
-  <dc:date>2026-03-09 16:11:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/220744/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;We are looking for Assistant Crew Operator.&lt;br /&gt;&#10;If interested and available, please send your CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/220744/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/220744/</link>
-  <title>[AI Job] Assistant Crew Operator – Immediate Opening at marineman.eu</title>
-  <dc:date>2026-02-05 16:03:18</dc:date>
  </item>
 </rdf:RDF>

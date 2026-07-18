@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-07-2026</dc:date>
+  <dc:date>18-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223788/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223730/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223694/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223496/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223319/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223308/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223282/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223223/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223788/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A temporary Crew Chef is sought for a 95m private and charter motor yacht operating in the Mediterranean. This role involves preparing varied meals for a large crew on a busy vessel. Candidates require previous experience as a Crew Chef on large yachts, strong organisational skills, and immediate availability. A Schengen visa or European passport is necessary. The contract is for approximately two months, with a competitive day rate offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223788/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223788/</link>
+  <title>[AI Job] Crew Chef Job on 95m Motor Yacht at Seven Seas Recruitment</title>
+  <dc:date>2026-07-17 14:21:18</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223730/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Albania&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced workers are sought for interior yacht components finishing roles in Albania. This position offers a competitive salary and benefits, with opportunities for long-term career growth. Immediate hiring is available for qualified candidates seeking international employment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223730/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223730/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223282/</link>
   <title>[AI Job] Skipper Job on Clipper Race Yacht at Clipper Ventures PLC</title>
   <dc:date>2026-07-14 02:39:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223223/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A full crew is sought for multiple Mega Yachts (30-80m). Positions include Master, Chief Officer, Chief Engineer, 2nd Engineer, Stewardess, and Deckhand. Contracts are offered from 3 months on/off, with worldwide working areas. Salary is negotiable based on experience and interview. This is a full-time role requiring 2 years of experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223223/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223223/</link>
-  <title>[AI Job] Yacht Crew Vacancies - Master, Engineer, Stewardess, Deckhand at ORCA MS Group</title>
-  <dc:date>2026-07-13 22:01:34</dc:date>
  </item>
 </rdf:RDF>
