@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-07-2026</dc:date>
+  <dc:date>19-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223836/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223809/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223810/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223807/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223736/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223731/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223717/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223693/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223836/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Sous Chef position is available on a cruise ship. Previous cruise experience is not required, but a strong background in large-volume catering as a Sous Chef or in a higher role is essential. This role offers an exciting opportunity to work in the hospitality sector at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223836/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223836/</link>
+  <title>[AI Job] Sous Chef Job on Cruise Ship at exciterecruitment.com</title>
+  <dc:date>2026-07-17 20:20:00</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223809/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives, Cruise, Gulf, Mauritius, Malta and Seychelles&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Opportunities are available for both freshers and experienced professionals in the hotel and catering sector for cruise ship positions. The offered salary ranges from 800 to 3500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;, with visa, accommodation, and tickets provided. Positions are located in various destinations including the Maldives, Gulf, Mauritius, Malta, and Seychelles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223809/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223809/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223717/</link>
   <title>[AI Job] Catering Crew Vacancies on Offshore Construction Vessel at TOS - Energy &amp; Maritime Crew</title>
   <dc:date>2026-07-16 14:19:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223693/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives, Cruise, Gulf, Mauritius, Malta and Seychelles&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Opportunities are available for freshers and experienced professionals in hotel, resort, and cruise ship roles. Positions offer salaries ranging from 800 to 3500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;, with visa, accommodation, and tickets provided. Locations include the Maldives, cruise ships, Gulf region, Mauritius, Malta, and Seychelles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223693/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223693/</link>
-  <title>[AI Job] Hotel Cruise Staff Vacancies - Maldives, Gulf at Hello Hoteliers</title>
-  <dc:date>2026-07-16 12:31:05</dc:date>
  </item>
 </rdf:RDF>

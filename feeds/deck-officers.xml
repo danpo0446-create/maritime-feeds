@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-07-2026</dc:date>
+  <dc:date>19-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223827/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223802/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223783/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223756/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223655/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223652/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223651/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223642/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223827/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Latvia - Pavilosta&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Officer is needed for a Research Vessel. The joining date is July 22-23 for a 7-day contract. The position is located in Pavilosta, Latvia. Daily net rates are 230 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; on stand-by and 250 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223827/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223827/</link>
+  <title>[AI Job] Chief Officer Job on Research Vessel at OJ Crew</title>
+  <dc:date>2026-07-17 20:19:59</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223802/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 3rd Officer is sought for a container vessel. The contract duration is 4 months, with embarkation scheduled for August 20, 2026. Key vessel details include type &lt;span class=&quot;caps&quot;&gt;CONT&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; 9350, built in 2006, and flying the Portugal flag. The main engine is a MaK 9M43.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223802/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223802/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223651/</link>
   <title>[AI Job] Master Vacancy on Bulk Carrier at PT. Amancare Group</title>
   <dc:date>2026-07-15 21:19:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223642/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Master mariners with container vessel background are sought for a growing mega-container fleet. Opportunities are available on modern newbuild and dual-fuel vessels. This role offers competitive employment and long-term career development within a leading crew management company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223642/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223642/</link>
-  <title>[AI Job] Master Vacancy on Container Vessel at Haque &amp; Sons Ltd.</title>
-  <dc:date>2026-07-15 21:19:43</dc:date>
  </item>
 </rdf:RDF>

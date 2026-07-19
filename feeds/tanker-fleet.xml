@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-07-2026</dc:date>
+  <dc:date>19-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223840/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223825/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223794/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223796/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223792/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223723/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223711/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223685/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223676/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223669/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223840/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco project&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple urgent vacancies are available on a tanker operating under a Saudi Aramco project. Positions include Chief Engineer, Second Officer, Crane Operator, Able Seaman (AB), and Oiler. Minimum experience requirements vary by rank, with specific &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; and certificate validity needed. Contract durations are 3 months or 180 days on/off unpaid. Joining is upon visa and approval issuance or as soon as possible. Salary is to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223840/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223840/</link>
+  <title>[AI Job] Multiple Maritime Vacancies on Tanker at Aavishka</title>
+  <dc:date>2026-07-17 20:20:01</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223825/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Gladstone, Australia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Chief Engineers and Second Engineers are sought for &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessels equipped with &lt;span class=&quot;caps&quot;&gt;TFDE&lt;/span&gt; engines. Embarkation is scheduled for July 25th in Gladstone, Australia, for a 3-month contract. This role offers a significant opportunity to advance your career within the maritime industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223825/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223825/</link>
+  <title>[AI Job] Chief Engineer 2nd Engineer Job - LNG Tanker at Bernhard Schulte Shipmanagement CSC Romania</title>
+  <dc:date>2026-07-17 20:19:59</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223794/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Able Seaman is sought for a Chemical/Oil Product Tanker with a deadweight of 34700 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. Candidates require tanker experience and a good command of English. The contract duration is 3 months, with an immediate joining date. The daily salary offered is 106 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223794/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223794/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223685/</link>
   <title>[AI Job] Master Chief Mate Jobs - CTV/Tanker Vessels at Rix Shipping</title>
   <dc:date>2026-07-16 12:31:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223676/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Marine Superintendent position is available for Chemical Tankers. Candidates with relevant experience are encouraged to apply. This role offers an opportunity for career advancement within the maritime industry. Further details and application instructions can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223676/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223676/</link>
-  <title>[AI Job] Marine Superintendent Job on Chemical Tanker at Direct Search Global</title>
-  <dc:date>2026-07-16 12:31:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223669/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Qualified and experienced Indonesian seafarers are sought for multiple positions on a Tanker Vessel (GT &amp;gt; 10,000). Open roles include Master, Chief Officer, Second Officer, Bosun, Pumpman, Cook, Chief Engineer, Second Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;/Electrician, Fitter, Able Seaman, and Oiler. Candidates require valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 2010 certificates with at least 12 months validity. Prior experience on similar vessels and with centrifugal cargo pumps is advantageous. Immediate joining is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223669/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223669/</link>
-  <title>[AI Job] Crew Vacancies on Tanker Vessel (GT &gt; 10,000) at PT. Waruna Nusa Sentana</title>
-  <dc:date>2026-07-16 12:31:01</dc:date>
  </item>
 </rdf:RDF>

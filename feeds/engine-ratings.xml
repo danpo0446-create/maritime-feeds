@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-07-2026</dc:date>
+  <dc:date>19-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223858/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223860/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223707/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223677/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223606/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223554/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223474/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223409/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223340/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223858/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Wiper position is available on a permanent Tug Boat. The role requires at least one year of sailing experience and an Indian Watchkeeping (&lt;span class=&quot;caps&quot;&gt;IND&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;WKP&lt;/span&gt;) certificate. The offered salary is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 400, with immediate joining from the Maldives. This is a permanent company position offering stable career growth.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223858/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223858/</link>
+  <title>[AI Job] Wiper Job on Tug Boat - Immediate Joining at SEA AXIS MARITIME</title>
+  <dc:date>2026-07-18 21:33:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223860/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Navi Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Seafarers are sought for the positions of Oiler and Wiper aboard bulk carrier and tanker vessels. Applicants must possess good English communication skills and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents. Indian watchkeeping certificates are accepted. This is an opportunity to join a managed fleet.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223860/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223860/</link>
+  <title>[AI Job] Oiler and Wiper Job on Bulk Carrier and Tanker at VIGHANAHARA SHIP MANAGEMENT</title>
+  <dc:date>2026-07-18 21:33:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223801/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Wiper position is available on a Tug Boat for immediate joining. The role requires 1 sail experience and an Indian Watchkeeping (&lt;span class=&quot;caps&quot;&gt;IND&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;WKP&lt;/span&gt;) certificate. The salary offered is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 400. This is a permanent company position with a stable career opportunity. Limited vacancies are available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223801/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223801/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223474/</link>
   <title>[AI Job] Oiler and Fitter Jobs on Container Vessel at VNW Marine Services (Vanguard Next Wave)</title>
   <dc:date>2026-07-14 20:30:14</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223409/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Plumbers are sought to join the Engine Department aboard a cruise ship. This role offers the chance to become part of an international team at sea. Key requirements include relevant experience in plumbing and a willingness to work within a dynamic maritime environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223409/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223409/</link>
-  <title>[AI Job] Plumber Job on Cruise Ship at World of Seamen Group</title>
-  <dc:date>2026-07-14 17:29:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223340/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; North Coast of Scotland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Motorman position is available on a permanent basis for a leading Scottish ferry operator. This role offers a 2 weeks on / 2 weeks off rotation and is based on the North Coast of Scotland. Essential requirements include an &lt;span class=&quot;caps&quot;&gt;EWR&lt;/span&gt; Certificate, valid ENG1 Medical Certificate, and relevant &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification. Previous passenger vessel experience is desirable. A competitive salary package, workplace pension, and health benefits are provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223340/</link>
-  <title>[AI Job] Motorman Job on Ferry - Permanent Position at Clyde Marine Recruitment</title>
-  <dc:date>2026-07-14 17:29:28</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-07-2026</dc:date>
+  <dc:date>19-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223857/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223778/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223776/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223775/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223747/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223734/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223732/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223727/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223857/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; London&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) shore-based position is available in London. This role focuses on marine engineering with an electrical specialization. Further details regarding joining date, contract duration, and salary are not specified in the original post.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223857/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223857/</link>
+  <title>[AI Job] ETO Shore Job in London at Transport for London</title>
+  <dc:date>2026-07-18 21:33:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223778/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Marine Electrician Journeyman I-V position is available. This role involves electrical work within the maritime industry. Further details regarding specific duties, contract terms, and location are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223778/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223778/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223732/</link>
   <title>[AI Job] Electronics Technician Job on Offshore Construction Vessels at Libra International Services</title>
   <dc:date>2026-07-16 14:19:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223727/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A skilled Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought to maintain and repair navigation and communication systems across a fleet. Responsibilities include troubleshooting bridge equipment, managing external contractors for repairs and installations, and ensuring compliance with international maritime regulations. Candidates require an &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; CoC (&lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/6), &lt;span class=&quot;caps&quot;&gt;GMDSS&lt;/span&gt; certificate, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt;, seafarer medical, and 3-5 years of experience with marine electronics and bridge systems.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223727/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223727/</link>
-  <title>[AI Job] ETO Job - Navigation Communication Systems at L.T.T Coastal &amp; Marine Services Ltd</title>
-  <dc:date>2026-07-16 14:19:11</dc:date>
  </item>
 </rdf:RDF>
