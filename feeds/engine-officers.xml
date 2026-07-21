@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>20-07-2026</dc:date>
+  <dc:date>21-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223865/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223864/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223850/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223846/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223845/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223835/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223834/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223798/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223793/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223791/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223865/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223865/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223865/</link>
+  <title>[Gold Job] ETO for DP2 DSV vessel at </title>
+  <dc:date>2026-07-20 10:02:02</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223864/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223864/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223864/</link>
+  <title>[Gold Job] ETO for DP2 PSV vessel at </title>
+  <dc:date>2026-07-20 10:00:16</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223850/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Urgent vacancies exist for experienced maritime professionals on a Self-Propelled Jack-Up Barge fleet. Positions include Second Engineer, Third Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Assistant &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;/Electrician, and Able Seaman. Candidates must hold relevant Certificates of Competency and possess specified years of experience on similar vessels. Contract durations vary, with unpaid off-rotations. Immediate joining is available for qualified officers and engineers, subject to &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt; approval. Salary is negotiable. All certificates must be valid for at least 12 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223850/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223850/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223798/</link>
   <title>[AI Job] Engine Officers Crane Operator Vacancy on SPJUB Vessel at Aavishka</title>
   <dc:date>2026-07-17 14:21:19</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223793/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Self-Propelled Jack-Up Barge is seeking an experienced Second Engineer with a Chief Engineer Unlimited or Second Engineer Unlimited &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 CoC. Minimum 24 months of experience as Second Engineer on &lt;span class=&quot;caps&quot;&gt;SPJUB&lt;/span&gt; is required. The rotation is 75-90 days on and 60 days off. Immediate joining is available, subject to &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;PAL&lt;/span&gt;. All relevant certificates must be valid for at least 12 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223793/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223793/</link>
-  <title>[AI Job] Second Engineer Job - Self-Propelled Jack-Up Barge at Aavishka</title>
-  <dc:date>2026-07-17 14:21:19</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223791/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Engineer is sought for a container vessel. The contract duration is 4 months, with potential +/- 1 month variation. Embarkation is scheduled for August 1, 2026. The vessel has a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 52788 and is powered by a &lt;span class=&quot;caps&quot;&gt;SULZER&lt;/span&gt; 7RT-flex96C-B engine.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223791/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223791/</link>
-  <title>[AI Job] Chief Engineer Job on Container Vessel at Columbia Shipmanagement Ukraine Dry Fleet</title>
-  <dc:date>2026-07-17 14:21:18</dc:date>
  </item>
 </rdf:RDF>
