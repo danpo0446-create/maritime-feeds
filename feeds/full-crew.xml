@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-07-2026</dc:date>
+  <dc:date>22-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223899/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223859/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223861/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223853/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223777/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223768/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223761/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223753/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223899/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223899/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223899/</link>
+  <title>[Gold Job] KTSHIP - ASAP vacancies - TANKER FLEET at </title>
+  <dc:date>2026-07-21 16:34:02</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223859/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; North Vancouver, BC, Canada&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An internship opportunity is available for an Intern, Barge Operations &amp;amp; Logistics. This role involves assisting with barge transportation, marine logistics, and operational coordination. Responsibilities include supporting daily activities like scheduling and dispatch, contributing to continuous improvement initiatives, and assisting with safety management systems and operational compliance. The position requires an interest in marine transportation and logistics, strong analytical and communication skills, and the ability to work independently and collaboratively.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223859/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223859/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223761/</link>
   <title>[AI Job] Multiple Maritime Positions on Oil Tankers at kingsalmanmandiri.com</title>
   <dc:date>2026-07-17 11:39:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223753/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Coastal Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A crew is sought for a General Cargo vessel operating in Coastal Europe. Immediate joining is required. Candidates matching the specified classification will be processed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223753/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223753/</link>
-  <title>[AI Job] Crew Vacancy on General Cargo Vessel at Wan Radya Hayatunnufus</title>
-  <dc:date>2026-07-17 11:39:23</dc:date>
  </item>
 </rdf:RDF>

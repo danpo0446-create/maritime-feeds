@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-07-2026</dc:date>
+  <dc:date>22-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223868/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223865/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223864/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223850/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223841/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223835/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223834/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223798/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223868/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223868/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223868/</link>
+  <title>[Gold Job] ETO for Self-Propelled Jack-Up Barge  at </title>
+  <dc:date>2026-07-21 10:54:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223865/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223865/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223865/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223834/</link>
   <title>[AI Job] 2nd Engineer Job on Container Vessel at TNC Human Resource Advisory</title>
   <dc:date>2026-07-17 20:20:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223798/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; KSA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Qualified Chief Engineers, Second Engineers, Third Engineers, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;s, and Crane Operators are sought for a &lt;span class=&quot;caps&quot;&gt;SPJUB&lt;/span&gt; vessel operating on an Aramco project. Minimum experience requirements vary by position, with specific &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; and certificate requirements. Joining is upon provisional approval and &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt; visa issuance. Salary is to be discussed. Applicants must have valid documents for 12 months and not hold a valid Saudi Iqama visa.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223798/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223798/</link>
-  <title>[AI Job] Engine Officers Crane Operator Vacancy on SPJUB Vessel at Aavishka</title>
-  <dc:date>2026-07-17 14:21:19</dc:date>
  </item>
 </rdf:RDF>

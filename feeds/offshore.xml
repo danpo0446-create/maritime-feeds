@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-07-2026</dc:date>
+  <dc:date>22-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223872/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223871/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223863/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223856/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223852/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223848/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223847/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223839/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223838/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223833/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223872/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223872/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223872/</link>
+  <title>[Gold Job] Master SDPO | Offshore Supply Vessel at </title>
+  <dc:date>2026-07-21 13:31:31</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223871/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223871/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223871/</link>
+  <title>[Gold Job] We&apos;re Hiring: Chief Officer SDPO at </title>
+  <dc:date>2026-07-21 13:29:38</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223863/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; European Union&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced personnel are sought for immediate offshore opportunities on a drillship in the European Union. Open positions include Electrician, Mechanic, Electronic Technician, Dynamic Positioning Officer (&lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;), Assistant Driller, and Crane Operator. Candidates must have previous drillship experience, valid offshore certifications, and be available in the coming weeks. Visa restrictions may apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223863/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223863/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223839/</link>
   <title>[AI Job] Offshore Drilling Crew &amp;amp;amp; Support Staff Vacancies at SEA Updates</title>
   <dc:date>2026-07-17 20:20:01</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223838/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Roustabouts and Floormen are sought for offshore roles in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. Mandatory offshore experience is required, with preference given to candidates with backgrounds in Offshore Barges, Offshore Production, Marine Vessels, Dockyards, or Shipyard Projects. Immediate departure is available, with free food and accommodation provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223838/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223838/</link>
-  <title>[AI Job] Roustabout Job - UAE Offshore at NMDC Energy</title>
-  <dc:date>2026-07-17 20:20:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223833/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Self-Propelled Jack-Up Barge is seeking experienced Second Engineers with Chief Engineer Unlimited or Second Engineer Unlimited &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 CoC and a minimum of 24 months of relevant experience. The contract duration is approximately 75-90 days on and 60 days off. Immediate joining is possible, subject to &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;PAL&lt;/span&gt;. All relevant certificates must be valid for at least 12 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223833/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223833/</link>
-  <title>[AI Job] Second Engineer Job - Self-Propelled Jack-Up Barge at Aavishka Shipping Pvt Ltd</title>
-  <dc:date>2026-07-17 20:20:00</dc:date>
  </item>
 </rdf:RDF>

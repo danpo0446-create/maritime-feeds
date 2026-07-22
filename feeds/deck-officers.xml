@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-07-2026</dc:date>
+  <dc:date>22-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223867/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223866/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223827/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223802/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223783/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223699/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223688/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223655/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223652/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223651/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223867/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223867/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223867/</link>
+  <title>[Gold Job] Chief Officer for Self-Propelled Jack-Up Barge  at </title>
+  <dc:date>2026-07-21 10:53:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/223866/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223866/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223866/</link>
+  <title>[Gold Job] Master for NON DP AHTS vessel at </title>
+  <dc:date>2026-07-21 10:50:58</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223827/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Latvia - Pavilosta&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Officer is needed for a Research Vessel. The joining date is July 22-23 for a 7-day contract. The position is located in Pavilosta, Latvia. Daily net rates are 230 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; on stand-by and 250 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223827/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223827/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223655/</link>
   <title>[AI Job] Master Vacancy on LNG Vessel at Bernhard Schulte Shipmanagement CSC Romania</title>
   <dc:date>2026-07-16 12:30:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223652/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223652/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223652/</link>
-  <title>[Gold Job] Second Officer DPO for DP2 AHTS vessel at </title>
-  <dc:date>2026-07-16 10:16:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223651/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Indonesia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Master is sought for a bulk carrier position. Candidates require a minimum of 2 years of experience in a similar role and vessel type, with valid seaman documents (minimum 1 year validity). The maximum age is 55 years. The contract duration is 6 months, with operations in Indonesia. Immediate joining is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223651/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223651/</link>
-  <title>[AI Job] Master Vacancy on Bulk Carrier at PT. Amancare Group</title>
-  <dc:date>2026-07-15 21:19:44</dc:date>
  </item>
 </rdf:RDF>
