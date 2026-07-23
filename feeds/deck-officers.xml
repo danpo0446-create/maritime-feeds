@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-07-2026</dc:date>
+  <dc:date>23-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223919/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223867/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223866/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223827/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223739/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223699/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223688/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223655/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223919/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223919/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223919/</link>
+  <title>[Gold Job] Second Officer for 4 Point Mooring DSV Vessel (NON-DP)  at </title>
+  <dc:date>2026-07-22 10:27:46</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223867/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223867/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223867/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223688/</link>
   <title>[AI Job] 3rd Officer Job on Self-Unloader Bulker at V.Group</title>
   <dc:date>2026-07-16 12:31:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223655/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Master position is available on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel with 95000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The joining date is at the beginning of August for a 3-month contract. Interested candidates should apply through the careers portal.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223655/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223655/</link>
-  <title>[AI Job] Master Vacancy on LNG Vessel at Bernhard Schulte Shipmanagement CSC Romania</title>
-  <dc:date>2026-07-16 12:30:59</dc:date>
  </item>
 </rdf:RDF>
