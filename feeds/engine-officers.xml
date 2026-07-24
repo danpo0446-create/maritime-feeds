@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-07-2026</dc:date>
+  <dc:date>24-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224026/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224025/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223920/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223868/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223865/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223846/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223845/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223842/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223841/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223835/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224026/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224026/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224026/</link>
+  <title>[Gold Job] ETO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-07-23 10:11:17</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224025/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224025/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224025/</link>
+  <title>[Gold Job] ETO for DP2 PSV vessel at </title>
+  <dc:date>2026-07-23 10:09:59</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223920/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223920/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223920/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223842/</link>
   <title>[Gold Job] Second Engineer for 4 Point Mooring DSV Vessel (NON-DP)  at </title>
   <dc:date>2026-07-18 10:18:14</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223841/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223841/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223841/</link>
-  <title>[Gold Job] ETO for DP2 PSV vessel at </title>
-  <dc:date>2026-07-18 09:52:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223835/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; ARAMCO&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Self-Propelled Jack-Up Barge requires experienced Second Engineers. Candidates must hold a Chief Engineer Unlimited or Second Engineer Unlimited &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 Certificate of Competency and possess a minimum of 24 months of experience in rank on &lt;span class=&quot;caps&quot;&gt;SPJUB&lt;/span&gt;. The rotation is 75-90 days on, followed by 60 days off (unpaid). Salary is negotiable. Immediate joining is subject to &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt; Provisional Approval.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223835/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223835/</link>
-  <title>[AI Job] Second Engineer Job - Self-Propelled Jack-Up Barge at Aavishka</title>
-  <dc:date>2026-07-17 20:20:00</dc:date>
  </item>
 </rdf:RDF>

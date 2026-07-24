@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-07-2026</dc:date>
+  <dc:date>24-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224052/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223919/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223867/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223866/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223756/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223739/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223699/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223688/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224052/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224052/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224052/</link>
+  <title>[Gold Job] KTSHIP - 3OFF for bulk - ASAP at </title>
+  <dc:date>2026-07-23 15:53:34</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223919/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223919/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223919/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223699/</link>
   <title>[AI Job] Master 500 GT+ Vacancy on Survey Vessel at Helder Maritiem</title>
   <dc:date>2026-07-16 12:31:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223688/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; London, United Kingdom&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 3rd Officer position is available on a self-unloader bulker. The role is based in London, United Kingdom. Key requirements and contract details will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223688/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223688/</link>
-  <title>[AI Job] 3rd Officer Job on Self-Unloader Bulker at V.Group</title>
-  <dc:date>2026-07-16 12:31:04</dc:date>
  </item>
 </rdf:RDF>
