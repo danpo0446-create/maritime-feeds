@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>26-07-2026</dc:date>
+  <dc:date>27-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224220/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224076/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224052/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223919/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223802/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223783/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223756/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223739/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224220/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224220/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224220/</link>
+  <title>[Gold Job] Second Officer DPO for DP2 PSV vessel at </title>
+  <dc:date>2026-07-26 12:46:59</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224076/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224076/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224076/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223756/</link>
   <title>[AI Job] Master Vacancy on LNG Vessel at BalticCareer</title>
   <dc:date>2026-07-17 11:39:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223739/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223739/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223739/</link>
-  <title>[Gold Job] OPEN VACANCY FOR CH. OFFICER- EU citizen at </title>
-  <dc:date>2026-07-16 17:37:52</dc:date>
  </item>
 </rdf:RDF>
