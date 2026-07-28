@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-07-2026</dc:date>
+  <dc:date>28-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224241/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224220/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224076/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224052/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223827/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223802/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223783/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223756/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224241/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224241/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224241/</link>
+  <title>[Gold Job] Second Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-07-27 10:42:57</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224220/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224220/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224220/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223783/</link>
   <title>[Gold Job] Chief Officer DPO for DP2 PSV vessel at </title>
   <dc:date>2026-07-17 13:47:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223756/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Caribbean Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Master position is available on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel with immediate joining. The contract duration is 10 weeks on/off, with a salary of 22,100 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. The vessel sails in the Caribbean Sea under the Malta flag.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223756/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223756/</link>
-  <title>[AI Job] Master Vacancy on LNG Vessel at BalticCareer</title>
-  <dc:date>2026-07-17 11:39:24</dc:date>
  </item>
 </rdf:RDF>
