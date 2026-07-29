@@ -4,22 +4,34 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-07-2026</dc:date>
+  <dc:date>29-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224341/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224339/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224267/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224242/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224240/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224172/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224026/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224025/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223920/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223868/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223865/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223864/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223850/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224341/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224341/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224341/</link>
+  <title>[Gold Job] ETO for DP2 AHTS vessel  at </title>
+  <dc:date>2026-07-28 10:43:44</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224339/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224339/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224339/</link>
+  <title>[Gold Job] Chief Engineer for DP2 PSV vessel at </title>
+  <dc:date>2026-07-28 09:36:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224267/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224267/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224267/</link>
@@ -37,6 +49,12 @@
   <link>https://maritime-union.com/job/224240/</link>
   <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
   <dc:date>2026-07-27 10:41:54</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224172/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Engineer is sought for a container vessel. Joining is scheduled for August. The contract duration is 4 &amp;plusmn; 1 months, with a salary of 11,750 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Applicants must possess a Turkish &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt;, have strong experience as Chief Engineer on container vessels, and good English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224172/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224172/</link>
+  <title>[AI Job] Chief Engineer Job - Container Vessel at DESE Crew Management</title>
+  <dc:date>2026-07-25 21:37:56</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/224026/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224026/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/223868/</link>
   <title>[Gold Job] ETO for Self-Propelled Jack-Up Barge  at </title>
   <dc:date>2026-07-21 10:54:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223865/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223865/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223865/</link>
-  <title>[Gold Job] ETO for DP2 DSV vessel at </title>
-  <dc:date>2026-07-20 10:02:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223864/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223864/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223864/</link>
-  <title>[Gold Job] ETO for DP2 PSV vessel at </title>
-  <dc:date>2026-07-20 10:00:16</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223850/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Urgent vacancies exist for experienced maritime professionals on a Self-Propelled Jack-Up Barge fleet. Positions include Second Engineer, Third Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Assistant &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;/Electrician, and Able Seaman. Candidates must hold relevant Certificates of Competency and possess specified years of experience on similar vessels. Contract durations vary, with unpaid off-rotations. Immediate joining is available for qualified officers and engineers, subject to &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt; approval. Salary is negotiable. All certificates must be valid for at least 12 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223850/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223850/</link>
-  <title>[AI Job] Second Engineer Job - Self-Propelled Jack-Up Barge at Aavishka</title>
-  <dc:date>2026-07-18 21:33:32</dc:date>
  </item>
 </rdf:RDF>

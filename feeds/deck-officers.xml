@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-07-2026</dc:date>
+  <dc:date>29-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224340/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224259/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224241/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224220/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224076/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223867/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223866/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223827/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223802/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223783/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224340/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224340/</link>
+  <title>[Gold Job] Second Officer DPO for DP2 AHTS vessel at </title>
+  <dc:date>2026-07-28 10:42:19</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224259/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 2nd Officer &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt; position is available for immediate employment on an offshore supply vessel. Nigerian nationals are encouraged to apply. Qualified candidates should send a direct message for further details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224259/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224259/</link>
+  <title>[AI Job] 2nd Officer DPO Job - Offshore Supply Vessel at UNBEATABLE OFFSHORE</title>
+  <dc:date>2026-07-27 11:06:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224241/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224241/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224241/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223827/</link>
   <title>[AI Job] Chief Officer Job on Research Vessel at OJ Crew</title>
   <dc:date>2026-07-17 20:19:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223802/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 3rd Officer is sought for a container vessel. The contract duration is 4 months, with embarkation scheduled for August 20, 2026. Key vessel details include type &lt;span class=&quot;caps&quot;&gt;CONT&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; 9350, built in 2006, and flying the Portugal flag. The main engine is a MaK 9M43.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223802/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223802/</link>
-  <title>[AI Job] 3rd Officer Job on Container Vessel at Columbia Shipmanagement Ukraine Dry Fleet</title>
-  <dc:date>2026-07-17 14:21:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223783/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223783/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223783/</link>
-  <title>[Gold Job] Chief Officer DPO for DP2 PSV vessel at </title>
-  <dc:date>2026-07-17 13:47:43</dc:date>
  </item>
 </rdf:RDF>

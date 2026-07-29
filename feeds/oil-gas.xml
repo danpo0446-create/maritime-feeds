@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-07-2026</dc:date>
+  <dc:date>29-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224168/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223823/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223772/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223704/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223510/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223166/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223133/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223116/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224168/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Engineer is sought for Oil &amp;amp; Gas vessels. Candidates must download and complete the Terra-Marine Short Form CV from the provided link, then email it with all required documents and vaccination certificates in &lt;span class=&quot;caps&quot;&gt;JPEG&lt;/span&gt; format. Applications must follow the specified submission guidelines to be considered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224168/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224168/</link>
+  <title>[AI Job] Chief Engineer Job - Oil &amp;amp;amp; Gas Fleet at Terra-Marine</title>
+  <dc:date>2026-07-25 21:37:56</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223823/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Port Harcourt&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An experienced Telecoms Maintenance Engineer is sought for offshore, &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt;, and rig facilities within the Oil &amp;amp; Gas industry. This role involves maintaining and troubleshooting a wide range of telecommunication systems, including data networks, &lt;span class=&quot;caps&quot;&gt;VSAT&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;CCTV&lt;/span&gt;, and radio systems. Responsibilities include preventive maintenance, project support, contractor supervision, and ensuring compliance with &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; and company standards. A minimum of 15 years of relevant experience is required, with a strong preference for Oil &amp;amp; Gas industry background.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223823/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223823/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223133/</link>
   <title>[AI Job] Engine Officers Crane Operator Jobs on SPJUB Vessel at Aavishka</title>
   <dc:date>2026-07-13 14:25:56</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223116/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kirkuk, Iraq&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Oil &amp;amp; Gas company is seeking a Field Specialist with 3-8 years of experience in Wireline Operations, specifically for land rig operations and wellsite services. Candidates should possess a Diploma or Bachelor&amp;#39;s Degree in Engineering and a strong understanding of wireline equipment. The position is based in Kirkuk, Iraq.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223116/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223116/</link>
-  <title>[AI Job] Field Specialist Job - Oil Gas Offshore at NES Fircroft</title>
-  <dc:date>2026-07-13 12:40:23</dc:date>
  </item>
 </rdf:RDF>
