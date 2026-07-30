@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-07-2026</dc:date>
+  <dc:date>30-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223739/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224363/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224259/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224241/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224052/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223919/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223867/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223866/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223827/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223739/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223739/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223739/</link>
+  <title>[Gold Job] OPEN VACANCY FOR CH. OFFICER- EU citizen at </title>
+  <dc:date>2026-07-29 14:08:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224363/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224363/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224363/</link>
+  <title>[Gold Job] Master for NON DP AHTS vessel at </title>
+  <dc:date>2026-07-29 10:02:15</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224340/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224340/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223867/</link>
   <title>[Gold Job] Chief Officer for Self-Propelled Jack-Up Barge  at </title>
   <dc:date>2026-07-21 10:53:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223866/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223866/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223866/</link>
-  <title>[Gold Job] Master for NON DP AHTS vessel at </title>
-  <dc:date>2026-07-21 10:50:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223827/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Latvia - Pavilosta&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Officer is needed for a Research Vessel. The joining date is July 22-23 for a 7-day contract. The position is located in Pavilosta, Latvia. Daily net rates are 230 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; on stand-by and 250 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223827/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223827/</link>
-  <title>[AI Job] Chief Officer Job on Research Vessel at OJ Crew</title>
-  <dc:date>2026-07-17 20:19:59</dc:date>
  </item>
 </rdf:RDF>
