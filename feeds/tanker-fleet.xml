@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-07-2026</dc:date>
+  <dc:date>31-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224255/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223840/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223825/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223794/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223760/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223723/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223711/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223685/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224255/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Marine Superintendent position is available for a tanker vessel. Candidates with relevant experience are encouraged to apply. Further details and application instructions can be found via the provided link. This role offers an opportunity for career advancement within the maritime industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224255/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224255/</link>
+  <title>[AI Job] Marine Superintendent Job on Tanker at Direct Search Global</title>
+  <dc:date>2026-07-27 11:06:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223840/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco project&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple urgent vacancies are available on a tanker operating under a Saudi Aramco project. Positions include Chief Engineer, Second Officer, Crane Operator, Able Seaman (AB), and Oiler. Minimum experience requirements vary by rank, with specific &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; and certificate validity needed. Contract durations are 3 months or 180 days on/off unpaid. Joining is upon visa and approval issuance or as soon as possible. Salary is to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223840/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223840/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223711/</link>
   <title>[AI Job] Chief Officer Vacancy on Chemical/Oil Tanker at IRPSL Holder</title>
   <dc:date>2026-07-16 14:19:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223685/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Great Yarmouth / River Humber&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Master (200gt minimum, &lt;span class=&quot;caps&quot;&gt;CTV&lt;/span&gt;/Windfarm experience) is needed for night shifts supporting an &lt;span class=&quot;caps&quot;&gt;SOV&lt;/span&gt; near Great Yarmouth, starting August 4th for 3 weeks. A Chief Mate with tanker endorsement and bunker experience is required for the River Humber, starting August 28th for 2 weeks training followed by a 4 weeks on/off rotation. Travel is paid for the Chief Mate position. Relevant certificates must be revalidated.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223685/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223685/</link>
-  <title>[AI Job] Master Chief Mate Jobs - CTV/Tanker Vessels at Rix Shipping</title>
-  <dc:date>2026-07-16 12:31:04</dc:date>
  </item>
 </rdf:RDF>

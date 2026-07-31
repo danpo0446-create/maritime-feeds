@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-07-2026</dc:date>
+  <dc:date>31-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224393/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224344/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223899/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223854/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223855/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223843/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223777/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224393/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Master, Chief Engineer, Second Engineer, Third Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Assistant &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;/Electrician, and Able Seaman are sought for a Self-Propelled Jack-Up Barge fleet. Positions require specific Certificates of Competency and a minimum of 12-48 months of relevant experience on similar vessels. Contract durations range from 60 to 120 days on, with 30 to 60 days off. Joining is immediate, pending &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt; approval. Salary is negotiable. All certificates must be valid for at least 12 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224393/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224393/</link>
+  <title>[AI Job] Master, Engineer, ETO, AB Jobs on SPJUB Fleet at Aavishka</title>
+  <dc:date>2026-07-29 12:14:45</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224344/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224344/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224344/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223843/</link>
   <title>[AI Job] Multiple Maritime Vacancies on Bulk Carriers at Alkoc Group</title>
   <dc:date>2026-07-18 21:33:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223777/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Chesapeake, VA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Norfolk Naval Shipyard is seeking experienced skilled maritime trades, engineers, engineering technicians, and business agents for their 2026 Summer Job Fair. This event is for external hires, including transitioning service members, veterans, and military spouses. The job fair will take place on July 18, 2026, at the Chesapeake Conference Center in Chesapeake, VA. Hiring managers will be on-site to conduct interviews for various positions such as A/C Equipment Mechanic, Boilermakers, Civil Engineer, Crane Operator, Marine Electricians, Pipefitter, and more.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223777/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223777/</link>
-  <title>[AI Job] Skilled Trades Engineering Jobs - Naval Shipyard at Norfolk Naval Shipyard</title>
-  <dc:date>2026-07-17 11:39:26</dc:date>
  </item>
 </rdf:RDF>

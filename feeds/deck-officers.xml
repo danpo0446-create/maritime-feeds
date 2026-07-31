@@ -4,27 +4,39 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-07-2026</dc:date>
+  <dc:date>31-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224453/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223739/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224395/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224363/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224259/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224256/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224241/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224220/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224076/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224052/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223919/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223867/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224453/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224453/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224453/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-07-30 10:31:22</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223739/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223739/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223739/</link>
   <title>[Gold Job] OPEN VACANCY FOR CH. OFFICER- EU citizen at </title>
   <dc:date>2026-07-29 14:08:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224395/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; North Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 2nd Engineer is required for various offshore support vessels, including &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;MPSV&lt;/span&gt;, Construction, and Heavy Lift types, operating in the North Sea and other regions. Boarding is expected from early August. Candidates with a valid 2nd Engineer ticket are encouraged to apply. Specific vessel types and locations are available for filtering.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224395/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224395/</link>
+  <title>[AI Job] 2nd Engineer Job - Offshore Support Vessel at CrewBase</title>
+  <dc:date>2026-07-29 12:14:45</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/224363/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224363/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -44,6 +56,12 @@
   <title>[AI Job] 2nd Officer DPO Job - Offshore Supply Vessel at UNBEATABLE OFFSHORE</title>
   <dc:date>2026-07-27 11:06:37</dc:date>
  </item>
+ <item rdf:about="https://maritime-union.com/job/224256/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Masters are sought for an Oil/Chemical Tanker engaged in worldwide trading. Responsibilities include ensuring safe navigation, leading bridge operations, overseeing cargo, and promoting onboard safety. Requirements include a valid Master Unlimited CoC, previous command experience on tankers, relevant endorsements, and strong knowledge of maritime regulations. The contract duration is 4 months +/- 1, with immediate joining. Salary is based on experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224256/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224256/</link>
+  <title>[AI Job] Master Vacancy on Oil Chemical Tanker at Jobs Maritime GPT</title>
+  <dc:date>2026-07-27 11:06:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224241/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224241/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224241/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/224076/</link>
   <title>[Gold Job] Chief Officer DPO for DP2 PSV vessel at </title>
   <dc:date>2026-07-24 10:20:56</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224052/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224052/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224052/</link>
-  <title>[Gold Job] KTSHIP - 3OFF for bulk - ASAP at </title>
-  <dc:date>2026-07-23 15:53:34</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223919/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223919/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223919/</link>
-  <title>[Gold Job] Second Officer for 4 Point Mooring DSV Vessel (NON-DP)  at </title>
-  <dc:date>2026-07-22 10:27:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223867/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223867/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223867/</link>
-  <title>[Gold Job] Chief Officer for Self-Propelled Jack-Up Barge  at </title>
-  <dc:date>2026-07-21 10:53:07</dc:date>
  </item>
 </rdf:RDF>

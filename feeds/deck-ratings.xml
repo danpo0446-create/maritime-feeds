@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-07-2026</dc:date>
+  <dc:date>31-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224257/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224111/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224075/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223766/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223689/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223666/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223617/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223604/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224257/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Ordinary Seaman is urgently needed for a container vessel, with immediate joining required. This deck rating position offers an immediate start for a qualified candidate. Further details regarding contract duration and specific joining location will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224257/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224257/</link>
+  <title>[AI Job] Ordinary Seaman Job on Container Vessel at CMA SHIPS INDONESIA</title>
+  <dc:date>2026-07-27 11:06:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224111/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224111/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224111/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223617/</link>
   <title>[AI Job] AB or Oiler Job on Oil/Chemical Tanker at NorteMare LLC</title>
   <dc:date>2026-07-15 21:19:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223604/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Ordinary Seaman (OS) position is open for individuals to assist with deck operations and general ship maintenance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223604/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223604/</link>
-  <title>[AI Job] Ordinary Seaman (OS) Vacancy at Franco Compania Naviera S.A.</title>
-  <dc:date>2026-07-14 21:54:39</dc:date>
  </item>
 </rdf:RDF>

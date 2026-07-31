@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-07-2026</dc:date>
+  <dc:date>31-07-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224397/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223858/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223860/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223801/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223605/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223606/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223554/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223474/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224397/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Aramco project&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A DP2 &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt; operating under an Aramco project requires an Oiler with at least 2 years of experience on similar vessels. A valid Able Seafarer Engine / Oiler (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5) &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; is necessary, with all documents valid for 12 months. Candidates must not hold a valid Saudi Iqama visa. Immediate joining is required. Salary to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224397/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224397/</link>
+  <title>[AI Job] Oiler Job on DP2 DSV for Aramco Project at Aavishka Shipping Pvt Ltd</title>
+  <dc:date>2026-07-29 12:14:45</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223858/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Wiper position is available on a permanent Tug Boat. The role requires at least one year of sailing experience and an Indian Watchkeeping (&lt;span class=&quot;caps&quot;&gt;IND&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;WKP&lt;/span&gt;) certificate. The offered salary is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 400, with immediate joining from the Maldives. This is a permanent company position offering stable career growth.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223858/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223858/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223554/</link>
   <title>[AI Job] Ship Mechanic Apprenticeship - Hamburg at Fairplay Schleppdampfschiffs-Reederei Richard Borchard GmbH</title>
   <dc:date>2026-07-14 21:54:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223474/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Piraeus, Greece or Misurata, Libya&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Qualified Oilers and Fitters are urgently sought to join a Container Vessel. The position offers a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,100/month for Oilers and &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,500/month for Fitters. Joining is expected within one week in Piraeus, Greece, or Misurata, Libya. Applicants must possess a Panama Seaman&amp;#39;s Passport and relevant experience. All nationalities are welcome.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223474/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223474/</link>
-  <title>[AI Job] Oiler and Fitter Jobs on Container Vessel at VNW Marine Services (Vanguard Next Wave)</title>
-  <dc:date>2026-07-14 20:30:14</dc:date>
  </item>
 </rdf:RDF>
