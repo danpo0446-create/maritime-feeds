@@ -4,22 +4,28 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-07-2026</dc:date>
+  <dc:date>01-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223638/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223611/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223610/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223589/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223578/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223582/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223573/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223570/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/223573/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223563/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223562/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/223898/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Pakistan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Pakistan Navy is recruiting Nautical and Marine Engineering cadets for the 65th batch. Applications are open for positions starting in 2026. The deadline to apply is August 5, 2026. This is a government employment opportunity within Pakistan.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223898/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223898/</link>
+  <title>[AI Job] Pakistan Navy Cadet Recruitment 2026 at Pakistan Navy</title>
+  <dc:date>2026-07-21 14:51:53</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223638/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Deck Cadet position is available on a Chemical Tanker vessel. The contract duration is 2-3 months with a monthly salary of 450 &amp;euro;. This is an entry-level role for aspiring maritime professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223638/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223638/</link>
@@ -56,28 +62,22 @@
   <title>[AI Job] Engine Cadet Vacancy at Arcadia Shipmanagement Company Limited</title>
   <dc:date>2026-07-14 21:54:36</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/223573/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Emden&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime company is seeking motivated individuals for its cadet training program. This opportunity is ideal for those who love languages, seek international work environments, and are flexible, team-oriented, and eager for challenges. The program offers long-term career prospects and the possibility of international experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223573/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223573/</link>
-  <title>[AI Job] Cadet Training Program at Sunship Schiffahrtskontor KG</title>
-  <dc:date>2026-07-14 21:54:35</dc:date>
- </item>
  <item rdf:about="https://maritime-union.com/job/223570/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An apprenticeship as a maritime business administrator is available for the 2026 training year. The program offers a comprehensive insight into various daily work areas of a shipping company, including chartering and nautical-technical inspection. Applicants should have an interest in shipping, a good secondary school leaving certificate or Abitur, commercial understanding, good English and German skills, and proficiency with MS Office. Teamwork is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223570/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223570/</link>
   <title>[AI Job] Maritime Business Administrator Apprenticeship at HS Bereederungs GmbH &amp; Company KG</title>
   <dc:date>2026-07-14 21:54:35</dc:date>
  </item>
+ <item rdf:about="https://maritime-union.com/job/223573/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Emden&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime company is seeking motivated individuals for its cadet training program. This opportunity is ideal for those who love languages, seek international work environments, and are flexible, team-oriented, and eager for challenges. The program offers long-term career prospects and the possibility of international experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223573/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/223573/</link>
+  <title>[AI Job] Cadet Training Program at Sunship Schiffahrtskontor KG</title>
+  <dc:date>2026-07-14 21:54:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223563/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Apprenticeship positions for Ship Administrator (Tramp) are available within the tanker fleet. This role offers a chance to develop skills in a collaborative international setting that emphasizes teamwork and individual growth. Future career opportunities may arise.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223563/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223563/</link>
   <title>[AI Job] Apprenticeship - Ship Administrator at German Tanker Shipping GmbH &amp; Company KG</title>
-  <dc:date>2026-07-14 21:54:34</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223562/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Apprenticeship positions for Ship Mechanic are offered within the tanker fleet. This is an opportunity to gain practical experience in a supportive international environment that values individual development and teamwork. Potential for future career progression is available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223562/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223562/</link>
-  <title>[AI Job] Apprenticeship - Ship Mechanic at German Tanker Shipping GmbH &amp; Company KG</title>
   <dc:date>2026-07-14 21:54:34</dc:date>
  </item>
 </rdf:RDF>

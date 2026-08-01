@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-07-2026</dc:date>
+  <dc:date>01-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224251/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223844/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223837/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223826/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223496/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223490/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223381/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223337/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224251/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Finland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A rotational Second Engineer is sought for a 44m+ private exploration motor yacht. The role requires a minimum of AEC1/2 and 1 year of experience in the position, with B1B2 visa essential. The yacht will be exploring Norway, Denmark, Finland, the Mediterranean, and Central America. Joining date is August 23rd, with a 10:10 rotation after a 3-month trial period. Salary offered is &amp;euro;5,000 &amp;#8211; &amp;euro;5,500 &lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt;. Candidates must be health-conscious, active, and non-smokers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224251/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224251/</link>
+  <title>[AI Job] 2nd Engineer Job - 44m+ Motor Yacht at YOA Yacht Crew</title>
+  <dc:date>2026-07-27 11:06:36</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223844/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Palma de Mallorca&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Director of Operations sought for the superyacht sector in Palma de Mallorca. This leadership role requires a strong understanding of high-end yacht operations, team management, and project oversight in a technical environment. Responsibilities include managing specialist teams and collaborating with captains and owners&amp;#39; representatives to ensure exceptional service delivery. Ideal candidates possess superyacht operations experience, rigging knowledge, and excellent communication skills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223844/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223844/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223381/</link>
   <title>[AI Job] Hospitality Jobs on Luxury Yachts at Four Seasons Yachts</title>
   <dc:date>2026-07-14 17:29:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223337/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Summer Isles, Scotland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Commercial Skipper is sought for a unique restoration and regeneration charity operating passenger transport, crew &amp;amp; cargo movements, logistics support, and fuel-transfer operations in the Summer Isles, Scotland. This year-round role requires strong boat-handling skills, experience in exposed coastal waters, and essential tickets including &lt;span class=&quot;caps&quot;&gt;RYA&lt;/span&gt; Advanced Powerboat/OOW and Commercial Endorsement. Commutable to Badentarbat Bay is necessary, with potential accommodation available. A 10 on / 4 off shift pattern may be considered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223337/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223337/</link>
-  <title>[AI Job] Commercial Skipper Job - Summer Isles, Scotland at Clyde Marine Recruitment</title>
-  <dc:date>2026-07-14 17:29:28</dc:date>
  </item>
 </rdf:RDF>

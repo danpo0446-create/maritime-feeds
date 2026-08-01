@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-07-2026</dc:date>
+  <dc:date>01-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224436/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224168/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223823/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223772/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223516/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223510/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223166/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223133/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224436/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; barmer, gujrat, mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Urgent hiring is available for Roustabout (2 positions) and Floorman (1 position) for offshore oil and gas operations. The rotation is 28 days on and 28 days off. Key locations include Barmer, Gujarat, and Mumbai.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224436/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224436/</link>
+  <title>[AI Job] Offshore Job Vacancies - Oil Gas at oil and gas manpower at hr</title>
+  <dc:date>2026-07-29 23:50:12</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224168/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Engineer is sought for Oil &amp;amp; Gas vessels. Candidates must download and complete the Terra-Marine Short Form CV from the provided link, then email it with all required documents and vaccination certificates in &lt;span class=&quot;caps&quot;&gt;JPEG&lt;/span&gt; format. Applications must follow the specified submission guidelines to be considered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224168/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224168/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223166/</link>
   <title>[AI Job] Gas Job Opportunities at SEA Updates</title>
   <dc:date>2026-07-13 20:24:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223133/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Qualified Chief Engineers, Second Engineers, Third Engineers, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;s, and Crane Operators are sought for a &lt;span class=&quot;caps&quot;&gt;SPJUB&lt;/span&gt; vessel operating on an Aramco project. Minimum experience requirements vary by position, with specific &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; and certificate needs. Joining is upon provisional approval and &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt; visa issuance. Salary is to be discussed. All documents must be valid for 12 months, and applicants should not hold a valid Saudi Iqama visa.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223133/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223133/</link>
-  <title>[AI Job] Engine Officers Crane Operator Jobs on SPJUB Vessel at Aavishka</title>
-  <dc:date>2026-07-13 14:25:56</dc:date>
  </item>
 </rdf:RDF>

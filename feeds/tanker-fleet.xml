@@ -4,10 +4,11 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-07-2026</dc:date>
+  <dc:date>01-08-2026</dc:date>
   <items>
    <rdf:Seq>
     <rdf:li rdf:resource="https://maritime-union.com/job/224255/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224096/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223840/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223825/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223794/"/>
@@ -16,7 +17,6 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223755/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223760/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223723/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223711/"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -25,6 +25,12 @@
   <link>https://maritime-union.com/job/224255/</link>
   <title>[AI Job] Marine Superintendent Job on Tanker at Direct Search Global</title>
   <dc:date>2026-07-27 11:06:37</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224096/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Hiring is open for Master and Second Engineer positions on Oil/Chemical Tankers (40,000&amp;ndash;80,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). Candidates require a minimum of 12-16 months experience for Master and 8-12 months for Second Engineer, along with similar tanker experience and a valid Turkish Seaman&amp;#39;s Book. Joining is expected between July and August.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224096/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224096/</link>
+  <title>[AI Job] Master 2nd Engineer Jobs on Oil Chemical Tankers at Pera Shipping</title>
+  <dc:date>2026-07-24 12:01:30</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/223840/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco project&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple urgent vacancies are available on a tanker operating under a Saudi Aramco project. Positions include Chief Engineer, Second Officer, Crane Operator, Able Seaman (AB), and Oiler. Minimum experience requirements vary by rank, with specific &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; and certificate validity needed. Contract durations are 3 months or 180 days on/off unpaid. Joining is upon visa and approval issuance or as soon as possible. Salary is to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223840/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223723/</link>
   <title>[AI Job] Chemical Tanker Crew Openings at Elburg Shipmanagement Philippines Inc.</title>
   <dc:date>2026-07-16 14:19:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223711/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Officer is required for a 27,000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; chemical/oil tanker. A White CoC is mandatory for this position. The salary offered is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 6,000&amp;ndash;6,500. Further details regarding joining date and contract duration are available upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223711/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223711/</link>
-  <title>[AI Job] Chief Officer Vacancy on Chemical/Oil Tanker at IRPSL Holder</title>
-  <dc:date>2026-07-16 14:19:09</dc:date>
  </item>
 </rdf:RDF>

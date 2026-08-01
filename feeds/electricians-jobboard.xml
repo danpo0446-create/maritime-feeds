@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-07-2026</dc:date>
+  <dc:date>01-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224434/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224291/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223857/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223778/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223776/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223763/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223762/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223747/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223734/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223732/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224434/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Senior Electronics Technicians are sought for offshore marine construction projects in Abu Dhabi, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. Responsibilities include installation, maintenance, and troubleshooting of marine electronic systems, communication, navigation, and automation equipment. A diploma in Electronics or Electrical Engineering and a minimum of 5 years&amp;#39; offshore experience are required. The role offers a monthly salary of &lt;span class=&quot;caps&quot;&gt;AED&lt;/span&gt; 4,680 &amp;ndash; 7,312 with a rotation of 150 days on and 43 days off.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224434/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224434/</link>
+  <title>[AI Job] Senior Electronics Technician Job on Offshore Vessels at Expo Universe</title>
+  <dc:date>2026-07-29 23:50:12</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224291/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Portland, Oregon&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Marine Electrician is sought to install, troubleshoot, and repair electrical systems on vessels, adhering to relevant maritime regulations and company policies. Responsibilities include reading schematics, supporting commissioning, and working in confined spaces. Previous marine or industrial electrical experience is required. &lt;span class=&quot;caps&quot;&gt;TWIC&lt;/span&gt; card is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224291/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224291/</link>
+  <title>[AI Job] Marine Electrician Job - Portland, Oregon at Lets Work Ohio, LLC.</title>
+  <dc:date>2026-07-27 14:33:38</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223857/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; London&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) shore-based position is available in London. This role focuses on marine engineering with an electrical specialization. Further details regarding joining date, contract duration, and salary are not specified in the original post.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223857/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223857/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223747/</link>
   <title>[AI Job] Electrical Engineer Job on Container Ship at ENESEL LTD</title>
   <dc:date>2026-07-16 22:19:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223734/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Electronic Technicians are sought for roles involving the installation, commissioning, maintenance, and repair of marine electronics, control, and automation systems on offshore marine construction vessels. The position requires hands-on experience with marine communication, navigation, and entertainment systems, &lt;span class=&quot;caps&quot;&gt;PLC&lt;/span&gt;-based control systems, and various industrial electronic equipment. A Diploma in Electronics Engineering and a minimum of two years of relevant experience are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223734/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223734/</link>
-  <title>[AI Job] Electronic Technician Job on Offshore Construction Vessels at Libra International Services</title>
-  <dc:date>2026-07-16 14:19:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223732/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Electronics Technicians are sought for roles involving the installation, commissioning, maintenance, and repair of marine electronics, control, and automation systems on offshore marine construction vessels. The position requires a Diploma in Electronics Engineering and a minimum of 2 years of relevant experience, with a focus on marine communication, navigation, and automation systems.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223732/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223732/</link>
-  <title>[AI Job] Electronics Technician Job on Offshore Construction Vessels at Libra International Services</title>
-  <dc:date>2026-07-16 14:19:12</dc:date>
  </item>
 </rdf:RDF>

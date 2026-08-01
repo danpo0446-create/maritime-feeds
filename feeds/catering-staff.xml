@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-07-2026</dc:date>
+  <dc:date>01-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224290/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223836/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223809/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223810/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223740/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223736/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223731/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223717/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224290/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Cook position is available on an &lt;span class=&quot;caps&quot;&gt;ERRV&lt;/span&gt; vessel. Joining is scheduled for August 19th, with a contract duration of 4 weeks and regular rotations. Required qualifications include full &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, Seafarers Medical, &lt;span class=&quot;caps&quot;&gt;OPITO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;ITSO&lt;/span&gt;, Designated Security Duties, Ships Cook &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt;, and UK Right to Work.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224290/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224290/</link>
+  <title>[AI Job] Cook Vacancy on ERRV at Seamariner Limited</title>
+  <dc:date>2026-07-27 14:33:38</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223836/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Sous Chef position is available on a cruise ship. Previous cruise experience is not required, but a strong background in large-volume catering as a Sous Chef or in a higher role is essential. This role offers an exciting opportunity to work in the hospitality sector at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223836/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223836/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223731/</link>
   <title>[AI Job] Catering Crew Vacancies on Offshore Support Vessels at TOS - Energy &amp; Maritime Crew</title>
   <dc:date>2026-07-16 14:19:11</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223717/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Offshore / International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced catering crew are sought for an upcoming assignment aboard an offshore construction and pipe-lay vessel. Positions include First Cook, Second Cook, Steward, and Cook&amp;#39;s Mate. Operations will be offshore and international, with a contract duration of 2 to 2.5 weeks. Candidates require valid &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt; with CA-&lt;span class=&quot;caps&quot;&gt;EBS&lt;/span&gt;, full &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification, Marlins Test, relevant offshore vessel experience, a valid medical certificate, and good English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223717/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223717/</link>
-  <title>[AI Job] Catering Crew Vacancies on Offshore Construction Vessel at TOS - Energy &amp; Maritime Crew</title>
-  <dc:date>2026-07-16 14:19:10</dc:date>
  </item>
 </rdf:RDF>
