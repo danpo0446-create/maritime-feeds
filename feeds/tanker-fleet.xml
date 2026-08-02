@@ -4,10 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-08-2026</dc:date>
+  <dc:date>02-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224324/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224255/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224250/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224096/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223840/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223825/"/>
@@ -15,16 +17,26 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223796/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223792/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223755/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223760/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223723/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224324/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Hiring is open for Master and Engineer positions on Oil &amp;amp; Chemical Tankers (40,000&amp;ndash;80,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). Candidates must have relevant tanker experience and a valid Turkish Seaman&amp;#39;s Book. Joining is scheduled for July or August. Specific experience requirements include a minimum of 12-16 months for Master, 8-12 months for Second Engineer, and 12 months for Third Engineer.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224324/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224324/</link>
+  <title>[AI Job] Master Engineer Jobs on Tanker Vessels at Pera Shipping</title>
+  <dc:date>2026-07-28 08:19:42</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224255/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Marine Superintendent position is available for a tanker vessel. Candidates with relevant experience are encouraged to apply. Further details and application instructions can be found via the provided link. This role offers an opportunity for career advancement within the maritime industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224255/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224255/</link>
   <title>[AI Job] Marine Superintendent Job on Tanker at Direct Search Global</title>
   <dc:date>2026-07-27 11:06:37</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224250/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime company is seeking a qualified 2nd Engineer and Gas Engineer for an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel. Candidates must possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 2010 certificates with at least 12 months of validity. Previous experience on &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;FSRU&lt;/span&gt; vessels is preferred. Interested seafarers are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224250/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224250/</link>
+  <title>[AI Job] 2nd Engineer Job - LNG Vessel at PT. Waruna Nusa Sentana</title>
+  <dc:date>2026-07-27 11:06:36</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/224096/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Hiring is open for Master and Second Engineer positions on Oil/Chemical Tankers (40,000&amp;ndash;80,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). Candidates require a minimum of 12-16 months experience for Master and 8-12 months for Second Engineer, along with similar tanker experience and a valid Turkish Seaman&amp;#39;s Book. Joining is expected between July and August.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224096/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/223755/</link>
   <title>[AI Job] Aframax Oil Tanker Crew Vacancies - Pakistan at MarineX Globals</title>
   <dc:date>2026-07-17 11:39:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223760/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Painter/Cleaner position is available on a tanker vessel (29,000+ &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;). The role involves ballast tank mud cleaning and deck cosmetic maintenance. Candidates must possess a valid US Visa and have previous experience in ballast tank cleaning and deck maintenance on tanker vessels. The contract duration is 6&amp;ndash;8 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223760/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223760/</link>
-  <title>[AI Job] Painter/Cleaner Job on Tanker Vessel at Meridian Marine Management Pvt. Ltd.</title>
-  <dc:date>2026-07-17 11:39:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223723/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Chemical Tanker crew are sought for immediate joining. This role offers a rejoining bonus for officers, pension funds, health insurance, onboard internet, and gym equipment. Michelin Star Chef support is also provided. Apply online or via email to join the fleet.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223723/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223723/</link>
-  <title>[AI Job] Chemical Tanker Crew Openings at Elburg Shipmanagement Philippines Inc.</title>
-  <dc:date>2026-07-16 14:19:10</dc:date>
  </item>
 </rdf:RDF>

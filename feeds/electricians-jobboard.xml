@@ -4,19 +4,19 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-08-2026</dc:date>
+  <dc:date>02-08-2026</dc:date>
   <items>
    <rdf:Seq>
     <rdf:li rdf:resource="https://maritime-union.com/job/224434/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224291/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224286/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224263/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224262/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223857/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223778/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223776/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223775/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223769/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223763/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223762/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223747/"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -31,6 +31,24 @@
   <link>https://maritime-union.com/job/224291/</link>
   <title>[AI Job] Marine Electrician Job - Portland, Oregon at Lets Work Ohio, LLC.</title>
   <dc:date>2026-07-27 14:33:38</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224286/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kuwait&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrician is sought for an Offshore Support Vessel (&lt;span class=&quot;caps&quot;&gt;OSV&lt;/span&gt;) operating in Kuwait. The role offers a monthly salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,200, with accommodation and food provided. Candidates should have experience in electrical installation and maintenance, preferably with a trade certification. A valid &lt;span class=&quot;caps&quot;&gt;CDC&lt;/span&gt; is required for application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224286/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224286/</link>
+  <title>[AI Job] Electrician Job on OSV Vessel - Kuwait at Global Construction &amp; Engineering</title>
+  <dc:date>2026-07-27 14:33:37</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224263/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Aberdeenshire&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime electrician position is available. The role is based in Aberdeenshire. Further details regarding vessel type, joining date, contract duration, and salary are not specified in this advertisement.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224263/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224263/</link>
+  <title>[AI Job] Marine Electrician Job Vacancy at Aberdeen jobs, Aberdeenshire</title>
+  <dc:date>2026-07-27 11:06:38</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224262/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Marine Electrician position is available. Key responsibilities include electrical system maintenance and repair onboard vessels. This role requires a skilled professional with experience in maritime electrical engineering. Further details regarding specific vessel types, contract terms, and joining dates will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224262/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224262/</link>
+  <title>[AI Job] Marine Electrician Job at Global- a 1st Flagship Company</title>
+  <dc:date>2026-07-27 11:06:38</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/223857/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; London&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) shore-based position is available in London. This role focuses on marine engineering with an electrical specialization. Further details regarding joining date, contract duration, and salary are not specified in the original post.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223857/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/223769/</link>
   <title>[AI Job] Lead Engineer Job - Ship Newbuilding at MISC Group</title>
   <dc:date>2026-07-17 11:39:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223763/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a container vessel. The contract duration is 2 months, with embarkation scheduled for July 30, 2026. Key vessel details include its type (&lt;span class=&quot;caps&quot;&gt;CONT&lt;/span&gt;), &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, year of build, and flag. This role offers an opportunity for qualified seafarers to join a professional maritime operation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223763/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223763/</link>
-  <title>[AI Job] ETO Job on Container Vessel at Columbia Shipmanagement Ukraine Dry Fleet</title>
-  <dc:date>2026-07-17 11:39:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223762/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A container vessel is seeking an experienced Electrician. Qualified candidates with relevant experience are encouraged to apply. Further details regarding joining date, contract duration, and salary will be provided during the application process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223762/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223762/</link>
-  <title>[AI Job] Electrician Job on Container Vessel at PT Asia Marine Temas</title>
-  <dc:date>2026-07-17 11:39:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223747/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrical Engineer is sought for a Container Ship with a capacity of 9200 &lt;span class=&quot;caps&quot;&gt;TEU&lt;/span&gt;. The joining date is scheduled for the end of July 2026, with a contract duration of 4 months. The monthly salary offered is $7500.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223747/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223747/</link>
-  <title>[AI Job] Electrical Engineer Job on Container Ship at ENESEL LTD</title>
-  <dc:date>2026-07-16 22:19:32</dc:date>
  </item>
 </rdf:RDF>
