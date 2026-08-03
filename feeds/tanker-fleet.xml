@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-08-2026</dc:date>
+  <dc:date>03-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224414/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224324/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224255/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224250/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223794/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223796/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223792/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223755/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224414/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Chief Officers and Second Engineers are sought for &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; vessels. &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;s and &lt;span class=&quot;caps&quot;&gt;ETR&lt;/span&gt;s are also needed for tanker vessels. Positions offer a stable contract duration and competitive salary packages. Joining date and specific location details will be provided upon successful application. This is an excellent opportunity to advance your career in the maritime industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224414/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224414/</link>
+  <title>[AI Job] Chief Officer 2nd Engineer Vacancy on VLCC Vessels at Magsaysay Careers</title>
+  <dc:date>2026-07-29 14:22:30</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224324/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Hiring is open for Master and Engineer positions on Oil &amp;amp; Chemical Tankers (40,000&amp;ndash;80,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). Candidates must have relevant tanker experience and a valid Turkish Seaman&amp;#39;s Book. Joining is scheduled for July or August. Specific experience requirements include a minimum of 12-16 months for Master, 8-12 months for Second Engineer, and 12 months for Third Engineer.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224324/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224324/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223792/</link>
   <title>[AI Job] Chief Engineer Vacancy on Tanker at Aavishka</title>
   <dc:date>2026-07-17 14:21:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223755/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Pakistani crew are urgently sought for an Aframax oil tanker. Vacancies include Bosun, Able Seaman, Fitter, and Oiler positions. Salaries range from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 850 to &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,900 depending on the role. Candidates must possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates and relevant tanker experience. Sign-on date is to be determined.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223755/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223755/</link>
-  <title>[AI Job] Aframax Oil Tanker Crew Vacancies - Pakistan at MarineX Globals</title>
-  <dc:date>2026-07-17 11:39:24</dc:date>
  </item>
 </rdf:RDF>

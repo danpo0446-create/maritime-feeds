@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-08-2026</dc:date>
+  <dc:date>03-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224427/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224290/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223836/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223809/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223787/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223740/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223736/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223731/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224427/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Bartenders and Wine Stewards are sought for opportunities on ocean cruise ships. The contract duration is 36 weeks onboard followed by 9 weeks off. Candidates should possess previous experience in the role, intermediate to advanced English, guest-service skills, and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates. Previous cruise ship experience is advantageous. Bartender roles require bar inventory and &lt;span class=&quot;caps&quot;&gt;POS&lt;/span&gt; system knowledge, while Wine Steward positions require strong wine knowledge and service skills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224427/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224427/</link>
+  <title>[AI Job] Bartender and Wine Steward Jobs on Cruise Ships at Job Selection</title>
+  <dc:date>2026-07-29 23:50:11</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224290/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Cook position is available on an &lt;span class=&quot;caps&quot;&gt;ERRV&lt;/span&gt; vessel. Joining is scheduled for August 19th, with a contract duration of 4 weeks and regular rotations. Required qualifications include full &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, Seafarers Medical, &lt;span class=&quot;caps&quot;&gt;OPITO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;ITSO&lt;/span&gt;, Designated Security Duties, Ships Cook &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt;, and UK Right to Work.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224290/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224290/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223736/</link>
   <title>[AI Job] Catering Crew Vacancy on Offshore Construction Vessel at TOS - Energy &amp; Maritime Crew</title>
   <dc:date>2026-07-16 14:19:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223731/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Offshore / International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced catering staff are sought for upcoming assignments aboard a Jack-Up/Offshore Support Vessel operating internationally. Open positions include Stewards and Cooks with various contract durations starting in late July 2026. Applicants must possess valid &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt; with CA-&lt;span class=&quot;caps&quot;&gt;EBS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certifications, a Marlins Test, relevant offshore experience, and a valid medical certificate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223731/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223731/</link>
-  <title>[AI Job] Catering Crew Vacancies on Offshore Support Vessels at TOS - Energy &amp; Maritime Crew</title>
-  <dc:date>2026-07-16 14:19:11</dc:date>
  </item>
 </rdf:RDF>

@@ -4,10 +4,11 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-08-2026</dc:date>
+  <dc:date>03-08-2026</dc:date>
   <items>
    <rdf:Seq>
     <rdf:li rdf:resource="https://maritime-union.com/job/224251/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224045/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223844/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223837/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223826/"/>
@@ -16,7 +17,6 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223694/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223496/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223490/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223381/"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -25,6 +25,12 @@
   <link>https://maritime-union.com/job/224251/</link>
   <title>[AI Job] 2nd Engineer Job - 44m+ Motor Yacht at YOA Yacht Crew</title>
   <dc:date>2026-07-27 11:06:36</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224045/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; San Luis Obispo County&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A handyman position is available for work on boats within San Luis Obispo County. The role involves tasks such as installing navigation systems, fresh water lines, woodwork, metal work, fabrication, painting, fiberglass, and deckhand duties. The applicant is self-taught with extensive experience in these areas.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224045/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224045/</link>
+  <title>[AI Job] Yacht Handyman Position Available at LinkedIn</title>
+  <dc:date>2026-07-23 10:16:00</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/223844/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Palma de Mallorca&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Director of Operations sought for the superyacht sector in Palma de Mallorca. This leadership role requires a strong understanding of high-end yacht operations, team management, and project oversight in a technical environment. Responsibilities include managing specialist teams and collaborating with captains and owners&amp;#39; representatives to ensure exceptional service delivery. Ideal candidates possess superyacht operations experience, rigging knowledge, and excellent communication skills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223844/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223490/</link>
   <title>[AI Job] Chief Officer Job on 60m Motor Yacht at YOA Yacht Crew</title>
   <dc:date>2026-07-14 20:30:16</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223381/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Opportunities are available for hospitality professionals aboard luxury yachts. This role offers a unique chance to contribute to reimagining luxury at sea. Key requirements and specific joining details will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223381/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223381/</link>
-  <title>[AI Job] Hospitality Jobs on Luxury Yachts at Four Seasons Yachts</title>
-  <dc:date>2026-07-14 17:29:33</dc:date>
  </item>
 </rdf:RDF>

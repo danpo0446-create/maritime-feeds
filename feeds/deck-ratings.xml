@@ -4,19 +4,19 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-08-2026</dc:date>
+  <dc:date>03-08-2026</dc:date>
   <items>
    <rdf:Seq>
     <rdf:li rdf:resource="https://maritime-union.com/job/223870/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224563/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224469/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224391/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224378/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224316/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224308/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224257/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224111/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224075/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223766/"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -37,6 +37,12 @@
   <link>https://maritime-union.com/job/224469/</link>
   <title>[AI Job] Able Seaman Jobs on Offshore Vessels at CrewBase</title>
   <dc:date>2026-07-31 00:12:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224391/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Ordinary Seamen are sought for modern ocean cruise vessels operating worldwide. This role offers a contract of 6 months onboard followed by 2 months off, with a monthly salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,050. Candidates must possess at least 6 months of relevant experience, a high school diploma or technical training, be at least 21 years old, hold basic &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; training, and have English proficiency. Previous experience on cruise ships is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224391/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224391/</link>
+  <title>[AI Job] Ordinary Seaman Job on Cruise Vessels at Job Selection</title>
+  <dc:date>2026-07-29 12:14:45</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/224378/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Rotterdam / UK Waters&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Able Seaman is sought for a Jack-Up vessel assignment in Rotterdam and UK Waters, commencing August 3, 2026. The contract is expected to run until September 11, 2026. Essential qualifications include a UK Right to Work Permit, &lt;span class=&quot;caps&quot;&gt;GWO&lt;/span&gt; Working at Heights &amp;amp; Manual Handling, Helideck Assistant Certificate, and &lt;span class=&quot;caps&quot;&gt;HUET&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt;, or &lt;span class=&quot;caps&quot;&gt;FOET&lt;/span&gt;. A Chester Step Test is also required. Candidates must meet all specified criteria.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224378/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/224075/</link>
   <title>[Gold Job] Requirements for specialized Strait of Hormuz Transit at </title>
   <dc:date>2026-07-24 08:58:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223766/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Able Seaman (AB) with at least 2 years of experience on Chemical Tankers is required for an urgent deployment. Candidates must hold an Indonesian &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; and an Advanced Chemical Tanker certificate. The salary offered is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,300. This position is for a Chemical Tanker.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223766/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223766/</link>
-  <title>[AI Job] AB Vacancy on Chemical Tanker at Andhini Eka Karya Sejahtera</title>
-  <dc:date>2026-07-17 11:39:25</dc:date>
  </item>
 </rdf:RDF>

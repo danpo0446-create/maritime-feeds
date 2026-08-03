@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-08-2026</dc:date>
+  <dc:date>03-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224408/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224401/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224397/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224298/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223707/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223677/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223609/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224408/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Istanbul&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Pumpman is sought for a newly built Oil Chemical Tanker. The role requires valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents, a medical certificate, and relevant experience on similar vessels is preferred. A good command of English is necessary. The contract duration is 3 months, with a salary of 3000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in Istanbul, with the vessel trading between Istanbul and Norway.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224408/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224408/</link>
+  <title>[AI Job] Pumpman Job on Oil Chemical Tanker at OJ Crew</title>
+  <dc:date>2026-07-29 14:22:29</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224401/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Aramco project&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Oiler with at least 2 years of experience on similar &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt; DP2 vessels is required for immediate joining. Candidates must possess an Able Seafarer Engine / Oiler (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5) &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; issued from their home country, with all documents valid for 12 months. A valid Saudi Iqama visa is not permitted. Salary is negotiable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224401/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224401/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223677/</link>
   <title>[AI Job] Motorman / Oiler Job on Oil/Chemical Tanker at OSM Thome Jobs at Sea</title>
   <dc:date>2026-07-16 12:31:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223609/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Fitter/Welder is needed for mechanical repairs and fabrication tasks onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223609/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223609/</link>
-  <title>[AI Job] Fitter/Welder Vacancy at Franco Compania Naviera S.A.</title>
-  <dc:date>2026-07-14 21:54:40</dc:date>
  </item>
 </rdf:RDF>

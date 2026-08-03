@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-08-2026</dc:date>
+  <dc:date>03-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224548/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224036/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223638/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223582/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223578/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223573/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223570/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224548/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Deck Cadet position is available for individuals seeking their first onboard training opportunity. Candidates must have completed approved pre-sea maritime training, possess valid &lt;span class=&quot;caps&quot;&gt;CDC&lt;/span&gt;, Passport, and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, and demonstrate strong communication and learning skills. This role offers structured onboard learning and sea-time towards certification. Immediate joining is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224548/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224548/</link>
+  <title>[AI Job] Deck Cadet Training Opportunity at Jobs Maritime GPT</title>
+  <dc:date>2026-07-31 14:53:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224036/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Deck Cadet position is available on a Chemical Tanker for a contract duration of 2-3 months. The monthly salary offered is 450 &amp;euro;. This is an entry-level role for aspiring maritime professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224036/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224036/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Emden&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A maritime company is seeking motivated individuals for its cadet training program. This opportunity is ideal for those who love languages, seek international work environments, and are flexible, team-oriented, and eager for challenges. The program offers long-term career prospects and the possibility of international experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223573/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223573/</link>
   <title>[AI Job] Cadet Training Program at Sunship Schiffahrtskontor KG</title>
-  <dc:date>2026-07-14 21:54:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223570/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An apprenticeship as a maritime business administrator is available for the 2026 training year. The program offers a comprehensive insight into various daily work areas of a shipping company, including chartering and nautical-technical inspection. Applicants should have an interest in shipping, a good secondary school leaving certificate or Abitur, commercial understanding, good English and German skills, and proficiency with MS Office. Teamwork is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223570/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223570/</link>
-  <title>[AI Job] Maritime Business Administrator Apprenticeship at HS Bereederungs GmbH &amp; Company KG</title>
   <dc:date>2026-07-14 21:54:35</dc:date>
  </item>
 </rdf:RDF>

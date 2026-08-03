@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-08-2026</dc:date>
+  <dc:date>03-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224678/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224579/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224536/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224499/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224371/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224359/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224361/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224352/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224678/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; KSA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A hiring company is seeking qualified seafarers for multiple offshore vessels, including Pollution Control Vessels and &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, operating in &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt;. Open positions include Master, Chief Officer, Chief Engineer, 2nd Engineer, 3rd Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Asst. &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Able Seaman, Crane Operator, Mechanic/Motorman, Welder/Fitter, and H2S Technician. Candidates with valid certificates for at least 12 months are required. Aramco approval is preferred for some roles. Salary is negotiable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224678/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224678/</link>
+  <title>[AI Job] Multiple Maritime Positions on Offshore Vessels at Aavishka Shipping Pvt. Ltd.</title>
+  <dc:date>2026-08-03 08:20:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224579/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Masters, Chief Engineers, and Chief Officers are sought for immediate deployment on various offshore support vessels including Supply Vessels, &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, Crew Boats, Pilot Boats, and &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tugs. A minimum of 2 years of rank experience on the specific vessel type is required. The contract duration is 3 months (+/- 1 month). All certificates and documents must be valid for a minimum of 12 months, and candidates must not hold a valid &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; visa. Salary is to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224579/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224579/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/224361/</link>
   <title>[AI Job] Offshore Officers (Master, Chief Engineer, Chief Officer) Vacancy at Aavishka Shipping Pvt Ltd</title>
   <dc:date>2026-07-28 22:35:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224352/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced seafarers are sought for Saudi Aramco &lt;span class=&quot;caps&quot;&gt;FSIV&lt;/span&gt; DP2 vessels. Open positions include Master &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, Chief Officer &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, 2nd Officer &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, Chief Engineer, 2nd Engineer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;. Candidates must have 24 months of DP2 experience logged and hold an Unlimited &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; (as applicable). Full DP certification is required for &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt; roles. Saudi Aramco approval is preferred. Joining is scheduled for next week.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224352/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224352/</link>
-  <title>[AI Job] Offshore DP2 Vacancies - Master, Chief Officer, Engineer, ETO at High Tiide Ship Management Private Limited</title>
-  <dc:date>2026-07-28 22:35:51</dc:date>
  </item>
 </rdf:RDF>
