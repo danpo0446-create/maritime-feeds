@@ -4,10 +4,11 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-08-2026</dc:date>
+  <dc:date>04-08-2026</dc:date>
   <items>
    <rdf:Seq>
     <rdf:li rdf:resource="https://maritime-union.com/job/224678/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224617/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224579/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224536/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224499/"/>
@@ -16,7 +17,6 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224393/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224371/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224359/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224361/"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -25,6 +25,12 @@
   <link>https://maritime-union.com/job/224678/</link>
   <title>[AI Job] Multiple Maritime Positions on Offshore Vessels at Aavishka Shipping Pvt. Ltd.</title>
   <dc:date>2026-08-03 08:20:37</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224617/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced maritime professionals are sought for immediate deployment as Master, Chief Engineer, or Chief Officer on various offshore vessels including Supply Vessels, &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, Crew Boats, and &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tugs. A minimum of 2 years of rank experience on the specific vessel type is required. The contract duration is 3 months (+/- 1 month), with salary to be discussed. All certificates must be valid for a minimum of 12 months, and candidates must not hold a valid &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; visa. Immediate joining is expected.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224617/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224617/</link>
+  <title>[AI Job] Master, Chief Engineer, Chief Officer Jobs on Offshore Vessels at Aavishka Shipping Pvt. Ltd.</title>
+  <dc:date>2026-08-01 16:55:01</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/224579/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Masters, Chief Engineers, and Chief Officers are sought for immediate deployment on various offshore support vessels including Supply Vessels, &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, Crew Boats, Pilot Boats, and &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tugs. A minimum of 2 years of rank experience on the specific vessel type is required. The contract duration is 3 months (+/- 1 month). All certificates and documents must be valid for a minimum of 12 months, and candidates must not hold a valid &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; visa. Salary is to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224579/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Marine Officers are sought for immediate deployment on various offshore support vessels including &lt;span class=&quot;caps&quot;&gt;VSP&lt;/span&gt;, Supply Vessels, &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, Crew Boats, and &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tugs. Positions include Master, Chief Engineer, and Chief Officer. The contract duration is 3 months (+/- 1 month). Salary is negotiable. Candidates require a minimum of 2 years of rank experience on the specified vessel type and valid certificates. Immediate joining is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224359/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224359/</link>
   <title>[AI Job] Master, Chief Engineer, Chief Officer Jobs on Offshore Vessels at Aavishka Shipping Pvt Ltd</title>
-  <dc:date>2026-07-28 22:35:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224361/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Masters, Chief Engineers, and Chief Officers are sought for immediate deployment on various offshore support vessels including Supply Vessels, &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, Crew Boats, and &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tugs. A minimum of 2 years of rank experience on the specific vessel type is required. The contract duration is 3 months (+/- 1 month). All certificates and documents must be valid for a minimum of 12 months, and candidates must not hold a valid &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; visa. Salary is to be discussed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224361/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224361/</link>
-  <title>[AI Job] Offshore Officers (Master, Chief Engineer, Chief Officer) Vacancy at Aavishka Shipping Pvt Ltd</title>
   <dc:date>2026-07-28 22:35:52</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-08-2026</dc:date>
+  <dc:date>04-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224696/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224651/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224650/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224589/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224573/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224524/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224471/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224453/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223739/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224395/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224696/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224696/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224696/</link>
+  <title>[Gold Job] Chief Officer DPO for DP2 AHTS vessel at </title>
+  <dc:date>2026-08-03 10:17:56</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224651/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Offshore, Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Officer position is available on a DP2 Crew Boat operating offshore Qatar. Applicants must hold a valid Chief Mate &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Certificate of Competency and a full DP License. A minimum of 12 months of sea-time experience is required, with prior experience on DP2 vessels being preferred. Strong knowledge of DP operations, watchkeeping, and &lt;span class=&quot;caps&quot;&gt;COLREG&lt;/span&gt;s is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224651/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224651/</link>
+  <title>[AI Job] Chief Officer Job on DP2 Crew Boat in Qatar at Milaha</title>
+  <dc:date>2026-08-02 08:20:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224650/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Offshore, Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Chief Officer position is available on a DP2 Crew Boat operating offshore Qatar. Applicants must hold a valid Chief Mate &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Certificate of Competency and a full DP License. A minimum of 12 months of sea-time experience is required, with prior experience on DP2 vessels being advantageous. Strong knowledge of DP operations, bridge watchkeeping, passage planning, and &lt;span class=&quot;caps&quot;&gt;COLREG&lt;/span&gt;s is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224650/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224650/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/224453/</link>
   <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
   <dc:date>2026-07-30 10:31:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223739/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223739/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223739/</link>
-  <title>[Gold Job] OPEN VACANCY FOR CH. OFFICER- EU citizen at </title>
-  <dc:date>2026-07-29 14:08:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224395/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; North Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 2nd Engineer is required for various offshore support vessels, including &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;MPSV&lt;/span&gt;, Construction, and Heavy Lift types, operating in the North Sea and other regions. Boarding is expected from early August. Candidates with a valid 2nd Engineer ticket are encouraged to apply. Specific vessel types and locations are available for filtering.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224395/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224395/</link>
-  <title>[AI Job] 2nd Engineer Job - Offshore Support Vessel at CrewBase</title>
-  <dc:date>2026-07-29 12:14:45</dc:date>
  </item>
 </rdf:RDF>

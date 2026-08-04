@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-08-2026</dc:date>
+  <dc:date>04-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224695/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224568/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224567/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224507/"/>
@@ -15,11 +16,16 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224455/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224454/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224407/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224364/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224353/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224405/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224695/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224695/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224695/</link>
+  <title>[Gold Job] Second Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-03 10:16:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224568/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224568/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224568/</link>
@@ -68,16 +74,10 @@
   <title>[Gold Job] Asap- open vacancy for 3rd Engineer at </title>
   <dc:date>2026-07-29 14:11:29</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/224364/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224364/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224364/</link>
-  <title>[Gold Job] Chief Engineer for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
-  <dc:date>2026-07-29 10:03:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224353/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 4th Engineer is needed for an Offshore Support Vessel operating in Europe. The position is full-time with a joining date of August 5, 2026, and a contract duration of 5 weeks. Key requirements include relevant qualifications and experience for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224353/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224353/</link>
-  <title>[AI Job] 4th Engineer Job - Offshore Support Vessel at ORCA Crew Services</title>
-  <dc:date>2026-07-28 22:35:51</dc:date>
+ <item rdf:about="https://maritime-union.com/job/224405/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dammam, Eastern Province&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A professional maritime engineering team is seeking a Second Engineer for a Non-DP &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt; vessel. The role involves ensuring the safe operation, maintenance, and reliability of main and auxiliary machinery, overseeing engineering watchkeeping, and supporting repairs. Responsibilities include adherence to safety and environmental standards, managing the engine department, and maintaining engine room cleanliness. The position reports to the Chief Engineer and Master.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224405/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224405/</link>
+  <title>[AI Job] 2nd Engineer Job - Non-DP AHTS Vessel at Dammam jobs, Eastern Province</title>
+  <dc:date>2026-07-29 12:14:46</dc:date>
  </item>
 </rdf:RDF>

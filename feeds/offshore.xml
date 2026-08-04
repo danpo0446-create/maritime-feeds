@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-08-2026</dc:date>
+  <dc:date>04-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224743/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224671/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224556/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224537/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224482/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224481/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224468/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224464/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224743/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224743/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224743/</link>
+  <title>[Gold Job] WE&apos;RE HIRING! Deck Engine Driver Supervisor at </title>
+  <dc:date>2026-08-04 07:27:27</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224671/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Oil &amp; Gas&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Multiple positions are available for an offshore oil and gas maintenance project. Roles include Mechanical, Electrical, Instrumentation, &lt;span class=&quot;caps&quot;&gt;HVAC&lt;/span&gt;, and &lt;span class=&quot;caps&quot;&gt;ICT&lt;/span&gt; technicians and supervisors. The rotation is 28 days on and 28 days off. Key specializations sought include hydraulics, rotating equipment, DeltaV &lt;span class=&quot;caps&quot;&gt;ICSS&lt;/span&gt;, and &lt;span class=&quot;caps&quot;&gt;PLC&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224671/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224671/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Red Sea, Egypt&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A marine and petroleum services company is seeking experienced candidates for various ranks on Offshore Supply Vessels operating in the Red Sea, Egypt. Positions include Master, Chief Officer, Second Officer, Chief Engineer, Third Engineer, Able Seaman, Ordinary Seaman, Mechanic, Assistant Mechanic, and Cook. Applicants must have proven relevant experience and valid seaman documents with a minimum of six months&amp;#39; validity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224468/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224468/</link>
   <title>[AI Job] Offshore Supply Vessel Crew Vacancies at Sea Breeze for Marine and Petroleum Services</title>
-  <dc:date>2026-07-31 00:12:23</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224464/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; ADNOC / ADOC&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced offshore construction crew candidates are urgently sought for &lt;span class=&quot;caps&quot;&gt;ADNOC&lt;/span&gt;/ADOC projects. Positions include Construction Superintendent, Barge Foreman, Deck Foreman, Tower Operator, Rigging Foreman, Scaffolders, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Supervisor, Doctor, Nurse, and various other roles. Specific experience with &lt;span class=&quot;caps&quot;&gt;ADNOC&lt;/span&gt;/ADOC offshore operations is required for consideration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224464/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224464/</link>
-  <title>[AI Job] Offshore Construction Crew Vacancies - ADNOC/ADOC Experienced at WORLD JOBS</title>
   <dc:date>2026-07-31 00:12:23</dc:date>
  </item>
 </rdf:RDF>

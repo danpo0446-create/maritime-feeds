@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-08-2026</dc:date>
+  <dc:date>04-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224697/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223870/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224563/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224469/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224308/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224257/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224111/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224075/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224697/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224697/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224697/</link>
+  <title>[Gold Job] Bosun for AHTS vessel  at </title>
+  <dc:date>2026-08-03 10:19:14</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223870/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223870/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223870/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/224111/</link>
   <title>[Gold Job] Asap- Vacancy for AB on Ch./Oil tanker at </title>
   <dc:date>2026-07-24 12:36:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224075/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224075/</link>
-  <title>[Gold Job] Requirements for specialized Strait of Hormuz Transit at </title>
-  <dc:date>2026-07-24 08:58:29</dc:date>
  </item>
 </rdf:RDF>

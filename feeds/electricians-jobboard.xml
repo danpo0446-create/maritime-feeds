@@ -4,10 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-08-2026</dc:date>
+  <dc:date>04-08-2026</dc:date>
   <items>
    <rdf:Seq>
     <rdf:li rdf:resource="https://maritime-union.com/job/224434/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224345/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224291/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224286/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224263/"/>
@@ -16,7 +17,6 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223778/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223776/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223775/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223769/"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -25,6 +25,12 @@
   <link>https://maritime-union.com/job/224434/</link>
   <title>[AI Job] Senior Electronics Technician Job on Offshore Vessels at Expo Universe</title>
   <dc:date>2026-07-29 23:50:12</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224345/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Vaud&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;An Electrical Superintendent position is available in Vaud, Switzerland. This role requires expertise in electrical systems within the maritime industry. Further details regarding the contract and specific responsibilities will be provided to qualified candidates. Interested individuals are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224345/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224345/</link>
+  <title>[AI Job] Electrical Superintendent Job - Maritime at ABC Maritime AG</title>
+  <dc:date>2026-07-28 19:07:59</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/224291/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Portland, Oregon&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Marine Electrician is sought to install, troubleshoot, and repair electrical systems on vessels, adhering to relevant maritime regulations and company policies. Responsibilities include reading schematics, supporting commissioning, and working in confined spaces. Previous marine or industrial electrical experience is required. &lt;span class=&quot;caps&quot;&gt;TWIC&lt;/span&gt; card is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224291/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223775/</link>
   <title>[AI Job] Marine Electrician Job - Offshore Sector at Charlotte White</title>
   <dc:date>2026-07-17 11:39:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223769/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kuala Lumpur&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A Lead Electrical and Instrumentation Engineer is sought for ship newbuilding projects, based in Kuala Lumpur with potential assignments at major shipyards. The role encompasses the entire project lifecycle from initiation to ship delivery. Requires a minimum of 8 years&amp;#39; experience in &lt;span class=&quot;caps&quot;&gt;LNGC&lt;/span&gt; and Oil Tanker E&amp;amp;I design or drawing appraisal, or relevant experience in newbuilding, conversion, retrofitting, or drydocking. A degree in Electrical or Electronic Engineering, or onboard electrician experience, is necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223769/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223769/</link>
-  <title>[AI Job] Lead Engineer Job - Ship Newbuilding at MISC Group</title>
-  <dc:date>2026-07-17 11:39:25</dc:date>
  </item>
 </rdf:RDF>
