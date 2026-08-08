@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-08-2026</dc:date>
+  <dc:date>08-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224902/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224901/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224900/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224899/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224833/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224799/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224758/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224747/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224721/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224720/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224706/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224699/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/224902/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224902/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224902/</link>
+  <title>[Gold Job] Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-08-07 10:33:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224901/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224901/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224901/</link>
+  <title>[Gold Job] Master DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-08-07 10:26:27</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/224900/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224900/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/224900/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-07 10:24:48</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224899/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224899/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224899/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/224721/</link>
   <title>[AI Job] Chief Officer Job on General Cargo Vessel at Stan Shipping Agency Ltd</title>
   <dc:date>2026-08-04 02:21:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224720/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Officer required for a 55m Motor Yacht operating a busy private and charter program in Europe. The role involves managing the deck department of four, overseeing passage planning, navigational watches, maintenance, and yacht safety procedures (&lt;span class=&quot;caps&quot;&gt;ISM&lt;/span&gt;, Ship Security). Candidates must hold an &lt;span class=&quot;caps&quot;&gt;MCA&lt;/span&gt; Chief Mate 3000GT or Master 3000GT, with previous experience on similar-sized motor yachts and essential &lt;span class=&quot;caps&quot;&gt;SSO&lt;/span&gt;/ISM certification. A &lt;span class=&quot;caps&quot;&gt;PWC&lt;/span&gt; Instructor qualification is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224720/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224720/</link>
-  <title>[AI Job] Chief Officer Job on 55m Motor Yacht at Crew &amp; Concierge Ltd.</title>
-  <dc:date>2026-08-04 02:21:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224706/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai, Navi Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent position is available for candidates with 3-8 years of experience, preferably with a Master Mariner (FG) Certificate of Competency and at least 3-5 years of sailing experience as Captain/Master. The role involves supervising vessel operations, ensuring compliance with regulations, coordinating cargo handling for breakbulk, container, and project cargo, and conducting bunker surveys. Experience on Breakbulk, General Cargo, Bulk Carrier, or Container Vessels is required. The salary offered is between 15-30 Lacs P.A. This onshore position is based in Mumbai.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224706/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224706/</link>
-  <title>[AI Job] Marine Superintendent Job - Mumbai at Sanguine Consultants</title>
-  <dc:date>2026-08-04 02:07:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224699/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Master required for a Harbour Tug. This is a one-time assignment with joining on 02 September 2026. The contract duration is short-term. If available and interested, please submit your CV and relevant certificates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224699/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224699/</link>
-  <title>[AI Job] Master Vacancy on Harbour Tug at tospeople.com</title>
-  <dc:date>2026-08-04 02:07:58</dc:date>
  </item>
 </rdf:RDF>
