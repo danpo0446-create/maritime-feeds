@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>10-08-2026</dc:date>
+  <dc:date>11-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225147/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225146/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224832/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224796/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224777/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224772/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224765/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224764/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224762/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225147/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225147/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225147/</link>
+  <title>[Gold Job] ETO for Self-Propelled Jack-Up Barge  at </title>
+  <dc:date>2026-08-10 10:05:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225146/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225146/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225146/</link>
+  <title>[Gold Job] Second Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-10 10:04:51</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224898/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224898/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224898/</link>
@@ -66,18 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Poland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is sought for a maritime role. The position is based in Poland, with the possibility of remote work. Further details regarding vessel type, joining date, and contract duration are available upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224765/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224765/</link>
   <title>[AI Job] 2nd Engineer Job Vacancy at iPS Powerful People</title>
-  <dc:date>2026-08-04 19:53:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224764/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 4th Engineer is sought for an upcoming position. This role requires a qualified engineer to join a maritime operation. Further details regarding vessel type, contract, and joining date will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224764/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224764/</link>
-  <title>[AI Job] 4th Engineer Job Vacancy at iPS Powerful People</title>
-  <dc:date>2026-08-04 19:53:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224762/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Engineer position is available. This role is based in the Netherlands. Further details regarding vessel type, joining date, and contract duration are to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224762/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224762/</link>
-  <title>[AI Job] 3rd Engineer Job Vacancy at iPS Powerful People</title>
   <dc:date>2026-08-04 19:53:41</dc:date>
  </item>
 </rdf:RDF>
