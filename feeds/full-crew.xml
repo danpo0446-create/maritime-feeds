@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-08-2026</dc:date>
+  <dc:date>12-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225266/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224829/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224800/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224787/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224753/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224746/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224749/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224719/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225266/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225266/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225266/</link>
+  <title>[Gold Job] KTSHIP - ASAP vacancies - 11 AUG at </title>
+  <dc:date>2026-08-11 12:12:40</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224829/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple technical and supervisory positions are available at a shipyard in Saudi Arabia. Roles include &lt;span class=&quot;caps&quot;&gt;CNC&lt;/span&gt; Machinists, Fabricators, Marine Mechanics, Marine Electricians, Ship Fitters, Welders, Painters, Riggers, Foremen, and Supervisors. Benefits include free food, accommodation, transportation, and medical insurance. The job is located in Saudi Arabia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224829/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224829/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/224749/</link>
   <title>[AI Job] Maritime Operations &amp;amp; Commercial Roles - Singapore at Caliber8 Recruitment</title>
   <dc:date>2026-08-04 08:59:17</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224719/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A marine services company is seeking skilled personnel for various onboard roles including Vessel Master, Chief Engineer, Engineering Officer, Chief Mate, Senior Dynamic Position Officer, Cook, and Deck Rating. Applications are open until August 8th, 2026. Interested candidates are encouraged to apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224719/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224719/</link>
-  <title>[AI Job] Maritime Crew Vacancies - Multiple Positions at Pegis Marine Recruitment</title>
-  <dc:date>2026-08-04 02:21:04</dc:date>
  </item>
 </rdf:RDF>

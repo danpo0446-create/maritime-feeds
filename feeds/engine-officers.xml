@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-08-2026</dc:date>
+  <dc:date>12-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225218/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225169/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225147/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225146/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224898/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224792/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224791/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224777/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224772/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224765/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225218/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225218/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225218/</link>
+  <title>[Gold Job] ETO for Crude oil tanker 6000-7500 USD ASAP at </title>
+  <dc:date>2026-08-11 11:54:19</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225169/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225169/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225169/</link>
+  <title>[Gold Job] Second Engineer for DP2 AHTS vessel at </title>
+  <dc:date>2026-08-11 11:04:41</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225147/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225147/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225147/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/224777/</link>
   <title>[AI Job] 2nd Engineer Job - Buoy Tender at Clyde Marine Recruitment</title>
   <dc:date>2026-08-04 19:53:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224772/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Plymouth&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is required for a Maintenance Support vessel joining in Plymouth on August 11th for a 5-week contract. Applicants must possess a 2nd Engineer CoC, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, a valid ENG1 medical, and hold a UK or Irish passport due to security requirements.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224772/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224772/</link>
-  <title>[AI Job] 2nd Engineer Job - Maintenance Support Vessel at Clyde Marine Recruitment</title>
-  <dc:date>2026-08-04 19:53:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224765/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Poland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is sought for a maritime role. The position is based in Poland, with the possibility of remote work. Further details regarding vessel type, joining date, and contract duration are available upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224765/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224765/</link>
-  <title>[AI Job] 2nd Engineer Job Vacancy at iPS Powerful People</title>
-  <dc:date>2026-08-04 19:53:41</dc:date>
  </item>
 </rdf:RDF>

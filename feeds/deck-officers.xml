@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-08-2026</dc:date>
+  <dc:date>12-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225219/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225170/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225073/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224902/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224901/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224900/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224833/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224799/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224785/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224758/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224747/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224721/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225219/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225219/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225219/</link>
+  <title>[Gold Job] Master for Crude oil tanker 12000-15000USD Asap at </title>
+  <dc:date>2026-08-11 11:57:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225170/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225170/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225170/</link>
+  <title>[Gold Job] Master for 4 Point Mooring DSV / Maintenance / Work Boat (NON DP) Vessel at </title>
+  <dc:date>2026-08-11 11:05:38</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225073/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Experienced Masters, Chief Engineers, Second Engineers, Third Engineers, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;s, and Assistant &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;s/Electricians are sought for a Self-Propelled Jack-Up Barge (&lt;span class=&quot;caps&quot;&gt;SPJUB&lt;/span&gt;) fleet. Positions require specific Certificates of Competency and a minimum of 12-24 months of relevant experience on &lt;span class=&quot;caps&quot;&gt;SPJUB&lt;/span&gt;s or similar vessels. Contract durations range from 60 to 90 days on, with 30 to 60 days off. Salary is negotiable. Interested candidates should submit their CV and supporting documents.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225073/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225073/</link>
+  <title>[AI Job] Officers Vacancies on SPJUB Fleet at Aavishka</title>
+  <dc:date>2026-08-08 14:18:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224902/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224902/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224902/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/224785/</link>
   <title>[AI Job] Captain Job on Passenger Vessel in Dublin at Clyde Marine Recruitment</title>
   <dc:date>2026-08-04 19:53:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224758/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Rosslare – Fishguard&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available for a ferry operating on the Rosslare – Fishguard route. This role involves navigating busy routes and leading onboard teams to ensure connectivity across the Irish Sea. The position offers new challenges, opportunities, and experiences at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224758/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224758/</link>
-  <title>[AI Job] Chief Officer Job on Ferry - Rosslare to Fishguard at Stena Line</title>
-  <dc:date>2026-08-04 19:53:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224747/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent position is available for experienced Master Mariners with sailing experience on Product/Chemical tankers. The role involves overseeing marine operations, ensuring navigational safety, regulatory compliance, and implementing the company&amp;#8217;s Safety Management System. Key responsibilities include conducting audits, managing vetting performance, and supporting operational improvements. Requires 1-3 years of experience as a Marine Superintendent and strong knowledge of maritime regulations and &lt;span class=&quot;caps&quot;&gt;HSQE&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224747/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224747/</link>
-  <title>[AI Job] Marine Superintendent Job on Product Chemical Tanker at MTM Ship Management PVT LTD</title>
-  <dc:date>2026-08-04 08:59:17</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224721/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a General Cargo vessel. The joining date is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;, with a contract duration of 6 weeks. The monthly salary offered is 6335 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Candidates must possess an EU passport or Schengen visa. Further details are available upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224721/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224721/</link>
-  <title>[AI Job] Chief Officer Job on General Cargo Vessel at Stan Shipping Agency Ltd</title>
-  <dc:date>2026-08-04 02:21:04</dc:date>
  </item>
 </rdf:RDF>
