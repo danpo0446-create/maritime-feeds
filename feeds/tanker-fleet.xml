@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-08-2026</dc:date>
+  <dc:date>14-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225454/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225453/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224804/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224805/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224797/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224666/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224615/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224602/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224587/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224583/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225454/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225454/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225454/</link>
+  <title>[Gold Job] Wiper for Crude oil tanker 800-1500USD ASAP at </title>
+  <dc:date>2026-08-13 13:18:41</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225453/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225453/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225453/</link>
+  <title>[Gold Job] OS for Oil tanker DWT 47000, 800-1500USD ASAP at </title>
+  <dc:date>2026-08-13 12:54:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224804/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced officers and engineers are sought for various positions including Chief Officer, Second Officer, Third Officer, Second Engineer, Third Engineer, Fourth Engineer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;. Opportunities are available on Oil Tankers, &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt;s, Chemical Tankers, &lt;span class=&quot;caps&quot;&gt;VLGC&lt;/span&gt;s, and &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; Carriers. Relevant experience on similar vessel types is required for all roles. Apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224804/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224804/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/224602/</link>
   <title>[AI Job] Master Vacancy on Tanker Vessel at Oceanic Star Shipping Pvt Ltd.</title>
   <dc:date>2026-08-01 16:54:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224587/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Officer and Second Engineer required for a 3000+ &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; Oil Tanker. Candidates must possess a valid Indian CoC. This is an urgent hiring opportunity for qualified maritime professionals seeking their next career move.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224587/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224587/</link>
-  <title>[AI Job] Chief Officer &amp;amp; 2nd Engineer Job - Oil Tanker at Clipper Oceans Ventures India Pvt. Ltd.</title>
-  <dc:date>2026-08-01 11:53:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224583/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available on an Oil/Chemical Tanker with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 50413, built in 2026. Joining is expected at the end of September for a contract duration of 4 months, +/- 1 month. Salary is negotiable. Applicants must have experience in rank on similar ships, maintain effective English communication, and possess a strong safety culture. Experience in a multinational working environment is also required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224583/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224583/</link>
-  <title>[AI Job] Master Vacancy on Oil/Chemical Tanker at CSM Manning Agency</title>
-  <dc:date>2026-08-01 11:53:30</dc:date>
  </item>
 </rdf:RDF>

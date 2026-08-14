@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-08-2026</dc:date>
+  <dc:date>14-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225417/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225415/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224823/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224795/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224751/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224697/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224594/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/223870/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224563/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225417/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225417/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225417/</link>
+  <title>[Gold Job] Open vacancy for AB on Reefer ship at </title>
+  <dc:date>2026-08-13 11:58:04</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225415/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225415/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225415/</link>
+  <title>[Gold Job] Open vacancy for Ordinary seaman on Reefer ship at </title>
+  <dc:date>2026-08-13 11:55:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224823/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bosun position is available on a Geotechnical vessel, with joining dates between August 16th and September 2nd. The role is based in the UK. Candidates must possess a valid CoP, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, Seafarers Medical, Passport, Seamans Book, and recent appraisals. Non-UK nationals require a UK &lt;span class=&quot;caps&quot;&gt;RTW&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;FWP&lt;/span&gt; and a Marlins Test.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224823/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224823/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/224594/</link>
   <title>[AI Job] Deckhand Job on 75m Motor Yacht at MYyachtcrew</title>
   <dc:date>2026-08-01 11:53:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/223870/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223870/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/223870/</link>
-  <title>[Gold Job] Able Seaman for m/v &quot;DESCARTES&quot; at </title>
-  <dc:date>2026-08-01 09:05:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224563/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A 2nd Mate position is available on an Offshore Support Vessel. The contract is temporary, lasting 5 weeks, with a joining date of August 3, 2026. The role is located in the UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224563/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224563/</link>
-  <title>[AI Job] 2nd Mate Job on Offshore Support Vessel at ORCA Crew Services</title>
-  <dc:date>2026-07-31 22:07:36</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-08-2026</dc:date>
+  <dc:date>14-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225414/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225219/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225170/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225073/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/224899/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224833/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/224799/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224785/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225414/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225414/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225414/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-13 10:31:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225219/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225219/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225219/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/224799/</link>
   <title>[AI Job] 2nd Officer Job on General Cargo Vessel at Seacover Crew Management</title>
   <dc:date>2026-08-04 20:22:54</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/224785/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dublin&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain is sought for a permanent position commanding a Class B passenger vessel operating in Dublin Bay. The role requires a &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Master 500GT Near Coastal Certificate of Competency and proven leadership experience, ideally within passenger or near coastal operations. Responsibilities include ensuring safe navigation, leading the onboard team, managing daily operations, and upholding safety standards. Accommodation is provided in Dublin.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224785/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/224785/</link>
-  <title>[AI Job] Captain Job on Passenger Vessel in Dublin at Clyde Marine Recruitment</title>
-  <dc:date>2026-08-04 19:53:44</dc:date>
  </item>
 </rdf:RDF>
