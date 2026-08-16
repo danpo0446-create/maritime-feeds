@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-08-2026</dc:date>
+  <dc:date>16-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225634/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225603/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225602/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225539/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225504/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225401/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225363/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225338/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225329/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225314/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225286/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225235/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225634/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A skilled Marine Electrician is sought for the installation of electrical systems on sea-going vessels. Responsibilities include the complete electrical outfitting, working with radar, navigation systems, solar panels, inverters, safety control systems, and telecommunications. Requires an Electrical or Auto Electrical Trade test, a minimum of 2 years&amp;#8217; relevant experience, and the ability to read electrical drawings. Knowledge of relevant standards and AutoCAD/Draftsight is also needed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225634/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225634/</link>
+  <title>[AI Job] Marine Electrician Job on Sea Going Vessels at Western Cape Recruitment</title>
+  <dc:date>2026-08-15 00:28:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225603/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Auckland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Marine Electrician or technically minded sales engineer is sought for an innovative product deployment role. The position involves enabling and supporting distributors, boat builders, &lt;span class=&quot;caps&quot;&gt;OEM&lt;/span&gt;s, System Integrators, and installers to independently design, sell, and configure solutions. This role provides end-to-end technical support across the sales lifecycle. The ideal candidate will be based in Auckland and possess strong technical and sales skills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225603/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225603/</link>
+  <title>[AI Job] Marine Electrician Job in Auckland at HikoTerra</title>
+  <dc:date>2026-08-14 14:20:26</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225602/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Aberdeen&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A permanent position for a Marine Electrician is available in Aberdeen. The role involves installation, maintenance, inspection, and repair of AC/DC and LV marine electrical systems and equipment, including diagnosing and rectifying faults on offshore and marine assets. A time-served apprenticeship and strong AC/DC and LV electrical knowledge are required. Salary ranges from £43,000 to £49,000 per annum, with a company van provided. This is a Monday to Friday position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225602/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225602/</link>
+  <title>[AI Job] Marine Electrician Job - Offshore Sector at Charlotte White</title>
+  <dc:date>2026-08-14 14:20:26</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225539/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is required for a Panamax Bulk Carrier vessel. The position is located in China, with a joining date of August 5, 2026. A minimum of one year of contract experience as an &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; on a Panamax Bulk Carrier is necessary for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225539/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225539/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/225329/</link>
   <title>[AI Job] Electrician Job - New Construction Shipbuilding at Fincantieri Marine Group</title>
   <dc:date>2026-08-11 20:19:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225314/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for an Offshore Construction Vessel operating in the UK. This role requires a qualified &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; to manage the vessel&amp;#8217;s electrical systems. Further details about the position and application process are available via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225314/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225314/</link>
-  <title>[AI Job] ETO Job on Offshore Construction Vessel - UK at OSM Thome Jobs at Sea</title>
-  <dc:date>2026-08-11 20:19:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225286/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a bulk carrier vessel. The contract duration is 4 months, with embarkation scheduled for September 10, 2026. Key vessel details include its type as &lt;span class=&quot;caps&quot;&gt;BULK&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 38586, and a 2016 build year. The vessel sails under the Portugal flag and is powered by a &lt;span class=&quot;caps&quot;&gt;WARTSILA&lt;/span&gt; 5RT-flex50-D engine.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225286/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225286/</link>
-  <title>[AI Job] ETO Job on Bulk Carrier Vessel at Columbia Shipmanagement Ukraine Dry Fleet</title>
-  <dc:date>2026-08-11 14:19:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225235/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for an &lt;span class=&quot;caps&quot;&gt;OCV&lt;/span&gt;/DSV DP3 vessel. The position offers a daily rate of 300-330 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;, with joining expected at the end of August for a 3-month contract. Applicants require at least 2 years of experience in rank on DP2/DP3 vessels, including &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt;/MPSV, with DP maintenance skills and good English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225235/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225235/</link>
-  <title>[AI Job] ETO Job on OCV/DSV DP3 Vessel at Alpha Crew Group</title>
-  <dc:date>2026-08-11 12:00:15</dc:date>
  </item>
 </rdf:RDF>

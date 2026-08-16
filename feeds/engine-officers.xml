@@ -4,27 +4,45 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-08-2026</dc:date>
+  <dc:date>16-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225624/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225615/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225609/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225575/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225564/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225549/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225542/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225519/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225518/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225516/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225512/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225511/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225509/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225624/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer is sought for an Oil/Chemical Tanker of 5885 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The position requires experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt;-B&amp;amp;W main engines of 3360 kW. Joining is scheduled for August 20, 2026, with a contract duration of 6 weeks. The offered salary is $8625 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225624/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225624/</link>
+  <title>[AI Job] 2nd Engineer Job - Oil/Chemical Tanker at Saga</title>
+  <dc:date>2026-08-15 00:28:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225615/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for a yacht. This position requires experience in marine engineering and vessel operations. The role involves overseeing the engine department and ensuring the smooth running of all machinery onboard. Further details on yacht jobs can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225615/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225615/</link>
+  <title>[AI Job] Chief Engineer Job on Yacht at Lighthouse Careers</title>
+  <dc:date>2026-08-15 00:28:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225609/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225609/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225609/</link>
   <title>[Gold Job] Open vacancy for 2nd Engineer at </title>
   <dc:date>2026-08-14 16:45:25</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225575/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Exeter, Devon&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Mechanical Technician is sought for an Energy from Waste Power Station located in Exeter, Devon. This role is suitable for mechanically biased Royal/Merchant Navy Marine Engineers considering a career transition. Responsibilities include maintenance of steam boilers, conveyor systems, gearboxes, pumps, valves, hydraulics, and pneumatics. The position offers a salary of £49,129, plus overtime, bonuses, and call-out allowances.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225575/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225575/</link>
+  <title>[AI Job] Mechanical Technician Job - Energy from Waste Power Station at Power Generation Recruiter</title>
+  <dc:date>2026-08-14 14:20:22</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/225564/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is underway for 3rd Engineer, 4th Engineer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; positions aboard a Crude Oil Tanker (150,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). Indian Certificate of Competency holders are encouraged to apply. This role requires experience in the maritime industry, specifically on tanker vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225564/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/225516/</link>
   <title>[AI Job] Maritime Port Engineering Director Job in Angola at CA Mining</title>
   <dc:date>2026-08-14 12:30:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225512/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer with at least 3 years of experience is sought for a passenger vessel. The position offers a permanent contract with a 3/2-month rotation and an attractive salary. Benefits include medical insurance, pension contributions, and covered recruitment expenses. Previous experience on passenger vessels and B1 level English are preferred. All required &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and Certificate of Competency &lt;span class=&quot;caps&quot;&gt;IMO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 are mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225512/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225512/</link>
-  <title>[AI Job] 2nd Engineer Job - Passenger Vessel at GOOD WINDS MARINE SERVICES</title>
-  <dc:date>2026-08-14 12:30:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225511/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A First Engineer (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 unlimited) with at least 1 year of experience as a watchkeeping engineer on a cruise vessel or chief engineer on other vessel types is sought for passenger vessels. The role offers a permanent contract with a 3/2 month rotation, attractive salary, medical insurance, pension, and social benefits. Professional training is provided. Candidates must hold a national second engineer certificate of competency and possess good communication and technical English skills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225511/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225511/</link>
-  <title>[AI Job] First Engineer Job on Passenger Vessel at GOOD WINDS MARINE SERVICES</title>
-  <dc:date>2026-08-14 12:30:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225509/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A First Engineer (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 unlimited) with at least 1 year of watchkeeping experience on cruise vessels or as Chief Engineer is sought for passenger vessels. The role offers a 3/2 month rotation with an attractive salary, permanent contract, medical insurance, pension, and social benefits. Professional training is provided. Excellent English communication skills are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225509/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225509/</link>
-  <title>[AI Job] First Engineer Job on Passenger Vessel at GOOD WINDS MARINE SERVICES</title>
-  <dc:date>2026-08-14 12:30:35</dc:date>
  </item>
 </rdf:RDF>

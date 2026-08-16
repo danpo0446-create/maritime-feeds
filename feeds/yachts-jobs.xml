@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-08-2026</dc:date>
+  <dc:date>16-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225588/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225577/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225405/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225355/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225284/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225221/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225203/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225128/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225123/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225089/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225588/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Palma de Mallorca, Barcelona&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Lead Technicians are sought for yacht service operations in Palma de Mallorca and Barcelona. This role involves specialist maintenance and repairs for a fleet of luxury yachts. Candidates should be experienced Marine Technicians or Engineers who take pride in their work and can contribute to a world-class service team.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225588/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225588/</link>
+  <title>[AI Job] Lead Technician Job - Yacht Service at Oyster Yachts</title>
+  <dc:date>2026-08-14 14:20:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225577/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for a Motor Yacht operating in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;. Roles include Captain, Chief Officer, Bosun, Deckhand/Mate in the Deck Department; Chief Engineer in the Engineering Department; Sole Chef in the Galley Department; and Chief Steward and 2nd Steward in the Interior Department. Interested candidates are invited to submit their resumes.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225577/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225577/</link>
+  <title>[AI Job] Yacht Crew Vacancies - Captain, Engineer, Steward, Deckhand at OceanCrew.org</title>
+  <dc:date>2026-08-14 14:20:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225405/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Jeddah, Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for a yacht manufacturing factory in Jeddah. Open positions include Production Engineer, &lt;span class=&quot;caps&quot;&gt;GRP&lt;/span&gt;/Fiberglass Technician, and Electrical System Technician. Previous experience in yacht or marine manufacturing is highly preferred, along with relevant technical skills and a commitment to quality and safety. Candidates should demonstrate an ability to work effectively within a production environment and collaborate with technical teams.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225405/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225405/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/225128/</link>
   <title>[AI Job] Yacht Crew Vacancies - All Positions at Cruise Ship Careers</title>
   <dc:date>2026-08-09 14:18:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225123/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Croatia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain position is available on a 20-meter private catamaran. The role is based in Croatia. This is an excellent opportunity for an experienced captain seeking their next professional engagement. Further details and additional listings can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225123/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225123/</link>
-  <title>[AI Job] Captain Job on 20m Catamaran in Croatia at Seazone</title>
-  <dc:date>2026-08-09 14:18:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225089/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Naples, Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A skipper is sought for a smaller yacht operating in Naples, Italy. Immediate embarkation is required. This role offers a unique opportunity to manage a private vessel in a popular Mediterranean location.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225089/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225089/</link>
-  <title>[AI Job] Skipper Job on Small Yacht in Naples at Lighthaus-Marine Europe Sp. z o.o. Polska</title>
-  <dc:date>2026-08-08 20:18:58</dc:date>
  </item>
 </rdf:RDF>

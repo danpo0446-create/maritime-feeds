@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-08-2026</dc:date>
+  <dc:date>16-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225585/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225510/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225461/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225432/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225211/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225201/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225135/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225130/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225585/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Resort World Cruises is offering fresh career opportunities aboard their cruise ships. Interested candidates can apply via the provided link for various positions within the fleet. Further details regarding specific roles, contract terms, and joining dates are available through the application portal.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225585/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225585/</link>
+  <title>[AI Job] Cruise Ship Jobs - Resort World Cruises at All Cruise Jobs – Worldwide Ship Careers</title>
+  <dc:date>2026-08-14 14:20:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225510/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An IT Technician is sought for passenger vessels operating under an Italian owner. The role offers an attractive salary with a 5/2 months rotation and covers recruitment, travel, and training expenses. Requirements include a diploma in computer science, experience with operating systems (Windows, Linux), networks, mail servers, and databases, basic office equipment repair skills, and technical English. Previous experience on passenger vessels is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225510/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225510/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/225135/</link>
   <title>[AI Job] Multiple Hotel &amp;amp; Engineering Vacancies on Cruise Ships at AIDA Cruises</title>
   <dc:date>2026-08-09 20:18:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225130/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Scenic Cruises is offering new career opportunities aboard their cruise ships. Interested candidates should refer to the first comment for application details. This is a chance to join the vibrant maritime industry within the passenger and cruise sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225130/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225130/</link>
-  <title>[AI Job] Careers on Cruise Ships - Scenic Cruises at Global Cruise Jobs Network</title>
-  <dc:date>2026-08-09 14:18:21</dc:date>
  </item>
 </rdf:RDF>

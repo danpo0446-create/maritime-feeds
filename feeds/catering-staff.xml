@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-08-2026</dc:date>
+  <dc:date>16-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225586/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225587/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225566/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225433/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225404/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225342/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225295/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225226/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225223/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225225/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225127/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225109/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225586/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Commis position is available on ocean cruise ships. This role offers a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,050 per month and requires conversational English. Previous kitchen or galley experience is advantageous. The position involves assisting with food preparation, maintaining hygiene standards, and serving food in a fast-paced, international environment. Candidates should be team-oriented and willing to learn.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225586/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225586/</link>
+  <title>[AI Job] Commis Job on Ocean Cruise Ships at Job Selection</title>
+  <dc:date>2026-08-14 14:20:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225587/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Commis position is available on an ocean cruise ship. This role involves maintaining food service quality, assisting with food preparation, and serving food according to company standards. Candidates require conversational English, a positive attitude, and preferably previous culinary or shipboard experience. The salary offered is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,050 per month. This is an excellent opportunity for individuals seeking to advance their culinary careers in a dynamic, international galley environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225587/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225587/</link>
+  <title>[AI Job] Commis Job on Ocean Cruise Ship at Job Selection</title>
+  <dc:date>2026-08-14 14:20:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225566/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Steward required to join an &lt;span class=&quot;caps&quot;&gt;MPSV&lt;/span&gt; vessel. Joining is scheduled for August 15th, with a contract duration of approximately 2 weeks. The net salary offered is $155 per day. Candidates must have prior experience as a Steward on offshore fleet vessels, possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and Medical certificates, and demonstrate a good command of English.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225566/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225566/</link>
+  <title>[AI Job] Steward Job on MPSV at OJ Crew Riga</title>
+  <dc:date>2026-08-14 14:20:21</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225433/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced hospitality professionals are sought for various onboard positions on cruise ships. Openings include roles in F&amp;amp;B Service, Housekeeping, and Food Production. Candidates with relevant cruise or seafarer documents, such as &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;CDC&lt;/span&gt;, are preferred. Previous experience in a 5-star hotel or similar environment is highly advantageous. Applicants available for short notice joining will be prioritized.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225433/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225433/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/225223/</link>
   <title>[AI Job] Yacht Chef Job - Motor Yacht at Blue Oceans Yachting Powered by Crew Unlimited</title>
   <dc:date>2026-08-11 12:00:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225225/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; South Florida&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Sole Stewardess is sought for a 102&amp;#8217; Horizon private yacht based in South Florida. This role requires a professional and personable individual experienced in maintaining high interior standards and providing attentive service. Responsibilities include housekeeping, laundry, provisioning, and inventory management. The yacht is primarily used on weekends and undertakes a two-month summer cruise annually. Foreign crew with a valid B1/B2 visa are welcome to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225225/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225225/</link>
-  <title>[AI Job] Sole Stewardess Job on 102&apos; Horizon Yacht at Blue Oceans Yachting Powered by Crew Unlimited</title>
-  <dc:date>2026-08-11 12:00:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225127/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Baker Tournant is sought for a cruise ship position. Responsibilities include ensuring the smooth operation of the bakery, managing bread production and quality, and adhering to health and safety regulations. The role requires assisting the Head Baker with forecasts, inventory, and maintaining bakery cleanliness. A minimum of three years of experience as a Baker in an upscale hotel, resort, or cruise ship environment is necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225127/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225127/</link>
-  <title>[AI Job] Baker Tournant Job on Cruise Ship at Ahmedabad Jobs</title>
-  <dc:date>2026-08-09 14:18:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225109/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Baker Tournant position is available on a cruise ship. Responsibilities include ensuring the smooth operation of the bakery, managing bread production and quality, assisting with inventory and cost control, and maintaining &lt;span class=&quot;caps&quot;&gt;USPH&lt;/span&gt; standards. The role requires a minimum of three years of experience as a Baker in an upscale hotel, resort, or cruise ship environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225109/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225109/</link>
-  <title>[AI Job] Baker Tournant Job on Cruise Ship at Madhya Pradesh Jobs</title>
-  <dc:date>2026-08-09 13:03:30</dc:date>
  </item>
 </rdf:RDF>

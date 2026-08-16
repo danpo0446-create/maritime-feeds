@@ -4,22 +4,52 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-08-2026</dc:date>
+  <dc:date>16-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225628/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225625/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225621/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225620/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225612/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225608/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225505/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225488/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225480/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225465/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225440/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225431/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225419/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225417/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225415/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225628/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Finland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman is sought for employment in Finland. The candidate is looking for a position to begin their career at sea. This role is suitable for individuals seeking entry-level deck department opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225628/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225628/</link>
+  <title>[AI Job] Ordinary Seaman Job in Finland at </title>
+  <dc:date>2026-08-15 00:28:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225625/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; World wide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman position is available on an Oil/Chemical Tanker for worldwide trading. This role offers a global deployment. Key requirements for this deck rating position include experience relevant to tanker operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225625/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225625/</link>
+  <title>[AI Job] Ordinary Seaman Job on Oil/Chemical Tanker at OSM Thome Jobs at Sea</title>
+  <dc:date>2026-08-15 00:28:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225621/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; KSA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Able Seaman required for immediate mobilization to offshore vessels in &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt;. Minimum 24 months of experience on tankers is necessary, with duties including deck operations, mooring, cargo watch, and maintenance. Candidates must possess a valid &lt;span class=&quot;caps&quot;&gt;CDC&lt;/span&gt;, Passport, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, and Medical certificate. Indonesian, Malaysian, Indian, and Egyptian nationals are preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225621/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225621/</link>
+  <title>[AI Job] Able Seaman Job - Tanker Vessel at RK GLOBAL CONSULTANCY NIG.LTD</title>
+  <dc:date>2026-08-15 00:28:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225620/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands to Greenland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is sought for a tug vessel undertaking a voyage from the Netherlands to Greenland and return. Joining is required by 18 August, with the trip scheduled from 19 August to 13 September. Candidates should possess the necessary certificates and experience for this towing operation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225620/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225620/</link>
+  <title>[AI Job] Able Seaman Job on Tug Boat at TOS</title>
+  <dc:date>2026-08-15 00:28:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225612/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman position is available on an Oil/Chemical Tanker vessel, with opportunities for seafarers based in the Philippines. This role offers worldwide deployment. Further details about the job and application process can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225612/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225612/</link>
+  <title>[AI Job] Able Seaman Job on Oil/Chemical Tanker at OSM Thome Jobs at Sea</title>
+  <dc:date>2026-08-15 00:28:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225608/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225608/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225608/</link>
@@ -49,35 +79,5 @@
   <link>https://maritime-union.com/job/225465/</link>
   <title>[Gold Job] Open vacancy for AB on AHTS-  citizen of the European Union at </title>
   <dc:date>2026-08-14 11:57:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225440/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Ras Laffan, Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Dock Worker is sought for marine operations in Ras Laffan, Qatar. Responsibilities include assisting with vessel docking, following safety procedures, and supporting various marine activities. Candidates require secondary education, two years of relevant experience in marine industries, and a working knowledge of English. Basic knowledge of lifting gears and understanding of marine operational safety are also necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225440/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225440/</link>
-  <title>[AI Job] Dock Worker Job in Qatar Shipyard at Qatar Shipyard Technology Solutions</title>
-  <dc:date>2026-08-13 12:07:05</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225431/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Able Seaman/Rigger required for a cable lay barge project. The position is located in the Netherlands for an inshore project. Further details regarding specific requirements, joining date, contract duration, and salary can be found on the employer&amp;#8217;s job board.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225431/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225431/</link>
-  <title>[AI Job] AB/Rigger Job on Cable Lay Barge at Energy Recruitment Hub</title>
-  <dc:date>2026-08-13 12:07:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225419/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A temporary AB/Rigger position is available on a Jack Up Barge in Europe. The contract duration is 5 weeks, with a joining date of August 18, 2026. Interested candidates should submit their CV or apply online.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225419/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225419/</link>
-  <title>[AI Job] AB/Rigger Job on Jack Up Barge at ORCA Crew Services</title>
-  <dc:date>2026-08-13 12:07:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225417/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225417/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225417/</link>
-  <title>[Gold Job] Open vacancy for AB on Reefer ship at </title>
-  <dc:date>2026-08-13 11:58:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225415/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225415/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225415/</link>
-  <title>[Gold Job] Open vacancy for Ordinary seaman on Reefer ship at </title>
-  <dc:date>2026-08-13 11:55:23</dc:date>
  </item>
 </rdf:RDF>
