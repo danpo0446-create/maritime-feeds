@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-08-2026</dc:date>
+  <dc:date>18-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225744/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225624/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225615/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225609/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225542/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225519/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225518/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225516/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225744/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225744/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225744/</link>
+  <title>[Gold Job] Second Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-17 10:55:26</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225624/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer is sought for an Oil/Chemical Tanker of 5885 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The position requires experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt;-B&amp;amp;W main engines of 3360 kW. Joining is scheduled for August 20, 2026, with a contract duration of 6 weeks. The offered salary is $8625 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225624/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225624/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia, Nigeria, UAE, Mexico&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Planning Engineer position is available within the shipbuilding sector. This role is located in Saudi Arabia, Nigeria, the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;, or Mexico. Further details regarding joining date, contract duration, and salary are not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225518/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225518/</link>
   <title>[AI Job] Planning Engineer Job - Shipbuilding at WTS Energy</title>
-  <dc:date>2026-08-14 12:30:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225516/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Angola&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Maritime Port Engineering Director position is available in Angola. This role focuses on engineering within a port environment. Further details regarding specific requirements, joining dates, and contract terms can be found via the provided application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225516/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225516/</link>
-  <title>[AI Job] Maritime Port Engineering Director Job in Angola at CA Mining</title>
   <dc:date>2026-08-14 12:30:36</dc:date>
  </item>
 </rdf:RDF>

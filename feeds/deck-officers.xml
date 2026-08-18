@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-08-2026</dc:date>
+  <dc:date>18-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225746/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225745/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225630/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225623/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225584/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225481/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225464/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225441/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225424/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225414/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225746/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225746/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225746/</link>
+  <title>[Gold Job] Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-08-17 11:08:51</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225745/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225745/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225745/</link>
+  <title>[Gold Job] Master DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-08-17 10:58:16</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225630/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands to Greenland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Officer required for an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tug undertaking a towing operation from the Netherlands to Greenland and return. Joining is scheduled for August 18th or 19th. Candidates must possess solid experience on &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; tugs, previous towing experience, valid &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, and a good command of English.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225630/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225630/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/225441/</link>
   <title>[AI Job] Marine Superintendent Job - Wet Fleet at Consortio</title>
   <dc:date>2026-08-13 12:07:05</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225424/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking an experienced Senior Marine Superintendent for its chemical tanker fleet in Singapore. The role requires at least 2 years of experience in a similar position and prior sailing experience as Chief Officer. This position offers a competitive salary and benefits, with opportunities for career development.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225424/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225424/</link>
-  <title>[AI Job] Senior Marine Superintendent Job - Chemical Tankers at A leading maritime company in Singapore</title>
-  <dc:date>2026-08-13 12:07:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225414/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225414/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225414/</link>
-  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
-  <dc:date>2026-08-13 10:31:37</dc:date>
  </item>
 </rdf:RDF>
