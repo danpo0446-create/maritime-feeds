@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-08-2026</dc:date>
+  <dc:date>19-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225825/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225824/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225618/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225613/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225611/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225500/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225501/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225502/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225493/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225494/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225825/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225825/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225825/</link>
+  <title>[Gold Job] 3O for Crude oil Tanker 3000-4000USD at </title>
+  <dc:date>2026-08-18 13:20:32</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225824/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225824/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225824/</link>
+  <title>[Gold Job] 4E for tanker 4300-4400USD 4+-1 (11.11.26) at </title>
+  <dc:date>2026-08-18 13:03:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225618/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A position for a TR GS is available on an oil tanker, with joining in Dubai within 2 days. Candidates with open &lt;span class=&quot;caps&quot;&gt;CDC&lt;/span&gt;/CCMC and oil tanker experience are preferred. Immediate joiners are sought for this limited opening.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225618/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225618/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/225502/</link>
   <title>[AI Job] Seafarer Jobs on LPG, Oil, Chemical Tankers at Tangar Ship Management Pvt Ltd</title>
   <dc:date>2026-08-14 12:30:34</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225493/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Officer position is available on oil/chemical tanker vessels up to 15000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The contract duration is 56 days on/54 days off, with an &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; joining date. Salary offered ranges from 5276 to 5395 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per worked month. Requirements include at least 1 year of tanker experience, 6 months on product tankers, 3 months rank experience, valid Oil and Chemical Tanker Specialisation Certificates, and very good English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225493/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225493/</link>
-  <title>[AI Job] Third Officer Job on Oil/Chemical Tanker at Nedcon Maritime Manpower Supply</title>
-  <dc:date>2026-08-14 12:30:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225494/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Officer is sought for oil/chemical tanker vessels up to 15000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The contract duration is 56 days on/54 days off, with joining as soon as possible. A salary of 5276-5395 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per worked month is offered. Candidates require at least 1 year of tanker experience, including 6 months on product tankers, and 3 months in rank. Valid Oil and Chemical Tanker Specialisation Certificates and very good English are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225494/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225494/</link>
-  <title>[AI Job] Third Officer Job on Oil/Chemical Tanker at Nedcon Maritime Manpower Supply</title>
-  <dc:date>2026-08-14 12:30:33</dc:date>
  </item>
 </rdf:RDF>
