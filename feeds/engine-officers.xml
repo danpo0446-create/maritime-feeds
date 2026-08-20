@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-08-2026</dc:date>
+  <dc:date>20-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225931/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225930/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225823/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225744/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225624/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225575/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225564/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225549/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225542/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225519/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225931/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225931/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225931/</link>
+  <title>[Gold Job] Second Engineer for 4 Point Mooring DSV Vessel (NON-DP)  at </title>
+  <dc:date>2026-08-19 10:36:53</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/225930/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225930/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225930/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-19 10:35:48</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225823/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225823/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225823/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/225549/</link>
   <title>[AI Job] Chief Engineer Job Vacancy at Seacover | Seafaring Recruitment</title>
   <dc:date>2026-08-14 12:30:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225542/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia / ARAMCO&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer is sought for a Work Boat/Utility/Maintenance/Supply (&lt;span class=&quot;caps&quot;&gt;NON&lt;/span&gt; DP) vessel operating in Saudi Arabia for &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt;. The required joining date is August 15, 2026. A minimum of 12 months of experience as a Second Engineer on similar vessels is necessary for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225542/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225542/</link>
-  <title>[AI Job] Second Engineer Job - Work Boat/Supply Vessel at Ryan Ship Management</title>
-  <dc:date>2026-08-14 12:30:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225519/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Nigeria, Mexico, Saudi Arabia, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Assistant Engineer position is available for a July start. The role is based in Nigeria, Mexico, Saudi Arabia, or India. Further details on contract duration and specific requirements can be found via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225519/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225519/</link>
-  <title>[AI Job] 3rd Assistant Engineer Job at WTS Energy</title>
-  <dc:date>2026-08-14 12:30:36</dc:date>
  </item>
 </rdf:RDF>

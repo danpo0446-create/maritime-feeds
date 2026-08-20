@@ -4,11 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-08-2026</dc:date>
+  <dc:date>20-08-2026</dc:date>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225423/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225416/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225423/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225380/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225231/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225200/"/>
@@ -20,17 +20,17 @@
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225416/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225416/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225416/</link>
+  <title>[Gold Job] Asap- Open vacancy for Fitter on Reefer ship at </title>
+  <dc:date>2026-08-19 17:54:52</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225423/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler with &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; is urgently required for a 14,000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; Bulk Carrier. The offered salary is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,300. This position is for a maritime professional seeking sea service.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225423/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225423/</link>
   <title>[AI Job] Oiler Job on Bulk Carrier Vessel at 7 Star Ship Management Pvt. Ltd</title>
   <dc:date>2026-08-13 12:07:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225416/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225416/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225416/</link>
-  <title>[Gold Job] Open vacancy for Fitter on Reefer ship at </title>
-  <dc:date>2026-08-13 11:57:08</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/225380/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship operator is seeking qualified candidates for the roles of Fitter and Mechanic. This position offers a career path with growth and adventure within the cruise, ferry, and yacht industry. Key responsibilities include maintaining and repairing shipboard machinery and systems.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225380/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>

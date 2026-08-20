@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-08-2026</dc:date>
+  <dc:date>20-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225980/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225628/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225625/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225621/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225505/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225488/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225480/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225465/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225980/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225980/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225980/</link>
+  <title>[Gold Job] Asap- open vacancy for AB on Reefer ship at </title>
+  <dc:date>2026-08-19 17:57:48</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225628/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Finland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman is sought for employment in Finland. The candidate is looking for a position to begin their career at sea. This role is suitable for individuals seeking entry-level deck department opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225628/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225628/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/225480/</link>
   <title>[AI Job] Able Seaman (AB) Job on High-Speed Craft at CANDINA GROUP</title>
   <dc:date>2026-08-14 12:30:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225465/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225465/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225465/</link>
-  <title>[Gold Job] Open vacancy for AB on AHTS-  citizen of the European Union at </title>
-  <dc:date>2026-08-14 11:57:22</dc:date>
  </item>
 </rdf:RDF>
