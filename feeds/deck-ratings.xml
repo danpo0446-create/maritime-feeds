@@ -4,22 +4,28 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>20-08-2026</dc:date>
+  <dc:date>21-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/225608/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225980/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225628/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225625/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225621/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225620/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225612/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225608/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225505/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225488/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225480/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/225608/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225608/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/225608/</link>
+  <title>[Gold Job] Asap- open vacancy for AB/CRANE driver on Container at </title>
+  <dc:date>2026-08-20 15:12:19</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225980/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225980/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225980/</link>
@@ -55,12 +61,6 @@
   <link>https://maritime-union.com/job/225612/</link>
   <title>[AI Job] Able Seaman Job on Oil/Chemical Tanker at OSM Thome Jobs at Sea</title>
   <dc:date>2026-08-15 00:28:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225608/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225608/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225608/</link>
-  <title>[Gold Job] Asap- open vacancy for AB/CRANE driver on Conatiner at </title>
-  <dc:date>2026-08-14 15:43:24</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/225505/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) is sought for a gas carrier, with joining in early August for a 3-4 month contract. The position offers potential for longer-term employment and advancement. A basic gas tanker certificate is required. The vessel operates in European waters. Further details are available upon direct contact with the crewing office.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225505/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>

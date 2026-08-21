@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>20-08-2026</dc:date>
+  <dc:date>21-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226019/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226018/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225931/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225930/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225823/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225615/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225609/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225575/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225564/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225549/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226019/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226019/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226019/</link>
+  <title>[Gold Job] ETO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-08-20 10:18:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226018/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226018/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226018/</link>
+  <title>[Gold Job] Chief Engineer for DP2 AHTS vessel at </title>
+  <dc:date>2026-08-20 10:17:13</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225931/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225931/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225931/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/225575/</link>
   <title>[AI Job] Mechanical Technician Job - Energy from Waste Power Station at Power Generation Recruiter</title>
   <dc:date>2026-08-14 14:20:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225564/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is underway for 3rd Engineer, 4th Engineer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; positions aboard a Crude Oil Tanker (150,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). Indian Certificate of Competency holders are encouraged to apply. This role requires experience in the maritime industry, specifically on tanker vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225564/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225564/</link>
-  <title>[AI Job] 3rd Engineer, 4th Engineer &amp;amp; ETO Jobs on Crude Oil Tanker at Nautilus Shipping India Pvt Ltd</title>
-  <dc:date>2026-08-14 12:30:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225549/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer position is available. This role requires experience and qualifications for engine department operations. Further details regarding vessel type, contract, and joining date can be found via the provided application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225549/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225549/</link>
-  <title>[AI Job] Chief Engineer Job Vacancy at Seacover | Seafaring Recruitment</title>
-  <dc:date>2026-08-14 12:30:40</dc:date>
  </item>
 </rdf:RDF>
