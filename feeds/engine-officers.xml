@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-08-2026</dc:date>
+  <dc:date>22-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226086/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226019/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226018/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225931/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225624/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225615/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225609/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225575/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226086/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226086/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226086/</link>
+  <title>[Gold Job] ETO for DP2 PSV vessel at </title>
+  <dc:date>2026-08-21 10:40:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226019/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226019/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226019/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/225609/</link>
   <title>[Gold Job] Open vacancy for 2nd Engineer at </title>
   <dc:date>2026-08-14 16:45:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225575/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Exeter, Devon&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Mechanical Technician is sought for an Energy from Waste Power Station located in Exeter, Devon. This role is suitable for mechanically biased Royal/Merchant Navy Marine Engineers considering a career transition. Responsibilities include maintenance of steam boilers, conveyor systems, gearboxes, pumps, valves, hydraulics, and pneumatics. The position offers a salary of £49,129, plus overtime, bonuses, and call-out allowances.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225575/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225575/</link>
-  <title>[AI Job] Mechanical Technician Job - Energy from Waste Power Station at Power Generation Recruiter</title>
-  <dc:date>2026-08-14 14:20:22</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-08-2026</dc:date>
+  <dc:date>22-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226087/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225638/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225637/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225627/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225578/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225569/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225550/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225515/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226087/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226087/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226087/</link>
+  <title>[Gold Job] KTSHIP - ASAP vacancies - 21 AUG at </title>
+  <dc:date>2026-08-21 16:08:53</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225638/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai + Project Sites&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Senior Manager – Design position is available for an experienced Naval Architect with over 10 years of experience in marine design or shipyards. The role focuses on leading the design and engineering of barges and marine assets, ensuring compliance with regulations. Responsibilities include preparing drawings, performing calculations, and coordinating with fabrication teams. Proficiency in design software and class approval processes is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225638/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225638/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/225550/</link>
   <title>[AI Job] Maritime Job Vacancy - Apply Now at Seacover | Seafaring Recruitment</title>
   <dc:date>2026-08-14 12:30:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225515/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Conakry, Guinea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Project Logistics Cargo Manager is sought to support mining and industrial projects in Guinea. This role, based in Conakry, involves delivering complex logistics solutions for mining clients and requires a strong background in project cargo, freight forwarding, and heavy-lift logistics. Experience in mining, &lt;span class=&quot;caps&quot;&gt;EPC&lt;/span&gt;, heavy-lift, or industrial projects is highly desirable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225515/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225515/</link>
-  <title>[AI Job] Project Logistics Cargo Manager Job in Guinea at CA Mining</title>
-  <dc:date>2026-08-14 12:30:36</dc:date>
  </item>
 </rdf:RDF>
