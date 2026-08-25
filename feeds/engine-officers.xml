@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>24-08-2026</dc:date>
+  <dc:date>25-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226371/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226370/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226086/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226019/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226018/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225823/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225744/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225624/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225615/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225609/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226371/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226371/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226371/</link>
+  <title>[Gold Job] ETO for Self-Propelled Jack-Up Barge  at </title>
+  <dc:date>2026-08-24 10:36:28</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226370/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226370/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226370/</link>
+  <title>[Gold Job] Second Engineer for DP2 AHTS vessel at </title>
+  <dc:date>2026-08-24 10:32:56</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226086/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226086/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226086/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/225624/</link>
   <title>[AI Job] 2nd Engineer Job - Oil/Chemical Tanker at Saga</title>
   <dc:date>2026-08-15 00:28:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225615/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for a yacht. This position requires experience in marine engineering and vessel operations. The role involves overseeing the engine department and ensuring the smooth running of all machinery onboard. Further details on yacht jobs can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225615/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225615/</link>
-  <title>[AI Job] Chief Engineer Job on Yacht at Lighthouse Careers</title>
-  <dc:date>2026-08-15 00:28:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225609/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225609/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225609/</link>
-  <title>[Gold Job] Open vacancy for 2nd Engineer at </title>
-  <dc:date>2026-08-14 16:45:25</dc:date>
  </item>
 </rdf:RDF>
