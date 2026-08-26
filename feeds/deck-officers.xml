@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-08-2026</dc:date>
+  <dc:date>26-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226466/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225822/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225746/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225745/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225568/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225489/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225481/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225464/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226466/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226466/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226466/</link>
+  <title>[Gold Job] Chief Officer for Panamax Bulk Carrier Vessel at </title>
+  <dc:date>2026-08-25 10:43:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/225822/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225822/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/225822/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/225481/</link>
   <title>[AI Job] Third Officer Job on RO-RO Vessel at CANDINA GROUP</title>
   <dc:date>2026-08-14 12:30:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225464/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225464/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225464/</link>
-  <title>[Gold Job] Open vacancy for 2nd Officer on AHTS- citizen of the European Union at </title>
-  <dc:date>2026-08-14 11:54:49</dc:date>
  </item>
 </rdf:RDF>
