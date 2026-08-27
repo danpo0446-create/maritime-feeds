@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>26-08-2026</dc:date>
+  <dc:date>27-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226688/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226687/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226561/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226466/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225822/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225746/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/225630/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225623/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/225584/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225568/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225489/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/225481/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226688/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226688/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226688/</link>
+  <title>[Gold Job] Asap- vacancy for Master on Ch./oil tanker at </title>
+  <dc:date>2026-08-27 10:49:14</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226687/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226687/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226687/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-27 10:03:02</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226561/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226561/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226561/</link>
+  <title>[Gold Job] Port Captain for DP2 DSV vessel at </title>
+  <dc:date>2026-08-26 10:09:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226466/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226466/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226466/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/225584/</link>
   <title>[AI Job] 02nd Officer Job - Abu Dhabi Project at Dulsco Jobs</title>
   <dc:date>2026-08-14 14:20:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225568/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master Mariner with proven Bulk Carrier experience and mandatory Pre-RightShip inspection experience is sought for an upcoming assignment in Saudi Arabia. The role involves conducting a comprehensive Pre-RightShip Inspection onboard a Bulk Carrier. Embarkation is scheduled for 18 August 2026, with disembarkation on 22 August 2026. Relevant marine inspection or auditing certifications are advantageous. Candidates with a Saudi visa or local availability are preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225568/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225568/</link>
-  <title>[AI Job] Master Mariner / Inspector Job on Bulk Carrier at VNW Marine Services</title>
-  <dc:date>2026-08-14 14:20:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225489/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Master, Chief Officer, and AB/Cook are sought for a UK flag guard ship. This is a direct hiring opportunity for qualified maritime professionals. Interested candidates should submit their CVs for consideration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225489/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225489/</link>
-  <title>[AI Job] Master, Chief Officer, AB/Cook Vacancy on UK Flag Guard Ship at CANDINA GROUP</title>
-  <dc:date>2026-08-14 12:30:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/225481/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy Flag&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Officer position is available on a RO-RO vessel with an Italy flag. The contract duration is 4 months, with an &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; joining date. The net salary offered is €3,400 per month, with social security covered by the owner. European nationality is required for this role. Experienced deck officers are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/225481/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/225481/</link>
-  <title>[AI Job] Third Officer Job on RO-RO Vessel at CANDINA GROUP</title>
-  <dc:date>2026-08-14 12:30:31</dc:date>
  </item>
 </rdf:RDF>
