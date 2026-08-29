@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Maritime Security</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-08-2026</dc:date>
+  <dc:date>29-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226036/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223767/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223414/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/201029/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/201533/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/214862/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/214869/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226036/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced maritime security personnel are sought for onboard roles on cargo vessels and ferry operations. Candidates require a valid passport, seafarer readiness, security vetting, and a clean conduct history. Fitness for shipboard life, including shift work and fatigue management, is essential. Strong written reporting skills are necessary. Maritime-specific training and certification are required, even with prior police experience. Long rotations are expected.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226036/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226036/</link>
+  <title>[AI Job] Maritime Security Officer Job - Cargo &amp;amp; Ferry Vessels at M.S Security Group</title>
+  <dc:date>2026-08-20 12:26:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/223812/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Remote&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;A remote Inventory &amp;amp; Logistics Lead position is available to support a patrol boat fleet. The role involves leading inventory and materiel planning, identifying parts, sourcing and procuring items, and managing supply chain risks within defence logistics systems. This position requires experience in inventory management and logistics, preferably within a defence or government environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223812/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/223812/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/214862/</link>
   <title>[Hot Job] Superintendents Assistant with salary 2800 EUR at Gretimybe Ltd.</title>
   <dc:date>2023-09-14 19:00:01</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/214869/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/214869/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/214869/</link>
-  <title>[Gold Job] boat surveyor at </title>
-  <dc:date>2023-08-30 10:39:32</dc:date>
  </item>
 </rdf:RDF>
