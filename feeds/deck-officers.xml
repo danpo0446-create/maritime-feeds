@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-08-2026</dc:date>
+  <dc:date>30-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227004/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226996/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226968/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226908/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226883/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226849/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226826/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226807/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226798/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226794/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227004/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Officer position is available on a &lt;span class=&quot;caps&quot;&gt;CSOV&lt;/span&gt; vessel operating outside 12 NM from the UK coast. The contract duration is 2 weeks, with a joining date of September 1, 2026. Monthly salary is €8,820, paid onboard only. Candidates require &lt;span class=&quot;caps&quot;&gt;CSOV&lt;/span&gt;/SOV and Walk-to-Work experience, DP Advanced certification, and good English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227004/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227004/</link>
+  <title>[AI Job] 2nd Officer Job on CSOV Vessel at BalticCareer</title>
+  <dc:date>2026-08-30 08:12:21</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226996/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A shore-based role for a 2nd Officer or Chief Officer with a Master Mariner License is available in Abu Dhabi, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. This position focuses on autonomous and unmanned vessel operations and offers specialized training. Requirements include a Class 1 CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, strong sea-going background, and good English proficiency. The role offers a day rate of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 285 and a long-term employment opportunity within the growing autonomous shipping sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226996/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226996/</link>
+  <title>[AI Job] Shore-Based Master Mariner Job in Abu Dhabi at Efficient Global Limited</title>
+  <dc:date>2026-08-30 05:42:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226968/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226968/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226968/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226807/</link>
   <title>[AI Job] First Mate Job on 33m+ Motor Yacht at YOA Yacht Crew</title>
   <dc:date>2026-08-27 14:21:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226798/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer is sought for a fully refrigerated &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; carrier. The contract is for 3 months, with a salary range of €5,200–€6,100 per month, negotiable. Joining is expected in September 2026. Requirements include a minimum of 1 year in rank, fully refrigerated &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; experience, an Advanced Gas Tanker certificate, and good English proficiency. EU citizenship is mandatory; a &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; visa or French Endorsement is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226798/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226798/</link>
-  <title>[AI Job] 2nd Officer Job on LPG Carrier at BalticCareer</title>
-  <dc:date>2026-08-27 14:21:56</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226794/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate position is available on a &lt;span class=&quot;caps&quot;&gt;CPP&lt;/span&gt; Tanker with worldwide trading. The contract duration is 4 months, and joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;. Salary offered is 11,500–12,300 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Candidates require a minimum of 2.5 years of experience as Chief Officer and previous experience on &lt;span class=&quot;caps&quot;&gt;CPP&lt;/span&gt; tankers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226794/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226794/</link>
-  <title>[AI Job] Chief Mate Job on CPP Tanker at BalticCareer</title>
-  <dc:date>2026-08-27 14:21:56</dc:date>
  </item>
 </rdf:RDF>

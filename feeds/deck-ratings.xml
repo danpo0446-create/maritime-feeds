@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-08-2026</dc:date>
+  <dc:date>30-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226985/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226980/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226970/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226932/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226927/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226887/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226832/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226831/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226675/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226672/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226662/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226661/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226985/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 4500 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; oil tanker requires a fresh Trainee Ordinary Seaman. The position offers a salary of $250 plus bonus. Rejoining is available. Joining is within 2 to 5 days from Dubai. Key requirements include being a fresher.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226985/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226985/</link>
+  <title>[AI Job] Trainee Ordinary Seaman Job on Oil Tanker at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-08-30 05:42:30</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226980/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman position is available for a tug vessel. The role involves assisting the Chief Engineer with vessel operations, maintenance, and safety procedures to ensure efficient and safe deployment. Responsibilities include performing assigned tasks, participating in safety training, and maintaining housekeeping standards in various vessel areas. A commitment to safety and adherence to company policies are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226980/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226980/</link>
+  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
+  <dc:date>2026-08-30 05:42:29</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226970/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Vila do Conde/PA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Seaman position is available on a tugboat in Vila do Conde/PA. This role requires experience as a deck rating. Further details regarding contract duration and joining date are not specified. Interested candidates should apply through the provided platform link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226970/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226970/</link>
+  <title>[AI Job] Deck Seaman Job - Tugboat at SULNORTE SERVIÇOS MARÍTIMOS LTDA</title>
+  <dc:date>2026-08-30 05:42:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226932/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced AB/Cook required for a Tug vessel operating in Europe. The position involves a rotation of 4 weeks on and 4 weeks off, with a joining date of 16/09/2026. Previous experience as an AB/Cook specifically on tug boats is essential for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226932/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226932/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/226675/</link>
   <title>[AI Job] AB/Gangway Operator Job on Heavy Lift Vessel at etpm Ltd</title>
   <dc:date>2026-08-27 10:02:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226672/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Deck rating and cook position available on a Shoalbuster vessel. Temporary contract starting September 3, 2026, for 6 weeks. Position based in the UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226672/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226672/</link>
-  <title>[AI Job] AB/Cook Vacancy on Shoalbuster Vessel at ORCA Crew Services</title>
-  <dc:date>2026-08-27 10:02:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226662/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking Able Seamen for passenger vessels. Immediate start available, with options to join up to September 6th. Day rates are variable, and travel expenses are covered. Applicants must possess an AB Certificate, Navigational Watchrating, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, and a valid ENG1 medical.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226662/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226662/</link>
-  <title>[AI Job] Able Seaman Job on Passenger Vessels at Clyde Marine Recruitment</title>
-  <dc:date>2026-08-26 21:25:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226661/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK waters&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Able Seafarers (AB) are sought for various vessels operating in UK waters, including workboats, RoRo, dredgers, passenger vessels, buoy tenders, and jack-up units. Assignments range from 2 to 6 weeks, with competitive day rates offered. Candidates require UK Right to Work, an AB Certificate with Navigational Watch, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, ENG1 Medical, and &lt;span class=&quot;caps&quot;&gt;GWO&lt;/span&gt; certification for jack-up positions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226661/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226661/</link>
-  <title>[AI Job] Able Seafarer (AB) Jobs on UK Vessels at Clyde Marine Recruitment</title>
-  <dc:date>2026-08-26 21:25:03</dc:date>
  </item>
 </rdf:RDF>

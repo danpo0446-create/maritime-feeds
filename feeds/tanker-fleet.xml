@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-08-2026</dc:date>
+  <dc:date>30-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226978/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226973/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226913/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226914/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226898/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226846/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226793/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226703/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226707/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226699/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226978/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on an Oil/Chemical Tanker, with a joining date in September 2026. The contract duration is 2 months on/off, and the monthly salary is 3800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Candidates must possess an EU passport or Schengen visa. Further details are available at the office.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226978/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226978/</link>
+  <title>[AI Job] 2nd Officer Job - Oil/Chemical Tanker at Stan Shipping Agency Ltd</title>
+  <dc:date>2026-08-30 05:42:29</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226973/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer, Chief Engineer, 2nd Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, and Gas Engineer are sought for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tanker. Interested candidates should submit their CV. This is an opportunity to join a fleet operating on liquefied petroleum gas vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226973/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226973/</link>
+  <title>[AI Job] Chief Officer &amp;amp; Engineer Vacancies on LPG Tanker at MARINER - Marine Agency Mustra Ltd</title>
+  <dc:date>2026-08-30 05:42:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226913/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; World Wide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer and an &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; are sought for a mid-size &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessel with DF engines, trading worldwide. The contract duration is 3 months. Experience on gas carriers, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and Gas Tanker certificates, and EU citizenship are required. Joining is as soon as possible.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226913/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226913/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226703/</link>
   <title>[AI Job] Crew Vacancies on Aframax Oil Tanker at Marinex Global</title>
   <dc:date>2026-08-27 12:00:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226707/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Port Said, China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced officers are urgently sought for Aframax oil tanker fleet positions including Chief Engineer, Master, Third Officer, and Third Engineer. Joining dates are 13 July in Port Said and early August in China. Rank experience on similar &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;/DWT oil tankers is required. Russian nationality is specified for Master and Chief Engineer roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226707/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226707/</link>
-  <title>[AI Job] Aframax Oil Tanker Officers Needed - Chief Engineer, Master at Marinex Global</title>
-  <dc:date>2026-08-27 12:00:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226699/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman Anchorage&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Officer required for an Oil/Chemical Tanker, 50,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, currently anchored at Oman. The contract duration is 4 months +/- 1, with a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 9,500–11,500. Immediate joining is expected. Candidates must have at least two contracts as Chief Officer on similar vessels, be under 55 years old, and possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates and &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226699/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226699/</link>
-  <title>[AI Job] Chief Officer Job on Oil/Chemical Tanker at Marinex Global</title>
-  <dc:date>2026-08-27 12:00:17</dc:date>
  </item>
 </rdf:RDF>

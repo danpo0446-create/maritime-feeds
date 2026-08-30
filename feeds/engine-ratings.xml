@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-08-2026</dc:date>
+  <dc:date>30-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226983/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226979/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226969/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226925/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226893/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226885/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226664/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226644/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226575/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226578/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226580/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226983/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman position is available on an Oil Tanker, with a joining date in September 2026. The contract duration is 4 months, and the offered salary is 2800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per month. Candidates must possess an EU passport or Schengen visa. Further details are available upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226983/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226983/</link>
+  <title>[AI Job] Pumpman Job on Oil Tanker at Stan Shipping Agency Ltd</title>
+  <dc:date>2026-08-30 05:42:30</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226979/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought to support vessel operations, reporting to the Chief Engineer. Responsibilities include performing maintenance, housekeeping, and assigned tasks safely and efficiently, adhering to company policies and local legislation. Active participation in safety training and drills is expected. The role requires a commitment to safety, with the authority to stop work if a task is deemed unsafe.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226979/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226979/</link>
+  <title>[AI Job] Able Seaman (Engine) Job at SVITZER</title>
+  <dc:date>2026-08-30 05:42:29</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226969/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; offshore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Pumpman required for an offshore &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; project. Candidates should have previous experience as a Pumpman, preferably on &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt;/FSO or Crude Oil Tanker, with expertise in cargo pumps, transfer operations, and stripping systems. A good command of English is necessary. The position offers a competitive salary and a permanent contract with offshore rotation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226969/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226969/</link>
+  <title>[AI Job] Pumpman Job on FPSO Offshore Project at BARKLAV</title>
+  <dc:date>2026-08-30 05:42:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226925/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought to support the Chief Engineer on a marine towage vessel, ensuring engines are operational and assisting with maintenance and safety procedures. The position requires basic safety training and sea time as an oiler. The role contributes to safe and efficient operations within Bahrain waters.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226925/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226925/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/226644/</link>
   <title>[AI Job] Pipefitter Job - Shipyard Project in Norway at Stan Shipping Agency Ltd</title>
   <dc:date>2026-08-26 21:25:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226575/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; North Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available on a Heavy Lift Vessel (&lt;span class=&quot;caps&quot;&gt;HLV&lt;/span&gt;) operating in the North Sea. The role features a 5/5 rotation and requires UK Right to Work and &lt;span class=&quot;caps&quot;&gt;GWO&lt;/span&gt; Sea Survival certification. Joining is scheduled for September 9, 2026. Essential qualifications include experience as a Fitter and relevant safety certifications.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226575/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226575/</link>
-  <title>[AI Job] Fitter Job on HLV - North Sea at etpm Ltd</title>
-  <dc:date>2026-08-26 21:24:51</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226578/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Trinidad and Tobago&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter is sought for a Pipelay vessel operating in Trinidad and Tobago. The contract duration is 6 weeks, with a joining date of August 22nd. Candidates must possess &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Basic Safety, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Security, &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;FOET&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;MLC&lt;/span&gt; Medical, and a Seaman&amp;#8217;s Book.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226578/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226578/</link>
-  <title>[AI Job] Fitter Job on Pipelay Vessel at etpm Ltd</title>
-  <dc:date>2026-08-26 21:24:51</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226580/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Trinidad and Tobago&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter is required for a Pipelay vessel joining on 22/08 for a 6-week contract in Trinidad and Tobago. Candidates must possess &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Basic Safety, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Security, &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;FOET&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;MLC&lt;/span&gt; Medical, and a Seaman&amp;#8217;s Book. This role is for an urgent marine assignment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226580/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226580/</link>
-  <title>[AI Job] Fitter Job on Pipelay Vessel at etpm Ltd</title>
-  <dc:date>2026-08-26 21:24:51</dc:date>
  </item>
 </rdf:RDF>

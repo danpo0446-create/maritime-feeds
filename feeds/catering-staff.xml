@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-08-2026</dc:date>
+  <dc:date>30-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226974/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226882/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226847/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226848/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226760/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226750/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226742/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226743/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/226974/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 30m private motor yacht is seeking a Second Stewardess for a permanent position in the Mediterranean. The role involves all-round interior duties, maintaining high standards, and assisting the team. Ideal candidates have at least one season of yachting experience, a keen eye for detail, and a professional, personable attitude. A diving background is highly desirable. The package includes a strong salary, 13th-month bonus, full medical cover, and worldwide flights. Joining is expected around September 8th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226974/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226974/</link>
+  <title>[AI Job] Second Stewardess Job on 30m Private Motor Yacht at Seven Seas Recruitment</title>
+  <dc:date>2026-08-30 05:42:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226882/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Yacht Interior Cleaner is sought to maintain pristine, guest-ready interiors across a fleet of yachts with meticulous care and attention to detail. This role requires a dedicated individual committed to upholding high standards of cleanliness and presentation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226882/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226882/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; international&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship company is seeking a Lifeguard with at least one year of relevant experience and valid certifications. The role requires English language proficiency and availability for international work. Benefits include a salary in &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;, company-provided accommodation and meals, and a covered air ticket. This is an excellent opportunity for an international experience onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226742/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226742/</link>
   <title>[AI Job] Lifeguard Job on Cruise Ships at CAUX International Group</title>
-  <dc:date>2026-08-27 12:00:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226743/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Buffet Attendant is sought for an international hospitality role on an ocean cruise ship. Responsibilities include maintaining the restaurant and buffet areas, ensuring they are organized and fully stocked during meal services. The position offers a salary in &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;, with accommodation, meals, and airfare covered by the company. A minimum of one year&amp;#8217;s previous experience in a similar role and English language proficiency are required. Availability to work abroad is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226743/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226743/</link>
-  <title>[AI Job] Buffet Attendant Job on Cruise Ship at CAUX International Group</title>
   <dc:date>2026-08-27 12:00:24</dc:date>
  </item>
 </rdf:RDF>
