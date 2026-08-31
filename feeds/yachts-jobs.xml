@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-08-2026</dc:date>
+  <dc:date>31-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227015/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226916/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226905/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226808/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226331/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226324/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226012/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226010/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227015/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deckhand required for a private and charter motor yacht over 80 meters, joining &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in the Mediterranean. This permanent role offers 60 days leave, increasing to 90 days. Key responsibilities include tender driving and watersports. Candidates must have at least one year of yachting experience, strong deck skills, and a valid Schengen visa or European passport. Additional watersports or guest-facing skills are advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227015/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227015/</link>
+  <title>[AI Job] Deckhand Job on 80m+ Motor Yacht at Seven Seas Recruitment</title>
+  <dc:date>2026-08-30 20:52:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226916/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; EU&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A private 70m motor yacht is seeking an experienced Shipyard 2nd Engineer. The position is based in the EU, with a joining date of September 6th, 2026, and an end date of November 2nd, 2026. This role offers the chance to work within a professional program alongside an experienced crew.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226916/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226916/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/226012/</link>
   <title>[AI Job] Head of Service Job on 100m+ Private Yacht at Winch Yacht Recruitment Limited</title>
   <dc:date>2026-08-19 21:35:19</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226010/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Henley-on-Thames&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Yacht Stewardess is sought for a private family near Henley-on-Thames. This live-out position offers a salary of £45-55K per annum, with an &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; start. The role involves daily cleaning, laundry, ironing, and running errands in a large property. Previous experience in a similar private household, chalet, or yacht setting is required, along with excellent attention to detail and discretion. The position is Monday to Friday, with flexible hours.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226010/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226010/</link>
-  <title>[AI Job] Yacht Stewardess Job - Henley-on-Thames at Silver &amp; Bow</title>
-  <dc:date>2026-08-19 21:35:18</dc:date>
  </item>
 </rdf:RDF>

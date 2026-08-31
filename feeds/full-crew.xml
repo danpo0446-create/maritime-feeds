@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-08-2026</dc:date>
+  <dc:date>31-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227027/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227023/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227014/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226997/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226971/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226965/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226951/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226926/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226923/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226903/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226902/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226894/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227027/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A global ship owner is seeking a Junior IT Support Engineer or IT Support Technician to join their IT team. This role involves supporting users across office and vessel locations, resolving technical issues, and maintaining IT equipment. Responsibilities include acting as the first point of contact for IT queries, providing technical assistance, setting up and configuring hardware, and supporting Windows operating systems. The position offers a competitive salary and long-term career development opportunities within an international environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227027/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227027/</link>
+  <title>[AI Job] IT Support Engineer Job on Global Ship Owner at global ship owner</title>
+  <dc:date>2026-08-31 08:32:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227023/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking to hire a Crewing Executive and an Operations Head. This role involves managing crewing operations and overseeing vessel operations within the shipping industry. Ideal candidates will have experience in crew management, planning, and maritime leadership.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227023/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227023/</link>
+  <title>[AI Job] Crewing Executive &amp;amp; Operations Head Hiring at Neosea</title>
+  <dc:date>2026-08-31 08:32:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227014/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are available for Master and Chief Engineer positions on 30000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; and 17000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; bulk carriers, and a Chief Engineer role on a 3500 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; general cargo vessel. Additionally, a Fitter position is open on a 3500 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tanker. All positions are for September joining. Various vessel types and flags are involved.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227014/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227014/</link>
+  <title>[AI Job] Maritime Officer &amp;amp; Fitter Vacancies - Bulk Carrier, LPG at United Crew Management</title>
+  <dc:date>2026-08-30 20:52:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226997/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Officer is sought to support marine operations at an oil refinery import/export terminal. Responsibilities include coordinating services for safe operations, managing marine craft, and supporting vessel nominations. The role involves working with various vessels, including response vessels and tugs, and servicing clients such as the US Navy 5th Fleet within Bahrain.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226997/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226997/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/226923/</link>
   <title>[AI Job] Document Staff Job - Bulk Carrier &amp;amp; Tug Barge at Human Capital</title>
   <dc:date>2026-08-28 20:20:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226903/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Port of Long Beach, CA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced crew and engineers are sought for tugboat positions. This role offers onboard Starlink internet and high-quality meals. Join a dynamic and supportive team working in the Port of Long Beach, California. Opportunities are available for AB, Engineer, Mate, and Captain roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226903/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226903/</link>
-  <title>[AI Job] Tugboat Crew &amp;amp; Engineers Hiring at Curtin Maritime, Corp.</title>
-  <dc:date>2026-08-28 14:20:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226902/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; North Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A candidate is sought who can captain a 400-ton cargo barge through the North Sea. This role requires the ability to simultaneously manage a Kubernetes cluster and navigate maritime operations. Further details regarding joining date, contract duration, and salary are to be confirmed. Interested parties are invited to send a direct message for more information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226902/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226902/</link>
-  <title>[AI Job] Cargo Barge Captain Job - North Sea at </title>
-  <dc:date>2026-08-28 14:20:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226894/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime positions are available for experienced professionals. Opportunities exist for Masters, Chief Officers, Second Engineers, Third Officers, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;s across various vessel types including MR Tankers, Bulk Carriers, General Cargo ships, &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carriers, and &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessels. Candidates with relevant engine experience are particularly encouraged to apply for engineering roles. Further details on specific requirements and joining dates can be obtained directly from the hiring company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226894/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226894/</link>
-  <title>[AI Job] Multiple Maritime Officer &amp;amp; Engineer Vacancies at Ocean One Ship Management</title>
-  <dc:date>2026-08-28 14:20:34</dc:date>
  </item>
 </rdf:RDF>

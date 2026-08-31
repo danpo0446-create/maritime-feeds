@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-08-2026</dc:date>
+  <dc:date>31-08-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227028/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227020/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227019/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226960/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226949/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226924/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226890/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226889/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226886/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226880/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226874/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226873/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227028/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227028/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227028/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-08-31 10:09:38</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227020/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced 2nd Engineers and 2nd &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;s are sought for technical roles aboard ocean cruise ships. Responsibilities include engine room watchkeeping, system operation, and maintenance. Minimum requirements include relevant Certificates of Competency, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification, and at least two years of watchkeeping or electro-technical experience. Candidates must possess strong English communication skills and updated documentation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227020/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227020/</link>
+  <title>[AI Job] 2nd Engineer &amp;amp; 2nd ETO Jobs on Cruise Ship at Job Selection</title>
+  <dc:date>2026-08-30 20:52:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227019/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced 2nd Engineers and 2nd Electro-Technical Officers are sought for technical roles aboard ocean cruise ships. Responsibilities include engine room watchkeeping, operating and maintaining propulsion and electrical systems, and ensuring compliance with maritime regulations. Minimum requirements include relevant Certificates of Competency, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification, and at least two years of watchkeeping or cruise ship experience. Proficiency in English is essential for these positions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227019/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227019/</link>
+  <title>[AI Job] 2nd Engineer &amp;amp; 2nd ETO Jobs on Cruise Ship at Job Selection</title>
+  <dc:date>2026-08-30 20:52:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226960/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; and Chief Engineer required for an aframax oil tanker vessel, joining immediately. Minimum 1-2 years of experience in the same rank and vessel type is necessary, with all documents valid for at least 15 months. Fluency in English is essential. The vessel operates in foreign going trade areas, primarily Europe, with an Indonesian crew. Experience with mixed nationalities and foreign-going areas is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226960/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226960/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/226886/</link>
   <title>[AI Job] 3rd Engineer Job on Motor Yacht (Shipyard Period) at Crew &amp; Concierge Ltd.</title>
   <dc:date>2026-08-28 14:20:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226880/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Delft, South Holland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Junior Heavy Lift Engineer position is available for a talent pool in Delft, South Holland. This role focuses on heavy lift operations. Further details regarding joining date, contract duration, and salary are to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226880/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226880/</link>
-  <title>[AI Job] Junior Heavy Lift Engineer Job - Heavy Lift Vessel at Allseas</title>
-  <dc:date>2026-08-28 12:23:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226874/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is urgently required for a worldwide trading bulk carrier. The contract duration is 3 months +/- 1, with joining expected around August 12th. A monthly wage of 9000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; is offered. Candidates must possess a Second Engineer&amp;#8217;s License, 18 months of relevant experience, and a valid US C1D visa. EU passport or Ukrainian with EU residence permit is mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226874/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226874/</link>
-  <title>[AI Job] 2nd Engineer Job on Bulk Carrier Vessel at Navis Ship Management</title>
-  <dc:date>2026-08-28 12:23:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226873/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for a worldwide trading bulk carrier vessel. The contract duration is 4 months +/- 1 month, with an immediate joining date. A monthly wage of 10300 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; is offered. Applicants require 18 months of experience in the rank of Chief Engineer on similar vessels, a Chief Engineer&amp;#8217;s License, a valid EU passport or Ukrainian passport with EU residence permit, and a valid US C1D visa.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226873/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226873/</link>
-  <title>[AI Job] Chief Engineer Job - Bulk Carrier Vessel at Navis Ship Management</title>
-  <dc:date>2026-08-28 12:22:59</dc:date>
  </item>
 </rdf:RDF>
