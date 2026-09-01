@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-08-2026</dc:date>
+  <dc:date>01-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227048/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227029/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226985/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226980/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226970/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226887/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226839/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226832/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226831/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226675/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227048/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A bulk carrier of 2000 grt requires a Trainee Ordinary Seaman or Trainee Wiper. The offered salary is 350 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining is scheduled from Dubai. This is an excellent opportunity for aspiring maritime professionals to gain experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227048/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227048/</link>
+  <title>[AI Job] Trainee OS/Wiper Job on Bulk Carrier at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-01 10:52:29</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227029/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227029/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227029/</link>
+  <title>[Gold Job]  Asap- open vacancy for AB on AHTS- EU citizn at </title>
+  <dc:date>2026-08-31 11:52:18</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226985/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 4500 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; oil tanker requires a fresh Trainee Ordinary Seaman. The position offers a salary of $250 plus bonus. Rejoining is available. Joining is within 2 to 5 days from Dubai. Key requirements include being a fresher.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226985/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226985/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226832/</link>
   <title>[AI Job] Ordinary Seaman Job on RORO/ROPAX Vessel at OSM Thome Jobs at Sea</title>
   <dc:date>2026-08-27 20:27:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226831/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; San Ramon, CA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman position is available on US Flag seagoing vessels. The role involves assignments typically lasting 90 days, with vacation accruing at 25 days for every 30 days worked. The anticipated hourly rate is $22.31. Applicants require a &lt;span class=&quot;caps&quot;&gt;USCG&lt;/span&gt; Merchant Mariner Credentials, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 95 endorsements, a valid &lt;span class=&quot;caps&quot;&gt;USCG&lt;/span&gt;/STCW medical certificate, a valid passport, and a &lt;span class=&quot;caps&quot;&gt;TWIC&lt;/span&gt; card. Further qualifications are detailed in the full job posting.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226831/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226831/</link>
-  <title>[AI Job] Ordinary Seaman Job on US Flag Vessels at Chevron</title>
-  <dc:date>2026-08-27 20:27:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226675/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman/Gangway Operator is sought for a heavy lift vessel operating in the UK. The position requires a UK Citizen or a UK Right to Work Holder. Embarkation is scheduled for September 19th for an initial 5-week contract, with potential for ongoing rotation. Mandatory certifications include AB CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, Stage 2 Crane, &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt;/FOET, CA-&lt;span class=&quot;caps&quot;&gt;EBS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;MLC&lt;/span&gt; Medical, Seamans Book, and &lt;span class=&quot;caps&quot;&gt;GWO&lt;/span&gt; Sea Survival.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226675/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226675/</link>
-  <title>[AI Job] AB/Gangway Operator Job on Heavy Lift Vessel at etpm Ltd</title>
-  <dc:date>2026-08-27 10:02:03</dc:date>
  </item>
 </rdf:RDF>

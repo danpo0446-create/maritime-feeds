@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-08-2026</dc:date>
+  <dc:date>01-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227055/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226983/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226979/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226969/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226843/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226664/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226644/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227055/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought for a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties in the engine room and on deck, and actively participating in safety training. The position requires adherence to safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227055/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227055/</link>
+  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
+  <dc:date>2026-09-01 10:52:30</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226983/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman position is available on an Oil Tanker, with a joining date in September 2026. The contract duration is 4 months, and the offered salary is 2800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per month. Candidates must possess an EU passport or Schengen visa. Further details are available upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226983/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226983/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/226664/</link>
   <title>[AI Job] Motorman Job on Ro-Pax Vessel at Clyde Marine Recruitment</title>
   <dc:date>2026-08-26 21:25:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226644/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Norway&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced pipefitters are sought for ongoing shipyard projects in Norway. The role involves assembling steel and copper pipes according to &lt;span class=&quot;caps&quot;&gt;ISO&lt;/span&gt; drawings and hydraulic systems. A minimum of 300 &lt;span class=&quot;caps&quot;&gt;NOK&lt;/span&gt; per hour is offered, with over 50 hours of work weekly. The initial contract duration is 6-7 weeks, with potential for extension and future rotations. Accommodation is provided, and a Norwegian employment contract will be issued. English communication skills are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226644/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226644/</link>
-  <title>[AI Job] Pipefitter Job - Shipyard Project in Norway at Stan Shipping Agency Ltd</title>
-  <dc:date>2026-08-26 21:25:00</dc:date>
  </item>
 </rdf:RDF>

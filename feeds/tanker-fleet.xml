@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-08-2026</dc:date>
+  <dc:date>01-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227045/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227032/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226978/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226973/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226913/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226899/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226901/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226846/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226793/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226703/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227045/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Muscat&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A bitumen tanker requires experienced Master/Chief Engineer, Chief Officer, and 2nd Engineer. Salaries offered are 4800 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; for Master/Chief Engineer and 3000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; for Chief Officer/2nd Engineer. Joining is from Muscat. Honduran &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227045/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227045/</link>
+  <title>[AI Job] Master/Chief Engineer Job on Bitumen Tanker at Rahul Maurya</title>
+  <dc:date>2026-09-01 10:52:29</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227032/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer is sought for a Chemical/Oil Tanker, joining at the end of September 2026. The contract duration is 2 months ± 30 days. Applicants require experience as a 3rd Officer on similar vessels, with specific Oil/Chemical Tanker experience and relevant advanced certificates. The monthly salary offered is €4,460.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227032/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227032/</link>
+  <title>[AI Job] 3rd Officer Job on Chemical/Oil Tanker at BalticCareer</title>
+  <dc:date>2026-08-31 20:27:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226978/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on an Oil/Chemical Tanker, with a joining date in September 2026. The contract duration is 2 months on/off, and the monthly salary is 3800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Candidates must possess an EU passport or Schengen visa. Further details are available at the office.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226978/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226978/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226846/</link>
   <title>[AI Job] Chief Officer Job on LPG Tanker at BalticCareer</title>
   <dc:date>2026-08-28 09:09:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226793/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer and 4th Engineer are urgently needed for an oil tanker joining in September 2026. Other positions including 2nd Engineer, 3rd Engineer, 2nd Officer, Pumpman, Fitter, Able Seaman, and Oiler are also available for various oil tanker vessels. Candidates should be ready to join soon.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226793/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226793/</link>
-  <title>[AI Job] 3rd Officer &amp;amp; 4th Engineer Job on Oil Tanker at PT EmAS Crewing Agency</title>
-  <dc:date>2026-08-27 14:21:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226703/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Pakistani crew are sought for an Aframax Oil Tanker. Open positions include Electrical Engineer, Pumpman, Senior Bosun, Able Seaman, Ordinary Seaman, Fitter, and Oiler. Candidates require a minimum of 1-2 contracts on similar vessels, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, and good English communication skills. Joining is required at short notice.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226703/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226703/</link>
-  <title>[AI Job] Crew Vacancies on Aframax Oil Tanker at Marinex Global</title>
-  <dc:date>2026-08-27 12:00:18</dc:date>
  </item>
 </rdf:RDF>

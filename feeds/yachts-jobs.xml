@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-08-2026</dc:date>
+  <dc:date>01-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227035/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227015/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226916/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226905/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226345/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226331/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226324/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226012/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227035/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Florida, US&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 43m private and charter motor yacht is seeking an experienced Deckhand to join the vessel &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in Florida. This permanent position offers a competitive salary (&lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt; in &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;) and standard annual leave. The successful candidate will assist with daily deck operations, maintenance, and guest activities. Requirements include &lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt; 1 &amp;amp; 2, a valid Yacht Rating certificate, and a B1/B2 visa. A diving background is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227035/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227035/</link>
+  <title>[AI Job] Deckhand Job on 43m Motor Yacht at Seven Seas Recruitment</title>
+  <dc:date>2026-08-31 20:27:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227015/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deckhand required for a private and charter motor yacht over 80 meters, joining &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in the Mediterranean. This permanent role offers 60 days leave, increasing to 90 days. Key responsibilities include tender driving and watersports. Candidates must have at least one year of yachting experience, strong deck skills, and a valid Schengen visa or European passport. Additional watersports or guest-facing skills are advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227015/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227015/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/226324/</link>
   <title>[AI Job] Yacht Captain Job - Private Pershing 70 at Blue Oceans Yachting Powered by Crew Unlimited</title>
   <dc:date>2026-08-23 18:41:16</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226012/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Private&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Head of Service is sought for a 100m+ private yacht, joining on August 30th with a 2:2 rotation. The salary offered is 5,500 Euros. Candidates require a minimum of 3 years&amp;#8217; yachting experience, with previous service on vessels over 70m. Strong leadership, efficient delegation skills, and the ability to mentor junior crew are essential. The role is based privately, requiring a motivated individual.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226012/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226012/</link>
-  <title>[AI Job] Head of Service Job on 100m+ Private Yacht at Winch Yacht Recruitment Limited</title>
-  <dc:date>2026-08-19 21:35:19</dc:date>
  </item>
 </rdf:RDF>
