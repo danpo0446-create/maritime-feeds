@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-09-2026</dc:date>
+  <dc:date>02-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227105/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227095/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227089/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226963/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226962/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226941/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226931/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226871/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226868/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226864/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226862/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226841/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227105/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Azerbaijan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Conventional Vessel Lead position is available on a Pipe Laying Barge operating in Azerbaijan. This role requires expertise in electrical systems for offshore operations. Further details about the job and application process can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227105/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227105/</link>
+  <title>[AI Job] Electrical Lead Job on Pipe Laying Barge at OSM Thome</title>
+  <dc:date>2026-09-01 20:21:51</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227095/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) / &lt;span class=&quot;caps&quot;&gt;AVIT&lt;/span&gt; is sought for a 78m motor yacht, offering a 2 months on, 2 months off rotation. The role requires a minimum of 5 years of professional yachting experience as an &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;/AVIT, with a strong electrical background and solid AV/IT and network expertise. Experience on vessels over 60m and previous charter experience are advantageous. The position involves working closely with the Chief Engineer in a fast-paced, guest-focused environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227095/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227095/</link>
+  <title>[AI Job] ETO / AVIT Job on 78m Motor Yacht at Crew &amp; Concierge Ltd.</title>
+  <dc:date>2026-09-01 20:21:49</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227089/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is needed for a Jack-Up Barge operating in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; for &lt;span class=&quot;caps&quot;&gt;ADNOC&lt;/span&gt;. The contract offers a rotation of 2 months on and 2 months off, with the off period being unpaid. Immediate joining is required. Candidates must have at least 1 year of experience on Jack-Up Barges or 3 years on &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt; vessels, hold a valid &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; Certificate of Competency, and possess all relevant supporting certificates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227089/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227089/</link>
+  <title>[AI Job] ETO Job on ADNOC Jack-Up Barge at High Tiide Ship Management Private Limited</title>
+  <dc:date>2026-09-01 20:21:49</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226963/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician is sought to install, maintain, repair, and troubleshoot electrical and electronic systems on marine vessels. Responsibilities include working with wiring, power distribution, lighting, navigation, communication, and generator systems. The role ensures vessel safety, functionality, and compliance with marine electrical standards. Key tasks involve diagnosing faults, performing repairs, testing systems, and maintaining documentation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226963/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226963/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/226868/</link>
   <title>[AI Job] ETO Job on Self-propelled Jack Up Barge DP2 at Navis Ship Management</title>
   <dc:date>2026-08-28 12:22:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226864/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is needed for a Self-propelled Jack Up Barge DP2 operating in Qatar. The contract duration is 60 days on/off, with joining as soon as possible. Candidates require 48 months of experience on DP2/DP3 vessels, preferably 12 months on a Self-propelled Jack Up Barge in the &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; rank. A valid Electro Technical Officer’s License and DP Maintenance Certificate are mandatory. Full Covid-19 vaccination is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226864/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226864/</link>
-  <title>[AI Job] ETO Job on Self-propelled Jack Up Barge DP2 at Navis Ship Management</title>
-  <dc:date>2026-08-28 12:22:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226862/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is needed for a DP2 Self-propelled Jack Up Barge operating in Qatar. The contract duration is 60 days on/off, with an immediate joining date. Daily wages are 420 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Candidates require 48 months of experience on DP2/DP3 vessels, preferably 12 months on a Self-propelled Jack Up Barge in the &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; rank, along with an &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; License and DP Maintenance Certificate. Full Covid-19 vaccination is mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226862/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226862/</link>
-  <title>[AI Job] ETO Job on DP2 Jack Up Barge at Navis Ship Management</title>
-  <dc:date>2026-08-28 12:22:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226841/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Electrician with mandatory barge experience is sought for a reputable offshore project located in Qatar. Immediate joining or short notice is preferred. Salary offered is competitive within the industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226841/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226841/</link>
-  <title>[AI Job] Electrician Job - Offshore Project in Qatar at Shipworkz</title>
-  <dc:date>2026-08-27 20:27:34</dc:date>
  </item>
 </rdf:RDF>

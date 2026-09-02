@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-09-2026</dc:date>
+  <dc:date>02-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227075/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227035/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227015/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226916/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226631/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226345/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226331/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226324/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227075/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Stewardess required for a private motor yacht (90m-120m+). Previous large yacht experience is highly preferred. This role offers a unique opportunity to join a reputable team in the luxury yachting sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227075/</link>
+  <title>[AI Job] Chief Stewardess Job on Private Motor Yacht at Silver Crews SL</title>
+  <dc:date>2026-09-01 20:21:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227035/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Florida, US&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 43m private and charter motor yacht is seeking an experienced Deckhand to join the vessel &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in Florida. This permanent position offers a competitive salary (&lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt; in &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;) and standard annual leave. The successful candidate will assist with daily deck operations, maintenance, and guest activities. Requirements include &lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt; 1 &amp;amp; 2, a valid Yacht Rating certificate, and a B1/B2 visa. A diving background is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227035/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227035/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/226331/</link>
   <title>[AI Job] Boat Gelcoat Painter &amp;amp; Finisher Job - Yacht Manufacturing at Suprema Marine</title>
   <dc:date>2026-08-23 18:41:17</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226324/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Miami Beach&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A private 70-foot Pershing yacht based in Miami Beach requires an experienced Captain. The vessel cruises South Florida and the Bahamas. Responsibilities include vessel operations, navigation, maintenance, and guest trips. A medical allowance and paid continuing education are provided. Requirements include experience, knowledge of the cruising area, and basic engineering skills. References will be checked, and a drug test is mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226324/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226324/</link>
-  <title>[AI Job] Yacht Captain Job - Private Pershing 70 at Blue Oceans Yachting Powered by Crew Unlimited</title>
-  <dc:date>2026-08-23 18:41:16</dc:date>
  </item>
 </rdf:RDF>

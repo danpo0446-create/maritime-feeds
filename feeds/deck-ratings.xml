@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-09-2026</dc:date>
+  <dc:date>02-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227083/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227077/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227071/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227067/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227048/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227029/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226985/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226980/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226970/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226932/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226927/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226887/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226839/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226832/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227083/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (Engine) is required to join a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties as instructed, and participating in safety training. The position reports to the Chief Engineer and requires adherence to safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227083/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227083/</link>
+  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
+  <dc:date>2026-09-01 20:21:48</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227077/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced AB and Bosuns with Able Seafarer Deck II/5 certificate are sought for a General Cargo vessel. A good level of English is required. The contract duration is 4 months on/off, with monthly remuneration paid in Euros.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227077/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227077/</link>
+  <title>[AI Job] AB and Bosun Jobs on General Cargo Vessel at NOVA MARIS</title>
+  <dc:date>2026-09-01 20:21:47</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227071/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) is sought for immediate joining. The contract duration is 1.5 months, with a net salary of &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; 2,700 per month. Candidates of Ukrainian or Romanian nationality are preferred. This is an urgent requirement for a seafarer to embark as soon as possible.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227071/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227071/</link>
+  <title>[AI Job] Able Seaman (AB) Job - Urgent Vacancy at Agencia Marítima IBERNOR, S.L.</title>
+  <dc:date>2026-09-01 15:01:50</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227067/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A tugboat is seeking an AB/Cook or an AB/Crane Operator for an urgent position. Candidates must be eligible to work in the UK, with a rotation of 4/4 or 6/6 weeks. The start date is as soon as possible.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227067/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227067/</link>
+  <title>[AI Job] AB/Cook or AB/Crane Operator Job - Tugboat at Oceanwide</title>
+  <dc:date>2026-09-01 15:01:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227048/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A bulk carrier of 2000 grt requires a Trainee Ordinary Seaman or Trainee Wiper. The offered salary is 350 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining is scheduled from Dubai. This is an excellent opportunity for aspiring maritime professionals to gain experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227048/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227048/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/226932/</link>
   <title>[AI Job] AB/Cook Job on Tug Vessel in Europe at Atlas NextWave</title>
   <dc:date>2026-08-28 20:20:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226927/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Room Able Seaman is sought for hands-on vessel operations and safety on a towage vessel. Responsibilities include engine room and deck maintenance, and active safety participation, reporting to the Chief Engineer. Essential qualifications include &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; A-VI/1, Designated Security Duties training, a valid Seafarer Medical, and documented sea time as an Oiler. English language understanding is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226927/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226927/</link>
-  <title>[AI Job] Able Seaman Job - Towage Vessel Operations at SVITZER</title>
-  <dc:date>2026-08-28 20:20:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226887/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Room Able Seaman is sought for vessel operations and safety. Responsibilities include engine room and deck maintenance, and active safety participation. Essential qualifications include &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; A-VI/1, Designated Security Duties training, a valid Seafarer Medical, and documented sea time as an Oiler. English language understanding is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226887/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226887/</link>
-  <title>[AI Job] Able Seaman Job on Towage Vessel at SVITZER</title>
-  <dc:date>2026-08-28 14:20:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226839/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bosun position is available on an Accommodation Barge. Candidates require a valid Indian &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; II/5, a minimum of 2 years of experience in rank, and at least 6 months of barge experience. The joining location is Oman, with an immediate start. The contract duration is 6 months, with a 15-day flexibility. This role is for a deck department position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226839/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226839/</link>
-  <title>[AI Job] Bosun Job on Accommodation Barge at UDYA Shipping Services Pvt Ltd</title>
-  <dc:date>2026-08-27 20:27:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226832/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Denmark&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman position is available on a &lt;span class=&quot;caps&quot;&gt;RORO&lt;/span&gt;/ROPAX vessel. The role is based in Denmark. Further details about the job and application process can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226832/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226832/</link>
-  <title>[AI Job] Ordinary Seaman Job on RORO/ROPAX Vessel at OSM Thome Jobs at Sea</title>
-  <dc:date>2026-08-27 20:27:32</dc:date>
  </item>
 </rdf:RDF>

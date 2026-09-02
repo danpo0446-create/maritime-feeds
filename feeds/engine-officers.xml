@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-09-2026</dc:date>
+  <dc:date>02-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227109/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227074/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227066/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227050/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227044/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227040/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227028/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227020/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227019/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226960/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226949/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226924/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227109/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for service on small bulk carriers. The role requires assistance from a Motorman. This position offers a contract with a duration to be confirmed. Interested candidates should contact the hiring team for further details regarding the specific vessel and joining date.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227109/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227109/</link>
+  <title>[AI Job] Chief Engineer Job - Small Bulk Carrier at Stödig Ship Management Poland sp. z o.o.</title>
+  <dc:date>2026-09-01 20:21:51</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227074/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is sought for a Crude Oil Tanker vessel. The contract duration is 4 months, with embarkation scheduled for September 15, 2026. The vessel has a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 156642 and is powered by a &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W 6S70MC-6 engine.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227074/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227074/</link>
+  <title>[AI Job] 2nd Engineer Job on Crude Oil Tanker at Columbia Shipmanagement Ukraine Wet Fleet</title>
+  <dc:date>2026-09-01 20:21:47</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227066/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Iran, SOH, Yemen, UAE etc&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Engineer is required for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; Carrier with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 5000, sailing on routes including Iran, &lt;span class=&quot;caps&quot;&gt;SOH&lt;/span&gt;, Yemen, and &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. A minimum of 12 months of experience in rank on the same vessel type is necessary. Salary is determined by interview and sea experience. Joining is as soon as possible, with the place of joining to be announced.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227066/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227066/</link>
+  <title>[AI Job] 3rd Engineer Job on LPG Carrier at Terra-Marine</title>
+  <dc:date>2026-09-01 15:01:49</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227050/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Director position is available on a tanker vessel. Candidates with relevant experience are encouraged to apply. Further details about this opportunity can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227050/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227050/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227019/</link>
   <title>[AI Job] 2nd Engineer &amp;amp; 2nd ETO Jobs on Cruise Ship at Job Selection</title>
   <dc:date>2026-08-30 20:52:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226960/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; and Chief Engineer required for an aframax oil tanker vessel, joining immediately. Minimum 1-2 years of experience in the same rank and vessel type is necessary, with all documents valid for at least 15 months. Fluency in English is essential. The vessel operates in foreign going trade areas, primarily Europe, with an Indonesian crew. Experience with mixed nationalities and foreign-going areas is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226960/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226960/</link>
-  <title>[AI Job] ETO and Chief Engineer Job - Aframax Tanker at PT. Topaz Maritime</title>
-  <dc:date>2026-08-29 10:17:34</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226949/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226949/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226949/</link>
-  <title>[Gold Job] Second Engineer for NON DP AHTS vessel at </title>
-  <dc:date>2026-08-29 10:17:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226924/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer is sought for a container ship. The joining date is mid-September 2026, with a contract duration of 4 months. The monthly salary offered is $8548.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226924/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226924/</link>
-  <title>[AI Job] 2nd Engineer Job - Container Ship at NextShip</title>
-  <dc:date>2026-08-28 20:20:24</dc:date>
  </item>
 </rdf:RDF>
