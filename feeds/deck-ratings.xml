@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-09-2026</dc:date>
+  <dc:date>03-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227157/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227140/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227083/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227077/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227071/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227029/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226985/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226980/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226970/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226932/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227157/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Boston Harbor&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Deckhand positions are available on a dayboat tug fleet operating in Boston Harbor. These local commuting roles require availability for call-outs, including nights, weekends, and holidays. Responsibilities include ship-assist, towing, line handling, barge work, and vessel maintenance. Applicants need a valid &lt;span class=&quot;caps&quot;&gt;MMC&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;TWIC&lt;/span&gt; (AB preferred, OS required), a driver&amp;#8217;s license, reliable transportation, and the ability to pass a drug screening. Previous tugboat experience is preferred but not essential, as training is provided. The role offers competitive union pay, overtime, benefits, and advancement opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227157/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227157/</link>
+  <title>[AI Job] Deckhand Job on Dayboat Tug Fleet at Boston Towing &amp; Transportation (BTT)</title>
+  <dc:date>2026-09-02 20:25:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227140/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK &amp; Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) / Deckhand position is available for deployment in the UK and Germany. This role requires qualified personnel to join a maritime operation. Further details regarding specific requirements, joining dates, contract terms, and application procedures are available on the company&amp;#8217;s official jobs board via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227140/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227140/</link>
+  <title>[AI Job] Able Seaman (AB) / Deckhand Job - UK &amp;amp; Germany at Energy Recruitment Hub</title>
+  <dc:date>2026-09-02 20:25:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227083/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (Engine) is required to join a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties as instructed, and participating in safety training. The position reports to the Chief Engineer and requires adherence to safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227083/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227083/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226980/</link>
   <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
   <dc:date>2026-08-30 05:42:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226970/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Vila do Conde/PA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Seaman position is available on a tugboat in Vila do Conde/PA. This role requires experience as a deck rating. Further details regarding contract duration and joining date are not specified. Interested candidates should apply through the provided platform link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226970/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226970/</link>
-  <title>[AI Job] Deck Seaman Job - Tugboat at SULNORTE SERVIÇOS MARÍTIMOS LTDA</title>
-  <dc:date>2026-08-30 05:42:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226932/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced AB/Cook required for a Tug vessel operating in Europe. The position involves a rotation of 4 weeks on and 4 weeks off, with a joining date of 16/09/2026. Previous experience as an AB/Cook specifically on tug boats is essential for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226932/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226932/</link>
-  <title>[AI Job] AB/Cook Job on Tug Vessel in Europe at Atlas NextWave</title>
-  <dc:date>2026-08-28 20:20:26</dc:date>
  </item>
 </rdf:RDF>

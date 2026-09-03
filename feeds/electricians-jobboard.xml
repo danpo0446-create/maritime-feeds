@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-09-2026</dc:date>
+  <dc:date>03-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227174/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227173/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227167/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227105/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227095/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227089/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226962/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226941/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226940/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226931/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226871/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226868/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227174/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician position is available in the Maldives. The offered salary is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 800 per month, with free food and accommodation provided. This role is suitable for individuals seeking overseas employment opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227174/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227174/</link>
+  <title>[AI Job] Marine Electrician Job - Maldives at Online Conseil Solution</title>
+  <dc:date>2026-09-02 20:25:37</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227173/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician is sought for installation of electrical systems on sea-going vessels. Responsibilities include complete electrical outfitting, working with radar, navigation systems, solar panels, inverters, safety control systems, and telecom units. Requires an Electrical or Auto Electrical Trade test, minimum 2 years&amp;#8217; relevant experience, ability to read electrical drawings, and knowledge of relevant standards. AutoCAD/Draftsight working knowledge and a valid driver&amp;#8217;s license are also needed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227173/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227173/</link>
+  <title>[AI Job] Marine Electrician Job - Sea Going Vessels at Western Cape Recruitment</title>
+  <dc:date>2026-09-02 20:25:37</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227167/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Puget Sound area&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician is sought for full-time work installing, maintaining, troubleshooting, and repairing electrical systems on marine vessels and related facilities in the Puget Sound area. Responsibilities include working with power generation, distribution, control systems, and panel building. The role requires proficiency with various AC/DC electrical systems and knowledge of relevant marine practices. Experience with &lt;span class=&quot;caps&quot;&gt;PLC&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;VFD&lt;/span&gt;s is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227167/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227167/</link>
+  <title>[AI Job] Marine Electrician Job - Puget Sound Area at CETS</title>
+  <dc:date>2026-09-02 20:25:36</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227105/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Azerbaijan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Conventional Vessel Lead position is available on a Pipe Laying Barge operating in Azerbaijan. This role requires expertise in electrical systems for offshore operations. Further details about the job and application process can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227105/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227105/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/226940/</link>
   <title>[AI Job] Marine Electrician Job on Sea Going Vessels at Western Cape Recruitment</title>
   <dc:date>2026-08-28 20:20:27</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226931/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a bulker vessel of 82000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The joining date is scheduled for the end of August 2026, with a contract duration of 3 months. The offered salary is $5500 per month. Key requirements include relevant experience and qualifications for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226931/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226931/</link>
-  <title>[AI Job] ETO Job on Bulker Vessel at Headway Ltd</title>
-  <dc:date>2026-08-28 20:20:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226871/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is needed for a Self-Propelled Jack Up Barge DP2 operating in Qatar. The contract duration is 60 days on/off, with an immediate joining date. Daily wages are 420 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. A minimum of 48 months of experience on DP2/DP3 vessels is required, preferably 12 months on a Self-Propelled Jack Up Barge in the &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; rank. Candidates must hold an Electro Technical Officer’s License and a DP Maintenance Certificate, and be fully vaccinated against Covid-19.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226871/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226871/</link>
-  <title>[AI Job] ETO Job on Self-Propelled Jack Up Barge DP2 at Navis Ship Management</title>
-  <dc:date>2026-08-28 12:22:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226868/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is needed for a Self-propelled Jack Up Barge DP2 operating in Qatar. The contract duration is 60 days on/off, with an immediate joining date. Daily wages are 420 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Candidates require 48 months of experience on DP2/DP3 vessels, preferably 12 months on a Self-propelled Jack Up Barge in the &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; rank, and must hold an Electro Technical Officer’s License and DP Maintenance Certificate. Full Covid-19 vaccination is mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226868/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226868/</link>
-  <title>[AI Job] ETO Job on Self-propelled Jack Up Barge DP2 at Navis Ship Management</title>
-  <dc:date>2026-08-28 12:22:59</dc:date>
  </item>
 </rdf:RDF>

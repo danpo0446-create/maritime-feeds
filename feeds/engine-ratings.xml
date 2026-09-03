@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-09-2026</dc:date>
+  <dc:date>03-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227165/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227143/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227114/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227115/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227108/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227065/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227055/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226983/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226979/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226969/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227165/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Rio de Janeiro, Brazil&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Room Rating (Motorman) position is available in Rio de Janeiro, Brazil. This role is for a maritime professional with experience in engine room operations. Further details regarding vessel type, contract duration, and specific requirements can be found via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227165/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227165/</link>
+  <title>[AI Job] Engine Room Rating (Motorman) Job at Brunel</title>
+  <dc:date>2026-09-02 20:25:36</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227143/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available on a tug vessel. The role involves performing assigned duties related to all tasks on the vessel, including maintenance and housekeeping in the engine room or on deck, as instructed by the Chief Engineer. The candidate must ensure all work is performed safely and participate in safety training and drills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227143/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227143/</link>
+  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
+  <dc:date>2026-09-02 20:25:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227114/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Houston&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Structural Fitter / Welder position available. Responsibilities include assembling structural framework, components, and materials such as angle iron, I-beams, and other steel components. This role is based within fabrication operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227114/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227114/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226983/</link>
   <title>[AI Job] Pumpman Job on Oil Tanker at Stan Shipping Agency Ltd</title>
   <dc:date>2026-08-30 05:42:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226979/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought to support vessel operations, reporting to the Chief Engineer. Responsibilities include performing maintenance, housekeeping, and assigned tasks safely and efficiently, adhering to company policies and local legislation. Active participation in safety training and drills is expected. The role requires a commitment to safety, with the authority to stop work if a task is deemed unsafe.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226979/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226979/</link>
-  <title>[AI Job] Able Seaman (Engine) Job at SVITZER</title>
-  <dc:date>2026-08-30 05:42:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226969/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; offshore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Pumpman required for an offshore &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; project. Candidates should have previous experience as a Pumpman, preferably on &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt;/FSO or Crude Oil Tanker, with expertise in cargo pumps, transfer operations, and stripping systems. A good command of English is necessary. The position offers a competitive salary and a permanent contract with offshore rotation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226969/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226969/</link>
-  <title>[AI Job] Pumpman Job on FPSO Offshore Project at BARKLAV</title>
-  <dc:date>2026-08-30 05:42:28</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-09-2026</dc:date>
+  <dc:date>03-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227180/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227145/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227139/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227113/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227112/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227091/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227070/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227060/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227043/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227039/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227004/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226996/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227180/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227180/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227180/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-09-03 09:57:03</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227145/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer is sought for a large container vessel with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 67797 and 6039 &lt;span class=&quot;caps&quot;&gt;TEU&lt;/span&gt;s, built in 2007. The position requires relevant experience in rank on similar ships, effective English communication, a strong safety culture, and experience in a multinational working environment. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; with a contract duration of 6 months, +/-1 month. Salary is negotiable. The vessel is based in Riga, Latvia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227145/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227145/</link>
+  <title>[AI Job] 2nd Officer Job on Large Container Ship at CSM Manning Agency</title>
+  <dc:date>2026-09-02 20:25:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227139/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a worldwide operating Bulk Carrier. This role requires experience in deck operations and vessel management. Further details regarding the specific contract and joining date can be obtained through the application process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227139/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227139/</link>
+  <title>[AI Job] Chief Officer Job on Bulk Carrier Vessel at OSM Thome Jobs at Sea</title>
+  <dc:date>2026-09-02 20:25:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227113/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer with experience on multi-purpose supply vessels is sought for an upcoming contract. The ideal candidate will be available to join within the next few weeks. This role offers a chance to continue your career at sea on a specialized vessel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227113/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227113/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227043/</link>
   <title>[AI Job] Captain Job on 43m Motor Yacht (Private &amp;amp; Charter) at Seven Seas Recruitment</title>
   <dc:date>2026-09-01 10:52:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227039/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227039/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227039/</link>
-  <title>[Gold Job] Second Officer DPO for DP2 AHTS vessel at </title>
-  <dc:date>2026-09-01 10:00:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227004/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Officer position is available on a &lt;span class=&quot;caps&quot;&gt;CSOV&lt;/span&gt; vessel operating outside 12 NM from the UK coast. The contract duration is 2 weeks, with a joining date of September 1, 2026. Monthly salary is €8,820, paid onboard only. Candidates require &lt;span class=&quot;caps&quot;&gt;CSOV&lt;/span&gt;/SOV and Walk-to-Work experience, DP Advanced certification, and good English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227004/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227004/</link>
-  <title>[AI Job] 2nd Officer Job on CSOV Vessel at BalticCareer</title>
-  <dc:date>2026-08-30 08:12:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226996/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A shore-based role for a 2nd Officer or Chief Officer with a Master Mariner License is available in Abu Dhabi, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. This position focuses on autonomous and unmanned vessel operations and offers specialized training. Requirements include a Class 1 CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, strong sea-going background, and good English proficiency. The role offers a day rate of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 285 and a long-term employment opportunity within the growing autonomous shipping sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226996/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226996/</link>
-  <title>[AI Job] Shore-Based Master Mariner Job in Abu Dhabi at Efficient Global Limited</title>
-  <dc:date>2026-08-30 05:42:32</dc:date>
  </item>
 </rdf:RDF>

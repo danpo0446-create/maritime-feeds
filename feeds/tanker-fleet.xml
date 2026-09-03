@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-09-2026</dc:date>
+  <dc:date>03-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227150/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227133/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227132/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227096/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227093/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227090/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227064/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227045/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227032/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226978/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226973/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226914/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227150/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A shore-based Operations Superintendent position is available for candidates with a Master Mariner background and at least two years of command experience on product tankers, crude tankers, or chemical carriers. Experience on foreign-going vessels is preferred. The role is located in Mumbai.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227150/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227150/</link>
+  <title>[AI Job] Operations Superintendent Job - Tanker Fleet at Nevoxel Executive Search</title>
+  <dc:date>2026-09-02 20:25:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227133/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Officer of the Watch is needed for a newbuilt oil/chemical tanker. Immediate joining is required for a 3-month contract. Salary is negotiable. Candidates must possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and medical certificates, along with advanced oil and chemical tanker endorsements.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227133/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227133/</link>
+  <title>[AI Job] Officer of the Watch Job - Oil/Chemical Tanker at OJ Crew Riga</title>
+  <dc:date>2026-09-02 20:25:32</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227132/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deck and Engine Officers are sought for &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carriers (Moss Type, Steam Turbine propulsion). Candidates with relevant &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; and/or steam turbine experience are encouraged to apply. The positions offer long-term employment and an exceptional financial package, above standard &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; market conditions. Specific details available upon direct contact.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227132/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227132/</link>
+  <title>[AI Job] LNG Officers Vacancy on LNG Carrier at Zorovic Maritime Services</title>
+  <dc:date>2026-09-02 20:25:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227096/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer position is available on a Crude Oil Tanker (157000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, built 2023). The contract duration is 4 months, with joining expected at the beginning of December. Salary is negotiable. Requirements include experience with linear cargo systems, an Advanced Oil CoP, good English, and relevant experience in rank on oil tankers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227096/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227096/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227032/</link>
   <title>[AI Job] 3rd Officer Job on Chemical/Oil Tanker at BalticCareer</title>
   <dc:date>2026-08-31 20:27:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226978/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on an Oil/Chemical Tanker, with a joining date in September 2026. The contract duration is 2 months on/off, and the monthly salary is 3800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Candidates must possess an EU passport or Schengen visa. Further details are available at the office.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226978/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226978/</link>
-  <title>[AI Job] 2nd Officer Job - Oil/Chemical Tanker at Stan Shipping Agency Ltd</title>
-  <dc:date>2026-08-30 05:42:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226973/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer, Chief Engineer, 2nd Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, and Gas Engineer are sought for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tanker. Interested candidates should submit their CV. This is an opportunity to join a fleet operating on liquefied petroleum gas vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226973/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226973/</link>
-  <title>[AI Job] Chief Officer &amp;amp; Engineer Vacancies on LPG Tanker at MARINER - Marine Agency Mustra Ltd</title>
-  <dc:date>2026-08-30 05:42:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226914/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Tromsø, Norway&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Engineer and Motorman are sought for an Oil Tanker operating out of Tromsø, Norway. Joining is expected at the beginning of September for a 3-month contract. Candidates require a minimum of two contracts in rank on similar vessels, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and Medical Certificates, relevant Oil Tanker documents, and good English proficiency. Salary will be discussed during the interview. The role offers potential for permanent employment and good working conditions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226914/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226914/</link>
-  <title>[AI Job] Third Engineer / Motorman Job on Oil Tanker at OJ CREW</title>
-  <dc:date>2026-08-28 20:20:23</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-09-2026</dc:date>
+  <dc:date>03-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227159/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227151/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227134/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227092/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227082/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227072/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227061/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227059/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227051/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227049/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227047/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227046/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227159/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tug Boat, including Master, 2nd Officer, Chief Engineer, 2nd Engineer, Ordinary Seaman, Wiper, and Deck Cadet. Interested candidates are invited to submit their resumes.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227159/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227159/</link>
+  <title>[AI Job] Multiple Maritime Roles on ASD Tug Boat at Svetlana Dmitrieva</title>
+  <dc:date>2026-09-02 20:25:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227151/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Japan, Singapore, Shanghai, Kochi, Chennai, Noida&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for Marine Superintendents and Technical Superintendents. Roles require oversight of bulk carriers, oil &amp;amp; chemical tankers, and &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessels. Positions are located in Japan, Singapore, Shanghai, Kochi, Chennai, and Noida. This is a chance to shape global trade through leadership in fleet operations and technical management.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227151/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227151/</link>
+  <title>[AI Job] Marine Superintendent &amp;amp; Technical Superintendent Jobs at Maritimesolutionsltd</title>
+  <dc:date>2026-09-02 20:25:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227134/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced maritime professionals are sought for various roles across multiple vessel types. Opportunities exist within the Deck, Engine, Electrical, and Catering departments. Qualified candidates ready for new contract and career advancements are encouraged to apply through the designated platform.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227134/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227134/</link>
+  <title>[AI Job] Seafarer Recruitment - All Ranks &amp;amp; Departments at Bernhard Schulte Shipmanagement CSC Romania</title>
+  <dc:date>2026-09-02 20:25:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227092/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Navi Mumbai, Chandigarh, Chennai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shore-based maritime positions are available with a ship management company. Roles include Fleet Manager, &lt;span class=&quot;caps&quot;&gt;QHSE&lt;/span&gt; Assistant, Technical Superintendent, Marine Superintendent, Recruitment Executive, Technical Officer, and Junior Accountant. Experience requirements vary by position, with some roles preferring immediate joiners. Opportunities are located in Navi Mumbai, Chandigarh, and Chennai.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227092/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227092/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227051/</link>
   <title>[AI Job] HSE Officer Job - Container Terminal Operations in Qatar at Seashore Group</title>
   <dc:date>2026-09-01 10:52:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227049/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Thailand&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fleet Manager position is available for &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; DF Tankers based in Thailand. Candidates with relevant experience seeking a new career move are encouraged to apply. Further details about this job opportunity can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227049/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227049/</link>
-  <title>[AI Job] Fleet Manager Job - LNG DF Tankers at Direct Search Global</title>
-  <dc:date>2026-09-01 10:52:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227047/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for a Second Engineer, Chief Officer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;/ETR, and Electrician. These positions are for General Cargo, Bulk Carriers, and Cement Carriers. Interested candidates can apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227047/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227047/</link>
-  <title>[AI Job] Second Engineer, Chief Officer, ETO Job on General Cargo Vessels at The Hood Platform</title>
-  <dc:date>2026-09-01 10:52:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227046/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Shanghai, China / Chennai, India / Kochi, India / Noida, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple openings are available for Marine Superintendent and Technical Superintendent roles. Positions are based in Shanghai, Chennai, Kochi, and Noida, focusing on Bulk Carriers, Oil &amp;amp; Chemical Tankers, and &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessels. Candidates will be responsible for overseeing vessel operations and technical aspects. This is an excellent opportunity to advance your career in maritime operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227046/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227046/</link>
-  <title>[AI Job] Marine Superintendent &amp;amp; Technical Superintendent Jobs at Navora Pte Ltd</title>
-  <dc:date>2026-09-01 10:52:29</dc:date>
  </item>
 </rdf:RDF>
