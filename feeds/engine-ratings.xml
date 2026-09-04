@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-09-2026</dc:date>
+  <dc:date>04-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227199/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227201/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227182/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227165/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227143/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227114/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227108/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227084/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227085/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227065/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227055/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226983/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227199/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available for an Able Seaman on a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance, and housekeeping duties as instructed by the Chief Engineer. The position requires active participation in safety training and adherence to all safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227199/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227199/</link>
+  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
+  <dc:date>2026-09-03 20:21:49</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227201/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought for a tug vessel. The role involves contributing to the vessel&amp;#8217;s safe and efficient operation, performing maintenance and housekeeping duties in assigned areas, and actively participating in safety training and drills. The Engine Rating reports to the Chief Engineer and must adhere to company policies and local legislation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227201/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227201/</link>
+  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
+  <dc:date>2026-09-03 20:21:49</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227182/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Sisimiut, Nuuk&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A mechanic position is available for individuals who enjoy working on large machinery. This role offers hands-on experience with ship engines. Further details and application links are provided for Sisimiut and Nuuk locations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227182/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227182/</link>
+  <title>[AI Job] Mechanic Job - Royal Arctic Line at Royal Arctic Line A/S</title>
+  <dc:date>2026-09-03 15:35:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227165/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Rio de Janeiro, Brazil&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Room Rating (Motorman) position is available in Rio de Janeiro, Brazil. This role is for a maritime professional with experience in engine room operations. Further details regarding vessel type, contract duration, and specific requirements can be found via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227165/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227165/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227085/</link>
   <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
   <dc:date>2026-09-01 20:21:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227065/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available on an Oil Tanker. Candidates require a minimum of 12 to 15 months of experience in rank. Salary offered ranges from 1900 to 2100 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;, depending on experience and interview performance. The vessel is Liberian flagged.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227065/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227065/</link>
-  <title>[AI Job] Fitter Job on Oil Tanker at Terra-Marine</title>
-  <dc:date>2026-09-01 15:01:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227055/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought for a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties in the engine room and on deck, and actively participating in safety training. The position requires adherence to safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227055/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227055/</link>
-  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-01 10:52:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226983/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman position is available on an Oil Tanker, with a joining date in September 2026. The contract duration is 4 months, and the offered salary is 2800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per month. Candidates must possess an EU passport or Schengen visa. Further details are available upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226983/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226983/</link>
-  <title>[AI Job] Pumpman Job on Oil Tanker at Stan Shipping Agency Ltd</title>
-  <dc:date>2026-08-30 05:42:30</dc:date>
  </item>
 </rdf:RDF>

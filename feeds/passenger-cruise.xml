@@ -4,22 +4,28 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-09-2026</dc:date>
+  <dc:date>04-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227228/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227021/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227003/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226995/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226934/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226933/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/226934/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226915/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226904/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226895/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226879/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226835/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227228/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is seeking to fill all positions. Both freshers and experienced candidates are welcome to apply. The offered salary ranges from 3200 to 15500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Visa, ticket, and accommodation will be provided. Opportunities are available in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227228/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227228/</link>
+  <title>[AI Job] All Positions Hiring on Cruise Ship at Cruise Line Recruitment</title>
+  <dc:date>2026-09-03 20:21:53</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227021/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available across a luxury cruise fleet, including roles in guest services, food and beverage, expedition, deck, medical, and technical departments. Opportunities range from hospitality staff and deck officers to engineers and electricians. This is a broad recruitment drive for various onboard functions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227021/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227021/</link>
@@ -38,16 +44,16 @@
   <title>[AI Job] Multiple Vacancies on Cruise Ships at Dream Cruises</title>
   <dc:date>2026-08-30 05:42:31</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/226934/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A job fair for cruise ship positions is being held, offering career opportunities within the cruise line industry. Interested candidates are invited to apply online through the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226934/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226934/</link>
-  <title>[AI Job] Cruise Ship Job Fair - Apply Online at TeacherGoals</title>
-  <dc:date>2026-08-28 20:20:26</dc:date>
- </item>
  <item rdf:about="https://maritime-union.com/job/226933/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is open for all positions on cruise ships for 2026. Both freshers and experienced candidates are welcome to apply. Salary ranges from 5000 to 16000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Visa, ticket, and accommodation will be provided. Positions are available in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226933/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226933/</link>
   <title>[AI Job] Cruise Ship Jobs - All Positions Available at Cruise Line Recruitment</title>
+  <dc:date>2026-08-28 20:20:26</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/226934/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A job fair for cruise ship positions is being held, offering career opportunities within the cruise line industry. Interested candidates are invited to apply online through the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226934/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/226934/</link>
+  <title>[AI Job] Cruise Ship Job Fair - Apply Online at TeacherGoals</title>
   <dc:date>2026-08-28 20:20:26</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/226915/">
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/226879/</link>
   <title>[AI Job] Cruise Sector Opportunities - Deck, Engine, Hotel &amp;amp; More at Faststream Recruitment Group</title>
   <dc:date>2026-08-28 12:23:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226835/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Amsterdam&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hospitality professionals are sought for various roles within the Hotel Department on cruise ships. Opportunities are available in Food &amp;amp; Beverage, Culinary, Housekeeping, Guest Services, and Hotel Operations. This is a chance to advance a career at sea within the cruise industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226835/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226835/</link>
-  <title>[AI Job] Hospitality Careers on Cruise Ships at Holland America Line</title>
-  <dc:date>2026-08-27 20:27:33</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-09-2026</dc:date>
+  <dc:date>04-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227206/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227160/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227130/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227097/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227068/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227042/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227041/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226974/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227206/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Trinidad and Tobago&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Cook position is available on an Anchor Handling Tug Supply (&lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;) vessel. The role is based in Trinidad and Tobago. Interested candidates can find more details and apply via the company&amp;#8217;s recruitment page.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227206/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227206/</link>
+  <title>[AI Job] Chief Cook Job on AHTS Vessel at OSM Thome Jobs at Sea</title>
+  <dc:date>2026-09-03 20:21:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227160/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Amsterdam&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for hospitality professionals within the Hotel Department on cruise ships. Roles include positions in Food &amp;amp; Beverage, Culinary, Housekeeping, Guest Services, and Hotel Operations. This is a chance to build a career at sea with a leading cruise line. The event takes place on September 25 in Amsterdam.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227160/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227160/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/227041/</link>
   <title>[AI Job] Cook Job on MPSV - Offshore Fleet at OJ CREW</title>
   <dc:date>2026-09-01 10:52:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226974/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 30m private motor yacht is seeking a Second Stewardess for a permanent position in the Mediterranean. The role involves all-round interior duties, maintaining high standards, and assisting the team. Ideal candidates have at least one season of yachting experience, a keen eye for detail, and a professional, personable attitude. A diving background is highly desirable. The package includes a strong salary, 13th-month bonus, full medical cover, and worldwide flights. Joining is expected around September 8th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226974/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226974/</link>
-  <title>[AI Job] Second Stewardess Job on 30m Private Motor Yacht at Seven Seas Recruitment</title>
-  <dc:date>2026-08-30 05:42:28</dc:date>
  </item>
 </rdf:RDF>

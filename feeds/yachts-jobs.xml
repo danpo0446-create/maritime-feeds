@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-09-2026</dc:date>
+  <dc:date>04-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227075/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227035/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227015/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226751/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226631/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226345/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226331/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227202/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Indian Ocean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on a 50m commercial explorer yacht, cruising the Indian Ocean. The role offers a salary of $6,000 per month with 60 days of leave. Embarkation is scheduled for September 7, 2026. This opportunity is suitable for individuals with the potential to advance to Chief Mate, provided they hold the necessary certification.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227202/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227202/</link>
+  <title>[AI Job] 2nd Officer Job - 50m Explorer Yacht at YotPost</title>
+  <dc:date>2026-09-03 20:21:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227075/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Stewardess required for a private motor yacht (90m-120m+). Previous large yacht experience is highly preferred. This role offers a unique opportunity to join a reputable team in the luxury yachting sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227075/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/226345/</link>
   <title>[AI Job] 2nd Stewardess Job on Private M/Y at Seazone</title>
   <dc:date>2026-08-24 00:37:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226331/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Boat Gelcoat Painters and Finishers are sought for yacht manufacturing. Responsibilities include gelcoat application, surface preparation, sanding, polishing, buffing, repairs, and final finishing to high standards. Candidates must have proven experience in these areas. The role is based in Bahrain.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226331/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226331/</link>
-  <title>[AI Job] Boat Gelcoat Painter &amp;amp; Finisher Job - Yacht Manufacturing at Suprema Marine</title>
-  <dc:date>2026-08-23 18:41:17</dc:date>
  </item>
 </rdf:RDF>
