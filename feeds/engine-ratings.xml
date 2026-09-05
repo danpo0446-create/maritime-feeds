@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>04-09-2026</dc:date>
+  <dc:date>05-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227315/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227305/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227267/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227199/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227201/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227182/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227143/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227114/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227115/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227108/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227084/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227085/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227315/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; East Arm NT, Australia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Trade Assistant is required to assist fitters and engineers in the construction of purpose-built vessels for pearling operations. Responsibilities include site preparation, tool and equipment handling, safety monitoring, and general assistance with components and equipment servicing. A casual contract of 6 months is offered with potential for extension. Reliable transport and a current driver&amp;#8217;s license are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227315/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227315/</link>
+  <title>[AI Job] Trade Assistant Job - Marine Engineering at Darwin Jobs, Australia</title>
+  <dc:date>2026-09-04 20:21:02</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227305/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought to support engine room and deck operations on tug vessels. The role involves assisting the Chief Engineer, performing watch duties, and ensuring vessel readiness. Candidates require &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification and a minimum of 24 months sea time as an Oiler, along with good safety awareness and basic English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227305/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227305/</link>
+  <title>[AI Job] Engine Rating Job - Tug Operations at SVITZER Bahrain WLL</title>
+  <dc:date>2026-09-04 20:21:00</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227267/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available for an Able Seaman on a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties as instructed, and actively participating in safety training. The Engine Rating reports to the Chief Engineer and must ensure all work is performed safely according to company policies and local legislation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227267/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227267/</link>
+  <title>[AI Job] Able Seaman (Engine) Job on Tug Vessel at SVITZER</title>
+  <dc:date>2026-09-04 20:20:55</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227199/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available for an Able Seaman on a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance, and housekeeping duties as instructed by the Chief Engineer. The position requires active participation in safety training and adherence to all safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227199/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227199/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227115/</link>
   <title>[AI Job] Pipefitter Job Vacancy at HR Singapore Gulf Europe</title>
   <dc:date>2026-09-01 20:21:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227108/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Congo&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent requirement for two Motormen with justified experience on Rolls-Royce &lt;span class=&quot;caps&quot;&gt;MTU&lt;/span&gt; Gas Engine &amp;#8211; Model 20V4000L32FNER and Stamford Alternator. The position is for an onshore project in Congo with a 15/15 rotation and a long-term contract.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227108/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227108/</link>
-  <title>[AI Job] Motorman Job - Onshore Project at IPS - Algeria</title>
-  <dc:date>2026-09-01 20:21:51</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227084/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought for a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties in assigned areas, and actively participating in safety training. The Engine Rating reports to the Chief Engineer and must adhere to safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227084/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227084/</link>
-  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-01 20:21:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227085/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available for an Able Seaman on a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties as instructed by the Chief Engineer, and actively participating in safety training. The incumbent must perform all work tasks safely and propose initiatives for raising the onboard safety level.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227085/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227085/</link>
-  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-01 20:21:48</dc:date>
  </item>
 </rdf:RDF>

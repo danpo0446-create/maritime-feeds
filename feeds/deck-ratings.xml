@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>04-09-2026</dc:date>
+  <dc:date>05-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227261/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227254/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227236/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227230/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227223/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227157/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227140/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227083/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227077/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227071/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227261/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is sought for a Bulk Carrier operating worldwide. This position offers global deployment. Key requirements include experience as an Able Seaman on bulk carriers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227261/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227261/</link>
+  <title>[AI Job] Able Seaman Job on Bulk Carrier - Worldwide at OSM Thome Jobs at Sea</title>
+  <dc:date>2026-09-04 20:20:54</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227254/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Napoli&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is urgently sought for a bunkering tanker joining on 07/09. The contract duration is 4 months on/off. Candidates must have experience on tankers, good English, and basic tanker documents. The vessel will be located in Napoli and features a mixed crew.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227254/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227254/</link>
+  <title>[AI Job] Able Seaman Job - Bunkering Tanker at Performar Ltd</title>
+  <dc:date>2026-09-04 20:20:53</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227236/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman position is available on a tug vessel operating in Europe. The contract is for 4 weeks, with a joining date of September 27, 2026. This role requires deck ratings.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227236/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227236/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/227083/</link>
   <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
   <dc:date>2026-09-01 20:21:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227077/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced AB and Bosuns with Able Seafarer Deck II/5 certificate are sought for a General Cargo vessel. A good level of English is required. The contract duration is 4 months on/off, with monthly remuneration paid in Euros.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227077/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227077/</link>
-  <title>[AI Job] AB and Bosun Jobs on General Cargo Vessel at NOVA MARIS</title>
-  <dc:date>2026-09-01 20:21:47</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227071/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) is sought for immediate joining. The contract duration is 1.5 months, with a net salary of &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; 2,700 per month. Candidates of Ukrainian or Romanian nationality are preferred. This is an urgent requirement for a seafarer to embark as soon as possible.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227071/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227071/</link>
-  <title>[AI Job] Able Seaman (AB) Job - Urgent Vacancy at Agencia Marítima IBERNOR, S.L.</title>
-  <dc:date>2026-09-01 15:01:50</dc:date>
  </item>
 </rdf:RDF>
