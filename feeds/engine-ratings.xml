@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>05-09-2026</dc:date>
+  <dc:date>06-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227319/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227315/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227305/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227267/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227165/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227143/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227114/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227115/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227319/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available for a 3-month contract. The offered salary is 700 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. This role requires qualified personnel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227319/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227319/</link>
+  <title>[AI Job] Oiler Job - 3 Months Contract at NSMAR SHIP MANAGEMENT SERVICES PVT LTD</title>
+  <dc:date>2026-09-05 11:17:21</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227315/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; East Arm NT, Australia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Trade Assistant is required to assist fitters and engineers in the construction of purpose-built vessels for pearling operations. Responsibilities include site preparation, tool and equipment handling, safety monitoring, and general assistance with components and equipment servicing. A casual contract of 6 months is offered with potential for extension. Reliable transport and a current driver&amp;#8217;s license are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227315/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227315/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Houston&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Structural Fitter / Welder position available. Responsibilities include assembling structural framework, components, and materials such as angle iron, I-beams, and other steel components. This role is based within fabrication operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227114/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227114/</link>
   <title>[AI Job] Structural Fitter / Welder Job at Englobal Fabrication</title>
-  <dc:date>2026-09-01 20:21:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227115/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A pipefitter position is available in Singapore. This role requires fitting and welding skills. Service charges are applicable for this position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227115/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227115/</link>
-  <title>[AI Job] Pipefitter Job Vacancy at HR Singapore Gulf Europe</title>
   <dc:date>2026-09-01 20:21:52</dc:date>
  </item>
 </rdf:RDF>

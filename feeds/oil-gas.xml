@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>05-09-2026</dc:date>
+  <dc:date>06-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227363/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227339/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227314/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226939/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226825/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226816/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226680/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226623/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226605/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226601/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227363/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Libya&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Two Safety Officer positions are available for work in the Oil &amp;amp; Gas sector in Libya. One role is rig-based, and the other is field-based. Candidates must have previous &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt;/Safety experience in the Oil &amp;amp; Gas industry, relevant experience in drilling rigs or field operations, and knowledge of &lt;span class=&quot;caps&quot;&gt;PTW&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;JSA&lt;/span&gt;, Risk Assessment, &lt;span class=&quot;caps&quot;&gt;SIMOPS&lt;/span&gt;, Emergency Response, and &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; procedures. Libyan nationality is required. The role involves working effectively in a field environment and as part of a team.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227363/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227363/</link>
+  <title>[AI Job] Safety Officer Job - Oil &amp;amp; Gas Sector at </title>
+  <dc:date>2026-09-05 14:56:14</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227339/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; West Coast and Four Corners&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Entry-level floorhand position available in the oil and gas sector. Seeking candidates eager to work across the West Coast and Four Corners regions. Previous heavy labor experience is valued. Direct connections to rig managers or crew leaders are encouraged to reach out.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227339/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227339/</link>
+  <title>[AI Job] Floorhand Job in Oil and Gas at </title>
+  <dc:date>2026-09-05 11:17:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227314/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced QA/QC Mechanical Inspector required for Oil &amp;amp; Gas projects in Saudi Arabia. The role involves ensuring mechanical construction, installation, inspection, testing, and commissioning activities adhere to project specifications and international standards. Candidates should possess a Mechanical Engineering degree, 5-10 years of relevant experience, and valid &lt;span class=&quot;caps&quot;&gt;CWI&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;CSWIP&lt;/span&gt; certifications, with practical inspection skills for equipment, piping, vessels, and tanks.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227314/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227314/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226623/</link>
   <title>[AI Job] Technical Support Engineer Job - FPSO, Singapore at Caliber8 Recruitment</title>
   <dc:date>2026-08-26 21:24:57</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226605/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Turkey&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Instrument Technician with &lt;span class=&quot;caps&quot;&gt;TELECOM&lt;/span&gt; specialization is sought for an &lt;span class=&quot;caps&quot;&gt;FPU&lt;/span&gt;/FPSO vessel project in Turkey. Candidates must possess hands-on experience on &lt;span class=&quot;caps&quot;&gt;FPU&lt;/span&gt;/FPSO vessels and within the oil and gas sector, specifically with the &lt;span class=&quot;caps&quot;&gt;HULL&lt;/span&gt; part. The contract offers 3 months onshore with potential extension, followed by 9 months offshore. Rotation is 35/35 offshore, with insurance, accommodation, and transportation provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226605/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226605/</link>
-  <title>[AI Job] Instrument Technician Job - FPU/FPSO Vessel at Antagon International, Lda</title>
-  <dc:date>2026-08-26 21:24:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226601/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Turkey&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Instrument Technician Lead with experience in the &lt;span class=&quot;caps&quot;&gt;HULL&lt;/span&gt; part of &lt;span class=&quot;caps&quot;&gt;FPU&lt;/span&gt;/FPSO vessels is sought for an oil &amp;amp; gas project in Turkey. The role involves onshore and offshore duties with contract durations of 3 months onshore and 9 months offshore, subject to extension. Insurance, accommodation, and transportation are provided. The position requires a solid, hands-on professional background in a similar lead role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226601/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226601/</link>
-  <title>[AI Job] Instrument Technician Lead Job - FPSO Vessel at Antagon International, Lda</title>
-  <dc:date>2026-08-26 21:24:54</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>05-09-2026</dc:date>
+  <dc:date>06-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227075/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227035/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226808/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226751/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226631/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226345/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227340/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Seattle&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Marine service technicians are sought for a growing team in the yacht industry. Openings include Marine Service Foreman, Marine Electrician, Marine Inboard Mechanic, and Marine Outboard Mechanic. Candidates should possess strong practical knowledge of boats and a commitment to quality workmanship. This position is based in Seattle.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227340/</link>
+  <title>[AI Job] Marine Service Jobs - Yacht Industry at Seattle Yachts</title>
+  <dc:date>2026-09-05 11:17:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227202/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Indian Ocean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on a 50m commercial explorer yacht, cruising the Indian Ocean. The role offers a salary of $6,000 per month with 60 days of leave. Embarkation is scheduled for September 7, 2026. This opportunity is suitable for individuals with the potential to advance to Chief Mate, provided they hold the necessary certification.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227202/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227202/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/226631/</link>
   <title>[AI Job] Naval Architect Job - Yacht Building at NewTinks</title>
   <dc:date>2026-08-26 21:24:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226345/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Greece&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A private Motor Yacht is seeking a 2nd Stewardess for a position based in Greece. This role is ideal for experienced yachting professionals looking for their next opportunity in the private yachting sector. Further details on specific requirements and the yacht&amp;#8217;s itinerary are available through the provided application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226345/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226345/</link>
-  <title>[AI Job] 2nd Stewardess Job on Private M/Y at Seazone</title>
-  <dc:date>2026-08-24 00:37:33</dc:date>
  </item>
 </rdf:RDF>
