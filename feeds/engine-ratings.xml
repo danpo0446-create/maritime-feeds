@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-09-2026</dc:date>
+  <dc:date>07-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227377/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227371/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227319/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227315/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227305/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227201/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227182/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227165/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227143/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227114/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227377/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Brownsville, PA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Welders are sought for opportunities on barges, with potential sign-on bonuses available. This role offers on-the-job training. The position is located in Brownsville, PA.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227377/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227377/</link>
+  <title>[AI Job] Welder Job - Barges (Sign-On Bonus) at Heartland Fabrication</title>
+  <dc:date>2026-09-06 14:27:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227371/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Vietnam&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A trainee wiper position is available on a 14000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; bulk carrier. The offered salary is 250 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Joining is expected from Vietnam. This role is suitable for individuals seeking entry-level engine department experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227371/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227371/</link>
+  <title>[AI Job] Trainee Wiper Job on Bulk Carrier at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-06 14:27:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227319/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available for a 3-month contract. The offered salary is 700 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. This role requires qualified personnel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227319/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227319/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/227165/</link>
   <title>[AI Job] Engine Room Rating (Motorman) Job at Brunel</title>
   <dc:date>2026-09-02 20:25:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227143/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available on a tug vessel. The role involves performing assigned duties related to all tasks on the vessel, including maintenance and housekeeping in the engine room or on deck, as instructed by the Chief Engineer. The candidate must ensure all work is performed safely and participate in safety training and drills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227143/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227143/</link>
-  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-02 20:25:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227114/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Houston&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Structural Fitter / Welder position available. Responsibilities include assembling structural framework, components, and materials such as angle iron, I-beams, and other steel components. This role is based within fabrication operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227114/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227114/</link>
-  <title>[AI Job] Structural Fitter / Welder Job at Englobal Fabrication</title>
-  <dc:date>2026-09-01 20:21:52</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-09-2026</dc:date>
+  <dc:date>07-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227411/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227262/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227253/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227211/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227210/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227205/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227204/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227411/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Louisville, Kentucky&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Tankerman position is available in Louisville, Kentucky. This role is with a major energy company. Further details regarding joining date, contract duration, and specific requirements are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227411/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227411/</link>
+  <title>[AI Job] Marine Tankerman Job - Louisville, Kentucky at Marathon Petroleum Corporation</title>
+  <dc:date>2026-09-06 21:42:49</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227272/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer position is available on a Chemical/Oil Tanker with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 50000, built in 2026. Joining is expected in early November for a contract duration of 4 months, with a negotiable salary. Candidates require an Advanced Chemical/Oil Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;, relevant experience in rank, effective English communication skills, and a strong safety culture. Experience in a multinational working environment is also preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227272/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227272/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe and India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime job vacancies are available for various positions on oil and chemical tankers. Roles include 3rd Engineer, 4th Engineer, E/E, Pumpman, Able Seaman, Oiler, Cook, Chief Officer, 2nd Officer, 3rd Officer, Bosun, Fitter, and Assistant CE. Joining dates are scheduled for September 2026, with some positions embarking in Malaysia, Thailand, and Honduras. Experience and good English are required for some roles. A one-time bonus is offered for certain positions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227205/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227205/</link>
   <title>[AI Job] Urgent Ship Crew Vacancies on Oil Chemical Tanker at PT EmAS Crewing Agency</title>
-  <dc:date>2026-09-03 20:21:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227204/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are available for experienced seafarers on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; Vessel, with immediate joining required. Candidates must possess a minimum of 24 months of experience in a similar rank and on a Chemical Tanker, hold valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 2010 certification, and have proficiency in English. Only suitable candidates will be processed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227204/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227204/</link>
-  <title>[AI Job] LNG Vessel Vacancy - Immediate Joining at Columbia Shipmanagement Indonesia</title>
   <dc:date>2026-09-03 20:21:50</dc:date>
  </item>
 </rdf:RDF>

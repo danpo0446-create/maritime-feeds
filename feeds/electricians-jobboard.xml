@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-09-2026</dc:date>
+  <dc:date>07-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227384/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227370/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227362/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227335/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227309/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227281/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227276/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227216/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227214/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227174/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227384/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Glasgow, Govan and Scotstoun&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician is sought for work on naval vessels in Glasgow, Govan and Scotstoun. The role involves the installation of various cables and electrical systems, reading schematics, and collaborating with shipbuilding teams. Applicants must possess a Modern Apprenticeship (&lt;span class=&quot;caps&quot;&gt;SVQ&lt;/span&gt; Level 3) or equivalent trade qualification and a &lt;span class=&quot;caps&quot;&gt;SJIB&lt;/span&gt; card, with experience in marine installations or industrial environments. A salary of £40,016 plus shift allowance is offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227384/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227384/</link>
+  <title>[AI Job] Electrician Job on Naval Vessels at BAE Systems</title>
+  <dc:date>2026-09-06 14:27:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227370/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Electro-Technical Officer with 15 years on DP2 offshore vessels is seeking new opportunities worldwide. Expertise includes HV switchboards, DP power management, diesel-electric propulsion, and crane systems, ensuring operational redundancy. Open to crewing and DP managers in the offshore fleet.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227370/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227370/</link>
+  <title>[AI Job] ETO Job - Offshore DP2 Vessels Worldwide at </title>
+  <dc:date>2026-09-06 14:27:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227362/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Glasgow, Govan and Scotstoun&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician is sought for work on naval vessels in Glasgow, Govan and Scotstoun. The role involves installation of various cables and electrical systems, reading schematics, and collaborating with shipbuilding teams. Applicants must possess a Modern Apprenticeship (&lt;span class=&quot;caps&quot;&gt;SVQ&lt;/span&gt; Level 3) or equivalent trade qualification and a &lt;span class=&quot;caps&quot;&gt;SJIB&lt;/span&gt; card, with experience in marine installations or major industrial environments. Salary is £40,016 plus a shift allowance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227362/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227362/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/227216/</link>
   <title>[AI Job] Electro Technical Officer Job at </title>
   <dc:date>2026-09-03 20:21:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227214/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; United Kingdom&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position is available on an Offshore &lt;span class=&quot;caps&quot;&gt;PSV&lt;/span&gt; vessel operating in the United Kingdom. This role requires specific technical expertise for the vessel&amp;#8217;s electrical systems. Further details regarding the opportunity and application process can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227214/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227214/</link>
-  <title>[AI Job] ETO Job on Offshore PSV Vessel at OSM Thome Jobs at Sea</title>
-  <dc:date>2026-09-03 20:21:51</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227174/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician position is available in the Maldives. The offered salary is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 800 per month, with free food and accommodation provided. This role is suitable for individuals seeking overseas employment opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227174/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227174/</link>
-  <title>[AI Job] Marine Electrician Job - Maldives at Online Conseil Solution</title>
-  <dc:date>2026-09-02 20:25:37</dc:date>
  </item>
 </rdf:RDF>

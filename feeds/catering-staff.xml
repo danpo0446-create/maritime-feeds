@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-09-2026</dc:date>
+  <dc:date>07-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227379/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227292/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227293/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227294/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227206/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227160/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227130/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227097/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227379/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA UK US&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fleet Training Manager – Food &amp;amp; Beverage position is available on a cruise ship. This role involves working with an international and professional team within the global cruise industry. Opportunities for career growth and professional development are offered, with competitive salary and benefits based on position and experience. The working environment is dynamic, supportive, and professional, providing valuable experience in the cruise and hospitality industry. Location is &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, UK, US.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227379/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227379/</link>
+  <title>[AI Job] Fleet Training Manager Job - Cruise Ship at Cruise Ship Careers</title>
+  <dc:date>2026-09-06 14:27:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227292/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Junior Sous Chef – Pastry position is available on ocean cruise vessels. This role involves supporting pastry and bakery operations, preparing high-quality desserts, and ensuring excellent food presentation. The position requires previous pastry supervisory experience, preferably in a 4 or 5-star hotel, restaurant, or cruise ship environment. Strong English communication skills and knowledge of hygiene standards are essential. The monthly salary is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 2,100.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227292/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227292/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/227130/</link>
   <title>[AI Job] Shop Attendant Job on Ferry Vessel at GNV</title>
   <dc:date>2026-09-02 14:15:16</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227097/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is seeking an experienced Disc Jockey (DJ) to provide entertainment. The role involves curating music, performing DJ sets and emcee duties in various onboard venues. Candidates should have a minimum of 2 years of professional DJ and emcee experience, preferably in upscale clubs or resorts, with strong technical skills in sound and lighting systems. Previous cruise ship experience is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227097/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227097/</link>
-  <title>[AI Job] Disc Jockey (DJ) Job on Cruise Ship at Job Selection</title>
-  <dc:date>2026-09-01 20:21:50</dc:date>
  </item>
 </rdf:RDF>

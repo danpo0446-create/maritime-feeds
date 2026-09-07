@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-09-2026</dc:date>
+  <dc:date>07-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227398/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227395/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227261/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227254/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227236/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227192/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227189/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227157/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227140/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227083/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227398/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Greenland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking an AB / Crane Operator for a Container Ship with a Norwegian shipowner. The position offers a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 3,000 per month, with joining scheduled for September 10, 2026. The contract duration is 3 months (+/- 1 month). The vessel is equipped with a Liebherr crane and will be trading in Greenland.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227398/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227398/</link>
+  <title>[AI Job] AB / Crane Operator Job on Container Ship at BalticCareer</title>
+  <dc:date>2026-09-06 21:42:47</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227395/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; NL&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Able Seaman required for a Research Vessel. Immediate joining is expected around September 7th in the Netherlands for a 4-week contract. The offered net rate is 130 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per day. Candidates must possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates relevant to the rank.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227395/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227395/</link>
+  <title>[AI Job] AB Job on Research Vessel at OJ Crew</title>
+  <dc:date>2026-09-06 21:42:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227261/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is sought for a Bulk Carrier operating worldwide. This position offers global deployment. Key requirements include experience as an Able Seaman on bulk carriers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227261/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227261/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/227157/</link>
   <title>[AI Job] Deckhand Job on Dayboat Tug Fleet at Boston Towing &amp; Transportation (BTT)</title>
   <dc:date>2026-09-02 20:25:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227140/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK &amp; Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) / Deckhand position is available for deployment in the UK and Germany. This role requires qualified personnel to join a maritime operation. Further details regarding specific requirements, joining dates, contract terms, and application procedures are available on the company&amp;#8217;s official jobs board via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227140/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227140/</link>
-  <title>[AI Job] Able Seaman (AB) / Deckhand Job - UK &amp;amp; Germany at Energy Recruitment Hub</title>
-  <dc:date>2026-09-02 20:25:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227083/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (Engine) is required to join a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties as instructed, and participating in safety training. The position reports to the Chief Engineer and requires adherence to safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227083/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227083/</link>
-  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-01 20:21:48</dc:date>
  </item>
 </rdf:RDF>
