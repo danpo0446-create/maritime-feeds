@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-09-2026</dc:date>
+  <dc:date>08-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227423/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227422/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227420/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227307/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227297/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227238/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227225/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227224/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227213/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227203/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227423/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227423/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227423/</link>
+  <title>[Gold Job] Second Engineer for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-09-08 10:31:44</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227422/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227422/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227422/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-09-08 09:34:30</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227420/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227420/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227420/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/227224/</link>
   <title>[AI Job] Second Engineer Job - Dubai at Dubai Engineering Services</title>
   <dc:date>2026-09-03 20:21:53</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227213/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is sought for a General Cargo vessel. This position requires experience relevant to the engine department. The role is open for applications.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227213/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227213/</link>
-  <title>[AI Job] 2nd Engineer Job - General Cargo Vessel at MARIMEX GLOBAL PRIVATE LIMITED</title>
-  <dc:date>2026-09-03 20:21:51</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227203/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 4th Engineer is sought for a Chemical/Oil Tanker with 38289 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, built in 2008. The position requires experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W 2-stroke engines, an Advanced Oil/Chem CoP, and relevant experience in rank. Joining is expected mid-September for a contract duration of 4 months, with flexibility of +/-1 month. Salary is negotiable. Good English is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227203/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227203/</link>
-  <title>[AI Job] 4th Engineer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
-  <dc:date>2026-09-03 20:21:50</dc:date>
  </item>
 </rdf:RDF>
