@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>08-09-2026</dc:date>
+  <dc:date>09-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227483/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227485/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227432/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227406/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227407/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227408/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227393/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227363/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227339/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227314/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226939/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226825/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227483/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Middle East&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are available for various positions within an oil and gas company in the Middle East. Required experience includes land rig operations. Positions include Rig Superintendent, Sr. Tool Pusher, Sr. Mechanic, Sr. Electrician, Driller, Derrick Man, Floorman, Mechanical Helper, and Electrical Helper. Face-to-face interviews will be conducted in India.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227483/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227483/</link>
+  <title>[AI Job] Oil and Gas Rig Jobs in Middle East at Sofomation</title>
+  <dc:date>2026-09-08 15:01:08</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227485/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Rig Electrical Maintenance Surveyor required for international projects within the Oil &amp;amp; Gas drilling industry. Candidates must possess strong experience in electrical maintenance on drilling rigs, inspection, and auditing, along with a CompEx or EX certification. This role involves worldwide project assignments.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227485/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227485/</link>
+  <title>[AI Job] Rig Electrical Maintenance Surveyor Job - Oil &amp;amp; Gas at DOLFINES GROUP</title>
+  <dc:date>2026-09-08 15:01:08</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227432/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; India &amp; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced &lt;span class=&quot;caps&quot;&gt;DAQ&lt;/span&gt;/TDA and Well Testing Engineer with over 16 years in the Oil &amp;amp; Gas sector is available. Expertise includes &lt;span class=&quot;caps&quot;&gt;HPHT&lt;/span&gt; well testing, data acquisition, instrumentation, and troubleshooting across conventional and unconventional wells. Possesses experience with various equipment and international certifications, including &lt;span class=&quot;caps&quot;&gt;OPITO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;HUET&lt;/span&gt; and H2S. Previous roles include work with major companies in India, Saudi Arabia, and the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227432/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227432/</link>
+  <title>[AI Job] Well Testing Engineer Job - Offshore Oil &amp;amp; Gas at AM Career Connect</title>
+  <dc:date>2026-09-08 15:01:01</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227406/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Iraq&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available in the Oil &amp;amp; Gas sector in Iraq. Roles include &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Officer, Medic, Assistant Driller, Derrickman, and Motorman. Specific salaries are listed for each position. This is an opportunity to work in the oil and gas industry in Iraq.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227406/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227406/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227339/</link>
   <title>[AI Job] Floorhand Job in Oil and Gas at </title>
   <dc:date>2026-09-05 11:17:23</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227314/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced QA/QC Mechanical Inspector required for Oil &amp;amp; Gas projects in Saudi Arabia. The role involves ensuring mechanical construction, installation, inspection, testing, and commissioning activities adhere to project specifications and international standards. Candidates should possess a Mechanical Engineering degree, 5-10 years of relevant experience, and valid &lt;span class=&quot;caps&quot;&gt;CWI&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;CSWIP&lt;/span&gt; certifications, with practical inspection skills for equipment, piping, vessels, and tanks.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227314/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227314/</link>
-  <title>[AI Job] QA/QC Mechanical Inspector Job - Oil &amp;amp; Gas at Durucooperation</title>
-  <dc:date>2026-09-04 20:21:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226939/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; onshore &amp; offshore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Senior Rig Mechanic with 8 years of experience in onshore and offshore oil field drilling rigs is available for immediate joining. Seeking opportunities in shutdown, sailing, drilling rig, and maintenance roles within the oil and gas sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226939/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226939/</link>
-  <title>[AI Job] Senior Rig Mechanic Job - Oil &amp;amp; Gas Drilling Rig at </title>
-  <dc:date>2026-08-28 20:20:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226825/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Vietnam&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for offshore &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt;/FSO operations and onshore roles in Vietnam within the Oil &amp;amp; Gas industry. Opportunities include roles in operations, production, mechanical maintenance, electrical and instrumentation, deck and crane operations, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt;, and support. Onshore engineering positions are also open, covering regulatory compliance, marine, production, rotating and static equipment, E&amp;amp;I, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt;, project coordination, and purchasing.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226825/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226825/</link>
-  <title>[AI Job] Offshore FPSO/FSO Oil &amp;amp; Gas Careers in Vietnam at Minh Viet HR</title>
-  <dc:date>2026-08-27 20:27:31</dc:date>
  </item>
 </rdf:RDF>

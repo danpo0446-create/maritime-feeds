@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>08-09-2026</dc:date>
+  <dc:date>09-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227563/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227560/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227463/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227377/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227371/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227319/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227305/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227267/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227199/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227201/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227182/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227165/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227563/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Marine Transportation &amp; Specialty (US)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Qualified Member of the Engine Department (&lt;span class=&quot;caps&quot;&gt;QMED&lt;/span&gt;) is sought for a role within Marine Transportation &amp;amp; Specialty operations in the US. This position offers opportunities within a dynamic maritime environment. Interested candidates are encouraged to apply through the company&amp;#8217;s talent community.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227563/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227563/</link>
+  <title>[AI Job] QMED Job - Marine Transportation &amp;amp; Specialty at Hornbeck Offshore Operators LLC</title>
+  <dc:date>2026-09-08 15:07:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227560/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies exist for Oilers to join bulk and tanker vessels. Candidates are invited to apply. Salary information and specific job requirements can be obtained by contacting the hiring department.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227560/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227560/</link>
+  <title>[AI Job] Oiler Job on Bulk and Tanker Vessels at Ceylon Shipping Corporation Limited</title>
+  <dc:date>2026-09-08 15:07:54</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227463/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Welder position is available on a Jack Up Barge in Europe. The temporary contract is for 2 weeks, with a joining date of September 9, 2026. This role is suitable for experienced welders seeking short-term offshore assignments.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227463/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227463/</link>
+  <title>[AI Job] Welder Job on Jack Up Barge in Europe at ORCA Wind Services</title>
+  <dc:date>2026-09-08 15:01:05</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227377/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Brownsville, PA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Welders are sought for opportunities on barges, with potential sign-on bonuses available. This role offers on-the-job training. The position is located in Brownsville, PA.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227377/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227377/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227199/</link>
   <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
   <dc:date>2026-09-03 20:21:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227201/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating is sought for a tug vessel. The role involves contributing to the vessel&amp;#8217;s safe and efficient operation, performing maintenance and housekeeping duties in assigned areas, and actively participating in safety training and drills. The Engine Rating reports to the Chief Engineer and must adhere to company policies and local legislation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227201/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227201/</link>
-  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-03 20:21:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227182/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Sisimiut, Nuuk&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A mechanic position is available for individuals who enjoy working on large machinery. This role offers hands-on experience with ship engines. Further details and application links are provided for Sisimiut and Nuuk locations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227182/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227182/</link>
-  <title>[AI Job] Mechanic Job - Royal Arctic Line at Royal Arctic Line A/S</title>
-  <dc:date>2026-09-03 15:35:23</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227165/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Rio de Janeiro, Brazil&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Room Rating (Motorman) position is available in Rio de Janeiro, Brazil. This role is for a maritime professional with experience in engine room operations. Further details regarding vessel type, contract duration, and specific requirements can be found via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227165/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227165/</link>
-  <title>[AI Job] Engine Room Rating (Motorman) Job at Brunel</title>
-  <dc:date>2026-09-02 20:25:36</dc:date>
  </item>
 </rdf:RDF>

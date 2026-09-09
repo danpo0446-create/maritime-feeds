@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>08-09-2026</dc:date>
+  <dc:date>09-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227467/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227468/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227075/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/226916/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226905/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226808/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226751/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/226631/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227467/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Fresh career opportunities are available on Ritz Carlton Yacht. Interested candidates can apply via the provided link. Specific details regarding roles, joining dates, and contract terms are available upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227467/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227467/</link>
+  <title>[AI Job] Career Opportunities on Ritz Carlton Yacht at Global Cruise Jobs Network</title>
+  <dc:date>2026-09-08 15:01:06</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227468/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; South of France&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engineer is sought for a 46m world-travelling private sailing yacht. This is a job share position with a 2/2 rotation, where salary is paid only for months onboard. Joining is scheduled for 30th September in the South of France, with an itinerary including the Caribbean, East Coast &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, Greenland, Iceland, and Norway. Minimum &lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt; 1&amp;amp;2, 3 years of yacht experience, and a B1/B2 visa are required. Sailing yacht experience and &lt;span class=&quot;caps&quot;&gt;MEOL&lt;/span&gt; or Y4 are beneficial.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227468/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227468/</link>
+  <title>[AI Job] Engineer Job on 46m World Cruising Sailing Yacht at Hello Sailor</title>
+  <dc:date>2026-09-08 15:01:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227340/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Seattle&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Marine service technicians are sought for a growing team in the yacht industry. Openings include Marine Service Foreman, Marine Electrician, Marine Inboard Mechanic, and Marine Outboard Mechanic. Candidates should possess strong practical knowledge of boats and a commitment to quality workmanship. This position is based in Seattle.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227340/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/226808/</link>
   <title>[AI Job] Yacht Crew Jobs: Stews, Deckhands, Officers, Bosuns at superyachtcrewuk.co.uk</title>
   <dc:date>2026-08-27 14:21:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226751/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking talented individuals for hospitality roles aboard luxury yachts. This is an opportunity to contribute to reimagining luxury at sea. Key requirements and specific positions are detailed via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226751/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226751/</link>
-  <title>[AI Job] Hospitality Jobs on Luxury Yachts at The Apollo Group</title>
-  <dc:date>2026-08-27 12:00:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/226631/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Amsterdam region&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Naval Architect is sought for a well-established company in the international yachting industry, focusing on innovative designs and high-quality solutions. The role involves the full design process from concept to engineering. Requires experience in yacht design, strong technical skills, and a passion for innovation. Located in the Amsterdam region with a salary up to €85,000 gross per year plus benefits.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226631/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/226631/</link>
-  <title>[AI Job] Naval Architect Job - Yacht Building at NewTinks</title>
-  <dc:date>2026-08-26 21:24:58</dc:date>
  </item>
 </rdf:RDF>
