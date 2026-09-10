@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>09-09-2026</dc:date>
+  <dc:date>10-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227661/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227629/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227563/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227560/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227463/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227319/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227315/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227305/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227267/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227199/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227661/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Houston, TX&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Structural Welders and Structural Fitters are sought for a shipyard position in Houston, Texas. Key requirements include experience with &lt;span class=&quot;caps&quot;&gt;FCAW&lt;/span&gt;, 3G &amp;amp; 4G welding positions, back gouging, structural fitting, blueprint reading, and torch cutting. This role offers a career opportunity within the industrial construction and fabrication sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227661/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227661/</link>
+  <title>[AI Job] Structural Welder and Fitter Job - Houston Shipyard at Race Rock and Spitzer Industries</title>
+  <dc:date>2026-09-09 23:22:31</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227629/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seafarers are sought for the roles of Wiper, Able Seaman, and Ordinary Seaman within the cruise, ferry, and yacht industry. This is an opportunity to build a career with growth and adventure at sea. No fees are collected from applicants.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227629/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227629/</link>
+  <title>[AI Job] Wiper, AB, OS Jobs on Cruise, Ferry, Yacht at V.Ships Leisure Recruitment</title>
+  <dc:date>2026-09-09 12:00:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227563/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Marine Transportation &amp; Specialty (US)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Qualified Member of the Engine Department (&lt;span class=&quot;caps&quot;&gt;QMED&lt;/span&gt;) is sought for a role within Marine Transportation &amp;amp; Specialty operations in the US. This position offers opportunities within a dynamic maritime environment. Interested candidates are encouraged to apply through the company&amp;#8217;s talent community.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227563/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227563/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/227305/</link>
   <title>[AI Job] Engine Rating Job - Tug Operations at SVITZER Bahrain WLL</title>
   <dc:date>2026-09-04 20:21:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227267/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available for an Able Seaman on a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance and housekeeping duties as instructed, and actively participating in safety training. The Engine Rating reports to the Chief Engineer and must ensure all work is performed safely according to company policies and local legislation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227267/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227267/</link>
-  <title>[AI Job] Able Seaman (Engine) Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-04 20:20:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227199/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Rating position is available for an Able Seaman on a tug vessel. The role involves contributing to the safe and efficient operation of the vessel, performing maintenance, and housekeeping duties as instructed by the Chief Engineer. The position requires active participation in safety training and adherence to all safety policies and procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227199/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227199/</link>
-  <title>[AI Job] Able Seaman Job on Tug Vessel at SVITZER</title>
-  <dc:date>2026-09-03 20:21:49</dc:date>
  </item>
 </rdf:RDF>
