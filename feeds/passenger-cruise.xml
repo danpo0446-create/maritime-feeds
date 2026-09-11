@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>10-09-2026</dc:date>
+  <dc:date>11-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227816/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227683/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227655/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227593/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227421/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227401/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227404/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227367/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227816/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for various positions on cruise ships worldwide. Both freshers and experienced candidates are welcome to apply for roles offering competitive salaries and benefits. This international work environment provides valuable global experience and career growth.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227816/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227816/</link>
+  <title>[AI Job] Cruise Ship Jobs - Multiple Positions Worldwide at Atlas Ocean Voyages</title>
+  <dc:date>2026-09-11 08:21:13</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227683/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on a cruise ship for both freshers and experienced candidates. This international and multicultural work environment offers competitive salaries and benefits, along with excellent opportunities for career growth and gaining valuable industry experience. The role is based in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227683/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227683/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/227404/</link>
   <title>[AI Job] Cruise Ship Jobs - All Positions Available at Cruise Line Recruitment</title>
   <dc:date>2026-09-06 21:42:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227367/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA UK US&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Captain, First Officer, and Chief Engineer positions are available on cruise ships. This role offers exciting career opportunities within the global cruise industry, working with an international team and providing opportunities for professional development. Competitive salary and benefits are offered based on position and experience. Locations include &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227367/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227367/</link>
-  <title>[AI Job] Captain, Officer, Engineer Jobs on Cruise Ships at Cruise Ship Careers</title>
-  <dc:date>2026-09-06 10:47:05</dc:date>
  </item>
 </rdf:RDF>

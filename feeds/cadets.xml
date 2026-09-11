@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>10-09-2026</dc:date>
+  <dc:date>11-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227821/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227747/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227738/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227562/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227528/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227526/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227510/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227504/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227503/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227494/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227434/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227117/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227821/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Malta&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a 7000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; tanker. The salary offered is 250 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining will be from Malta. This role is suitable for individuals seeking entry-level opportunities in maritime careers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227821/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227821/</link>
+  <title>[AI Job] Deck Cadet Job on Tanker Vessel at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-11 08:21:14</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227747/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Cadets are being recruited for bulk carrier vessels. Opportunities also exist for officers, engineers, and ratings. Please complete the application form.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227747/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227747/</link>
+  <title>[AI Job] Cadet Jobs on Bulk Carrier at Inter Marine</title>
+  <dc:date>2026-09-10 16:47:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227738/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; positions are available for Cadets. Experienced officers and engineers of all ranks with &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; experience are also sought for this vessel type.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227738/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227738/</link>
+  <title>[AI Job] Cadet Vacancy on VLCC at Inter Marine</title>
+  <dc:date>2026-09-10 16:47:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227562/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An active cadet programme is open to applicants of all nationalities. Those interested in commencing a career at sea are encouraged to send their applications. A relevant contact person will follow up with suitable candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227562/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227562/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227503/</link>
   <title>[AI Job] Maritime Cadet Internship - Boomsma Shipping at Boomsma Shipping B.V.</title>
   <dc:date>2026-09-08 15:07:47</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227494/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Maritime Cadetships are available for individuals seeking to gain practical experience while working towards academic qualifications. The program offers sponsorship for a Foundation Degree in Nautical Sciences or Marine Engineering, a competitive allowance during sea phases, and worldwide travel. Hands-on experience will be gained onboard a fleet of oil tankers and gas carriers, with excellent career prospects at sea and in shore-based management. Candidates must meet specific academic and medical entry requirements.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227494/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227494/</link>
-  <title>[AI Job] Maritime Cadetship - Oil Tankers &amp;amp; Gas Carriers at Shell Ship Management Limited</title>
-  <dc:date>2026-09-08 15:07:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227434/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Trainee Marine Officer is sought for a Crew Boat vessel in Abu Dhabi, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. The position requires a recent deck cadet graduate with good computer and English communication skills to support the Master with paperwork and chart updates. The contract duration is 6 months (+/- 1 month) with a salary of 350 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227434/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227434/</link>
-  <title>[AI Job] Trainee Marine Officer Job - Crew Boat Vessel at JGO Jobs</title>
-  <dc:date>2026-09-08 15:01:01</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227117/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 40000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; oil tanker requires a Deck Cadet. Freshers are welcome. Salary offered is $250 to $300. Joining is expected within the next 4 to 10 days. Rejoining opportunities are available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227117/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227117/</link>
-  <title>[AI Job] Deck Cadet Job on Oil Tanker at The Seaways Placement &amp; Services</title>
-  <dc:date>2026-09-01 20:21:52</dc:date>
  </item>
 </rdf:RDF>
