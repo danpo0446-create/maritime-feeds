@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-09-2026</dc:date>
+  <dc:date>12-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227869/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227868/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227850/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227846/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227810/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227788/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227783/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227742/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227741/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227740/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227739/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227736/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227716/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227715/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/227869/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227869/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227869/</link>
+  <title>[Gold Job] Wiper for Oil/Chemical  Tanker, DWT 51000 , 2004 y.o.b., 800-1500 USD, contract 6m, joining date 28. at </title>
+  <dc:date>2026-09-11 15:26:52</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227868/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227868/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227868/</link>
+  <title>[Gold Job] AB  for  Oil/Chemical Tanker , DWT 51000 , 2004 y.o.b., 1600-2200 USD, contract 6m, joining date 28/ at </title>
+  <dc:date>2026-09-11 15:24:40</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227850/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer position is available on a Crude Oil Tanker. Joining is expected in mid-November for a contract duration of 4 months, with a negotiable salary. Candidates require good English, an Advanced Oil Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;, linear cargo system experience, and relevant experience in rank on oil tankers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227850/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227850/</link>
+  <title>[AI Job] 3rd Officer Job on Crude Oil Tanker at CSM Manning Agency</title>
+  <dc:date>2026-09-11 14:42:17</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227846/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chemical/Oil Tanker is seeking a qualified 2nd Officer for a mid-November joining. The contract duration is 4 months +/- 1 month. Candidates must possess good English, Framo experience, an Advanced Chem/Oil Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;, and relevant experience in rank. Salary is negotiable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227846/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227846/</link>
+  <title>[AI Job] 2nd Officer Job on Chemical/Oil Tanker at CSM Manning Agency</title>
+  <dc:date>2026-09-11 14:42:17</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227810/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Ningbo, China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Operations Technician &amp;#8211; Operator position is available for chemical tanker operations in Ningbo, China. Responsibilities include loading and unloading hazardous chemicals, operating valves and pumps in tank farms, and managing bulk raw material &lt;span class=&quot;caps&quot;&gt;ISO&lt;/span&gt;s. This role offers competitive pay, health coverage, and other benefits designed for employees in China and Hong Kong.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227810/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227810/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/227740/</link>
   <title>[AI Job] Officer and Engineer Vacancies on Oil Products Tanker at Inter Marine</title>
   <dc:date>2026-09-10 16:47:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227739/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced officers and engineers of all ranks are being recruited for chemical tanker positions. An application form is available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227739/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227739/</link>
-  <title>[AI Job] Officer and Engineer Jobs on Chemical Tanker at Inter Marine</title>
-  <dc:date>2026-09-10 16:47:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227736/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Odessa, Ukraine&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Crew positions are available on Tanker vessels. Prospective applicants should download and fill out the provided application form. Specifics about the roles, embarkation, and contract duration will be communicated after the application is received.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227736/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227736/</link>
-  <title>[AI Job] Tanker Vessel Crew Application at MA Fair Wind</title>
-  <dc:date>2026-09-10 16:47:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227716/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Central Kaiun Co., Ltd. is recruiting seafarers for NS United Tanker Co., Ltd. The company focuses on safe navigation and improving the well-being of its crew members.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227716/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227716/</link>
-  <title>[AI Job] Tanker Crew Recruitment at Central Kaiun Co., Ltd.</title>
-  <dc:date>2026-09-10 16:47:05</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227715/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;NS United Kaiun Kaisha is hiring crew for its coastal tanker fleet. Seafarers are employed and managed by NS United Kaiun Marine Co., Ltd. The company prioritizes safe operations and crew well-being.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227715/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227715/</link>
-  <title>[AI Job] Coastal Tanker Crew Vacancies at NS United Kaiun Kaisha, Ltd.</title>
-  <dc:date>2026-09-10 16:47:05</dc:date>
  </item>
 </rdf:RDF>

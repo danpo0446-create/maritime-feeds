@@ -4,80 +4,80 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-09-2026</dc:date>
+  <dc:date>12-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228097/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228082/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228075/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228060/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227930/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227929/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227928/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227903/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/227900/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227821/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227747/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227738/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227562/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227528/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227526/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227524/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227510/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227504/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227503/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228097/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Hamburg&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Apprenticeship available for Shipping Clerks (Trampfahrt) (m/f/d) in Hamburg. This full-time training program offers a pathway into the maritime industry, focusing on tramp shipping operations. Ideal for motivated individuals starting their careers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228097/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228097/</link>
+  <title>[AI Job] Shipping Clerk Apprenticeship (m/f/d) at Bugsier Reederei und Bergungs Gesellschaft mbH &amp; Co. KG</title>
+  <dc:date>2026-09-11 16:53:53</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228082/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Indonesia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Indonesian seafarers are invited to apply for Cadet positions. The company will arrange virtual interviews and assessments with the crewing manager for qualified candidates. Applications must be submitted via email with a CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228082/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228082/</link>
+  <title>[AI Job] Cadet Vacancy - Indonesian Seafarers at PT. AOM Indonesia</title>
+  <dc:date>2026-09-11 16:53:51</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228075/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Taiwan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is looking for Deck or Engine Cadets holding a diploma from a maritime college and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 2010 certificates. Strong English communication skills are required. This role is part of a senior management trainee program with a special bonus.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228075/</link>
+  <title>[AI Job] Cadet Vacancy on Container/Tanker Vessels at Tawoo Shipping Co., Ltd.</title>
+  <dc:date>2026-09-11 16:53:50</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228060/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A summer internship opportunity is available within a dry bulk shipping company. This program offers practical experience in maritime operations. The company is committed to professional development and provides equal employment opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228060/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228060/</link>
+  <title>[AI Job] Summer Internship - Dry Bulk Shipping at Eagle Bulk Shipping Inc.</title>
+  <dc:date>2026-09-11 16:53:48</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227930/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fast-track Rig Trainee (Mechanical) position is available on a drilling rig. This role offers training in mechanical systems. Aspiring professionals are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227930/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227930/</link>
+  <title>[AI Job] Mechanical Trainee Vacancy on Drilling Rig at Greatship Global Offshore Services Pte Ltd.</title>
+  <dc:date>2026-09-11 16:53:31</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227929/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunity for a Fast-track Rig Trainee (Electrical) to join a drilling rig. This role provides training in electrical systems maintenance. Interested candidates should apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227929/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227929/</link>
+  <title>[AI Job] Electrical Trainee Job on Drilling Rig at Greatship Global Offshore Services Pte Ltd.</title>
+  <dc:date>2026-09-11 16:53:30</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227928/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fast-track Rig Trainee position in Drilling is available for individuals looking to start a career on a drilling rig. This is a training opportunity. Apply now.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227928/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227928/</link>
+  <title>[AI Job] Drilling Trainee Vacancy on Drilling Rig at Greatship Global Offshore Services Pte Ltd.</title>
+  <dc:date>2026-09-11 16:53:30</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227903/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is open on a General Cargo vessel. The contract is for 7 months, with a 2-month flexibility. This is an excellent opportunity for aspiring seafarers to begin their career at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227903/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227903/</link>
+  <title>[AI Job] Deck Cadet Position - General Cargo Ship at TENET MARINE COMPANY LTD.</title>
+  <dc:date>2026-09-11 16:53:27</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/227900/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Aspiring deck and engine cadets are invited to apply for opportunities on &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; ships. This is an excellent entry-level position for individuals looking to start a career in maritime operations. Training and development are provided. Contact the crewing agency for application details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227900/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/227900/</link>
+  <title>[AI Job] Cadet Opportunity on LNG Ships at AGILE Maritime Resources Inc.</title>
+  <dc:date>2026-09-11 16:53:26</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227821/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Malta&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a 7000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; tanker. The salary offered is 250 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining will be from Malta. This role is suitable for individuals seeking entry-level opportunities in maritime careers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227821/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227821/</link>
   <title>[AI Job] Deck Cadet Job on Tanker Vessel at The Seaways Placement &amp; Services</title>
   <dc:date>2026-09-11 08:21:14</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227747/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Cadets are being recruited for bulk carrier vessels. Opportunities also exist for officers, engineers, and ratings. Please complete the application form.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227747/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227747/</link>
-  <title>[AI Job] Cadet Jobs on Bulk Carrier at Inter Marine</title>
-  <dc:date>2026-09-10 16:47:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227738/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; positions are available for Cadets. Experienced officers and engineers of all ranks with &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; experience are also sought for this vessel type.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227738/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227738/</link>
-  <title>[AI Job] Cadet Vacancy on VLCC at Inter Marine</title>
-  <dc:date>2026-09-10 16:47:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227562/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An active cadet programme is open to applicants of all nationalities. Those interested in commencing a career at sea are encouraged to send their applications. A relevant contact person will follow up with suitable candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227562/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227562/</link>
-  <title>[AI Job] Cadet Programme at Zodiac Maritime at Zodiac Maritime Ltd Agencies Limited</title>
-  <dc:date>2026-09-08 15:07:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227528/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Norway&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A trainee programme is available for individuals seeking to enter the maritime industry. This opportunity offers a pathway for professional development within an offshore company. Further details regarding specific roles and requirements can be obtained through the provided contact information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227528/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227528/</link>
-  <title>[AI Job] Trainee Programme - Maritime at Tananger Offshore AS</title>
-  <dc:date>2026-09-08 15:07:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227526/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Stavanger, Norway&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A trainee programme is available for individuals seeking to start a career in the maritime industry. This opportunity is based in Stavanger, Norway. Further details regarding the programme and application process can be found by registering with the company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227526/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227526/</link>
-  <title>[AI Job] Trainee Programme - Maritime at Tananger Offshore AS</title>
-  <dc:date>2026-09-08 15:07:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227524/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for apprentices and cadets to join a modern fleet engaged in various maritime and offshore operations. This program offers a unique chance to gain experience and build a foundation for a career in the Norwegian maritime industry. The company has a long tradition of training and development, recognized for its commitment to the next generation of seafarers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227524/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227524/</link>
-  <title>[AI Job] Apprentice/Cadet Positions - Offshore Fleet at Simon Møkster Shipping AS</title>
-  <dc:date>2026-09-08 15:07:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227510/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Internships for Maritime Officers are being offered for 2026, providing an opportunity for aspiring seafarers to gain experience on board company vessels. This is a chance to be part of a professional maritime environment and develop practical skills. Details regarding the internship program and application process are available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227510/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227510/</link>
-  <title>[AI Job] Maritime Officer Internship 2026 at Hartman Seatrade</title>
-  <dc:date>2026-09-08 15:07:47</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227504/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cadetship program is available for individuals seeking to start their maritime career. This opportunity is part of a comprehensive program designed for professional development within the maritime sector. Further details on the specific roles and requirements will be provided upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227504/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227504/</link>
-  <title>[AI Job] Cadetship Opportunity at Boskalis at Boskalis Oosterwijk B.V.</title>
-  <dc:date>2026-09-08 15:07:47</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227503/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Maritime Cadets are invited to apply for internships commencing January, February, or March 2026. This is a unique opportunity to gain experience within a multi-cultural team, undertaking specific tasks under mentorship. Selection process runs until February 2026.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227503/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227503/</link>
-  <title>[AI Job] Maritime Cadet Internship - Boomsma Shipping at Boomsma Shipping B.V.</title>
-  <dc:date>2026-09-08 15:07:47</dc:date>
  </item>
 </rdf:RDF>
