@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-09-2026</dc:date>
+  <dc:date>13-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228148/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228150/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228026/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228027/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228018/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228023/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228024/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228025/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228016/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228017/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228148/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE &amp; QATAR&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for multiple roles on an Oil &amp;amp; Gas project in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt; and Qatar. Positions include Senior Electrical Technicians, Senior Instrument Technicians, Cable Tray Fitters, Supervisor for Cable Pulling, and Cable Pulling Workers. Attractive salary, overtime, and food are provided. Previous experience in Oil &amp;amp; Gas projects is required, and candidates should be under 45 years of age. Final client interviews are scheduled for September 16, 2026, in Cochin.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228148/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228148/</link>
+  <title>[AI Job] Oil &amp;amp; Gas Project Jobs in UAE &amp;amp; Qatar at Astra international Human resources</title>
+  <dc:date>2026-09-12 10:53:08</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228150/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; GCC&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Skilled professionals are sought for major Oil &amp;amp; Gas projects across the &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; region. Open positions include Instrument Supervisor, Electrical Supervisor, Electrician, Instrument Fitter, Instrument Technician, and ePTW Worksite Supervisor. Candidates require relevant technical qualifications, proven experience in Oil &amp;amp; Gas, &lt;span class=&quot;caps&quot;&gt;EPC&lt;/span&gt;, construction, commissioning, or maintenance, and strong knowledge of project procedures and &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; practices. &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; experience is mandatory or preferred for these roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228150/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228150/</link>
+  <title>[AI Job] Oil &amp;amp; Gas Professionals Hiring in GCC at Jobs info</title>
+  <dc:date>2026-09-12 10:53:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228026/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Uganda&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Maintenance &amp;amp; Inspection (M&amp;amp;I) Campaign Coordinator sought for a 12-month contract on a site-based role in Uganda. This position supports a major onshore oil development project and follows a 28/28 rotational schedule, compensated on a day rate basis.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228026/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228026/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/228025/</link>
   <title>[AI Job] Jetty Supervisor Vacancy - Suriname at WRS - Worldwide Recruitment Solutions</title>
   <dc:date>2026-09-11 16:53:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228016/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riverview, FL&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Construction Manager sought for a 12-month contract with potential for extension in Riverview, FL. This role involves supporting multiple capital projects within the oil and gas sector. The position requires a 50-hour work week, with overtime paid for hours exceeding 40. Key responsibilities include overseeing construction activities and ensuring project milestones are met.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228016/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228016/</link>
-  <title>[AI Job] Construction Manager Job - Oil &amp;amp; Gas Sector at WRS - Worldwide Recruitment Solutions</title>
-  <dc:date>2026-09-11 16:53:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228017/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Milan, Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Civil Specialist is required for an 18-month contract position in Milan, Italy. This role supports a major water handling facility project. The position operates on a residential, 5 days per week, 8 hours per day schedule. An hourly rate is offered for this contract.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228017/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228017/</link>
-  <title>[AI Job] Civil Specialist Vacancy - Milan, Italy at WRS - Worldwide Recruitment Solutions</title>
-  <dc:date>2026-09-11 16:53:42</dc:date>
  </item>
 </rdf:RDF>

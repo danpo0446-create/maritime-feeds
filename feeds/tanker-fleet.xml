@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-09-2026</dc:date>
+  <dc:date>13-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228262/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228183/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228160/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227869/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227868/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227850/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227810/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227788/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227783/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227742/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227741/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227740/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228262/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced crew members are sought for &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; positions, including Master, Chief Officer, Second Officer, Third Officer, Chief Engineer, Second Engineer, Third Engineer, Fourth Engineer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;. A &lt;span class=&quot;caps&quot;&gt;SOH&lt;/span&gt; transit bonus is offered, with negotiable salaries. The contract duration is 4 months +/- 1. All nationalities are welcome, provided candidates have good English and relevant &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; experience. Senior engineers require dedicated &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; experience, and candidates should have worked for no more than three companies in their last five contracts.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228262/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228262/</link>
+  <title>[AI Job] VLCC Crew Positions - Master, Engineers, ETO at Gulf &amp; Middle East Jobs</title>
+  <dc:date>2026-09-13 08:11:42</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228183/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide, At Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on an Oil &amp;amp; Gas Tanker fleet. This is a full-time, seagoing role with worldwide deployment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228183/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228183/</link>
+  <title>[AI Job] Deck Cadet Job - Oil &amp;amp; Gas Tanker at MNR UK Office</title>
+  <dc:date>2026-09-12 16:44:25</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228160/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer is required for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; Tanker (Semi Pressurized). This position offers an opportunity to work on a specialized vessel within the tanker fleet. Further details regarding joining date, contract duration, and specific requirements will be provided upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228160/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228160/</link>
+  <title>[AI Job] Chief Officer Job on LPG Tanker at JBS Ship Management</title>
+  <dc:date>2026-09-12 14:23:21</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/227869/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227869/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/227869/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/227783/</link>
   <title>[AI Job] LNG Fleet Officers &amp;amp; Engineers Job at BalticCareer</title>
   <dc:date>2026-09-10 20:27:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227742/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are open for officers and engineers of all ranks with &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; experience on &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt;/C vessels. A Gas Engineer and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; are also needed. Apply via the form.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227742/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227742/</link>
-  <title>[AI Job] Officer and Engineer Vacancies on LPG/C at Inter Marine</title>
-  <dc:date>2026-09-10 16:47:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227741/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced officers and engineers of all ranks are sought for crude oil tanker roles. Please use the provided application form.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227741/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227741/</link>
-  <title>[AI Job] Officer and Engineer Jobs on Crude Oil Tanker at Inter Marine</title>
-  <dc:date>2026-09-10 16:47:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227740/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities exist for officers and engineers of all ranks aboard oil products tankers. Interested candidates can access the application form.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227740/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227740/</link>
-  <title>[AI Job] Officer and Engineer Vacancies on Oil Products Tanker at Inter Marine</title>
-  <dc:date>2026-09-10 16:47:08</dc:date>
  </item>
 </rdf:RDF>
