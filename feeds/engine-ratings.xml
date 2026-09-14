@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-09-2026</dc:date>
+  <dc:date>14-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228263/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228247/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228218/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228212/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228201/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228186/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228173/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228147/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228263/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; offshore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Motorman/Welder required for a geotechnical drilling vessel supporting offshore oil &amp;amp; gas/renewable projects. Joining is scheduled for September 14th for an 8-week contract. Candidates must possess a Motorman CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, passport, seaman&amp;#8217;s book, medical certificate, and welding qualification. This role is based offshore and involves work on global projects.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228263/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228263/</link>
+  <title>[AI Job] Motorman/Welder Job on Geotechnical Drilling Vessel at WRS - Worldwide Recruitment Solutions</title>
+  <dc:date>2026-09-13 14:21:42</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228247/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Grieg Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Fitter role is available on an Open Hatch deep-sea vessel. The position is located at Grieg Philippines. Specifics on joining date, contract length, and remuneration are not available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228247/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228247/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/228173/</link>
   <title>[AI Job] Fitter Job on Bulk Carrier at Adriatico-Brig</title>
   <dc:date>2026-09-12 16:44:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228147/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available. This role is for an engine department rating. Further details regarding vessel type, contract duration, and joining date are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228147/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228147/</link>
-  <title>[AI Job] Motorman Job Vacancy at Ana Amado (Recruiter)</title>
-  <dc:date>2026-09-12 10:53:07</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-09-2026</dc:date>
+  <dc:date>14-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228280/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228246/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228245/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228240/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228221/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228220/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228219/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228210/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228280/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt;/Tug vessel operating in Saudi Arabia. The contract duration is 3 months (+/- 1 month). Salary is to be discussed. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;, subject to approval and &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt; visa issuance. Requirements include an unlimited &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 CoC from the Home Country or UK, a minimum of 2 years of experience in the Chief Engineer rank, and all relevant certificates valid for at least 12 months. Candidates must not hold any &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; visit or resident visas.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228280/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228280/</link>
+  <title>[AI Job] Chief Engineer Job - ASD Tug Vessel at aavishka.com</title>
+  <dc:date>2026-09-13 14:21:44</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228246/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Grieg Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking a Jr. Fourth Engineer for an Open Hatch deep-sea vessel. This position is based in Grieg Philippines. Information regarding joining date, contract duration, and salary is not provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228246/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228246/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/228219/</link>
   <title>[AI Job] 4th Engineer Vacancy on Offshore Vessel at Arab Ship Management, Ltd.</title>
   <dc:date>2026-09-12 16:44:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228210/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Air Conditioning Technician is sought for an offshore vessel. This position is responsible for maintaining and repairing &lt;span class=&quot;caps&quot;&gt;HVAC&lt;/span&gt; systems onboard. Specifics on contract terms and joining dates can be obtained through the application process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228210/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228210/</link>
-  <title>[AI Job] AC Technician Job - Offshore Vessel at Arab Ship Management, Ltd.</title>
-  <dc:date>2026-09-12 16:44:29</dc:date>
  </item>
 </rdf:RDF>

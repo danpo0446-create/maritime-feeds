@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-09-2026</dc:date>
+  <dc:date>14-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228278/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228281/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228254/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228243/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228238/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228184/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228185/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228141/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228142/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228111/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228278/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Delhi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for cruise ship careers, with interviews scheduled in Delhi. Roles include culinary staff such as Commis, Demi Chef de Partie, and Sous Chef, as well as Storekeeper, Assistant Purser, and Housekeeping Supervisor. Prior cruise ship experience is mandatory for certain roles. Interested candidates should register and apply online.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228278/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228278/</link>
+  <title>[AI Job] Cruise Ship Career Opportunities - Delhi Interviews at Carnival Support Services India Pvt. Ltd.</title>
+  <dc:date>2026-09-13 14:21:44</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228281/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Med/Caribbean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Steward position is available on a 70m motor yacht operating a private/charter program with a dual Med/Caribbean itinerary. The role involves managing clearances, crew onboarding, travel, invoicing, payroll, charter accounts, and reconciliations. Candidates should have at least 2 years of Purser experience on vessels over 70m, preferably with DeepBlue and Voly. A sociable, active personality and a commitment of over 2 years are required. The position offers an 8 weeks on / 8 weeks off rotation and a salary of 10,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month, starting around September 15th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228281/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228281/</link>
+  <title>[AI Job] Chief Stew Job on 70m Motor Yacht at Saltwater</title>
+  <dc:date>2026-09-13 14:21:44</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228254/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A career as a Cook is available at sea. This role focuses on managing the galley and preparing meals for the crew. The position is within the offshore energy sector, contributing to the operational success of vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228254/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228254/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/228141/</link>
   <title>[AI Job] Lead Server Job on Cruise Ships at Job Selection</title>
   <dc:date>2026-09-12 10:53:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228142/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Lead Server candidates are sought for specialty restaurant operations onboard ocean cruise ships. The role involves a contract of 6-7 months at sea, with approximately 2 months of home leave. The salary package includes a base monthly guarantee of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,400 plus gratuities ranging from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,500 to &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 2,000 per month. Strong restaurant professionals with leadership potential and excellent English communication skills are required to deliver high-level guest experiences.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228142/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228142/</link>
-  <title>[AI Job] Lead Server Job on Cruise Ships at Job Selection</title>
-  <dc:date>2026-09-12 10:53:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228111/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dover &lt;-&gt; Calais&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook position is available on a Ro-Ro Ferry / Ro-Pax vessel trading between Dover and Calais. The contract duration is 2 weeks on/off, with a salary of 4652 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per month. Joining is scheduled for September 15th. Prior experience in rank and on similar vessel types is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228111/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228111/</link>
-  <title>[AI Job] Cook Job on Ro-Ro Ferry / Ro-Pax at BalticCareer</title>
-  <dc:date>2026-09-11 20:27:14</dc:date>
  </item>
 </rdf:RDF>

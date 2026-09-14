@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-09-2026</dc:date>
+  <dc:date>14-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228259/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228213/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228196/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228003/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227988/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227978/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227927/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228272/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy, Germany, the Netherlands &amp; Belgium&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple Electrical and Automation positions are open for qualified professionals in Italy, Germany, the Netherlands, and Belgium. Roles include Electrical Engineer, Electrical Technician, Electrician, and Automation Technician. Interested candidates are encouraged to apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228272/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228272/</link>
+  <title>[AI Job] Electrical &amp;amp; Automation Jobs in Europe at </title>
+  <dc:date>2026-09-13 14:21:43</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228259/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for an offshore fleet position. The candidate should be available for immediate transition. Key responsibilities include electrical system maintenance and troubleshooting.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228259/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228259/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/227978/</link>
   <title>[AI Job] Electrician Job at Maritime Crewing Agency UNIVERSAL SERVICE</title>
   <dc:date>2026-09-11 16:53:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227927/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;We are recruiting an Electronics Engineer for a drilling rig. This position focuses on the maintenance and repair of electronic systems. Interested applicants are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227927/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227927/</link>
-  <title>[AI Job] Electronics Engineer Job on Drilling Rig at Greatship Global Offshore Services Pte Ltd.</title>
-  <dc:date>2026-09-11 16:53:30</dc:date>
  </item>
 </rdf:RDF>

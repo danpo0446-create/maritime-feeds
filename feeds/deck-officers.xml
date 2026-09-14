@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-09-2026</dc:date>
+  <dc:date>14-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228258/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228257/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228256/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228244/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228236/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228225/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228224/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228223/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228208/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228258/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228258/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228258/</link>
+  <title>[Gold Job] Need Chief Officer for Chemical Tanker  at </title>
+  <dc:date>2026-09-13 18:37:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228274/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate position is available on an expedition vessel. This role is part of a broader hiring initiative for shipboard functions within the maritime sector. The opportunity is with a well-established expedition company. Further details on specific requirements and the application process can be found via the provided links.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228274/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228274/</link>
+  <title>[AI Job] Chief Mate Vacancy on Expedition Vessel at Lindblad Expeditions</title>
+  <dc:date>2026-09-13 14:21:43</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228257/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available on an installation vessel. This senior deck role requires strong leadership and extensive experience in maritime operations. The Master is responsible for the overall command and safety of the vessel and its crew at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228257/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228257/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/228224/</link>
   <title>[AI Job] 2nd Officer Job - Offshore Vessel at Arab Ship Management, Ltd.</title>
   <dc:date>2026-09-12 16:44:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228223/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Officer position is available on an offshore vessel. Responsibilities include watchkeeping duties and assisting the Chief Officer. Contract terms and joining dates will be shared with qualified applicants.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228223/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228223/</link>
-  <title>[AI Job] 3rd Officer Vacancy on Offshore Vessel at Arab Ship Management, Ltd.</title>
-  <dc:date>2026-09-12 16:44:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228208/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on an offshore vessel. Responsibilities include overseeing deck operations and assisting the Master. Contract length and joining date are not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228208/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228208/</link>
-  <title>[AI Job] Chief Officer Vacancy on Offshore Vessel at Arab Ship Management Ltd</title>
-  <dc:date>2026-09-12 16:44:28</dc:date>
  </item>
 </rdf:RDF>
