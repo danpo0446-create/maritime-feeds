@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-09-2026</dc:date>
+  <dc:date>15-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228294/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228293/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228262/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228183/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228160/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227850/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227846/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227810/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227788/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227783/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228294/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228294/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228294/</link>
+  <title>[Gold Job] Cook for Crude Oil Tanker, 2004 y.o.b., DWT 104 000 at </title>
+  <dc:date>2026-09-14 17:37:58</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228293/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228293/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228293/</link>
+  <title>[Gold Job] AB  for  Crude Oil Tanker , DWT 113000 , 2008 y.o.b., 1600-2200 USD, contract 6m, joining date 19.09 at </title>
+  <dc:date>2026-09-14 16:10:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228262/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced crew members are sought for &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; positions, including Master, Chief Officer, Second Officer, Third Officer, Chief Engineer, Second Engineer, Third Engineer, Fourth Engineer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;. A &lt;span class=&quot;caps&quot;&gt;SOH&lt;/span&gt; transit bonus is offered, with negotiable salaries. The contract duration is 4 months +/- 1. All nationalities are welcome, provided candidates have good English and relevant &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; experience. Senior engineers require dedicated &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; experience, and candidates should have worked for no more than three companies in their last five contracts.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228262/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228262/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/227810/</link>
   <title>[AI Job] Operations Technician Job - Chemical Tankers at Chevron</title>
   <dc:date>2026-09-11 08:21:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227788/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Black Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking a Third Officer and a Fourth Engineer for an Aframax Oil Tanker. Candidates must be willing to sail to the Black Sea. Joining is expected at the end of September 2026. This role requires professional maritime experience and adherence to safety protocols.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227788/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227788/</link>
-  <title>[AI Job] Third Officer &amp;amp; Fourth Engineer Jobs on Aframax Tanker at Marinex Global</title>
-  <dc:date>2026-09-11 08:21:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227783/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for officers and engineers on a new build &lt;span class=&quot;caps&quot;&gt;XDF&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel. Requirements include previous &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; experience in rank, valid CoC, and relevant &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates. The rotation is 3 months on / 3 months off, with joining &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;. Medical insurance and long-term career opportunities are provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227783/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227783/</link>
-  <title>[AI Job] LNG Fleet Officers &amp;amp; Engineers Job at BalticCareer</title>
-  <dc:date>2026-09-10 20:27:35</dc:date>
  </item>
 </rdf:RDF>

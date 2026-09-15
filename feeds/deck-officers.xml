@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-09-2026</dc:date>
+  <dc:date>15-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228297/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228258/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228257/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228239/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228236/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228225/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228224/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228297/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228297/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228297/</link>
+  <title>[Gold Job] Chief Officer for Self-Propelled Jack-Up Barge (NON-DP) at </title>
+  <dc:date>2026-09-15 09:52:55</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228258/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228258/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228258/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on an offshore vessel. This role involves supervising deck operations, cargo management, and watchkeeping. Information regarding contract duration and joining dates will be provided to successful candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228225/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228225/</link>
   <title>[AI Job] Chief Officer Vacancy on Offshore Vessel at Arab Ship Management, Ltd.</title>
-  <dc:date>2026-09-12 16:44:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228224/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Officer is required for an offshore vessel to perform navigational watch duties and assist with cargo operations. This role requires a valid deck officer certificate. Further details on contract and joining are available upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228224/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228224/</link>
-  <title>[AI Job] 2nd Officer Job - Offshore Vessel at Arab Ship Management, Ltd.</title>
   <dc:date>2026-09-12 16:44:31</dc:date>
  </item>
 </rdf:RDF>

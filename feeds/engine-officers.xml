@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-09-2026</dc:date>
+  <dc:date>15-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228296/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228295/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228280/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228246/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228245/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228232/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228222/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228221/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228220/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228219/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228296/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228296/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228296/</link>
+  <title>[Gold Job] ETO for Self-Propelled Jack-Up Barge (NON-DP) at </title>
+  <dc:date>2026-09-15 09:51:34</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228295/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228295/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228295/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-09-15 09:50:13</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228280/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt;/Tug vessel operating in Saudi Arabia. The contract duration is 3 months (+/- 1 month). Salary is to be discussed. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;, subject to approval and &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt; visa issuance. Requirements include an unlimited &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 CoC from the Home Country or UK, a minimum of 2 years of experience in the Chief Engineer rank, and all relevant certificates valid for at least 12 months. Candidates must not hold any &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; visit or resident visas.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228280/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228280/</link>
@@ -66,18 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer position is available on an offshore vessel. This role is responsible for the overall operation and maintenance of the engine department. Contract duration and joining information will be provided to interested candidates upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228221/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228221/</link>
   <title>[AI Job] 2nd Engineer Vacancy on Offshore Vessel at Arab Ship Management, Ltd.</title>
-  <dc:date>2026-09-12 16:44:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228220/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Engineer is required for an offshore vessel to support the Chief Engineer in managing the engine room operations. This role involves routine maintenance and troubleshooting. Further details on contract and joining are available through the application process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228220/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228220/</link>
-  <title>[AI Job] 3rd Engineer Job - Offshore Vessel at Arab Ship Management, Ltd.</title>
-  <dc:date>2026-09-12 16:44:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228219/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fourth Engineer position is open for an offshore vessel. Responsibilities include assisting with the operation and maintenance of the engine department machinery. Contract specifics and joining dates will be communicated upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228219/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228219/</link>
-  <title>[AI Job] 4th Engineer Vacancy on Offshore Vessel at Arab Ship Management, Ltd.</title>
   <dc:date>2026-09-12 16:44:30</dc:date>
  </item>
 </rdf:RDF>
