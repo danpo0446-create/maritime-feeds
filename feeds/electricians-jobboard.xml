@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-09-2026</dc:date>
+  <dc:date>16-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228409/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228259/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228213/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228010/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228003/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227988/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227978/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228409/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Engineer is sought to oversee the ship&amp;#8217;s electrical plants and systems. This role involves ensuring the reliable and safe operation of all electrical equipment and infrastructure onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228409/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228409/</link>
+  <title>[AI Job] Electrical Engineer Vacancy on Cruise Ship at Royal Caribbean Cruises, Ltd.</title>
+  <dc:date>2026-09-15 18:37:17</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228272/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy, Germany, the Netherlands &amp; Belgium&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple Electrical and Automation positions are open for qualified professionals in Italy, Germany, the Netherlands, and Belgium. Roles include Electrical Engineer, Electrical Technician, Electrician, and Automation Technician. Interested candidates are encouraged to apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228272/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228272/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/227988/</link>
   <title>[AI Job] Assistant Electrician Job at Maritime Crewing Agency UNIVERSAL SERVICE</title>
   <dc:date>2026-09-11 16:53:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227978/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;We are looking for an Electrician. Please fill out the application form on our website and send it to seamen@universervice.com.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227978/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227978/</link>
-  <title>[AI Job] Electrician Job at Maritime Crewing Agency UNIVERSAL SERVICE</title>
-  <dc:date>2026-09-11 16:53:37</dc:date>
  </item>
 </rdf:RDF>

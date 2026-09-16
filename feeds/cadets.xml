@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-09-2026</dc:date>
+  <dc:date>16-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228495/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228477/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228435/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228313/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228166/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228167/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228097/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228082/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228075/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228060/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227930/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227929/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227928/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227903/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228495/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a 26000 grt tanker. The salary offered is 250 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining is expected from Oman. This is a great opportunity for aspiring maritime professionals to gain experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228495/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228495/</link>
+  <title>[AI Job] Deck Cadet Job on Tanker Vessel at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-16 08:21:31</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228477/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a Chemical Tanker for a contract duration of 2-3 months. The monthly salary offered is 450 €. This is an entry-level role for aspiring maritime professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228477/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228477/</link>
+  <title>[AI Job] Deck Cadet Job - Chemical Tanker at L-STREAM.COM.UA</title>
+  <dc:date>2026-09-16 08:21:28</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228435/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Summer internship opportunity for cadets is available, with a joining date of September 2, 2026. This is a chance to gain experience in the dry bulk shipping industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228435/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228435/</link>
+  <title>[AI Job] Cadet Opportunity - Dry Bulk Shipping at Star Bulk Carriers Corp.</title>
+  <dc:date>2026-09-15 18:37:21</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228313/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a Bulk Carrier vessel for a 6-month contract. The monthly salary offered is $624. This is an entry-level role for aspiring maritime professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228313/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228313/</link>
+  <title>[AI Job] Deck Cadet Job on Bulk Carrier at L-STREAM.COM.UA</title>
+  <dc:date>2026-09-15 14:31:36</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228166/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Pula, Croatia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An opening exists for an Engine Cadet to join a fleet of dry bulk carriers and oil/chemical tankers. This role offers a chance to gain experience and advance a career within a maritime company. Interested candidates should seek further information from the recruiting organization.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228166/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228166/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/228060/</link>
   <title>[AI Job] Summer Internship - Dry Bulk Shipping at Eagle Bulk Shipping Inc.</title>
   <dc:date>2026-09-11 16:53:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227930/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fast-track Rig Trainee (Mechanical) position is available on a drilling rig. This role offers training in mechanical systems. Aspiring professionals are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227930/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227930/</link>
-  <title>[AI Job] Mechanical Trainee Vacancy on Drilling Rig at Greatship Global Offshore Services Pte Ltd.</title>
-  <dc:date>2026-09-11 16:53:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227929/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunity for a Fast-track Rig Trainee (Electrical) to join a drilling rig. This role provides training in electrical systems maintenance. Interested candidates should apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227929/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227929/</link>
-  <title>[AI Job] Electrical Trainee Job on Drilling Rig at Greatship Global Offshore Services Pte Ltd.</title>
-  <dc:date>2026-09-11 16:53:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227928/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fast-track Rig Trainee position in Drilling is available for individuals looking to start a career on a drilling rig. This is a training opportunity. Apply now.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227928/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227928/</link>
-  <title>[AI Job] Drilling Trainee Vacancy on Drilling Rig at Greatship Global Offshore Services Pte Ltd.</title>
-  <dc:date>2026-09-11 16:53:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227903/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is open on a General Cargo vessel. The contract is for 7 months, with a 2-month flexibility. This is an excellent opportunity for aspiring seafarers to begin their career at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227903/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227903/</link>
-  <title>[AI Job] Deck Cadet Position - General Cargo Ship at TENET MARINE COMPANY LTD.</title>
-  <dc:date>2026-09-11 16:53:27</dc:date>
  </item>
 </rdf:RDF>

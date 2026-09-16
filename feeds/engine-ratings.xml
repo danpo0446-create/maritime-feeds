@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-09-2026</dc:date>
+  <dc:date>16-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228386/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228263/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228247/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228218/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228198/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228201/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228186/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228173/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228386/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available on an oil tanker. The contract term is 6 months, with joining between September and October. The salary is $1900-$2000.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228386/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228386/</link>
+  <title>[AI Job] Oiler Job on Oil Tanker at STMA ltd Odessa</title>
+  <dc:date>2026-09-15 18:37:14</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228263/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; offshore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Motorman/Welder required for a geotechnical drilling vessel supporting offshore oil &amp;amp; gas/renewable projects. Joining is scheduled for September 14th for an 8-week contract. Candidates must possess a Motorman CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, passport, seaman&amp;#8217;s book, medical certificate, and welding qualification. This role is based offshore and involves work on global projects.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228263/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228263/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/228186/</link>
   <title>[AI Job] Motorman/Oiler - Offshore Support Vessel at MNR UK Office</title>
   <dc:date>2026-09-12 16:44:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228173/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; World-wide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter is required for a Bulk Carrier, with vessels built between 2007 and 2021 (63400 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). The contract duration is 6 months +/- 1, and joining is scheduled for December-January. A monthly salary of $2000 is offered. Good English is necessary for this worldwide position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228173/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228173/</link>
-  <title>[AI Job] Fitter Job on Bulk Carrier at Adriatico-Brig</title>
-  <dc:date>2026-09-12 16:44:24</dc:date>
  </item>
 </rdf:RDF>
