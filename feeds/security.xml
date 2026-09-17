@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Maritime Security</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-09-2026</dc:date>
+  <dc:date>17-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228578/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226036/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223767/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/219351/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/201029/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/201533/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/214862/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228578/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking experienced Security Supervisors and Security Guards for a modern cruise line. This role offers the chance to travel the world while enjoying benefits such as free accommodation, food, and transportation. Attractive rotations and onboard amenities are provided. Due to limited positions, early application is encouraged for suitable candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228578/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228578/</link>
+  <title>[AI Job] Security Supervisor &amp;amp; Guard Jobs on Cruise Ship at Ismira Recruitment &amp; Crewing Agency</title>
+  <dc:date>2026-09-16 11:56:30</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/226036/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced maritime security personnel are sought for onboard roles on cargo vessels and ferry operations. Candidates require a valid passport, seafarer readiness, security vetting, and a clean conduct history. Fitness for shipboard life, including shift work and fatigue management, is essential. Strong written reporting skills are necessary. Maritime-specific training and certification are required, even with prior police experience. Long rotations are expected.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/226036/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/226036/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/201533/</link>
   <title>[Hot Job] Судовой врач (фельдшер) at Камлайн</title>
   <dc:date>2025-08-09 13:00:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/214862/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;em&gt;We have the pleasure to introduce ourselves as a Crewing company in Klaipeda, Lithuania. Company Gretimybe was founded in 1997 by a group of specialists experienced in crewing, shipping and sea business. Today Gretimybe is the biggest crewing company in Baltic States.&lt;/em&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;img alt=&quot;Oil Chemical Tanker&quot; src=&quot;http://maritime-union.com/uploads/files/images/Oil%20Tankers.jpg&quot; style=&quot;height:449px; width:640px&quot; /&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;We are looking for:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;Position: &lt;strong&gt;Superintendent&amp;#39;s Assistant&lt;/strong&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;Salary: 2800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; p/m&lt;/li&gt;&#10;&#9;&lt;li&gt;Contract duration: 4 month(s)&lt;/li&gt;&#10;&#9;&lt;li&gt;Requirement(s): Good English; Experience in rank of 2nd/3rd officer or 3rd/4th engineer; EU citizenship.&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;If you are interested with this job &amp;#8211; click the &amp;quot;Apply here&amp;quot; button and send your CV.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/214862/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/214862/</link>
-  <title>[Hot Job] Superintendents Assistant with salary 2800 EUR at Gretimybe Ltd.</title>
-  <dc:date>2023-09-14 19:00:01</dc:date>
  </item>
 </rdf:RDF>

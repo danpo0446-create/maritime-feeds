@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-09-2026</dc:date>
+  <dc:date>17-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228810/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228302/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228181/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228114/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/227467/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/227202/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/227075/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/228810/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer is sought for private and charter motor yachts ranging from 55m to 60m. Roles offer rotational contracts or six-month terms with start dates from September 23rd and October 1st. Salaries range from $5500-$6500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; or Euro 6000, negotiable based on experience. Requirements include &lt;span class=&quot;caps&quot;&gt;OOW&lt;/span&gt; 3000gt, &lt;span class=&quot;caps&quot;&gt;PDSD&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, ENG1, and experience with &lt;span class=&quot;caps&quot;&gt;ISM&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;ISPS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;ECDIS&lt;/span&gt;, and chase boat driving.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228810/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228810/</link>
+  <title>[AI Job] 2nd Officer Jobs on Private &amp;amp; Charter Yachts at Sea Daine Recruitment Limited</title>
+  <dc:date>2026-09-17 08:42:31</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228302/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Mate needed for a 37m private/charter motor yacht. The role involves deck department responsibility, mentoring a Deckhand, and requires Yachtmaster Offshore, Medical First Aid, and strong navigational watch experience. Essential skills include jet tender driving and hands-on deck work. A Captain is available for mentorship towards &lt;span class=&quot;caps&quot;&gt;OOW&lt;/span&gt;/Chief Mate progression. Joining in October for a single-season program.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228302/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228302/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/227202/</link>
   <title>[AI Job] 2nd Officer Job - 50m Explorer Yacht at YotPost</title>
   <dc:date>2026-09-03 20:21:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/227075/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Stewardess required for a private motor yacht (90m-120m+). Previous large yacht experience is highly preferred. This role offers a unique opportunity to join a reputable team in the luxury yachting sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/227075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/227075/</link>
-  <title>[AI Job] Chief Stewardess Job on Private Motor Yacht at Silver Crews SL</title>
-  <dc:date>2026-09-01 20:21:47</dc:date>
  </item>
 </rdf:RDF>
