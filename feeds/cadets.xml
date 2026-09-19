@@ -4,32 +4,62 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-09-2026</dc:date>
+  <dc:date>19-09-2026</dc:date>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228763/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229097/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229096/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229087/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229086/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228914/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228765/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228763/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228753/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228711/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228713/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228712/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228665/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228577/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228495/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228477/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/228711/"/>
    </rdf:Seq>
   </items>
  </channel>
- <item rdf:about="https://maritime-union.com/job/228763/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Aberdeen&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Trainee position is available within the oil and gas sector, offering international travel and mentorship from experienced industry professionals. The company promotes a diverse, inclusive, and collaborative workplace culture focused on continuous learning and personal growth.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228763/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228763/</link>
-  <title>[AI Job] Trainee Job - Oil &amp;amp; Gas Sector at Cyan Sentinel</title>
-  <dc:date>2026-09-16 16:51:38</dc:date>
+ <item rdf:about="https://maritime-union.com/job/229097/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking an Electrical (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) Apprentice for a Dredging or Offshore vessel. This role is ideal for individuals starting their career in marine electrical systems. Apply via email.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229097/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229097/</link>
+  <title>[AI Job] ETO Apprentice Vacancy - Offshore Vessel at Starnav Ltd.</title>
+  <dc:date>2026-09-18 17:00:36</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229096/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Apprentice position is available on a Dredging or Offshore vessel, offering a great opportunity to gain experience in marine engineering. Interested individuals should send their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229096/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229096/</link>
+  <title>[AI Job] Engine Apprentice Job - Offshore Vessel at Starnav Ltd.</title>
+  <dc:date>2026-09-18 17:00:36</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229087/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking an Engine Apprentice to join a Crude Oil Tanker. This role offers a pathway for aspiring engineers to gain practical experience in the engine room. Interested candidates should send their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229087/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229087/</link>
+  <title>[AI Job] Engine Apprentice Vacancy - Crude Oil Tanker at Starnav Ltd.</title>
+  <dc:date>2026-09-18 17:00:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229086/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Apprentice position is available on a Crude Oil Tanker. This is an excellent opportunity for individuals looking to start a career at sea in the deck department. Submit your application for consideration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229086/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229086/</link>
+  <title>[AI Job] Deck Apprentice Job - Crude Oil Tanker at Starnav Ltd.</title>
+  <dc:date>2026-09-18 17:00:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228914/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is actively recruiting for its cadet program, which is open to applicants of all nationalities. Interested individuals are encouraged to submit their applications, and the relevant personnel will be in touch.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228914/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228914/</link>
+  <title>[AI Job] Cadet Program Opportunity at Zodiac Maritime</title>
+  <dc:date>2026-09-18 17:00:10</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/228765/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cadetship program is available for individuals seeking to start their maritime career. This opportunity is offered by a leading global provider of marine services, known for its impactful projects in dredging and offshore energy. Develop your skills and gain experience within a supportive team environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228765/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228765/</link>
   <title>[AI Job] Cadetship Opportunity at Boskalis at Royal Boskalis Westminster N.V.</title>
+  <dc:date>2026-09-16 16:51:38</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/228763/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Aberdeen&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Trainee position is available within the oil and gas sector, offering international travel and mentorship from experienced industry professionals. The company promotes a diverse, inclusive, and collaborative workplace culture focused on continuous learning and personal growth.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228763/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228763/</link>
+  <title>[AI Job] Trainee Job - Oil &amp;amp; Gas Sector at Cyan Sentinel</title>
   <dc:date>2026-09-16 16:51:38</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/228753/">
@@ -38,46 +68,16 @@
   <title>[AI Job] Trainee Vacancy - Oil &amp;amp; Gas Sector at Cyan Sentinel</title>
   <dc:date>2026-09-16 16:51:36</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/228711/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Nautical Officer Assistant (&lt;span class=&quot;caps&quot;&gt;NOA&lt;/span&gt;) positions are available for assignments starting in February/March. Applications are accepted from October 15 to December 15. This role is suitable for students and trainees seeking maritime experience. Specifics on vessel type, contract, and salary are not detailed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228711/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228711/</link>
-  <title>[AI Job] Nautical Officer Assistant (NOA) Vacancy at Harren &amp; Partner Ship Management GmbH &amp; Co. KG</title>
-  <dc:date>2026-09-16 16:51:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228713/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Ship Mechanic Apprenticeship positions will be available for intake after Summer 2027, with applications opening from December 1, 2026. All current apprenticeship roles are filled until Summer 2027. Details on vessel type, contract, and salary are not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228713/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228713/</link>
-  <title>[AI Job] Ship Mechanic Apprenticeship Vacancy at Harren &amp; Partner Ship Management GmbH &amp; Co. KG</title>
-  <dc:date>2026-09-16 16:51:30</dc:date>
- </item>
  <item rdf:about="https://maritime-union.com/job/228712/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Technical Officer Assistant (&lt;span class=&quot;caps&quot;&gt;TOA&lt;/span&gt;) positions are available with applications accepted year-round. This role is suitable for students and trainees interested in technical maritime careers. Information regarding specific vessel types, joining dates, contract terms, and salary is not detailed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228712/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228712/</link>
   <title>[AI Job] Technical Officer Assistant (TOA) Vacancy at Harren &amp; Partner Ship Management GmbH &amp; Co. KG</title>
   <dc:date>2026-09-16 16:51:30</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/228665/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Aspiring seafarers are invited to join a cadet program starting from day one. This opportunity offers a pathway to a career at sea with a focus on professional development and high-quality ship management. Interested individuals are encouraged to send their CV and express their interest.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228665/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228665/</link>
-  <title>[AI Job] Cadet Program Opportunity at TB Marine Shipmanagement GmbH &amp; Co. KG</title>
-  <dc:date>2026-09-16 16:51:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228577/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Cadet position is available on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel. This opportunity is for individuals seeking to begin their career in the maritime industry. Further details regarding joining date, contract duration, and specific requirements will be provided upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228577/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228577/</link>
-  <title>[AI Job] Engine Cadet Job on LNG Vessel at 3 Seas Shipping</title>
-  <dc:date>2026-09-16 11:56:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228495/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a 26000 grt tanker. The salary offered is 250 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining is expected from Oman. This is a great opportunity for aspiring maritime professionals to gain experience at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228495/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228495/</link>
-  <title>[AI Job] Deck Cadet Job on Tanker Vessel at The Seaways Placement &amp; Services</title>
-  <dc:date>2026-09-16 08:21:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228477/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a Chemical Tanker for a contract duration of 2-3 months. The monthly salary offered is 450 €. This is an entry-level role for aspiring maritime professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228477/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228477/</link>
-  <title>[AI Job] Deck Cadet Job - Chemical Tanker at L-STREAM.COM.UA</title>
-  <dc:date>2026-09-16 08:21:28</dc:date>
+ <item rdf:about="https://maritime-union.com/job/228711/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Nautical Officer Assistant (&lt;span class=&quot;caps&quot;&gt;NOA&lt;/span&gt;) positions are available for assignments starting in February/March. Applications are accepted from October 15 to December 15. This role is suitable for students and trainees seeking maritime experience. Specifics on vessel type, contract, and salary are not detailed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228711/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/228711/</link>
+  <title>[AI Job] Nautical Officer Assistant (NOA) Vacancy at Harren &amp; Partner Ship Management GmbH &amp; Co. KG</title>
+  <dc:date>2026-09-16 16:51:30</dc:date>
  </item>
 </rdf:RDF>

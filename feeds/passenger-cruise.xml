@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-09-2026</dc:date>
+  <dc:date>19-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229141/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228484/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228485/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228453/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228412/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228401/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228333/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228277/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229141/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shipboard and corporate positions are available with a global cruise line. Opportunities exist across various departments including medical, hotel, housekeeping, entertainment, retail, deck, technical, human resources, and cadet roles. Prospective applicants are encouraged to review qualifications and suitable career paths within the cruise industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229141/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229141/</link>
+  <title>[AI Job] Multiple Cruise Ship Vacancies with Cunard Line at Cunard Line</title>
+  <dc:date>2026-09-18 20:21:58</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228484/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for freshers and experienced candidates on a cruise ship. This is an opportunity to join the maritime industry in a role that suits your qualifications. Interested individuals are encouraged to apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228484/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228484/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/228333/</link>
   <title>[AI Job] Cruise Ship Careers at Oceania Cruises at Global Cruise Jobs Network</title>
   <dc:date>2026-09-15 14:31:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228277/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Career opportunities are available on cruise ships with Oceania Cruises. Interested candidates can apply via the provided link. Specific roles and requirements are detailed in the application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228277/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228277/</link>
-  <title>[AI Job] Cruise Ship Jobs - Oceania Cruises at All Cruise Jobs – Worldwide Ship Careers</title>
-  <dc:date>2026-09-13 14:21:44</dc:date>
  </item>
 </rdf:RDF>
