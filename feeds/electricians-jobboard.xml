@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-09-2026</dc:date>
+  <dc:date>20-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229155/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229140/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229095/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229085/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228999/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229000/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228981/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228950/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229155/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Engineer is needed for an Aframax Oil Tanker. Candidates with relevant experience on Aframax or Oil Tanker vessels and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates are preferred. Early joining is advantageous. Salary offered is &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 4,800 – 5,000 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229155/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229155/</link>
+  <title>[AI Job] Electrical Engineer Job on Aframax Oil Tanker at Marinex Global</title>
+  <dc:date>2026-09-19 11:30:40</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229140/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a heavy lift vessel. The contract duration is 4 months, with an embarkation date of October 10, 2026. Key vessel details include 32043 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; and a Wartsila 7RT-flex 50 engine model. This role offers a significant sea service opportunity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229140/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229140/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/228981/</link>
   <title>[AI Job] 2nd Electrician / ETO Job at Protea Maritime Crew Services Pty Ltd</title>
   <dc:date>2026-09-18 17:00:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228950/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; is needed for a Crude Oil Tanker, joining on 24-09-2026. The contract is for 4+ months, with a salary of 5000 &amp;#8211; 7500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Minimum two contracts in rank and a specialist certificate for tankers are required. Applicants must be Russian citizens and under 40 years old.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228950/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228950/</link>
-  <title>[AI Job] ETO Vacancy on Crude Oil Tanker at Top Crew LLC</title>
-  <dc:date>2026-09-18 17:00:16</dc:date>
  </item>
 </rdf:RDF>

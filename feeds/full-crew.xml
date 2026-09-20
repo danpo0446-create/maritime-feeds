@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-09-2026</dc:date>
+  <dc:date>20-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229171/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229172/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229151/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229149/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229127/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229115/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229100/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229071/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229074/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229076/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229070/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229059/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229171/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime positions are available for Indonesian seafarers. Open roles include 2nd Officer, 3rd Officer, 3rd Engineer, 4th Engineer, Chief Engineer, Able Seaman, Ordinary Seaman, Oiler, Pumpman, and Wiper across various vessel types such as &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; carriers, bulk carriers, oil/chemical tankers, and general cargo ships. Applicants must be Indonesian, possess good English communication skills, have a minimum of 2-3 contracts in the same role and vessel type, and hold a valid &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; (&lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560) and seafarer documents with at least 18 months of validity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229171/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229171/</link>
+  <title>[AI Job] Multiple Maritime Officer and Rating Vacancies at PT. MERIDIAN JOURNEY MARINE</title>
+  <dc:date>2026-09-19 17:06:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229172/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Ship crew are urgently needed for immediate joining in September 2026. Positions are available on General Cargo, Bulk Carrier, Container Ships, Reefer Cargo, and Chemical/Oil Tankers. Indonesian seafarers are required for these roles. This is an opportunity to join a reputable crewing agency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229172/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229172/</link>
+  <title>[AI Job] Urgent Ship Crew Vacancy - Various Vessels at PT EmAS Crewing Agency</title>
+  <dc:date>2026-09-19 17:06:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229151/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple crew positions are available on a worldwide trading Bulk Carrier. Seeking experienced Third Engineers, Third Officers, Able Seamen, Oilers, and Electricians. Relevant experience on bulk carriers and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates are preferred. All candidates must possess complete and valid documentation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229151/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229151/</link>
+  <title>[AI Job] Bulk Carrier Crew Vacancies - Deck, Engine &amp;amp; Electrician at Marinex Global</title>
+  <dc:date>2026-09-19 11:30:40</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229149/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Full crews are sought for the &lt;span class=&quot;caps&quot;&gt;VINGA&lt;/span&gt; vessels currently under construction. Swedish seafarers are invited to explore career opportunities and learn more about joining the team. This role offers a unique maritime experience aboard modern vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229149/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229149/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/229074/</link>
   <title>[AI Job] QHSE Officer - Offshore at Strickland Services Limited</title>
   <dc:date>2026-09-18 17:00:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229076/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for shore-based professionals within the maritime industry. Interested candidates passionate about contributing to a growing company are encouraged to apply. The hiring team will review applications and contact suitable individuals for potential roles. Start your career journey in maritime management.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229076/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229076/</link>
-  <title>[AI Job] Shore Jobs at Maritime Company at Dese Crew Management</title>
-  <dc:date>2026-09-18 17:00:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229070/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Offshore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; &amp;amp; Quality Manager required to lead &lt;span class=&quot;caps&quot;&gt;QMS&lt;/span&gt; across the fleet, conduct risk assessments, manage incident investigations, and oversee audits. Responsibilities include &lt;span class=&quot;caps&quot;&gt;KPI&lt;/span&gt; tracking and training coordination. Requires a B.Eng/B.Sc, &lt;span class=&quot;caps&quot;&gt;NEBOSH&lt;/span&gt;/ISO Lead Auditor certification, and 7–10 years of marine/offshore &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt;/QMS experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229070/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229070/</link>
-  <title>[AI Job] HSE &amp;amp; Quality Manager - Offshore Fleet at Strickland Services Limited</title>
-  <dc:date>2026-09-18 17:00:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229059/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Positions are available in Ship Repair and Ship Building sectors. These roles cater to professionals in the maritime and engineering fields. If you have experience in these areas, please contact us for details on current job openings and application processes.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229059/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229059/</link>
-  <title>[AI Job] Ship Repair &amp;amp; Building Jobs at Jesseena Human Resources LTD</title>
-  <dc:date>2026-09-18 17:00:31</dc:date>
  </item>
 </rdf:RDF>

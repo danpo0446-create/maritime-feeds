@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-09-2026</dc:date>
+  <dc:date>20-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229189/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228882/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228878/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228879/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228447/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228348/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228303/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228304/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229189/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kalaekule OML 72 and Bonny offshore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A barge crew is required for crude oil transportation operations. The role involves loading and offloading crude oil from the Kalaekule field &lt;span class=&quot;caps&quot;&gt;KCPP&lt;/span&gt;-A platform offshore Bonny and other nominated facilities. The position is based offshore in Kalaekule &lt;span class=&quot;caps&quot;&gt;OML&lt;/span&gt; 72 and Bonny. The salary offered is 25,000. Specifics regarding job duration and mobilization date are to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229189/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229189/</link>
+  <title>[AI Job] Barge Crew Job - Crude Oil Transportation at ADENIYI Maroufou</title>
+  <dc:date>2026-09-19 22:21:43</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228882/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; Inspector is sought for immediate hiring in Saudi Arabia. This role requires a Diploma or Bachelor&amp;#8217;s Degree in Mechanical Engineering and valid &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; 510, 570, or 653 certification. Freshers or candidates with up to one year of experience are welcome. The position offers provided accommodation and transportation, with a salary of &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 3,500 plus a &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 500 food allowance. Oil &amp;amp; Gas industry experience is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228882/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228882/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Handover Lead position is available for a major Oil &amp;amp; Gas (&lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;) project in Qatar. This role requires a Bachelor&amp;#8217;s Degree in Engineering or a related discipline, with a minimum of 8 years of experience in large-scale Oil &amp;amp; Gas projects and at least 1 year of supervisory experience. The contract duration is 3 years with a rotation of 28 days on/28 days off. An excellent daily rate with offshore accommodation, meals, and allowances is offered. Key responsibilities include managing turnover and acceptance systems, building completions databases, and coordinating with various project teams.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228303/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228303/</link>
   <title>[AI Job] Handover Lead Job - LNG Project in Qatar at RASE Tech Services Pvt Ltd</title>
-  <dc:date>2026-09-15 14:31:34</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228304/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar (Offshore/Onshore)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Handover Lead position is available for an Oil &amp;amp; Gas (&lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;) operating company in Qatar. This role requires a Bachelor&amp;#8217;s Degree in Engineering or a related discipline and a minimum of 8 years of experience in large-scale Oil &amp;amp; Gas projects. The contract duration is 3 years with a 28 days on / 28 days off rotation. Excellent daily rates and benefits are offered, including offshore accommodation and meals. The position involves extensive experience with turnover, acceptance, and project completion systems.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228304/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228304/</link>
-  <title>[AI Job] Handover Lead Job - LNG Operations in Qatar at Brunel</title>
   <dc:date>2026-09-15 14:31:34</dc:date>
  </item>
 </rdf:RDF>

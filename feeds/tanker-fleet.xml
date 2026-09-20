@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-09-2026</dc:date>
+  <dc:date>20-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229160/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229161/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229153/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229150/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229104/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228926/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228872/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228861/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228862/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228843/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228831/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228834/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229160/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is open for various positions on Crude Oil Tankers and &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt;s, including officers and ratings. Experience on crude oil tankers and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents are preferred. Good English communication skills are mandatory for all applicants. Further details and application instructions are available via the provided contact information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229160/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229160/</link>
+  <title>[AI Job] Multiple Maritime Ranks on Crude Oil Tankers at BHAGIRATHE SHIP MANAGEMENT PVT LTD</title>
+  <dc:date>2026-09-19 11:30:41</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229161/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer with &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; experience is sought for a position on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; tanker. Additionally, opportunities exist for a Chief Engineer, Third Engineer, and Fourth Engineer, all requiring a valid Steam Certificate. An Electro-Technical Officer role is also available, with preference given to candidates experienced on &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessels. This is an urgent requirement.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229161/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229161/</link>
+  <title>[AI Job] Chief Officer Job on LNG Tanker at Anglo-Eastern</title>
+  <dc:date>2026-09-19 11:30:41</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229153/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers with &lt;span class=&quot;caps&quot;&gt;MOSS&lt;/span&gt;-type cargo tanks and steam engine experience are urgently sought for a world-class &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; fleet. This role offers outstanding career growth and an attractive bonus. If you possess the required experience, passion, and commitment, we encourage you to apply. Opportunities are available for both Deck and Engine Officers, as well as Ratings.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229153/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229153/</link>
+  <title>[AI Job] LNG Opportunities for Seafarers with Steam Engine Experience at Anglo-Eastern Maritime Careers</title>
+  <dc:date>2026-09-19 11:30:40</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229150/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime positions are urgently available on a bitumen tanker, including Master, Chief Officer, Chief Engineer, 2nd Engineer, 2nd Officer, 3rd Engineer, Pumpman, AB, Oiler, and Cook. Candidates require relevant experience on bitumen tankers, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and tanker certifications, and advanced &lt;span class=&quot;caps&quot;&gt;DCE&lt;/span&gt;s for officers and engineers. Mixed-nationality crew experience is preferred. Joining is expected in early October 2026.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229150/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229150/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/228862/</link>
   <title>[AI Job] Marine Superintendent Jobs - Bulk Carrier &amp;amp; Tanker Fleets at Navora Pte Ltd</title>
   <dc:date>2026-09-18 15:16:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228843/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer is sought for an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel trading worldwide. The contract duration is 2.5-3.5 months, with 23 days of leave for each month served at sea. Candidates require time in rank on &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;, an &lt;span class=&quot;caps&quot;&gt;OOW&lt;/span&gt; CoC, and an Advanced Gas tanker certificate. Joining is required as soon as possible.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228843/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228843/</link>
-  <title>[AI Job] 3rd Officer Job on LNG Vessel at BalticCareer</title>
-  <dc:date>2026-09-18 15:16:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228831/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Suez&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced 3rd Officer required for urgent joining on a Suezmax oil tanker. The position offers a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 3,850 per month with a contract duration of 6 months. Candidates must have a minimum of 12 months of experience in rank on the same vessel type and be ready for &lt;span class=&quot;caps&quot;&gt;SOH&lt;/span&gt; Transit &amp;amp; &lt;span class=&quot;caps&quot;&gt;HRA&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228831/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228831/</link>
-  <title>[AI Job] 3rd Officer Job on Suezmax Oil Tanker at PAN MARINE GROUP</title>
-  <dc:date>2026-09-18 15:16:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228834/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A global shipowner is seeking a self-driven Chartering Executive/Specialist with strong tanker operations experience to join their team in Singapore. This role focuses on the chartering, marketing, and employment of the company&amp;#8217;s tanker fleet across assigned trade routes, offering involvement in the commercial aspects of the business.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228834/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228834/</link>
-  <title>[AI Job] Chartering Executive Job - Tanker Fleet at Innergy Consulting Pte. Ltd.</title>
-  <dc:date>2026-09-18 15:16:44</dc:date>
  </item>
 </rdf:RDF>

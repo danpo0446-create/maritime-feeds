@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-09-2026</dc:date>
+  <dc:date>20-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229190/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229191/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229138/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229105/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229101/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229001/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228957/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228941/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228946/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228842/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229190/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; York, PA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Welder/Fitter is sought for work on U.S. Navy vessels, involving complex pipe welding, brazing, fitting, and assembly. The position requires a minimum of 3 years of welding experience and the ability to pass the Navy 6G pipe test. This role is based in York, PA, with a pay rate of $40.31 per hour plus a $2 shift differential. It is a union position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229190/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229190/</link>
+  <title>[AI Job] Welder/Fitter Job for U.S. Navy Vessels at Johnson Controls Navy Systems</title>
+  <dc:date>2026-09-19 22:21:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229191/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kuwait&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pipe Fitter position is currently available for deployment in Kuwait. This role is suitable for experienced professionals seeking overseas employment. Interested candidates are encouraged to submit their CV and portfolio for consideration. Further details regarding the contract and joining date will be provided upon successful application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229191/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229191/</link>
+  <title>[AI Job] Pipe Fitter Job Vacancy - Kuwait at SP Placement &amp; Travels</title>
+  <dc:date>2026-09-19 22:21:43</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229138/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is sought for &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt;, semi-submersible, drillship, or jack-up units. The candidate is seeking employment in this role, bringing experience as a rig motorman.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229138/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229138/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/228941/</link>
   <title>[AI Job] Oiler Job on Chem/Oil Tanker at Top Crew LLC</title>
   <dc:date>2026-09-18 17:00:15</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228946/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Wiper is needed for a Chem/Oil Tanker (53,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, built 2005), joining on 20-09-2026. The contract is for 6+ months, with a salary of 800-1400 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Minimum one contract experience on a tanker is required. Applicants must be Russian citizens and under 40 years old.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228946/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228946/</link>
-  <title>[AI Job] Wiper Job on Chem/Oil Tanker at Top Crew LLC</title>
-  <dc:date>2026-09-18 17:00:15</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228842/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available on a Work Vessel in Europe. The contract is temporary, with a joining date of September 24, 2026, and a duration of 4 weeks. Further details and application instructions can be found via the link in the comments.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228842/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228842/</link>
-  <title>[AI Job] Oiler Job on Work Vessel in Europe at ORCA Crew Services</title>
-  <dc:date>2026-09-18 15:16:45</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-09-2026</dc:date>
+  <dc:date>20-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229192/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229184/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229141/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228484/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228485/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/228410/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228411/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228412/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228401/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228333/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229192/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple onboard positions are available on cruise ships, covering various departments such as deck, hotel services, entertainment, and technical operations. Opportunities exist for cadets, deck crew, hospitality staff, HR, medical professionals, and technical roles. Interested candidates are encouraged to review the available roles that align with their experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229192/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229192/</link>
+  <title>[AI Job] Cruise Ship Jobs - Multiple Vacancies at P&amp;O Cruises</title>
+  <dc:date>2026-09-19 22:21:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229184/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Scenic Luxury Cruises is seeking to fill all positions onboard their vessels. Both freshers and experienced candidates are welcome to apply. Benefits include visa, ticket, and accommodation. Salary ranges from 3700 to 12200 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Opportunities are available in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229184/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229184/</link>
+  <title>[AI Job] All Positions Hiring on Cruise Ships at Cruise Line Recruitment</title>
+  <dc:date>2026-09-19 22:21:42</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229141/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shipboard and corporate positions are available with a global cruise line. Opportunities exist across various departments including medical, hotel, housekeeping, entertainment, retail, deck, technical, human resources, and cadet roles. Prospective applicants are encouraged to review qualifications and suitable career paths within the cruise industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229141/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229141/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/228412/</link>
   <title>[AI Job] Lifeguard Operations - Private Island at Royal Caribbean Cruises, Ltd.</title>
   <dc:date>2026-09-15 18:37:17</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228401/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for careers at sea with a major cruise line. Explore various roles onboard passenger vessels and contribute to delivering exceptional guest experiences. This pathway offers a chance to work in the dynamic maritime hospitality industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228401/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228401/</link>
-  <title>[AI Job] Careers at Sea - Royal Caribbean at Royal Caribbean Cruises, Ltd.</title>
-  <dc:date>2026-09-15 18:37:16</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228333/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Fresh career opportunities are available on cruise ships with Oceania Cruises. Interested candidates are encouraged to apply via the provided link for these exciting maritime roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228333/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228333/</link>
-  <title>[AI Job] Cruise Ship Careers at Oceania Cruises at Global Cruise Jobs Network</title>
-  <dc:date>2026-09-15 14:31:38</dc:date>
  </item>
 </rdf:RDF>
