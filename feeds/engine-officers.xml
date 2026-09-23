@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-09-2026</dc:date>
+  <dc:date>23-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229820/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229819/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229817/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229806/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229805/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229785/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229781/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229761/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229760/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229759/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229820/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229820/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229820/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-09-23 10:12:30</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229819/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229819/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229819/</link>
+  <title>[Gold Job] Third Engineer for Panamax Bulk Carrier Vessel at </title>
+  <dc:date>2026-09-23 10:10:56</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229817/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229817/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229817/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/229761/</link>
   <title>[AI Job] Third Engineer Vacancy - Maritime at Golden Galleon Ship Management Services, Inc.</title>
   <dc:date>2026-09-21 17:33:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229760/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Manila, Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer is needed to assist the Chief Engineer in maintaining and operating the vessel&amp;#8217;s engine room and associated equipment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229760/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229760/</link>
-  <title>[AI Job] Second Engineer Vacancy - Maritime at Golden Galleon Ship Management Services, Inc.</title>
-  <dc:date>2026-09-21 17:33:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229759/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Manila, Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Maritime company is looking for a Chief Engineer to manage the engine department, oversee maintenance, and ensure the efficient operation of vessel machinery.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229759/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229759/</link>
-  <title>[AI Job] Chief Engineer Vacancy - Maritime at Golden Galleon Ship Management Services, Inc.</title>
-  <dc:date>2026-09-21 17:33:54</dc:date>
  </item>
 </rdf:RDF>
