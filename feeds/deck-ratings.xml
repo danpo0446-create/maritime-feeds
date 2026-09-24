@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-09-2026</dc:date>
+  <dc:date>24-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229952/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229938/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229937/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229791/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229773/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229768/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229769/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229758/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229721/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229719/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229676/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229952/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bosun position is available on an Oil Products Tanker for Indian seafarers. Immediate joining is required in Dubai. This role is with a reputable ship management company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229952/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229952/</link>
+  <title>[AI Job] Bosun Job on Oil Products Tanker at Bluejacket Ship Management</title>
+  <dc:date>2026-09-23 21:18:08</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229938/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229938/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229938/</link>
+  <title>[Gold Job] AB-Cook for Dredger / Start October 21 at </title>
+  <dc:date>2026-09-23 15:55:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229937/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229937/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229937/</link>
+  <title>[Gold Job] AB-Cook for Dredger / Start in October 21 at </title>
+  <dc:date>2026-09-23 15:53:10</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229812/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Spain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deckhand is required for a 70m+ motor yacht based in Spain. The position offers a 5:1 rotation and a start date of October 12th. This role is ideal for an energetic, professional, and team-oriented individual with a strong background in water sports, diving, or content creation. The yacht operates a demanding charter schedule, requiring high standards of performance and teamwork. Substantial financial rewards are available for the right candidate joining ahead of the Caribbean season.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229812/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229812/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/229758/</link>
   <title>[AI Job] Able Bodied Seaman Vacancy - Maritime at Golden Galleon Ship Management Services, Inc.</title>
   <dc:date>2026-09-21 17:33:54</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229721/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is required for a dredger. The contract duration is 1 week, with a daily salary of 130-135 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Embarkation will be in 7 days.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229721/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229721/</link>
-  <title>[AI Job] Able Seaman Vacancy on Dredger at Crewplanet</title>
-  <dc:date>2026-09-21 17:33:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229719/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman is needed for a dredger. The contract is for 1 week, with a daily salary of 130-135 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. The joining date is in 7 days.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229719/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229719/</link>
-  <title>[AI Job] Ordinary Seaman Vacancy on Dredger at Crewplanet</title>
-  <dc:date>2026-09-21 17:33:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229676/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking skilled Deckhands with strong boating abilities, including tender operation, wood varnishing, painting, swimming, and sailing proficiency for a luxury yacht. A tender boat license or captain&amp;#8217;s license is a plus. Fluency in English is essential, and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 95 certification is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229676/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229676/</link>
-  <title>[AI Job] Deckhand Position on Yacht at SAPKO-C. E. Ltd</title>
-  <dc:date>2026-09-21 17:33:42</dc:date>
  </item>
 </rdf:RDF>

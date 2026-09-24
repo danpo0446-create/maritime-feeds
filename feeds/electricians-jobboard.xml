@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-09-2026</dc:date>
+  <dc:date>24-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229899/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229878/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229862/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229789/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229784/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229750/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229708/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229710/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229704/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229689/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229664/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229669/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229899/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician position is available on a &lt;span class=&quot;caps&quot;&gt;TSHD&lt;/span&gt; vessel in Europe. The contract is temporary, with a joining date of October 5, 2026. Key requirements and further details are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229899/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229899/</link>
+  <title>[AI Job] Electrician Job on TSHD Vessel at ORCA Crew Services</title>
+  <dc:date>2026-09-23 14:44:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229878/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Electrical Engineer is sought for a cruise ship with a capacity of 2000 passengers. The joining date is October 1, 2026, with a contract duration of 4 months, +/- 1 month. The vessel is powered by a Wartsila engine model, 6R46, and has a size of 41662 t and a length of 192 m.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229878/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229878/</link>
+  <title>[AI Job] 2nd Electrical Engineer Job - Cruise Ship at Columbia Shipmanagement Ukraine Cruise Services</title>
+  <dc:date>2026-09-23 14:44:52</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229862/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a Passenger / Ro-Pax vessel. Joining is expected in approximately 2 weeks for a 4-week contract. The offered salary is €11,909, with long-term rotation. Requirements include &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; and Ro-Pax experience, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, and good English proficiency. Logistics and accommodation are covered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229862/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229862/</link>
+  <title>[AI Job] ETO Job on Passenger / Ro-Pax Vessel at BalticCareer</title>
+  <dc:date>2026-09-23 14:44:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229789/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Irish waters&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a Multi-Purpose vessel operating in Irish waters. The contract is for 4 weeks, with joining scheduled for October 7, 2026. The daily rate offered is £276. Applicants must possess an &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; CoC, Seafarer Medical, full &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification, and Security Awareness training.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229789/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229789/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/229704/</link>
   <title>[AI Job] Electrician Job - Offshore Fleet at Grup Servicii Petroliere</title>
   <dc:date>2026-09-21 17:33:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229689/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Electricians are needed for luxury passenger ships operating on permanent rotation with &lt;span class=&quot;caps&quot;&gt;VIP&lt;/span&gt; guests. This position is responsible for maintaining all electrical systems onboard. Relevant experience and qualifications are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229689/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229689/</link>
-  <title>[AI Job] Electrician Vacancy - Luxury Passenger Ship at SAPKO-C. E. Ltd</title>
-  <dc:date>2026-09-21 17:33:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229664/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Engineer is needed for a Bulk Carrier. This role is vital for maintaining the vessel&amp;#8217;s electrical systems and ensuring smooth operations. Enjoy global travel and professional growth. Join a dedicated team and a reputable company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229664/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229664/</link>
-  <title>[AI Job] Electrical Engineer Job on Bulk Carrier at Columbia Shipmanagement Rijeka</title>
-  <dc:date>2026-09-21 17:33:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229669/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 1st Electrical Engineer position is available on a Cruise Ship. This role is crucial for maintaining the vessel&amp;#8217;s advanced electrical and electronic systems. Enjoy international travel and professional development. Competitive benefits are offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229669/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229669/</link>
-  <title>[AI Job] 1st Electrical Engineer Vacancy on Cruise Ship at Columbia Shipmanagement Rijeka</title>
-  <dc:date>2026-09-21 17:33:41</dc:date>
  </item>
 </rdf:RDF>

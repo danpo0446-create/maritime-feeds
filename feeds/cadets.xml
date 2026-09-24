@@ -4,22 +4,28 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-09-2026</dc:date>
+  <dc:date>24-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229931/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229764/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229763/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229627/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229557/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229512/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229506/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229507/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229506/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229442/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229403/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229396/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229931/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a cargo or tanker vessel of 10,000-20,000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;. A stipend of $250 is offered. Joining is scheduled for next week, with rejoining opportunities available. This is a permanent company position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229931/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229931/</link>
+  <title>[AI Job] Deck Cadet Job on Cargo or Tanker Vessel at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-23 14:44:59</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229764/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Manila, Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Cadet position is open for individuals looking to start their career in maritime engineering. The role involves supporting the engine department.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229764/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229764/</link>
@@ -50,16 +56,16 @@
   <title>[AI Job] Trainee Seaman Vacancy - Maritime at Shan Ship Management Private Limited</title>
   <dc:date>2026-09-21 17:33:19</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/229506/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Aspiring marine engineers are invited to apply for trainee positions. This is an excellent opportunity to gain practical experience in the engine department. Details about the specific training program and vessel will be shared.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229506/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229506/</link>
-  <title>[AI Job] Trainee Engineer Vacancy - Maritime at Shan Ship Management Private Limited</title>
-  <dc:date>2026-09-21 17:33:18</dc:date>
- </item>
  <item rdf:about="https://maritime-union.com/job/229507/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Maritime companies are seeking Deck Cadets for entry-level positions. This role provides valuable sea time and training for aspiring deck officers. Information on vessel type and contract will be provided to applicants.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229507/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229507/</link>
   <title>[AI Job] Deck Cadet Job - Maritime at Shan Ship Management Private Limited</title>
+  <dc:date>2026-09-21 17:33:18</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229506/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Aspiring marine engineers are invited to apply for trainee positions. This is an excellent opportunity to gain practical experience in the engine department. Details about the specific training program and vessel will be shared.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229506/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229506/</link>
+  <title>[AI Job] Trainee Engineer Vacancy - Maritime at Shan Ship Management Private Limited</title>
   <dc:date>2026-09-21 17:33:18</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/229442/">
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229403/</link>
   <title>[AI Job] Trainee Cook Vacancy at Nautilus Shipping</title>
   <dc:date>2026-09-21 17:33:03</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229396/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking Trainee Ordinary Seamen (OS). Interested individuals should submit their CV/Resume. The company provides a supportive environment with competitive compensation and opportunities for career advancement on modern, safe vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229396/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229396/</link>
-  <title>[AI Job] Trainee OS Vacancy at Nautilus Shipping</title>
-  <dc:date>2026-09-21 17:33:02</dc:date>
  </item>
 </rdf:RDF>

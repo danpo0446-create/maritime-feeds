@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-09-2026</dc:date>
+  <dc:date>24-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229936/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229845/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229814/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229809/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229762/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229603/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229578/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229533/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229517/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229513/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229936/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman position is available on an Oil Tanker vessel. The contract duration is 4 months, with joining expected in September 2026. The monthly salary offered is 2800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Candidates must possess an EU passport or Schengen visa. Further details are available upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229936/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229936/</link>
+  <title>[AI Job] Pumpman Job on Oil Tanker at Stan Shipping Agency Ltd</title>
+  <dc:date>2026-09-23 14:45:00</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229845/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Tanker Fitters are sought for a main fleet vessel. This position requires experience as a fitter, specifically within the tanker sector. Further details regarding joining date, contract duration, and specific requirements will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229845/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229845/</link>
+  <title>[AI Job] Fitter Job on Tanker Vessel at BHN OFFSHORE SHIPPING GROUP</title>
+  <dc:date>2026-09-23 14:44:48</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229814/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Paciran, Lamongan, Jawa Timur&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available for a project site in Paciran, Lamongan, East Java. This role requires relevant experience and qualifications for the position. Interested candidates should submit their CV for consideration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229814/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229814/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/229533/</link>
   <title>[AI Job] Diesel Service Mechanic Job at Delta Marine Crewing</title>
   <dc:date>2026-09-21 17:33:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229517/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Pumpmen are sought for maritime roles, particularly on vessels involving cargo transfer. This position requires proficiency in operating and maintaining pumping systems. Details on the vessel and contract will be shared.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229517/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229517/</link>
-  <title>[AI Job] Pumpman Job - Maritime at Shan Ship Management Private Limited</title>
-  <dc:date>2026-09-21 17:33:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229513/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Skilled Engine Fitters are needed for maritime roles. This position is essential for maintaining the mechanical integrity of ship engines. Vessel type and contract details will be shared with qualified applicants.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229513/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229513/</link>
-  <title>[AI Job] Engine Fitter Job - Maritime at Shan Ship Management Private Limited</title>
-  <dc:date>2026-09-21 17:33:19</dc:date>
  </item>
 </rdf:RDF>
