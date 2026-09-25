@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>24-09-2026</dc:date>
+  <dc:date>25-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229963/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229935/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229917/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229874/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229847/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229830/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229820/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229819/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229963/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229963/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229963/</link>
+  <title>[Gold Job] Second Engineer for DP2 AHTS vessel at </title>
+  <dc:date>2026-09-25 10:22:11</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229935/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; South America&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is sought for an Offshore Construction Vessel trading in South America. The contract duration is 6 weeks with a 6/6 rotation. Salary offered is 11750 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Joining is scheduled for October 14, 2026, in Trinidad. Previous experience as a 2nd Engineer and on construction vessels is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229935/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229935/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229820/</link>
   <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
   <dc:date>2026-09-23 10:12:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229819/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229819/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229819/</link>
-  <title>[Gold Job] Third Engineer for Panamax Bulk Carrier Vessel at </title>
-  <dc:date>2026-09-23 10:10:56</dc:date>
  </item>
 </rdf:RDF>

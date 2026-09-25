@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>24-09-2026</dc:date>
+  <dc:date>25-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229962/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229961/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229960/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229953/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229900/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229856/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229790/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229786/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229962/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229962/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229962/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-09-25 10:20:59</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229961/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229961/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229961/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229790/</link>
   <title>[AI Job] Chief Mate Vacancy on Oil Survey Vessel at Africa Personnel Services (Pty) Ltd</title>
   <dc:date>2026-09-21 20:24:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229786/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Senior Group Manager for Marine &amp;amp; Vessel Planning is sought for a role based in Mumbai. The position requires over 12 years of experience in Marine Planning, Container Terminal Operations, Shipping, or Logistics, with expertise in Navis N4, Auto Stow, &lt;span class=&quot;caps&quot;&gt;BAPLIE&lt;/span&gt;, and terminal operations. This role focuses on planning governance, analytics, and operational risk management within the shipping industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229786/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229786/</link>
-  <title>[AI Job] Senior Group Manager - Marine &amp;amp; Vessel Planning Job at WNS Global Services</title>
-  <dc:date>2026-09-21 20:24:09</dc:date>
  </item>
 </rdf:RDF>
