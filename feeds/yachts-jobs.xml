@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-09-2026</dc:date>
+  <dc:date>26-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230023/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229674/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229426/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229430/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229431/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229432/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229423/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230023/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Florida&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 40m private and charter motor yacht is seeking an experienced Chief Officer for a dual-season program. The position offers a salary of $7,500 &lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt;, 60 days leave per annum, a training budget, and a discretionary 13th-month bonus. Joining is scheduled for October 15th. Candidates require a minimum &lt;span class=&quot;caps&quot;&gt;OOW&lt;/span&gt; 3000 and a valid B1B2 Visa. Responsibilities include watersports assistance for the owners&amp;#8217; teenagers. The itinerary includes Florida, &lt;span class=&quot;caps&quot;&gt;BVI&lt;/span&gt;, Antigua, the Caribbean, and the Mediterranean (Greece &amp;amp; Croatia).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230023/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230023/</link>
+  <title>[AI Job] Chief Officer Job on 40m Motor Yacht at JMS Yachting</title>
+  <dc:date>2026-09-25 14:51:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229801/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deckhand sought for a private and charter motor yacht over 85m, joining &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in the Mediterranean. This permanent role offers 60 days annual leave, increasing to 90 after one year. Responsibilities include tender driving and water-sports. Minimum 1-2 years yachting experience required, with strong deck skills and attention to detail. A Schengen visa or European passport is necessary. Additional skills in fishing, diving, or guest services are advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229801/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229801/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229432/</link>
   <title>[AI Job] Cook-Stewardess Vacancy on Yacht at INTERIDAN Company Ltd</title>
   <dc:date>2026-09-21 17:33:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229423/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain position is available on yachts ranging from 28 to 82 meters. The offered salary is between 3500-6000 €. Interested candidates should submit their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229423/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229423/</link>
-  <title>[AI Job] Captain Vacancy on Yacht at INTERIDAN Company Ltd</title>
-  <dc:date>2026-09-21 17:33:06</dc:date>
  </item>
 </rdf:RDF>

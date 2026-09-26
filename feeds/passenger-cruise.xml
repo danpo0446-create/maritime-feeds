@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-09-2026</dc:date>
+  <dc:date>26-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230075/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230076/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229885/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229848/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229822/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229184/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229141/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228484/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228485/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228453/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230075/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Explore fresh career opportunities aboard cruise ships with Oceania Cruises. Interested candidates are encouraged to apply via the provided link for potential roles within the maritime sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230075/</link>
+  <title>[AI Job] Cruise Ship Careers at Oceania Cruises at Global Cruise Jobs Network</title>
+  <dc:date>2026-09-26 02:22:44</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230076/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Career opportunities are available on cruise ships with Virgin Voyages. Interested candidates can apply via the provided link. Further details regarding specific roles, joining dates, and contract durations are available through the application portal.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230076/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230076/</link>
+  <title>[AI Job] Cruise Ship Jobs at Virgin Voyages at All Cruise Jobs – Worldwide Ship Careers</title>
+  <dc:date>2026-09-26 02:22:44</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229885/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on a cruise ship with a capacity of 900 passengers. The joining date is October 2, 2026, with a contract duration of 3 months on and 3 months off. Key requirements and further details are available via the provided application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229885/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229885/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/228484/</link>
   <title>[AI Job] Cruise Ship Jobs - Multiple Positions Available at Cruise Ship Careers</title>
   <dc:date>2026-09-16 08:21:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228485/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;AIDA&lt;/span&gt; Cruises is offering new job opportunities in Germany for roles in marine operations, hospitality, food service, technical departments, and shore-side business functions. Vacancies are available at sea and in Rostock. Interested candidates should check specific duties, qualifications, experience, language skills, and professional certificates required for each position. Official recruitment information and application instructions can be found on the company&amp;#8217;s career pages.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228485/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228485/</link>
-  <title>[AI Job] AIDA Cruises Job Opportunities at AIDA Cruises</title>
-  <dc:date>2026-09-16 08:21:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228453/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship operator is seeking a qualified 1st Engineer for a position based in Germany. This role is part of a broader recruitment drive for various onboard and shore-based positions. The contract details and joining date are to be confirmed. Interested candidates should visit the provided link for more information and application procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228453/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228453/</link>
-  <title>[AI Job] 1st Engineer Job on Cruise Ship at AIDA Cruises</title>
-  <dc:date>2026-09-15 20:24:57</dc:date>
  </item>
 </rdf:RDF>

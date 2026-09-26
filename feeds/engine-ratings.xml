@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-09-2026</dc:date>
+  <dc:date>26-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230069/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229980/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229936/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229845/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229814/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229601/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229602/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229603/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229578/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229533/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230069/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A mechanic position is available on a tugboat for immediate joining. Qualified candidates are invited to submit their updated CV for consideration. This role requires experience in vessel maintenance and repair.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230069/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230069/</link>
+  <title>[AI Job] Tugboat Mechanic Job Vacancy at PT Lintas Prima Perkasa</title>
+  <dc:date>2026-09-26 02:22:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229980/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Motorman required to join a bunkering tanker. Candidates must have good English, previous experience on similar vessels, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents, and Tanker Basic certification. The contract duration is 3 +/- 1 months, with joining expected around September 30th. Salary offered is $2500, negotiable based on experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229980/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229980/</link>
+  <title>[AI Job] Motorman Job on Bunkering Tanker at OJ Crew</title>
+  <dc:date>2026-09-25 14:51:17</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229936/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman position is available on an Oil Tanker vessel. The contract duration is 4 months, with joining expected in September 2026. The monthly salary offered is 2800 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Candidates must possess an EU passport or Schengen visa. Further details are available upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229936/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229936/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/229603/</link>
   <title>[AI Job] Welder Job - Marine &amp;amp; Offshore at Rarefield Engineers Pvt. Ltd</title>
   <dc:date>2026-09-21 17:33:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229578/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Lithuania&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman is required for a bulk carrier. The contract duration is 3 weeks, with a salary of €2800. The joining date is September 3, 2026, and the location is Lithuania.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229578/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229578/</link>
-  <title>[AI Job] Motorman Job on Bulk Carrier at OJ Crew</title>
-  <dc:date>2026-09-21 17:33:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229533/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; nearby or abroad&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A challenging and independent role for a Diesel Service Mechanic is available within an innovative maritime company. Responsibilities include working on propulsion diesel engines and generator sets, both in the workshop and onboard ships in the vicinity or abroad.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229533/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229533/</link>
-  <title>[AI Job] Diesel Service Mechanic Job at Delta Marine Crewing</title>
-  <dc:date>2026-09-21 17:33:22</dc:date>
  </item>
 </rdf:RDF>

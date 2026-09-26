@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-09-2026</dc:date>
+  <dc:date>26-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230081/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229926/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229929/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229920/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229318/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229222/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229227/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229220/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230081/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Port Harcourt, Rivers State&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Rig IT &amp;amp; Digital Systems Support position is available for operations in Port Harcourt, Nigeria. The role involves providing reliable IT, network, communications, and digital systems support across drilling rig operations, ensuring the availability and security of IT infrastructure and applications. Key responsibilities include day-to-day technical support, system installation and maintenance, network troubleshooting, and cybersecurity incident support. A Bachelor&amp;#8217;s degree/HND in a relevant field and 5+ years of IT support experience, preferably in oil &amp;amp; gas or remote-site operations, are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230081/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230081/</link>
+  <title>[AI Job] Rig IT &amp;amp; Digital Systems Support Job - Nigeria at A leading rig services company operating an integrated drilling fleet across upstream operations in Nigeria</title>
+  <dc:date>2026-09-26 02:22:45</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229926/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for drilling operations on an oil and gas drilling rig. Open positions include Roustabout, Floorman, Derrickman, Assistant Driller, and Driller. Candidates should possess relevant drilling rig experience, strong technical knowledge, and a commitment to safe operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229926/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229926/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229227/</link>
   <title>[AI Job] Project Cost Controller Job - FPSO (Singapore) at Caliber8 Recruitment</title>
   <dc:date>2026-09-21 13:01:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229220/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Fylios Port, Turkey&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Millwright required for &lt;span class=&quot;caps&quot;&gt;FPU&lt;/span&gt;/FPSO vessel project in Fylios Port, Turkey. Candidates must have professional hands-on experience as a Millwright in the oil &amp;amp; gas industry, specifically on &lt;span class=&quot;caps&quot;&gt;FPU&lt;/span&gt;/FPSO vessels, and possess a recent Police Clearance Certificate. The contract involves 3 months onshore followed by 8 months offshore with a 35/35 rotation. Insurance, accommodation, and transportation are provided. Contract starts &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229220/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229220/</link>
-  <title>[AI Job] Millwright Job on FPU/FPSO Vessel at Antagon International, Lda</title>
-  <dc:date>2026-09-21 13:01:36</dc:date>
  </item>
 </rdf:RDF>

@@ -4,22 +4,64 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-09-2026</dc:date>
+  <dc:date>26-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230060/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230052/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230014/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230013/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229979/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229968/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229967/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229963/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229935/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229917/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229874/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229860/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229851/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229850/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229847/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229830/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229820/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230060/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is sought for a container vessel. The contract duration is 4 months, with potential +/- 1 month variation. Embarkation is scheduled for October 10, 2026. Key engine details include a &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W 8K98ME-7 model.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230060/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230060/</link>
+  <title>[AI Job] 2nd Engineer Job on Container Vessel at Columbia Shipmanagement Ukraine Dry Fleet</title>
+  <dc:date>2026-09-26 02:22:42</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230052/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Piraeus&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Department &lt;span class=&quot;caps&quot;&gt;PMS&lt;/span&gt; Officer position is available in Piraeus. This office-based role requires expertise in Planned Maintenance Systems. The opportunity is with a ship management company. Further details regarding contract duration and joining date are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230052/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230052/</link>
+  <title>[AI Job] PMS Officer Job - Technical Department at Capital Gas Ship Management Corp.</title>
+  <dc:date>2026-09-26 02:22:41</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230014/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Superintendent position is available for oil tankers. Candidates with relevant experience are encouraged to apply. Further details and application instructions can be found via the provided link or by emailing the designated contact.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230014/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230014/</link>
+  <title>[AI Job] Technical Superintendent Job - Oil Tanker at Direct Search Global</title>
+  <dc:date>2026-09-25 14:51:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230013/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Superintendent position is available for experienced professionals seeking a new opportunity on oil tankers. This role requires relevant experience for advancement. Interested candidates should apply via the provided link or send their CV via email, indicating the job title.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230013/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230013/</link>
+  <title>[AI Job] Technical Superintendent Job on Oil Tanker at Direct Search Global</title>
+  <dc:date>2026-09-25 14:51:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229979/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Athens&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Technical Superintendent required for a Dry Bulk fleet. This shore-based position is located in Athens. Key responsibilities include overseeing the technical operations and maintenance of vessels within the fleet. Candidates should possess strong technical knowledge and experience in the maritime industry, specifically with dry bulk carriers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229979/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229979/</link>
+  <title>[AI Job] Technical Superintendent Job - Dry Bulk Fleet at Astra Shipmanagement Inc.</title>
+  <dc:date>2026-09-25 14:51:17</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229968/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 4th Engineering position is available on a 20000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; tanker. Indian UK &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; is required. Salary ranges from $1000 to $1500. Joining is expected within 2 to 7 days from Dubai. Rejoining is available for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229968/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229968/</link>
+  <title>[AI Job] 4th Engineer Job on Tanker Vessel at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-25 14:51:15</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229967/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Thailand&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Manager position is available for a tanker fleet, requiring dual-fuel engine experience. The role is based in Thailand. Candidates with relevant experience are encouraged to apply. Interviews are being scheduled promptly.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229967/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229967/</link>
+  <title>[AI Job] Technical Manager Job on Tanker - Thailand at SeaMarque - Global Maritime Talent Search Experts</title>
+  <dc:date>2026-09-25 14:51:15</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229963/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229963/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229963/</link>
@@ -37,47 +79,5 @@
   <link>https://maritime-union.com/job/229917/</link>
   <title>[AI Job] Docking Superintendent Job - Singapore at Jess Choo</title>
   <dc:date>2026-09-23 14:44:57</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229874/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Assistant Chief Engineer position is available in Saudi Arabia. This role requires experience in marine engineering. Further details regarding vessel type, contract duration, and joining date are not specified in the original post. Interested candidates can apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229874/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229874/</link>
-  <title>[AI Job] Assistant Chief Engineer Job in Saudi Arabia at KerJob</title>
-  <dc:date>2026-09-23 14:44:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229860/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Tuzla&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A company with a fleet of 8 vessels located in Tuzla is seeking personnel to be trained as Engine Inspectors. Candidates must possess at least a Marine Engineer qualification and have knowledge of English. This is a training position for individuals looking to advance their careers in the maritime industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229860/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229860/</link>
-  <title>[AI Job] Engine Inspector Job - Growing Fleet at PACIFIC SHIPPING GROUP</title>
-  <dc:date>2026-09-23 14:44:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229851/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced 1st Engineers are sought for a cruise ship. A minimum of 1-2 previous contracts in the same role is required. This is an excellent opportunity for qualified technical professionals seeking their next contract at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229851/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229851/</link>
-  <title>[AI Job] 1st Engineer Job on MSC Cruises Ship at World of Seamen Group</title>
-  <dc:date>2026-09-23 14:44:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229850/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime employer is seeking a 1st Engineer to join an engine team on a cruise ship. This role requires precision, power, focus, and teamwork to ensure the vessel&amp;#8217;s operational efficiency. The position is part of the engine department, contributing to the smooth running of the ship&amp;#8217;s machinery and systems.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229850/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229850/</link>
-  <title>[AI Job] 1st Engineer Job - Cruise Ship at World of Seamen Group</title>
-  <dc:date>2026-09-23 14:44:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229847/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Indian Chief Engineer with Class 1 or Class 2 &lt;span class=&quot;caps&quot;&gt;MEO&lt;/span&gt; certification is required for an offshore position. This role is for an experienced professional in the engine department.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229847/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229847/</link>
-  <title>[AI Job] Chief Engineer Job - Offshore at BHN OFFSHORE SHIPPING GROUP</title>
-  <dc:date>2026-09-23 14:44:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229830/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kingdom of Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer with an Unlimited Chief Engineer Diploma and a minimum of 4 years of experience on &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;/DP2 vessels is sought for a position in the Kingdom of Saudi Arabia. The role requires a strong professional background and readiness to join a dynamic team.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229830/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229830/</link>
-  <title>[AI Job] Chief Engineer Job on AHTS / DP2 Vessels at Marcap</title>
-  <dc:date>2026-09-23 14:44:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229820/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229820/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229820/</link>
-  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
-  <dc:date>2026-09-23 10:12:30</dc:date>
  </item>
 </rdf:RDF>

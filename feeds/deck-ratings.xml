@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-09-2026</dc:date>
+  <dc:date>26-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230004/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229952/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229938/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229937/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229774/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229768/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229769/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229758/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230004/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) with solid deck operations experience is required for a long-term project onboard a Dutch-flagged MultiCat workboat in the Netherlands. The role involves anchor handling, floating lines, deck crane operations, and general deck duties. The contract offers a 4 weeks ON / 4 weeks &lt;span class=&quot;caps&quot;&gt;OFF&lt;/span&gt; rotation, with accommodation provided on a barge or hotel. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230004/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230004/</link>
+  <title>[AI Job] Able Seaman Job on Workboat in Netherlands at Gulf &amp; Middle East Jobs</title>
+  <dc:date>2026-09-25 14:51:20</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229952/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bosun position is available on an Oil Products Tanker for Indian seafarers. Immediate joining is required in Dubai. This role is with a reputable ship management company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229952/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229952/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229769/</link>
   <title>[AI Job] Ordinary Seaman Vacancy at Fluvia Holding BV</title>
   <dc:date>2026-09-21 17:33:56</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229758/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Manila, Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Bodied Seaman is required to perform various deck duties, including maintenance, cargo operations, and assisting officers during watch.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229758/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229758/</link>
-  <title>[AI Job] Able Bodied Seaman Vacancy - Maritime at Golden Galleon Ship Management Services, Inc.</title>
-  <dc:date>2026-09-21 17:33:54</dc:date>
  </item>
 </rdf:RDF>
