@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>26-09-2026</dc:date>
+  <dc:date>27-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230103/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230104/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229904/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229905/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229906/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229854/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229843/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229849/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229834/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229835/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230103/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Housekeeping Team Members are sought for international ocean cruise ship opportunities. Openings include Aquatic Attendant, Floor Supervisor Trainee, and Housekeeping Attendant. Applications are open to candidates from South Africa, Kenya, Zimbabwe, Honduras, and Nicaragua with relevant hospitality or housekeeping experience. A good command of English, strong work ethic, and attention to cleanliness are required. Flights are provided, with training and career development opportunities available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230103/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230103/</link>
+  <title>[AI Job] Housekeeping Staff Vacancy on Cruise Ships at Job Selection</title>
+  <dc:date>2026-09-26 11:39:57</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230104/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is open for Housekeeping Team Members to work on international ocean cruise ships. Positions include Aquatic Attendant, Trainee Supervisor – Pools &amp;amp; Decks, Floor Supervisor Trainee, and Housekeeping Attendant. Candidates from South Africa, Kenya, Zimbabwe, Honduras, and Nicaragua are encouraged to apply. Relevant experience in housekeeping, hotel operations, or guest services is required, along with good English and a strong work ethic. Flights are provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230104/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230104/</link>
+  <title>[AI Job] Housekeeping Team Members for Cruise Ships at Job Selection</title>
+  <dc:date>2026-09-26 11:39:57</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229904/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; India (Chennai, Delhi, Mumbai)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hospitality professionals are invited to attend recruitment interviews for international careers at sea on cruise ships. Interviews will be held in Chennai in September 2026, with further details to be announced for Delhi and Mumbai. This is an opportunity for individuals passionate about guest experiences to advance their careers in the maritime hospitality sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229904/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229904/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/229849/</link>
   <title>[AI Job] Pastry Cook Job on Cruise Ship at World of Seamen Group</title>
   <dc:date>2026-09-23 14:44:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229834/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is underway for various galley positions including Sous-chefs, pastry chefs, halwai, bakery specialists, and butchery staff for a cruise ship. This is an opportunity to join the culinary team onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229834/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229834/</link>
-  <title>[AI Job] Galley Staff Vacancies on Cruise Ship at The Apollo Group</title>
-  <dc:date>2026-09-23 14:44:47</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229835/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Restaurant Host position is available on a luxury yacht. This role requires expertise at sea and is being hired by Four Seasons Yachts. Further details can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229835/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229835/</link>
-  <title>[AI Job] Restaurant Host Job on Luxury Yacht at The Apollo Group</title>
-  <dc:date>2026-09-23 14:44:47</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>26-09-2026</dc:date>
+  <dc:date>27-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230098/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230059/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230053/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230032/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229858/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229859/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229861/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229841/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230098/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Chandigarh, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A &lt;span class=&quot;caps&quot;&gt;QHSE&lt;/span&gt; Superintendent position is available for individuals with at least 2 years of experience in a relevant &lt;span class=&quot;caps&quot;&gt;QHSE&lt;/span&gt; or marine role, preferably on oil and chemical tankers. The role requires strong knowledge of maritime regulations such as &lt;span class=&quot;caps&quot;&gt;ISM&lt;/span&gt; Code, &lt;span class=&quot;caps&quot;&gt;ISPS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;MARPOL&lt;/span&gt;, and &lt;span class=&quot;caps&quot;&gt;SOLAS&lt;/span&gt;, along with familiarity with &lt;span class=&quot;caps&quot;&gt;TMSA&lt;/span&gt;/SIRE requirements. Responsibilities include conducting audits, investigations, and risk assessments. This role is based in Chandigarh, India.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230098/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230098/</link>
+  <title>[AI Job] QHSE Superintendent Job - Oil &amp;amp; Chemical Tankers at Union Maritime Ltd.(Atlantas Group)</title>
+  <dc:date>2026-09-26 11:39:57</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230059/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer with LR &amp;amp; Aframax tanker experience is required for a takeover vessel. Preference will be given to candidates holding an Indian or White &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt;. This is an urgent requirement for an officer position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230059/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230059/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229861/</link>
   <title>[AI Job] AB, Oiler, Bosun, Pumpman Jobs on Aframax Tanker at STM Ships</title>
   <dc:date>2026-09-23 14:44:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229841/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deck and Engine Officers are sought for &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carriers (Moss Type, Steam Turbine). Candidates with relevant &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; and/or steam turbine experience are encouraged to apply. The positions offer long-term employment and an exceptional financial package exceeding standard &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; market conditions. Specific details available upon direct contact.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229841/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229841/</link>
-  <title>[AI Job] LNG Officers Vacancy on LNG Carrier at Zorovic Maritime Services</title>
-  <dc:date>2026-09-23 14:44:47</dc:date>
  </item>
 </rdf:RDF>
