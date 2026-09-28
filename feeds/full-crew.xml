@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-09-2026</dc:date>
+  <dc:date>28-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230158/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230159/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230150/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230118/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230119/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230121/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230056/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230057/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230050/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230037/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230038/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230033/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230158/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Southeast Asia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer and 4th Engineer are sought for a 20,000–25,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; Bulk Carrier trading in Southeast Asia. Candidates require a CoC from India, UK, Singapore, or New Zealand, with a minimum of 7–9 months of experience on bulk carriers. Wages offered are &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 2,000–2,400. Good English communication skills and valid documents are essential. Crew nationality preference includes Vietnam, India, Indonesia, and the Philippines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230158/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230158/</link>
+  <title>[AI Job] 3/O &amp;amp; 4/E Job on Bulk Carrier at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-27 16:44:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230159/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Indonesian seafarers are urgently needed for immediate deployment on reefer ships, oil tankers, general cargo vessels, and bulk carriers. Estimated joining date is October 2026. Interested candidates should submit their CVs.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230159/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230159/</link>
+  <title>[AI Job] Urgent Ship Crew Vacancy - Various Vessels at PT EmAS Crewing Agency</title>
+  <dc:date>2026-09-27 16:44:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230150/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Delft, South Holland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Superintendent position is available in Delft, South Holland. This role involves overseeing technical operations and ensuring the efficient functioning of maritime assets. The specific vessel types and contract details are to be confirmed upon application. Interested candidates are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230150/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230150/</link>
+  <title>[AI Job] Technical Superintendent Job in Delft at Allseas</title>
+  <dc:date>2026-09-27 12:36:26</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230118/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime vacancies are available for Indonesian seafarers on Crude Oil Tankers, Bulk Carriers, and General Cargo vessels. Positions include 3rd Engineer, 4th Engineer, 3rd Officer, Ordinary Seaman, Fitter, 2nd Officer, Chief Officer, and 2nd Engineer. Applicants must be Indonesian, possess very good English communication skills, have a minimum of 2-3 contracts in the same position and vessel type, and hold a valid &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; (&lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560) and documents with at least 18 months validity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230118/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230118/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/230050/</link>
   <title>[AI Job] Multiple Officer &amp;amp; Rating Vacancies on Cargo Ships at PT. MERIDIAN JOURNEY MARINE</title>
   <dc:date>2026-09-25 14:51:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230037/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Technician is sought for a leading marine company in Bahrain. Responsibilities include installing jet engine components on newly manufactured inflatable boat hulls, inspecting and assembling key systems, and conducting performance testing. The role requires a minimum of 5 years of experience as a boat technician and a diploma in a related field. Basic communication skills are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230037/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230037/</link>
-  <title>[AI Job] Marine Technician Job - Inflatable Boats in Bahrain at Recruitnest International</title>
-  <dc:date>2026-09-25 14:51:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230038/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Technician is sought for a leading marine company in Bahrain, focusing on the installation and assembly of jet engine components and systems for inflatable boats. Responsibilities include utilizing manufacturer tools, inspecting systems, conducting performance testing, and troubleshooting engine issues. A minimum of 5 years of experience as a boat technician and a diploma in a related field are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230038/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230038/</link>
-  <title>[AI Job] Marine Technician Job - Inflatable Boats in Bahrain at Recruitnest International</title>
-  <dc:date>2026-09-25 14:51:25</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230033/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Voyage Manager is sought to ensure the safe, smooth, and efficient execution of vessel voyages. Responsibilities include coordinating voyage planning, scheduling, and real-time operations with internal and external stakeholders. Candidates require at least 3 years of experience in commercial operations or a management position at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230033/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230033/</link>
-  <title>[AI Job] Voyage Manager Job - Maritime Operations at Scorpio India</title>
-  <dc:date>2026-09-25 14:51:24</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-09-2026</dc:date>
+  <dc:date>28-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230152/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230098/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230059/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230053/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229891/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229858/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229859/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229861/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230152/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Norway – Tromsø / Svalbard&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer is sought for an oil chemical tanker, newly built, with a GT of 4,521 and &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 6,000. The position requires a minimum of two contracts on similar vessels and two years in rank, along with valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and medical certificates, advanced tanker certificates, and Siri 2.0 experience. Knowledge of tank cleaning and the ability to obtain a Norwegian Medical Health Certificate are also necessary. The contract duration is approximately 3 months, with joining scheduled for September 27, 2026, in Norway. Salary is negotiable based on experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230152/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230152/</link>
+  <title>[AI Job] Chief Officer Job on Oil Chemical Tanker at OJ CREW</title>
+  <dc:date>2026-09-27 16:44:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230098/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Chandigarh, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A &lt;span class=&quot;caps&quot;&gt;QHSE&lt;/span&gt; Superintendent position is available for individuals with at least 2 years of experience in a relevant &lt;span class=&quot;caps&quot;&gt;QHSE&lt;/span&gt; or marine role, preferably on oil and chemical tankers. The role requires strong knowledge of maritime regulations such as &lt;span class=&quot;caps&quot;&gt;ISM&lt;/span&gt; Code, &lt;span class=&quot;caps&quot;&gt;ISPS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;MARPOL&lt;/span&gt;, and &lt;span class=&quot;caps&quot;&gt;SOLAS&lt;/span&gt;, along with familiarity with &lt;span class=&quot;caps&quot;&gt;TMSA&lt;/span&gt;/SIRE requirements. Responsibilities include conducting audits, investigations, and risk assessments. This role is based in Chandigarh, India.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230098/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230098/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chemical/Oil Products Tanker is seeking a 2nd Officer for immediate joining. The contract duration is 5 months plus or minus 1 month. Salary offered is 4500-4700 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. The vessel has a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 50,000-100,000.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229859/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229859/</link>
   <title>[AI Job] 2nd Officer Vacancy on Chemical/Oil Tanker at TBC Shipmanagement (The Best Crew LTD)</title>
-  <dc:date>2026-09-23 14:44:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229861/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking experienced AB, Oiler, Bosun, and Pumpman for an Aframax tanker. Indian &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; is required for AB and Oiler positions. Previous Aframax experience is essential. Immediate joining is required. Salary ranges from $1500-$1700 for AB/Oiler and $2000-$2400 for Bosun/Pumpman.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229861/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229861/</link>
-  <title>[AI Job] AB, Oiler, Bosun, Pumpman Jobs on Aframax Tanker at STM Ships</title>
   <dc:date>2026-09-23 14:44:50</dc:date>
  </item>
 </rdf:RDF>

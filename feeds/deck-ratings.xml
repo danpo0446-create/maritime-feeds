@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-09-2026</dc:date>
+  <dc:date>28-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230122/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230127/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230128/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230004/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229952/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229938/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229791/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229773/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229774/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229768/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229769/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230122/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Able Seafarer (AB) positions are available on a Buoy Tender. Joining is scheduled for 23rd September, with the contract running until 14th October. The daily rate offered is over £210. Candidates must possess an AB Certificate, Navigational Watch Rating, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates including Security Duties, and a valid ENG1 Medical. UK Right to Work is also required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230122/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230122/</link>
+  <title>[AI Job] Able Seafarer (AB) Job on Buoy Tender at Clyde Marine Recruitment</title>
+  <dc:date>2026-09-27 12:36:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230127/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Belfast&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seafarer (AB) is sought for a RoRo vessel, joining as soon as possible until November 24th. An ongoing 8/4 rotation may be available for the suitable candidate. Travel expenses will be covered. Requirements include an AB CoC, Navigational Watch Rating, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, Crowd Management, and &lt;span class=&quot;caps&quot;&gt;PSCSH&lt;/span&gt;&amp;amp;I.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230127/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230127/</link>
+  <title>[AI Job] Able Seafarer (AB) Job on RoRo Vessel at Clyde Marine Recruitment</title>
+  <dc:date>2026-09-27 12:36:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230128/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Buoy Tender requires an Able Seafarer (AB) to join from 23rd September until 14th October. The position offers a daily rate exceeding £210. Candidates must possess an AB Certificate, Navigational Watch Rating, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates including Security Duties, and a valid ENG1 Medical. UK Right to Work is also required. Travel expenses will be covered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230128/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230128/</link>
+  <title>[AI Job] Able Seafarer (AB) Job on Buoy Tender at Clyde Marine Recruitment</title>
+  <dc:date>2026-09-27 12:36:22</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230004/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) with solid deck operations experience is required for a long-term project onboard a Dutch-flagged MultiCat workboat in the Netherlands. The role involves anchor handling, floating lines, deck crane operations, and general deck duties. The contract offers a 4 weeks ON / 4 weeks &lt;span class=&quot;caps&quot;&gt;OFF&lt;/span&gt; rotation, with accommodation provided on a barge or hotel. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230004/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230004/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/229773/</link>
   <title>[AI Job] Able Seaman Job at Fluvia AG</title>
   <dc:date>2026-09-21 17:33:57</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229774/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman (Deckhand) position is available with a leading shipping company that invests in its team&amp;#8217;s growth and motivation. This role offers development opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229774/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229774/</link>
-  <title>[AI Job] Ordinary Seaman Vacancy at Fluvia AG</title>
-  <dc:date>2026-09-21 17:33:57</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229768/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman position is currently open. Candidates must possess the necessary qualifications and experience for this deck role. We encourage eligible individuals to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229768/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229768/</link>
-  <title>[AI Job] Able Seaman Job at Fluvia Holding BV</title>
-  <dc:date>2026-09-21 17:33:56</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229769/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;We are seeking an Ordinary Seaman to join our team. This position requires specific qualifications and a willingness to contribute to deck operations. Apply now.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229769/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229769/</link>
-  <title>[AI Job] Ordinary Seaman Vacancy at Fluvia Holding BV</title>
-  <dc:date>2026-09-21 17:33:56</dc:date>
  </item>
 </rdf:RDF>

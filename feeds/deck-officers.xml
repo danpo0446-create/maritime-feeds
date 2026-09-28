@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-09-2026</dc:date>
+  <dc:date>28-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230161/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230130/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230117/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230116/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230113/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230064/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230058/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230018/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230008/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229991/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230161/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230161/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230161/</link>
+  <title>[Gold Job] Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-09-28 10:20:57</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230130/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Senior Master position is available on a Ro-Pax vessel. Responsibilities include ensuring safe and efficient operations, leading the onboard management team, upholding &lt;span class=&quot;caps&quot;&gt;SMS&lt;/span&gt; standards, and promoting crew wellbeing and environmental protection. The role offers an excellent annual salary with a contract duration of 2 weeks on and 2 weeks off.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230130/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230130/</link>
+  <title>[AI Job] Master Job on Ro-Pax Vessel at Clyde Marine Recruitment</title>
+  <dc:date>2026-09-27 12:36:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230117/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Shanghai, China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent is sought for bulk carrier operations based in Shanghai, China. This shore-based role requires expertise in fleet management and adherence to rigorous maritime standards. The position offers a significant opportunity for professional growth within the global shipping industry, focusing on driving operational excellence and ensuring high benchmarks for fleet integrity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230117/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230117/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/230018/</link>
   <title>[AI Job] 3rd Officer Job on LNG Vessel at Faroys App</title>
   <dc:date>2026-09-25 14:51:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230008/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Shanghai, China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent position is available for bulk carriers, based in Shanghai, China. This role involves overseeing vessel operations and ensuring high standards of safety and performance. The position requires expertise in maritime leadership and operational management. Further details on specific requirements and the application process can be obtained through the provided contact information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230008/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230008/</link>
-  <title>[AI Job] Marine Superintendent Job - Bulk Carriers at Navora Pte Ltd</title>
-  <dc:date>2026-09-25 14:51:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229991/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Shanghai, China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent position is available for Bulk Carriers, based in Shanghai, China. This role involves overseeing operational integrity and ensuring high safety standards for maritime fleets. The position requires expertise in navigating complex operational challenges and driving competitive edge within the maritime industry. Further details on specific requirements and application procedures are available through the provided contact channels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229991/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229991/</link>
-  <title>[AI Job] Marine Superintendent Job - Bulk Carriers at Maritimesolutionsltd</title>
-  <dc:date>2026-09-25 14:51:19</dc:date>
  </item>
 </rdf:RDF>

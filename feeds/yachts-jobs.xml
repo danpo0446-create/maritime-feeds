@@ -4,22 +4,28 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-09-2026</dc:date>
+  <dc:date>28-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230157/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230023/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229674/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229426/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229427/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229426/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229428/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229429/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229430/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229431/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229432/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230157/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer position is available on a 50m+ private motor yacht cruising the Mediterranean. The role offers a salary of €5,000 per month with 41 days of leave. Applicants must hold an &lt;span class=&quot;caps&quot;&gt;EOOW&lt;/span&gt; or Y3 qualification and be aged 25+. This is a permanent, non-rotational contract, intended as an opportunity to gain valuable large-yacht experience for career advancement.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230157/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230157/</link>
+  <title>[AI Job] 2nd Engineer Job - 50m+ Private Motor Yacht at Hodgson Marine</title>
+  <dc:date>2026-09-27 16:44:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230023/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Florida&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 40m private and charter motor yacht is seeking an experienced Chief Officer for a dual-season program. The position offers a salary of $7,500 &lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt;, 60 days leave per annum, a training budget, and a discretionary 13th-month bonus. Joining is scheduled for October 15th. Candidates require a minimum &lt;span class=&quot;caps&quot;&gt;OOW&lt;/span&gt; 3000 and a valid B1B2 Visa. Responsibilities include watersports assistance for the owners&amp;#8217; teenagers. The itinerary includes Florida, &lt;span class=&quot;caps&quot;&gt;BVI&lt;/span&gt;, Antigua, the Caribbean, and the Mediterranean (Greece &amp;amp; Croatia).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230023/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230023/</link>
@@ -38,16 +44,16 @@
   <title>[AI Job] Master Vacancy on Luxury Yacht at SAPKO-C. E. Ltd</title>
   <dc:date>2026-09-21 17:33:42</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/229426/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engineer position is being offered for employment on yachts ranging from 28 to 82 meters. Interested individuals should send their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229426/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229426/</link>
-  <title>[AI Job] Engineer Vacancy on Yacht at INTERIDAN Company Ltd</title>
-  <dc:date>2026-09-21 17:33:07</dc:date>
- </item>
  <item rdf:about="https://maritime-union.com/job/229427/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deckhand position is available on yachts between 28 and 82 meters. The salary for this role is 1200-2500 €. Applicants are requested to send their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229427/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229427/</link>
   <title>[AI Job] Deckhand Vacancy on Yacht at INTERIDAN Company Ltd</title>
+  <dc:date>2026-09-21 17:33:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229426/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engineer position is being offered for employment on yachts ranging from 28 to 82 meters. Interested individuals should send their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229426/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229426/</link>
+  <title>[AI Job] Engineer Vacancy on Yacht at INTERIDAN Company Ltd</title>
   <dc:date>2026-09-21 17:33:07</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/229428/">
@@ -66,12 +72,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Stewardess position is open for employment on yachts ranging from 28 to 82 meters. The salary offered is 1500-3000 €. Interested candidates should submit their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229430/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229430/</link>
   <title>[AI Job] Stewardess Vacancy on Yacht at INTERIDAN Company Ltd</title>
-  <dc:date>2026-09-21 17:33:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229431/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An entry-level Stewardess position is available on yachts between 28 and 82 meters. The salary for this role is 800-1500 €. Applicants are requested to send their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229431/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229431/</link>
-  <title>[AI Job] Entry-Level Stewardess Vacancy on Yacht at INTERIDAN Company Ltd</title>
   <dc:date>2026-09-21 17:33:07</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/229432/">
