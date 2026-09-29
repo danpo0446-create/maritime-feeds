@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-09-2026</dc:date>
+  <dc:date>29-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230234/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230219/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230220/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230222/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230075/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230076/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229885/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229848/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229822/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229824/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229192/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229184/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229141/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/228484/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230234/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on a cruise ship, including roles in hotel departments such as restaurant, culinary, housekeeping, and retail, as well as technical positions like Motorman, welder, electrician, and engineers. Opportunities exist for various skill levels, from entry-level to certified professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230234/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230234/</link>
+  <title>[AI Job] Cruise Ship Jobs - Various Hotel &amp;amp; Technical Roles at Margaritaville at Sea</title>
+  <dc:date>2026-09-29 11:10:52</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230219/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is open for all positions on cruise ships. Both freshers and experienced candidates are welcome to apply. The salary ranges from 2,800 to 9,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Visa, ticket, and accommodation will be provided. Positions are available in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230219/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230219/</link>
+  <title>[AI Job] All Positions Vacancy on Cruise Ships at Cruise Line Recruitment</title>
+  <dc:date>2026-09-29 11:10:50</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230220/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Jakarta&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A hiring partner for a major cruise line is conducting walk-in interviews in Jakarta on October 19-20, 2026. Candidates interested in a career in the cruise industry are invited to attend the prescreening and interview sessions. Applicants should bring their CV in English, work experience letters, passport if available, and final diploma. No prior invitation is required for those who meet the qualifications.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230220/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230220/</link>
+  <title>[AI Job] Cruise Ship Jobs - Walk-in Interview in Jakarta at Equinox Bahari Utama</title>
+  <dc:date>2026-09-29 11:10:50</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230222/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Denpasar, Bali&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An official hiring partner for a major cruise line is conducting walk-in interviews in Denpasar, Bali on October 12-13, 2026. This is an opportunity for individuals seeking a career in the cruise industry. Candidates should bring their latest CV in English, work experience documents if available, passport, and diploma. No invitation is required; interested and qualified individuals can attend the interview directly at Ibis Styles Denpasar Bali during the specified times.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230222/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230222/</link>
+  <title>[AI Job] Cruise Ship Jobs - Walk-in Interview in Bali at Equinox Bahari Utama</title>
+  <dc:date>2026-09-29 11:10:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230075/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Explore fresh career opportunities aboard cruise ships with Oceania Cruises. Interested candidates are encouraged to apply via the provided link for potential roles within the maritime sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230075/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/229824/</link>
   <title>[AI Job] Hospitality Staff for River Cruise Jobs in Europe at CAUX International Group</title>
   <dc:date>2026-09-23 14:44:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229192/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple onboard positions are available on cruise ships, covering various departments such as deck, hotel services, entertainment, and technical operations. Opportunities exist for cadets, deck crew, hospitality staff, HR, medical professionals, and technical roles. Interested candidates are encouraged to review the available roles that align with their experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229192/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229192/</link>
-  <title>[AI Job] Cruise Ship Jobs - Multiple Vacancies at P&amp;O Cruises</title>
-  <dc:date>2026-09-19 22:21:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229184/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Scenic Luxury Cruises is seeking to fill all positions onboard their vessels. Both freshers and experienced candidates are welcome to apply. Benefits include visa, ticket, and accommodation. Salary ranges from 3700 to 12200 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Opportunities are available in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229184/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229184/</link>
-  <title>[AI Job] All Positions Hiring on Cruise Ships at Cruise Line Recruitment</title>
-  <dc:date>2026-09-19 22:21:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229141/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shipboard and corporate positions are available with a global cruise line. Opportunities exist across various departments including medical, hotel, housekeeping, entertainment, retail, deck, technical, human resources, and cadet roles. Prospective applicants are encouraged to review qualifications and suitable career paths within the cruise industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229141/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229141/</link>
-  <title>[AI Job] Multiple Cruise Ship Vacancies with Cunard Line at Cunard Line</title>
-  <dc:date>2026-09-18 20:21:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/228484/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for freshers and experienced candidates on a cruise ship. This is an opportunity to join the maritime industry in a role that suits your qualifications. Interested individuals are encouraged to apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228484/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/228484/</link>
-  <title>[AI Job] Cruise Ship Jobs - Multiple Positions Available at Cruise Ship Careers</title>
-  <dc:date>2026-09-16 08:21:30</dc:date>
  </item>
 </rdf:RDF>

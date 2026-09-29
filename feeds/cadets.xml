@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-09-2026</dc:date>
+  <dc:date>29-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230198/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229931/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229764/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229763/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229507/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229506/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229442/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229403/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230198/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a Bulk Carrier vessel. The contract duration is 6 months, with a monthly salary of $624. This is an entry-level role for aspiring maritime professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230198/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230198/</link>
+  <title>[AI Job] Deck Cadet Job on Bulk Carrier at L-STREAM.COM.UA</title>
+  <dc:date>2026-09-29 11:10:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/229931/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a cargo or tanker vessel of 10,000-20,000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;. A stipend of $250 is offered. Joining is scheduled for next week, with rejoining opportunities available. This is a permanent company position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229931/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229931/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229442/</link>
   <title>[AI Job] Trainee Officer Job on Container Ship at Crewplanet SIA</title>
   <dc:date>2026-09-21 17:33:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229403/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking Trainee Cooks. Candidates are required to submit their CV/Resume. The company provides a supportive environment with competitive compensation and opportunities for career advancement on modern, safe vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229403/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229403/</link>
-  <title>[AI Job] Trainee Cook Vacancy at Nautilus Shipping</title>
-  <dc:date>2026-09-21 17:33:03</dc:date>
  </item>
 </rdf:RDF>

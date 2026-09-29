@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-09-2026</dc:date>
+  <dc:date>29-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230190/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230122/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230127/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230128/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229937/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229791/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229773/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230190/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman with oil/chemical tanker experience is sought for a new career opportunity. This position requires a Filipino national. Further details and application are available via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230190/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230190/</link>
+  <title>[AI Job] Able Seaman Job on Oil/Chemical Tanker at SeaCrest Maritime Management</title>
+  <dc:date>2026-09-28 21:29:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230122/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Able Seafarer (AB) positions are available on a Buoy Tender. Joining is scheduled for 23rd September, with the contract running until 14th October. The daily rate offered is over £210. Candidates must possess an AB Certificate, Navigational Watch Rating, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates including Security Duties, and a valid ENG1 Medical. UK Right to Work is also required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230122/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230122/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229791/</link>
   <title>[AI Job] Ordinary Seaman Job Vacancy in US at Chevron</title>
   <dc:date>2026-09-21 20:24:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229773/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (Deckhand) role is open at a leading shipping company committed to continuous employee development and training. Join a growing team in the maritime sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229773/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229773/</link>
-  <title>[AI Job] Able Seaman Job at Fluvia AG</title>
-  <dc:date>2026-09-21 17:33:57</dc:date>
  </item>
 </rdf:RDF>
