@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-09-2026</dc:date>
+  <dc:date>30-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230246/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230239/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230237/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230236/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230230/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230229/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230225/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230218/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230246/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck / Rigging Foreman is required for a &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt; operating in Qatar offshore. Candidates must possess the mandatory &lt;span class=&quot;caps&quot;&gt;OPITO&lt;/span&gt; Stage 3 and 4 certificate. All nationalities are welcome to apply, provided they meet the certification requirements. This role is for a &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt; vessel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230246/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230246/</link>
+  <title>[AI Job] Deck / Rigging Foreman Job - DSV Offshore at Sheffield Energy</title>
+  <dc:date>2026-09-29 15:00:55</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230239/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Senior Dredge Master position is available for marine construction and dredging operations in Dubai, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. The role requires several years of senior dredging or marine operations experience, preferably with Cutter Suction Dredgers (&lt;span class=&quot;caps&quot;&gt;CSD&lt;/span&gt;) or Trailing Suction Hopper Dredgers (&lt;span class=&quot;caps&quot;&gt;TSHD&lt;/span&gt;). Key skills include dredging operations optimization, vessel navigation, crew leadership, and marine safety compliance. This leadership role offers exposure to major marine and reclamation projects within a multicultural environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230239/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230239/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/230225/</link>
   <title>[AI Job] 2nd Engineer Job - PSV DP2 Vessel at Gulf &amp; Middle East Jobs</title>
   <dc:date>2026-09-29 11:10:51</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230218/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for various positions on barges and offshore platforms in Abu Dhabi within the Oil &amp;amp; Gas industry. Roles include Maintenance Supervisor, Fabrication Foreman, Fabricator, Welder, Mechanical Fitter, Helper, Rigger, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Safety Officer, Fire Watcher, and Draftsman. Specific certifications and contract durations are mentioned for some roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230218/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230218/</link>
-  <title>[AI Job] Offshore &amp;amp; Barge Jobs in Abu Dhabi - Oil &amp;amp; Gas at Jobs street</title>
-  <dc:date>2026-09-29 11:10:50</dc:date>
  </item>
 </rdf:RDF>

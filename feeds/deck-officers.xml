@@ -4,22 +4,52 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-09-2026</dc:date>
+  <dc:date>30-09-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230260/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230259/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230258/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230247/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230241/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230240/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230214/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230206/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230193/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230192/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230185/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230177/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230175/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230162/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230161/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230260/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230260/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230260/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-09-30 10:45:59</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230259/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230259/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230259/</link>
+  <title>[Gold Job] Chief Officer for Crew Boat – NON DP at </title>
+  <dc:date>2026-09-30 10:45:00</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230258/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230258/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230258/</link>
+  <title>[Gold Job] Chief Officer for Panamax Bulk Carrier Vessel at </title>
+  <dc:date>2026-09-30 10:00:52</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230247/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Gas Tanker Captain is sought for a shore-based Marine Superintendent role, overseeing vessel operations. This position offers full training and long-term career growth within a respected tanker company. The role is based in Singapore.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230247/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230247/</link>
+  <title>[AI Job] Marine Superintendent Job - Gas Tanker Captain at The Hood Platform</title>
+  <dc:date>2026-09-29 15:00:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230241/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230241/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230241/</link>
+  <title>[Gold Job] Need Master , chief officer, 2nd officer as Aramco / Adnoc Approved at </title>
+  <dc:date>2026-09-29 13:02:02</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230240/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking a Second Officer for service on Oil Chemical Tankers, Bulk Carriers, and General Cargo vessels. This role is open to Indonesian seafarers. Further details regarding joining date, contract duration, and specific requirements will be provided upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230240/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230240/</link>
@@ -49,35 +79,5 @@
   <link>https://maritime-union.com/job/230192/</link>
   <title>[Gold Job] Master for NON DP AHTS vessel at </title>
   <dc:date>2026-09-29 09:49:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230185/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Officer position is available on a Crude Oil Tanker. The contract duration is 4 months +/- 1, with a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 4,490 &lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt;. Joining is scheduled for October 6, 2026. Requirements include a good command of English, experience on similar crude oil tankers, a valid US C1/D visa, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents, and an EU Passport.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230185/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230185/</link>
-  <title>[AI Job] Third Officer Job - Crude Oil Tanker at OJ CREW</title>
-  <dc:date>2026-09-28 21:29:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230177/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Vila do Conde/PA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available on a tugboat, with joining in Vila do Conde/PA. Interested candidates should apply directly via the provided platform link. Applications submitted outside this platform will not be considered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230177/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230177/</link>
-  <title>[AI Job] Master Vacancy on Tugboat at SULNORTE SERVIÇOS MARÍTIMOS LTDA</title>
-  <dc:date>2026-09-28 15:20:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230175/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking a Second Officer for service on Oil Chemical Tankers, Bulk Carriers, or General Cargo vessels. This role requires experience in deck operations and adherence to maritime standards. The position is open for immediate application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230175/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230175/</link>
-  <title>[AI Job] Second Officer Job on Tanker, Bulk Carrier, General Cargo at PT. MERIDIAN JOURNEY MARINE</title>
-  <dc:date>2026-09-28 12:58:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230162/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain is required for a Bitumen Tanker with 680 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;. The joining location is Oman. Salary offered is $4,500. This is a deck officer position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230162/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230162/</link>
-  <title>[AI Job] Captain Vacancy on Bitumen Tanker at Apex Maritime Talent</title>
-  <dc:date>2026-09-28 12:58:05</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230161/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230161/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230161/</link>
-  <title>[Gold Job] Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
-  <dc:date>2026-09-28 10:20:57</dc:date>
  </item>
 </rdf:RDF>
