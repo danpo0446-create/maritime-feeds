@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-09-2026</dc:date>
+  <dc:date>01-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230285/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230286/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230221/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230103/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230104/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229906/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229852/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229853/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229854/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229843/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230285/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is seeking a Floor Supervisor Trainee for its housekeeping department. This role requires previous shipboard experience in a similar housekeeping position, with a minimum of one year of relevant experience. Candidates must possess fluent English, a strong hospitality approach, and knowledge of housekeeping &lt;span class=&quot;caps&quot;&gt;SOP&lt;/span&gt;s. Applications are open to international candidates, excluding those from India and the Philippines. Previous cruise ship experience is mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230285/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230285/</link>
+  <title>[AI Job] Floor Supervisor Trainee Job on Cruise Ship at Job Selection</title>
+  <dc:date>2026-09-30 20:21:52</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230286/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is seeking a Floor Supervisor Trainee for its housekeeping department. This role requires previous shipboard experience in a similar housekeeping role, with a minimum of one year of relevant experience. Responsibilities include supervising stateroom cleanliness, inspecting assigned areas, and supporting housekeeping staff. Fluency in English and a strong hospitality background are essential. Applications are open to international candidates, excluding those from India and the Philippines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230286/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230286/</link>
+  <title>[AI Job] Floor Supervisor Trainee Job on Cruise Ship at Job Selection</title>
+  <dc:date>2026-09-30 20:21:52</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230221/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Maldives, Cruise, Gulf, Mauritius, Malta and Seychelles&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Job openings are available for freshers and experienced professionals in hotels, resorts, and on cruise ships. Positions offer a salary range of 800 &amp;#8211; 3500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;, with visa, accommodation, and tickets provided. Locations include the Maldives, Cruise, Gulf, Mauritius, Malta, and Seychelles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230221/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230221/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/229853/</link>
   <title>[AI Job] Chef de Partie Job on Cruise Ship at World of Seamen Group</title>
   <dc:date>2026-09-23 14:44:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229854/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is seeking a qualified Hairdresser/Barber with professional experience. This role involves providing hairstyling services to guests, ensuring they feel confident and enhancing their holiday experience. The position requires excellent interpersonal skills and the ability to work with a diverse international clientele. Ideal candidates are passionate about beauty and creating memorable moments for passengers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229854/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229854/</link>
-  <title>[AI Job] Hairdresser / Barber Job on Cruise Ship at World of Seamen Group</title>
-  <dc:date>2026-09-23 14:44:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229843/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook and 2nd Cook position is available on an offshore vessel. This role is responsible for catering services onboard. Further details regarding joining date, contract duration, and specific requirements will be provided upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229843/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229843/</link>
-  <title>[AI Job] Cook Vacancy on Offshore Vessel at BHN OFFSHORE SHIPPING GROUP</title>
-  <dc:date>2026-09-23 14:44:48</dc:date>
  </item>
 </rdf:RDF>

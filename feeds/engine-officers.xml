@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-09-2026</dc:date>
+  <dc:date>01-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230282/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230277/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230261/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230257/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230252/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230250/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230242/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230224/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230209/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230199/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230189/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230184/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230282/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer with &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/2 certification is needed urgently for an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;TUG&lt;/span&gt; vessel. Applicants must possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents for 12 months, a Marlins certificate, &lt;span class=&quot;caps&quot;&gt;ILO&lt;/span&gt; medical, H2S certificate, and at least 2 years of experience in the position. All required &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents must be valid for 12 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230282/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230282/</link>
+  <title>[AI Job] Chief Engineer Job - ASD TUG at Muhammad Fahrizal</title>
+  <dc:date>2026-09-30 20:21:52</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230277/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A qualified 2nd Engineer is sought for a Water Injection Dredger operating in Europe. The temporary contract is for 5 weeks, with a joining date of October 1, 2026. This role requires professional experience in marine engineering and the ability to work effectively on specialized dredging equipment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230277/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230277/</link>
+  <title>[AI Job] 2nd Engineer Job - Water Injection Dredger at ORCA Crew Services</title>
+  <dc:date>2026-09-30 20:21:51</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230261/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230261/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230261/</link>
+  <title>[Gold Job] CH.ENG ON REEFER VESSEL at </title>
+  <dc:date>2026-09-30 15:20:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230257/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer is sought for a 57,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; Bulk Carrier, with joining planned for October. Candidates with similar tonnage experience and Turkish qualifications will be considered. This role requires a qualified engineer to manage engine department operations on an oceangoing vessel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230257/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230257/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/230209/</link>
   <title>[AI Job] Technical Superintendent Job - Oil Tankers at Direct Search Global</title>
   <dc:date>2026-09-29 11:10:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230199/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer position is available for a container ship. Candidates require at least 12 months of experience. This role offers a valuable opportunity to advance your maritime career at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230199/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230199/</link>
-  <title>[AI Job] Chief Engineer Job - Container Ship at Maersk</title>
-  <dc:date>2026-09-29 11:10:47</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230189/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer position is available on a 1250 &lt;span class=&quot;caps&quot;&gt;TEU&lt;/span&gt; Container Ship. The joining date is expected at the beginning of October 2026, with a contract duration of 4 months. The offered salary is $12000 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230189/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230189/</link>
-  <title>[AI Job] Chief Engineer Job on Container Ship at Martide Manning Latvia</title>
-  <dc:date>2026-09-28 21:29:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230184/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Malaysian Chief Engineer is urgently required for Oil/Chemical Bunker Tankers. This position offers a contract with a reputable maritime company. Key requirements include relevant experience and valid certifications. Interested candidates should apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230184/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230184/</link>
-  <title>[AI Job] Chief Engineer Job - Oil/Chem Bunker Tanker at Nimbus Marine Group</title>
-  <dc:date>2026-09-28 21:29:06</dc:date>
  </item>
 </rdf:RDF>

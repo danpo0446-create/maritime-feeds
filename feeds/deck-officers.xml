@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-09-2026</dc:date>
+  <dc:date>01-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230313/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230312/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230266/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230260/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230259/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230258/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230241/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230240/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230214/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230206/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230193/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230192/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230313/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230313/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230313/</link>
+  <title>[Gold Job] Second Officer DPO for DP2 AHTS vessel at </title>
+  <dc:date>2026-10-01 10:28:27</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230312/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230312/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230312/</link>
+  <title>[Gold Job] Second Officer DPO for DP2 PSV vessel at </title>
+  <dc:date>2026-10-01 10:26:03</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230266/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman Port&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Master position available on a 15000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; container vessel joining at Oman Port. White or Panama &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; accepted. Previous experience on similar vessel types is required. Interested candidates should share their resume.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230266/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230266/</link>
+  <title>[AI Job] Master Vacancy on Container Vessel at Tanuja Bhandare (implied)</title>
+  <dc:date>2026-09-30 20:21:49</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230260/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230260/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230260/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/230214/</link>
   <title>[AI Job] 2nd Officer Job - General Cargo Vessel at PT YUPAR SUNA INDO</title>
   <dc:date>2026-09-29 11:10:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230206/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A shore-based position for a Marine Superintendent is available for tankers operating worldwide. The role involves providing shore support, overseeing daily operations with a focus on navigation, cargo, health, safety, and environmental aspects. Responsibilities include ensuring compliance with &lt;span class=&quot;caps&quot;&gt;SMS&lt;/span&gt;, international regulations, and conducting audits. Key requirements include a Master Mariner (FG) qualification with sailing experience on product/chemical tankers, and 1-3 years of experience as a Marine Superintendent. Strong knowledge of maritime codes and excellent leadership skills are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230206/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230206/</link>
-  <title>[AI Job] Marine Superintendent Job - Tanker Fleet at TMTM Ship Management Pvt Ltd.</title>
-  <dc:date>2026-09-29 11:10:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230193/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230193/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230193/</link>
-  <title>[Gold Job] Master DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
-  <dc:date>2026-09-29 09:50:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230192/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230192/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230192/</link>
-  <title>[Gold Job] Master for NON DP AHTS vessel at </title>
-  <dc:date>2026-09-29 09:49:33</dc:date>
  </item>
 </rdf:RDF>

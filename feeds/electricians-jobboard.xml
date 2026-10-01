@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-09-2026</dc:date>
+  <dc:date>01-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230301/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230238/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230211/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230164/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230131/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230133/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230134/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230082/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230301/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician/ETO is sought for a Survey vessel operating within the UK 12NM zone. The role requires the candidate to hold UK citizenship or UK Right to Work. Joining is scheduled for 14/10/26 for a contract duration of approximately 4 weeks. Valid certifications including CoC, Passport, Seamans Book, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, and &lt;span class=&quot;caps&quot;&gt;MLC&lt;/span&gt; Medical are mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230301/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230301/</link>
+  <title>[AI Job] Electrician/ETO Job on Survey Vessel at etpm Ltd</title>
+  <dc:date>2026-09-30 20:21:55</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230238/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician position is available for experienced candidates in Abu Dhabi, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. The role offers a salary range of &lt;span class=&quot;caps&quot;&gt;AED&lt;/span&gt; 3,000–3,500, with free food, accommodation, and transportation provided. This opportunity is suitable for individuals seeking marine and offshore roles in the region.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230238/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230238/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/230134/</link>
   <title>[AI Job] ETO Job on Self-propelled Jack Up Barge DP2 at Navis Ship Management</title>
   <dc:date>2026-09-27 12:36:23</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230082/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Offshore, Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Chief Electrician is sought for offshore operations in Singapore. This role involves managing marine and offshore electrical systems, performing maintenance, and troubleshooting. Suitable candidates will have a background in electrical operations within the oil and gas or offshore energy sectors, contributing to safe and reliable operations within an international team.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230082/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230082/</link>
-  <title>[AI Job] Chief Electrician Job - Offshore Singapore at Subsea7</title>
-  <dc:date>2026-09-26 02:22:45</dc:date>
  </item>
 </rdf:RDF>

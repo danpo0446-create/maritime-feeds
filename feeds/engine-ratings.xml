@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-09-2026</dc:date>
+  <dc:date>01-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230311/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230296/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230272/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230264/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230069/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229980/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229936/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229845/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229814/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229809/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229762/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229601/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229602/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229603/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230311/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Spain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available on a guard vessel. The contract duration is 4–8 weeks, with joining between 3–5 October 2026 in Spain. The net salary is €170 per day, with EU taxes and social security covered. Requirements include a Certificate of Proficiency &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and medical certificates, good English, and an EU passport. Starlink is available on board.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230311/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230311/</link>
+  <title>[AI Job] Motorman Job on Guard Vessel at OJ CREW</title>
+  <dc:date>2026-10-01 08:45:59</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230296/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Motorman required for a Guard Vessel. Joining is expected in early October. This position is for an offshore role. Interested candidates should check the requirements and apply online or submit their CV via email.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230296/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230296/</link>
+  <title>[AI Job] Motorman Job on Guard Vessel at Offshore Jobs</title>
+  <dc:date>2026-09-30 20:21:54</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230272/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Colombo&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Wiper position is available on a 4000 grt tanker vessel. Indian watch keeping is a mandatory requirement for this role. The joining date is scheduled for next week in Colombo. Salary offered is $500. Rejoining opportunities are available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230272/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230272/</link>
+  <title>[AI Job] Wiper Job on 4000 grt Tanker Vessel at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-30 20:21:50</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230264/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Oiler is sought for an Ultradeep Water Drillship DP3. This position requires relevant experience for the role. Further details regarding the specific requirements and application process can be obtained via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230264/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230264/</link>
+  <title>[AI Job] Oiler Job on Ultradeep Water Drillship DP3 at Columbia Aurus Ship Management Pvt. Ltd.</title>
+  <dc:date>2026-09-30 20:21:49</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230069/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A mechanic position is available on a tugboat for immediate joining. Qualified candidates are invited to submit their updated CV for consideration. This role requires experience in vessel maintenance and repair.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230069/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230069/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/229809/</link>
   <title>[AI Job] Fitter Job - Merchant Navy at </title>
   <dc:date>2026-09-22 08:20:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229762/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Manila, Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available for maritime service. Duties involve lubricating machinery, assisting engineers, and performing general engine room tasks.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229762/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229762/</link>
-  <title>[AI Job] Oiler Vacancy - Maritime at Golden Galleon Ship Management Services, Inc.</title>
-  <dc:date>2026-09-21 17:33:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229601/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; India, UAE, Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Skilled Fabricators are needed for marine and offshore projects. Experience in marine or allied industries is mandatory. This role is based across India, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;, and Singapore. Interested candidates are encouraged to submit their updated resumes.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229601/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229601/</link>
-  <title>[AI Job] Fabricator Job - Marine &amp;amp; Offshore at Rarefield Engineers Pvt. Ltd</title>
-  <dc:date>2026-09-21 17:33:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229602/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; India, UAE, Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is open for applications within the marine and offshore sectors. Candidates must have experience in marine or allied industries. The role involves projects in India, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;, and Singapore. Please submit your resume to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229602/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229602/</link>
-  <title>[AI Job] Fitter Job - Marine &amp;amp; Offshore at Rarefield Engineers Pvt. Ltd</title>
-  <dc:date>2026-09-21 17:33:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229603/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; India, UAE, Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified Welders are required for marine and offshore projects. Experience in marine or allied industries is mandatory for this role. Opportunities are available across India, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;, and Singapore. Interested candidates should submit their updated resumes.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229603/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229603/</link>
-  <title>[AI Job] Welder Job - Marine &amp;amp; Offshore at Rarefield Engineers Pvt. Ltd</title>
-  <dc:date>2026-09-21 17:33:32</dc:date>
  </item>
 </rdf:RDF>

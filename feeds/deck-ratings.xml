@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-09-2026</dc:date>
+  <dc:date>01-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230291/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230269/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230190/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230122/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230127/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229952/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229938/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229937/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229812/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229791/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230291/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seafarers are sought for an AB/Bosun position on a 3000 Grt landing craft. The contract duration is 9 months. Salary offered ranges from $900 to $1300 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Any previous sailing experience is acceptable for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230291/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230291/</link>
+  <title>[AI Job] AB/Bosun Job on 3000 Grt Landing Craft at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-30 20:21:53</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230269/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Vietnam&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent requirement for Trainee Ordinary Seaman or Trainee Wiper to join a 10000 Grt Bulk Carrier. The contract duration is 9 months, with a salary of 250 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Joining is from Vietnam by October 3rd or 4th. Key requirements include the ability to join from Vietnam.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230269/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230269/</link>
+  <title>[AI Job] Trainee Ordinary Seaman/Wiper Job on Bulk Carrier at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-09-30 20:21:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230190/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman with oil/chemical tanker experience is sought for a new career opportunity. This position requires a Filipino national. Further details and application are available via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230190/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230190/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/229937/</link>
   <title>[Gold Job] AB-Cook for Dredger / Start in October 21 at </title>
   <dc:date>2026-09-23 15:53:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229812/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Spain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deckhand is required for a 70m+ motor yacht based in Spain. The position offers a 5:1 rotation and a start date of October 12th. This role is ideal for an energetic, professional, and team-oriented individual with a strong background in water sports, diving, or content creation. The yacht operates a demanding charter schedule, requiring high standards of performance and teamwork. Substantial financial rewards are available for the right candidate joining ahead of the Caribbean season.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229812/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229812/</link>
-  <title>[AI Job] Deckhand Job on 70m+ Motor Yacht at YOA Yacht Crew</title>
-  <dc:date>2026-09-22 08:20:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229791/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; US&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman position is available in the US. This role is part of a broader hiring initiative by the company. Further details regarding specific vessel type, contract duration, and joining date are not provided in the original posting.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229791/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229791/</link>
-  <title>[AI Job] Ordinary Seaman Job Vacancy in US at Chevron</title>
-  <dc:date>2026-09-21 20:24:10</dc:date>
  </item>
 </rdf:RDF>

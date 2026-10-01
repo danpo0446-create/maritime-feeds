@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-09-2026</dc:date>
+  <dc:date>01-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230283/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230234/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230219/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230220/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/229885/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229848/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229822/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229824/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230283/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on cruise ships for individuals with EU citizenship and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documentation. Successful candidates will have relevant experience, qualifications, and a good command of English. This role offers the chance to travel the world and gain valuable experience in an international environment. Contracts are for 3 months, with a potential variation of +/- 1 month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230283/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230283/</link>
+  <title>[AI Job] Cruise Ship Jobs: Multiple Positions Available at Anglo-Eastern Latvia</title>
+  <dc:date>2026-09-30 20:21:52</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230234/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on a cruise ship, including roles in hotel departments such as restaurant, culinary, housekeeping, and retail, as well as technical positions like Motorman, welder, electrician, and engineers. Opportunities exist for various skill levels, from entry-level to certified professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230234/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230234/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for individuals residing in Argentina, Chile, or Uruguay to join the magical fleet of Disney Cruise Line. This renowned company operates a fleet of cruise ships on enchanting routes to destinations across the Caribbean, Bahamas, Europe, and Alaska. They are seeking passionate individuals to become part of their crew and deliver excellent service and unforgettable experiences to a family-oriented, multigenerational audience. Interested candidates can visit the official website to view all available positions and apply by uploading their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229822/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/229822/</link>
   <title>[AI Job] Cruise Ship Jobs - Various Positions at CAUX International Group</title>
-  <dc:date>2026-09-23 14:44:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229824/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple hospitality positions are available on European river cruise vessels, including roles in Reception, Food &amp;amp; Beverage, Kitchen, and Housekeeping. Candidates require previous experience in hospitality or cruises, fluent English, and valid travel documentation for Europe. Benefits include competitive salary, onboard accommodation and meals, and medical coverage while traveling through Europe&amp;#8217;s scenic rivers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229824/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229824/</link>
-  <title>[AI Job] Hospitality Staff for River Cruise Jobs in Europe at CAUX International Group</title>
   <dc:date>2026-09-23 14:44:45</dc:date>
  </item>
 </rdf:RDF>
