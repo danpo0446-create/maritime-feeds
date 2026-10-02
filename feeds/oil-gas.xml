@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-10-2026</dc:date>
+  <dc:date>02-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230300/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230226/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230227/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230081/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229926/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229929/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229920/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230340/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for oil drilling and workover crews in Oman. Roles include Rig Manager, Toolpusher, Driller, Assistant Driller, Derrickman, Floorman, Roustabout, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Officer, Chief Rig Mechanic, Chief Rig Electrician, Rig Mechanic, and Rig Electrician. This offers a professional opportunity within the Oil &amp;amp; Gas industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230340/</link>
+  <title>[AI Job] Oil &amp;amp; Gas Crew Vacancies in Oman at SEA Updates</title>
+  <dc:date>2026-10-01 14:21:37</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230300/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Well Engineering &amp;amp; Operations Inspector is sought to regulate offshore and onshore oil and gas well construction and operations, ensuring effective health and safety risk management. Responsibilities include rig site inspections, technical reporting, and providing specialist health and safety advice. The role involves investigating incidents and contributing to guidance on well design and operation. Salary ranges from £73,335 to £77,003 per annum, with an additional market supplement of up to £15,000.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230300/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230300/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229929/</link>
   <title>[AI Job] Drilling Crew Jobs - Oil &amp;amp; Gas Operations at Golden Jobs</title>
   <dc:date>2026-09-23 14:44:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229920/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Skilled 6G &lt;span class=&quot;caps&quot;&gt;ARC&lt;/span&gt; Welders with 6-10 years of experience in welding pipes and tanks for oil and gas industries are sought. Structural/Piping Fabricators with similar experience in pressure vessels and piping are also needed. Trackers (Mechanical Helpers, Grinders, 3G Welders) with 4-6 years of general fabrication workshop experience are required. Salaries range from &lt;span class=&quot;caps&quot;&gt;OMR&lt;/span&gt; 170-200, with free food and accommodation provided. Candidates must be physically fit and able to work in demanding environments.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229920/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229920/</link>
-  <title>[AI Job] Welders &amp;amp; Fabricators for Oil &amp;amp; Gas Projects at Akifaa Ansari</title>
-  <dc:date>2026-09-23 14:44:58</dc:date>
  </item>
 </rdf:RDF>

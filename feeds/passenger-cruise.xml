@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-10-2026</dc:date>
+  <dc:date>02-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230317/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230283/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230234/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230219/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230076/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229885/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229848/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229822/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230317/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified maritime engineers and electricians are sought for a fleet of cruise vessels. Positions include Chief Engineer, 1st Engineer, Hotel Engineer, 2nd Engineer, and 2nd Electrician. Candidates with relevant expertise and a passion for the maritime industry are encouraged to apply for these onboard roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230317/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230317/</link>
+  <title>[AI Job] Engineers and Electrician Jobs on Cruise Ships at BSM Cruise Services</title>
+  <dc:date>2026-10-01 14:21:33</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230283/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on cruise ships for individuals with EU citizenship and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documentation. Successful candidates will have relevant experience, qualifications, and a good command of English. This role offers the chance to travel the world and gain valuable experience in an international environment. Contracts are for 3 months, with a potential variation of +/- 1 month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230283/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230283/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229848/</link>
   <title>[AI Job] Technical Crew Vacancies on MSC Cruises Ships at World of Seamen Group</title>
   <dc:date>2026-09-23 14:44:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229822/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for individuals residing in Argentina, Chile, or Uruguay to join the magical fleet of Disney Cruise Line. This renowned company operates a fleet of cruise ships on enchanting routes to destinations across the Caribbean, Bahamas, Europe, and Alaska. They are seeking passionate individuals to become part of their crew and deliver excellent service and unforgettable experiences to a family-oriented, multigenerational audience. Interested candidates can visit the official website to view all available positions and apply by uploading their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229822/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229822/</link>
-  <title>[AI Job] Cruise Ship Jobs - Various Positions at CAUX International Group</title>
-  <dc:date>2026-09-23 14:44:45</dc:date>
  </item>
 </rdf:RDF>
