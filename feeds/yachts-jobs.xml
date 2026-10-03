@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-10-2026</dc:date>
+  <dc:date>03-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230835/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230694/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230268/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230223/"/>
@@ -14,12 +15,17 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230023/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229674/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229430/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229426/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229427/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230835/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Captain required to command and operate a luxury yacht, manage crew, and ensure high service standards. Position requires a valid Captain’s License for vessels over 24 meters, proven experience on luxury yachts, strong leadership, and good knowledge of yacht operations and safety. Relocation to Jeddah and Europe may be required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230835/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230835/</link>
+  <title>[AI Job] Captain Job on Luxury Yacht in Dubai at Irvine Charter LLC</title>
+  <dc:date>2026-10-02 22:16:03</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230694/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Lake Taupō, New Zealand&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A sailing crew position is available on a yacht operating on Lake Taupō, New Zealand. This role is for individuals passionate about sailing and providing eco-friendly experiences. The position involves joining a close-knit team dedicated to customer satisfaction and sharing great stories. Interested candidates should possess enthusiasm and a willingness to contribute to the team&amp;#8217;s success.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230694/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230694/</link>
@@ -61,12 +67,6 @@
   <link>https://maritime-union.com/job/229674/</link>
   <title>[AI Job] Master Vacancy on Luxury Yacht at SAPKO-C. E. Ltd</title>
   <dc:date>2026-09-21 17:33:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229430/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Stewardess position is open for employment on yachts ranging from 28 to 82 meters. The salary offered is 1500-3000 €. Interested candidates should submit their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229430/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229430/</link>
-  <title>[AI Job] Stewardess Vacancy on Yacht at INTERIDAN Company Ltd</title>
-  <dc:date>2026-09-21 17:33:07</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/229426/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engineer position is being offered for employment on yachts ranging from 28 to 82 meters. Interested individuals should send their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229426/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>

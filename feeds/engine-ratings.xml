@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-10-2026</dc:date>
+  <dc:date>03-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230821/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230772/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230770/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230761/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230648/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230598/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230554/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230496/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230821/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available for a candidate holding a valid Schengen visa. This role is within the cruise, ferry, and yacht industry. The position offers a career path with growth and adventure at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230821/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230821/</link>
+  <title>[AI Job] Motorman Job on Cruise, Ferry, or Yacht at V.Ships Leisure Recruitment</title>
+  <dc:date>2026-10-02 14:55:34</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230772/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter is urgently required for an Oil Tanker. Candidates must have a minimum of 12 to 15 months of experience in rank. The salary offered is between 1900 and 2100 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230772/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230772/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/230554/</link>
   <title>[AI Job] Oiler Vacancy on AHTS Vessel at Falcon Marine</title>
   <dc:date>2026-10-01 18:17:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230496/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Workshop or onboard ships, nearby or abroad&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A challenging and independent role for a Diesel Service Mechanic is available within an innovative maritime company. Responsibilities include working on propulsion diesel engines and generator sets, both in the workshop and onboard vessels locally or internationally. This position guarantees varied work.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230496/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230496/</link>
-  <title>[AI Job] Diesel Service Mechanic Vacancy at Delta Marine Crewing</title>
-  <dc:date>2026-10-01 18:17:05</dc:date>
  </item>
 </rdf:RDF>

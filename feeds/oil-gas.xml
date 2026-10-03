@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-10-2026</dc:date>
+  <dc:date>03-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230842/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230823/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230824/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230300/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230226/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230228/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230165/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230107/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230081/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229926/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229929/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230842/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Pasir Gudang, Malaysia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A &lt;span class=&quot;caps&quot;&gt;QAQC&lt;/span&gt; Lead position is available for an Oil and Gas project, located in Pasir Gudang, Malaysia. The contract duration is from October 2026 to April 2028. Candidates require a minimum of 10 years&amp;#8217; relevant experience in project quality planning and supervision for offshore oil/gas facilities, including at least three &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; project experiences. A B.Sc. or B.E. degree in a relevant engineering branch and ISO9001 Lead Auditor certification are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230842/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230842/</link>
+  <title>[AI Job] QAQC Lead Job on FPSO Project at Brunel</title>
+  <dc:date>2026-10-03 08:26:03</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230823/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Pipe Fabricators and Pipe Fitters are sought for a short-term oil and gas project in Saudi Arabia. The contract duration is 9 months. Salaries range from &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 1,500 to &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 2,000 plus overtime. Benefits include free food, accommodation, medical, and transportation. Interviews will be held in Port Harcourt, Nigeria on October 20, 2026.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230823/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230823/</link>
+  <title>[AI Job] Pipe Fabricator &amp;amp; Fitter Jobs - Saudi Arabia Oil &amp;amp; Gas Project at Alabi A. (manpower supply)</title>
+  <dc:date>2026-10-02 14:55:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230824/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kuwait&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for land rig drilling positions in Kuwait, offering high pay and rotational shifts of 28/28 or 56/28. Open roles include Rig Manager, Driller, Derrick Man, Mechanic, Electrician, Welder, Safety Officer, and Rig Medic. Accommodation, food, and transportation are provided. A valid &lt;span class=&quot;caps&quot;&gt;IWCF&lt;/span&gt; or &lt;span class=&quot;caps&quot;&gt;NEBOSH&lt;/span&gt; certification is required for supervisory roles. Relevant experience in land rig drilling or maintenance is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230824/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230824/</link>
+  <title>[AI Job] Oil &amp;amp; Gas Drilling Vacancies in Kuwait at Job Scope Pk</title>
+  <dc:date>2026-10-02 14:55:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230340/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for oil drilling and workover crews in Oman. Roles include Rig Manager, Toolpusher, Driller, Assistant Driller, Derrickman, Floorman, Roustabout, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Officer, Chief Rig Mechanic, Chief Rig Electrician, Rig Mechanic, and Rig Electrician. This offers a professional opportunity within the Oil &amp;amp; Gas industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230340/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/230107/</link>
   <title>[AI Job] Pipe Fitter Job - Refinery Project in Qatar at Suman Management Consultants Pvt. Ltd.</title>
   <dc:date>2026-09-26 11:39:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230081/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Port Harcourt, Rivers State&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Rig IT &amp;amp; Digital Systems Support position is available for operations in Port Harcourt, Nigeria. The role involves providing reliable IT, network, communications, and digital systems support across drilling rig operations, ensuring the availability and security of IT infrastructure and applications. Key responsibilities include day-to-day technical support, system installation and maintenance, network troubleshooting, and cybersecurity incident support. A Bachelor&amp;#8217;s degree/HND in a relevant field and 5+ years of IT support experience, preferably in oil &amp;amp; gas or remote-site operations, are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230081/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230081/</link>
-  <title>[AI Job] Rig IT &amp;amp; Digital Systems Support Job - Nigeria at A leading rig services company operating an integrated drilling fleet across upstream operations in Nigeria</title>
-  <dc:date>2026-09-26 02:22:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229926/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for drilling operations on an oil and gas drilling rig. Open positions include Roustabout, Floorman, Derrickman, Assistant Driller, and Driller. Candidates should possess relevant drilling rig experience, strong technical knowledge, and a commitment to safe operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229926/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229926/</link>
-  <title>[AI Job] Drilling Crew Jobs - Oil &amp;amp; Gas Operations at World Wide Career</title>
-  <dc:date>2026-09-23 14:44:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229929/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for drilling operations on an oil and gas drilling rig. Open positions include Roustabout, Floorman, Derrickman, Assistant Driller, and Driller. Candidates should possess relevant drilling rig experience, strong technical knowledge, and a commitment to safe operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229929/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229929/</link>
-  <title>[AI Job] Drilling Crew Jobs - Oil &amp;amp; Gas Operations at Golden Jobs</title>
-  <dc:date>2026-09-23 14:44:59</dc:date>
  </item>
 </rdf:RDF>

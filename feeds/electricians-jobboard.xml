@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-10-2026</dc:date>
+  <dc:date>03-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230826/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230828/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230780/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230781/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230782/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230669/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230662/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230586/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230578/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230556/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230826/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; West Africa&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Rig Electrician is sought for a drillship operating in West Africa. The contract duration is short to long-term. Applicants must possess valid &lt;span class=&quot;caps&quot;&gt;COMPEX&lt;/span&gt; and marine HV safety certifications. Interested candidates should submit their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230826/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230826/</link>
+  <title>[AI Job] Electrician Job on Drillship at Kuiper Group</title>
+  <dc:date>2026-10-02 14:55:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230828/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; South of France&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A permanent position for a Marine Electrician is available in the South of France, offering competitive salary. Additional on-the-job training will be provided. The ability to perform required skills will be essential for this role. This opportunity is with an excellent company.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230828/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230828/</link>
+  <title>[AI Job] Marine Electrician Job - South of France at SYR - Shoreside Maritime Recruitment</title>
+  <dc:date>2026-10-02 14:55:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230780/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; position is open on a fleet of modern bulkers, container ships, and heavy lift vessels. The salary offered is 4600 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; to 6000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Experience with electronically controlled marine engines is preferred. Permanent employment may be offered after the initial contract. This is a pioneering role for Pakistani seafarers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230780/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230780/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/230586/</link>
   <title>[AI Job] ETO Vacancy on Container Carriers at Reliance Partners Ltd.</title>
   <dc:date>2026-10-01 18:17:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230578/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) with reefer-carrier experience is sought for service on reefer-container carriers. Contracts are for 4-5 months. Applicants should possess the necessary electrical qualifications and experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230578/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230578/</link>
-  <title>[AI Job] ETO Vacancy on Reefer Carriers at Reliance Partners Ltd.</title>
-  <dc:date>2026-10-01 18:17:17</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230556/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) with Dynamic Positioning (DP) certification is needed for an &lt;span class=&quot;caps&quot;&gt;OSV&lt;/span&gt; DP 2 vessel. The contract is for 3 months, with a salary of 200 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Contact details for application are available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230556/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230556/</link>
-  <title>[AI Job] ETO DPO Vacancy on OSV DP 2 at Falcon Marine</title>
-  <dc:date>2026-10-01 18:17:14</dc:date>
  </item>
 </rdf:RDF>

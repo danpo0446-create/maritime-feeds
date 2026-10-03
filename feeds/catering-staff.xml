@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-10-2026</dc:date>
+  <dc:date>03-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230818/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230794/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230766/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230767/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230566/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230553/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230532/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230521/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230818/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Stewardess position is available on a Yacht. This role requires experience in hairdressing and general stewardess duties. Interested candidates should submit their CV for consideration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230818/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230818/</link>
+  <title>[AI Job] Stewardess Job on Yacht at Lighthouse Careers</title>
+  <dc:date>2026-10-02 14:55:34</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230794/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Cook / Night Cook Baker is needed for a Jack Up Barge operating in the UK. The joining date is October 28th, with a contract duration of 3 weeks. This role requires experience in catering onboard offshore vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230794/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230794/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/230532/</link>
   <title>[AI Job] Cook Vacancy at Delta Marine Crewing Philippines</title>
   <dc:date>2026-10-01 18:17:11</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230521/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A position for a Cook is currently available. This role is responsible for food preparation and galley management onboard. Specifics regarding the contract and joining date are to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230521/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230521/</link>
-  <title>[AI Job] Cook Vacancy at Delta Marine Crewing</title>
-  <dc:date>2026-10-01 18:17:09</dc:date>
  </item>
 </rdf:RDF>

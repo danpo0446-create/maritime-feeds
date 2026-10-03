@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-10-2026</dc:date>
+  <dc:date>03-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230825/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230744/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230644/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230643/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230414/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230198/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229931/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229764/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230825/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a General Cargo vessel for EU citizens. The joining date is October 6, 2026, with a contract duration of 6 months and a salary of €900 per month. Applicants must hold EU citizenship, possess seafarer&amp;#8217;s documents, and have a good command of English. This role offers an opportunity for individuals seeking practical experience and willing to work diligently at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230825/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230825/</link>
+  <title>[AI Job] Deck Cadet Job on General Cargo Vessel at Marineman</title>
+  <dc:date>2026-10-02 14:55:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230744/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; Cadet is needed for a Bulker/Containeer vessel, with joining in March. The contract duration is 6 months (+/- 1). Specific salary details are not provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230744/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230744/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229931/</link>
   <title>[AI Job] Deck Cadet Job on Cargo or Tanker Vessel at The Seaways Placement &amp; Services</title>
   <dc:date>2026-09-23 14:44:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229764/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Manila, Philippines&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Cadet position is open for individuals looking to start their career in maritime engineering. The role involves supporting the engine department.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229764/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229764/</link>
-  <title>[AI Job] Engine Cadet Vacancy - Maritime at Golden Galleon Ship Management Services, Inc.</title>
-  <dc:date>2026-09-21 17:33:55</dc:date>
  </item>
 </rdf:RDF>

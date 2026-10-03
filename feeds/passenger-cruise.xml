@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-10-2026</dc:date>
+  <dc:date>03-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230837/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230317/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230283/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230234/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230075/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230076/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229885/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229848/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230837/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple career opportunities are available on cruise ships within the deck, engine, and hotel departments. Roles include deck officers and ratings, engine officers and ratings, and various hotel services such as culinary, housekeeping, and guest services. This is a chance to join the maritime and hospitality industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230837/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230837/</link>
+  <title>[AI Job] Cruise Ship Jobs: Deck, Engine &amp;amp; Hotel Operations at MSC Cruises</title>
+  <dc:date>2026-10-02 22:16:04</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230317/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified maritime engineers and electricians are sought for a fleet of cruise vessels. Positions include Chief Engineer, 1st Engineer, Hotel Engineer, 2nd Engineer, and 2nd Electrician. Candidates with relevant expertise and a passion for the maritime industry are encouraged to apply for these onboard roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230317/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230317/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/229885/</link>
   <title>[AI Job] 2nd Officer Job on Cruise Ship at Columbia Shipmanagement Ukraine Cruise Services</title>
   <dc:date>2026-09-23 14:44:53</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229848/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced technical professionals are sought for positions including 1st Engineer, Chief Plumber, Plumber, Fitter Mechanic, and Fireman on board &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; Cruises vessels. Candidates should possess relevant shipboard experience and the necessary certificates to be considered for an upcoming contract.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229848/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229848/</link>
-  <title>[AI Job] Technical Crew Vacancies on MSC Cruises Ships at World of Seamen Group</title>
-  <dc:date>2026-09-23 14:44:48</dc:date>
  </item>
 </rdf:RDF>
