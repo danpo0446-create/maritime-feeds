@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-10-2026</dc:date>
+  <dc:date>04-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230857/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230850/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230848/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/214985/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230834/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230830/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230827/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230800/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230796/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230792/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230769/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230768/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230857/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent openings are available for 2nd Officer, 3rd Officer, 2nd Engineer, and 3rd Engineer positions. Candidates require 6 to 12 months of experience. This is an opportunity for motivated seafarers to advance their maritime careers and join a growing fleet.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230857/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230857/</link>
+  <title>[AI Job] Deck and Engine Officers Vacancy at OCEANOVA SHIPMANAGEMENT PVT.LTD.</title>
+  <dc:date>2026-10-04 10:16:10</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230850/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A permanent placement coordinator position is available for urgent joining on a tanker vessel. This role offers a permanent employment opportunity with a reputable company. Key responsibilities include coordinating placements and ensuring smooth operations. Further details regarding specific duties and requirements can be obtained through direct contact.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230850/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230850/</link>
+  <title>[AI Job] Placement Coordinator Job - Tanker Vessel at RPSL COMPANY</title>
+  <dc:date>2026-10-04 01:56:19</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230848/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Indonesian crew are urgently needed for immediate joining in October 2026. Positions are available on Bunker Ships, Oil/Chemical Tankers, General Cargo, and Bulk Carriers. Interested candidates should submit their CVs.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230848/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230848/</link>
+  <title>[AI Job] Urgent Ship Crew Vacancy - Various Vessels at PT EmAS Crewing Agency</title>
+  <dc:date>2026-10-04 01:56:19</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/214985/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/214985/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/214985/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/230796/</link>
   <title>[AI Job] Multiple Maritime Officer &amp;amp; Engineer Roles on Tankers, Bulk Carriers, LNG, LPG at Ocean One Ship Management</title>
   <dc:date>2026-10-02 14:55:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230792/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fleet Operator position is available. This role is within the maritime operations sector. Further details regarding vessel type, joining date, contract duration, salary, and specific requirements are available via the provided application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230792/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230792/</link>
-  <title>[AI Job] Fleet Operator Job at SEA TRADERS SA</title>
-  <dc:date>2026-10-01 20:36:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230769/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An opportunity for a 4th Engineer on a Cattle Carrier. The vessel is expected to join at the end of September. The salary is 2600 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. For more information, please contact Mr. Malik Mubeen via WhatsApp.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230769/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230769/</link>
-  <title>[AI Job] 4th Engineer Job - Cattle Carrier at Terra-Marine Agencies (Pvt) Ltd.</title>
-  <dc:date>2026-10-01 18:17:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230768/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Engineer is required for a Cattle Carrier. The joining date is scheduled for the end of September. The salary offered is 3200 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. For further details, please contact Mr. Malik Mubeen via WhatsApp.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230768/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230768/</link>
-  <title>[AI Job] 3rd Engineer Vacancy - Cattle Carrier at Terra-Marine Agencies (Pvt) Ltd.</title>
-  <dc:date>2026-10-01 18:17:43</dc:date>
  </item>
 </rdf:RDF>

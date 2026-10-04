@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-10-2026</dc:date>
+  <dc:date>04-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230845/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230844/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/215033/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230817/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230793/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230776/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230775/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230774/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230773/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230752/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230845/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230845/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230845/</link>
+  <title>[Gold Job] Second Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-10-03 12:56:48</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230844/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230844/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230844/</link>
+  <title>[Gold Job] Master DPO for DP2 PSV vessel at </title>
+  <dc:date>2026-10-03 12:55:42</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/215033/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/215033/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/215033/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/230774/</link>
   <title>[AI Job] Chief Officer Job on Bulkers, Container Ships at Terra-Marine Agencies (Pvt) Ltd.</title>
   <dc:date>2026-10-01 18:17:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230773/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available on a fleet of modern bulkers, container ships, and heavy lift vessels. The salary offered ranges from 8000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; to 9300 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Successful candidates will have the opportunity for permanent employment after their first contract. This is a pioneering role for Pakistani seafarers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230773/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230773/</link>
-  <title>[AI Job] Master Vacancy on Bulkers, Container Ships at Terra-Marine Agencies (Pvt) Ltd.</title>
-  <dc:date>2026-10-01 18:17:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230752/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Panvel&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime training institute seeks a Seamanship Instructor for its facility in Panvel. The role involves planning, conducting, and evaluating theoretical and practical training in seamanship, deck operations, and shipboard safety. Responsibilities include delivering training, conducting practical sessions, assessing trainees, and assisting with course material development, ensuring compliance with regulatory requirements. Essential qualifications include a relevant Certificate of Competency and sea-going experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230752/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230752/</link>
-  <title>[AI Job] Seamanship Instructor Job - Maritime Training at NOTI Institute</title>
-  <dc:date>2026-10-01 18:17:41</dc:date>
  </item>
 </rdf:RDF>

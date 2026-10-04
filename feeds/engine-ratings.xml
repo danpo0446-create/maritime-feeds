@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-10-2026</dc:date>
+  <dc:date>04-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230852/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230821/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230772/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230770/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230665/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230648/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230598/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230554/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230852/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;), two Oilers, and a Trainee General Steward (TR GS) are needed for a 5000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; tanker. The &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; position offers a salary of $2500, Oilers $800 each, and TR GS $400. Candidates must possess relevant rank experience and Indian seaman&amp;#8217;s book. This is an urgent requirement for a tanker vessel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230852/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230852/</link>
+  <title>[AI Job] ETO, Oiler, TR GS Vacancy on Tanker at IRPSL Holder</title>
+  <dc:date>2026-10-04 10:16:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230821/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available for a candidate holding a valid Schengen visa. This role is within the cruise, ferry, and yacht industry. The position offers a career path with growth and adventure at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230821/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230821/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/230598/</link>
   <title>[AI Job] Allround Mechanic Job at Boreas Maritime BV</title>
   <dc:date>2026-10-01 18:17:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230554/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is open on an &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt; vessel. The contract duration is 6 months, with a salary of 15 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per day. To apply, please use the provided email or phone number.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230554/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230554/</link>
-  <title>[AI Job] Oiler Vacancy on AHTS Vessel at Falcon Marine</title>
-  <dc:date>2026-10-01 18:17:13</dc:date>
  </item>
 </rdf:RDF>

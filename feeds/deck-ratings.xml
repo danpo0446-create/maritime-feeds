@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-10-2026</dc:date>
+  <dc:date>04-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230851/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230849/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230805/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230801/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230798/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230754/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230687/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230684/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230630/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230624/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230851/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB/CROP) is sought for a small General Cargo vessel. Requirements include &lt;span class=&quot;caps&quot;&gt;CROP&lt;/span&gt; experience on similar vessels, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents, and good English proficiency. The position offers a salary of 2750 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; for a 3-month contract, with joining scheduled for October 13th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230851/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230851/</link>
+  <title>[AI Job] AB/CROP Job on General Cargo Vessel at OJ Crew</title>
+  <dc:date>2026-10-04 10:16:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230849/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Sri Lanka&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Ordinary Seaman with at least 2 years of Indian watchkeeping experience is urgently required for a Bitumen Tanker. The monthly salary offered is $600. Joining is available from Sri Lanka within the next 3 to 12 days. Rejoining is also an option for this position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230849/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230849/</link>
+  <title>[AI Job] Ordinary Seaman Job on Bitumen Tanker at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-10-04 01:56:19</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230805/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is required for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; Tanker with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 9157. The joining date is October 30, 2026, for a contract duration of 3 months. The offered salary is €2500 per month. Key requirements include experience as an Able Seaman on tanker vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230805/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230805/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/230684/</link>
   <title>[AI Job] Deckhand Job on Workboat at Seaworthy Consulting LTD</title>
   <dc:date>2026-10-01 18:17:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230630/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Maritime company is looking for an Able Seaman to join their vessel. Responsibilities include assisting with deck duties and maintenance. Information on vessel, contract, and joining date is not provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230630/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230630/</link>
-  <title>[AI Job] Able Seaman Vacancy at GlobalMaritime Crew</title>
-  <dc:date>2026-10-01 18:17:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230624/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunity for a Bosun to join a maritime crew. This role involves supervising deck operations and maintenance. Information regarding vessel type, contract, and joining date is not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230624/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230624/</link>
-  <title>[AI Job] Bosun Vacancy at GlobalMaritime Crew</title>
-  <dc:date>2026-10-01 18:17:23</dc:date>
  </item>
 </rdf:RDF>

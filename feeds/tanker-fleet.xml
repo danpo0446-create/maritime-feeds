@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-10-2026</dc:date>
+  <dc:date>04-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230854/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230836/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230811/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230815/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230755/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230756/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230757/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230758/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230854/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Superintendent position is available for a tanker vessel in Singapore. This role is for qualified professionals seeking career advancement in the energy sector. The opportunity is with a leading company, offering a chance to contribute to significant projects. Further details on contract duration and salary are available upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230854/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230854/</link>
+  <title>[AI Job] Technical Superintendent Job - Tanker Fleet at Airswift</title>
+  <dc:date>2026-10-04 10:16:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230836/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Crew members are sought for a tanker vessel with 20000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;. Positions include GS with a salary of 55000 &lt;span class=&quot;caps&quot;&gt;INR&lt;/span&gt;, Oiler with 65000-70000 &lt;span class=&quot;caps&quot;&gt;INR&lt;/span&gt;, and OS with 52000-56000 &lt;span class=&quot;caps&quot;&gt;INR&lt;/span&gt;. Applicants must be GP Rating, possess Indian &lt;span class=&quot;caps&quot;&gt;CDC&lt;/span&gt;, and have significant tanker experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230836/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230836/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman Ports&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer is needed for an Oil Tanker. Applicants must possess at least 12 months of experience in rank on the same type of tanker. Joining is scheduled within 2 days in Oman Ports. The salary is in the range of 2,200 to 3,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230757/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230757/</link>
   <title>[AI Job] 3rd Officer Job - Oil Tanker at Terra-Marine Agencies (Pvt) Ltd.</title>
-  <dc:date>2026-10-01 18:17:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230758/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman Ports&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking a 2nd Engineer for an Oil Tanker. A minimum of 15 months of experience in rank on a similar tanker is required. The joining date is within 2 days, with embarkation in Oman Ports. The salary offered is between 8,500 and 10,500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230758/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230758/</link>
-  <title>[AI Job] 2nd Engineer Vacancy - Oil Tanker at Terra-Marine Agencies (Pvt) Ltd.</title>
   <dc:date>2026-10-01 18:17:41</dc:date>
  </item>
 </rdf:RDF>

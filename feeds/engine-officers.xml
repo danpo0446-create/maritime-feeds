@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-10-2026</dc:date>
+  <dc:date>04-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230855/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230853/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230847/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230812/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230809/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230808/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230795/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230791/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230790/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230788/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230787/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230785/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230855/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Masters and Chief Engineers with &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; background are sought for a cross-training opportunity to join a growing &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; fleet. Candidates must have 12-24 months of rank experience on &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessels, be under 40 years of age, and possess strong safety, leadership, and technical skills. A commitment to long-term career development and professional stability is essential. This role offers a chance to build a career in the advanced &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230855/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230855/</link>
+  <title>[AI Job] Master &amp;amp; Chief Engineer Jobs - LNG Fleet Transition at CelsiusTech HK</title>
+  <dc:date>2026-10-04 10:16:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230853/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Superintendent position is available for a tanker vessel in Singapore. This role is for qualified professionals seeking career advancement in the energy sector. The opportunity is with a leading company, offering a chance to grow within the industry. Further details on contract duration and specific requirements can be obtained through the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230853/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230853/</link>
+  <title>[AI Job] Technical Superintendent Job - Tanker Fleet at Airswift</title>
+  <dc:date>2026-10-04 10:16:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230847/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Third Marine Engineer (&lt;span class=&quot;caps&quot;&gt;TME&lt;/span&gt;) position is available on a 40,000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; Bulk Carrier. The role offers a salary of 300 and requires joining shortly. This is a permanent company position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230847/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230847/</link>
+  <title>[AI Job] TME Job on 40,000 GRT Bulk Carrier at The Seaways Placement &amp; Services</title>
+  <dc:date>2026-10-04 01:56:18</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230812/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Superintendent position is available for a tanker vessel in Singapore. This role is part of a broader recruitment drive across &lt;span class=&quot;caps&quot;&gt;APAC&lt;/span&gt; for technical, audit, claims, procurement, and marine leadership functions. Further opportunities are also listed for dry bulk, internal audit, demurrage claims, procurement, and general management in oil tankers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230812/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230812/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/230790/</link>
   <title>[AI Job] Second Engineer Job - Various Vessels at NAUTILUS Odessa Branch</title>
   <dc:date>2026-10-01 18:17:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230788/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Engineers are required for various vessel types. Candidates should possess experience with 2-stroke engines. This is a permanent requirement for qualified marine professionals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230788/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230788/</link>
-  <title>[AI Job] Chief Engineer Job - Various Vessels at NAUTILUS Odessa Branch</title>
-  <dc:date>2026-10-01 18:17:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230787/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified Second Engineers with a good command of English are needed. This role focuses on the maintenance and operation of the engine room machinery, ensuring compliance with safety and operational standards.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230787/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230787/</link>
-  <title>[AI Job] Second Engineer Job - Various Vessels at NAUTILUS Main Office</title>
-  <dc:date>2026-10-01 18:17:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230785/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Engineers are constantly required for all types of main engines (ME). Candidates should have experience with 2-stroke and 4-stroke engines. This role involves ensuring the efficient operation and maintenance of the vessel&amp;#8217;s propulsion and auxiliary machinery.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230785/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230785/</link>
-  <title>[AI Job] Chief Engineer Job - All ME Vessels at NAUTILUS Main Office</title>
-  <dc:date>2026-10-01 18:17:45</dc:date>
  </item>
 </rdf:RDF>

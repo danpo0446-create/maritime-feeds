@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-10-2026</dc:date>
+  <dc:date>04-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230856/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230842/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230823/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230824/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230227/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230228/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230165/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230107/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230856/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for an oil drilling and workover crew in Oman. Roles include Rig Manager, Toolpusher, Driller, Derrickman, Floorman, Roustabout, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Officer, Chief Rig Mechanic, Chief Rig Electrician, Rig Mechanic, and Rig Electrician. This is a professional opportunity within the Oil &amp;amp; Gas industry, offering a safe work environment with a reliable employer.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230856/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230856/</link>
+  <title>[AI Job] Oil &amp;amp; Gas Crew Positions - Oman at Vacancies Onshore Offshore</title>
+  <dc:date>2026-10-04 10:16:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230842/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Pasir Gudang, Malaysia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A &lt;span class=&quot;caps&quot;&gt;QAQC&lt;/span&gt; Lead position is available for an Oil and Gas project, located in Pasir Gudang, Malaysia. The contract duration is from October 2026 to April 2028. Candidates require a minimum of 10 years&amp;#8217; relevant experience in project quality planning and supervision for offshore oil/gas facilities, including at least three &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; project experiences. A B.Sc. or B.E. degree in a relevant engineering branch and ISO9001 Lead Auditor certification are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230842/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230842/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/230165/</link>
   <title>[AI Job] Cementer Job - Offshore Rig at ASWabuana</title>
   <dc:date>2026-09-28 12:58:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230107/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Pipe Fitters are sought for a major industrial/refinery project in Qatar. Responsibilities include maintenance and repair of pipes, flanges, valves, and refinery equipment, supporting overhauls and shutdowns. A minimum of 5 years&amp;#8217; relevant experience is required. The position is based in Qatar with a salary of &lt;span class=&quot;caps&quot;&gt;QAR&lt;/span&gt; 1,000.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230107/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230107/</link>
-  <title>[AI Job] Pipe Fitter Job - Refinery Project in Qatar at Suman Management Consultants Pvt. Ltd.</title>
-  <dc:date>2026-09-26 11:39:58</dc:date>
  </item>
 </rdf:RDF>
