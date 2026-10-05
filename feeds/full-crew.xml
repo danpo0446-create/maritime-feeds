@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>04-10-2026</dc:date>
+  <dc:date>05-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230874/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230867/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230865/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230857/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230850/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230848/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230834/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230830/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230829/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230827/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230800/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230796/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230874/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Ship crew are urgently needed for Reefer Cargo, General Cargo, and Bulk Carrier vessels. Indonesian seafarers are required for an estimated join date in October 2026. This is an opportunity to secure a position within the maritime industry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230874/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230874/</link>
+  <title>[AI Job] Urgent Ship Crew Vacancy - Reefer, Cargo, Bulk Carrier at PT EmAS Crewing Agency</title>
+  <dc:date>2026-10-05 11:11:13</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230867/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Ship crew are urgently needed for immediate joining in October 2026. Positions are available on Bunker Ships, Oil/Chemical Tankers, General Cargo, and Bulk Carriers. This is an opportunity for Indonesian seafarers to secure a role at sea. Further details and application instructions are available via the provided contact information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230867/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230867/</link>
+  <title>[AI Job] Urgent Ship Crew Vacancy - Various Vessels at PT EmAS Crewing Agency</title>
+  <dc:date>2026-10-05 11:11:12</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230865/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Australia/China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Recruitment is open for Indonesian seafarers to join a bulk carrier vessel operating in Australian/Chinese waters. Interested candidates are invited to submit their CVs.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230865/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230865/</link>
+  <title>[AI Job] Seafarer Recruitment - Bulk Carrier at Riko Pernandes</title>
+  <dc:date>2026-10-05 11:11:12</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230857/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent openings are available for 2nd Officer, 3rd Officer, 2nd Engineer, and 3rd Engineer positions. Candidates require 6 to 12 months of experience. This is an opportunity for motivated seafarers to advance their maritime careers and join a growing fleet.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230857/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230857/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/230829/</link>
   <title>[AI Job] Shipyard &amp;amp; Dockyard Vacancies in Bahrain at Ambe International-Recruitment and Mobility</title>
   <dc:date>2026-10-02 14:55:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230827/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Chennai / Kattupalli&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shipyard positions are available in Chennai/Kattupalli for immediate joiners. Roles include Marine Electrical Grinder, Cable Puller, Electrician, Structural Fitter, Grinder, Helper, Marker, Welder, and QA/QC Inspector. Experience requirements range from 1-3 years to 8-12+ years, with salaries varying between ₹14,000 and ₹45,000. Candidates with relevant experience in marine, shipyard, welding, fitting, or electrical fields are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230827/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230827/</link>
-  <title>[AI Job] Shipyard Job Openings in Chennai at </title>
-  <dc:date>2026-10-02 14:55:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230800/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deckhand position is available on a tugboat operating in the Netherlands. The role offers a regular rotation of 4-6 weeks with 12-hour shifts daily. Candidates must possess valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification, a medical certificate, Seaman&amp;#8217;s Book, and a passport. Accommodation is provided in a hotel ashore, not onboard. Travel is scheduled for Friday.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230800/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230800/</link>
-  <title>[AI Job] Deckhand Job on Tugboat in Netherlands at 4 RECRUTE . COM</title>
-  <dc:date>2026-10-02 14:55:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230796/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime positions are available across various vessel types including MR Tankers, Bulk Carriers, General Cargo ships, &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carriers, and &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tankers. Openings include Chief Officer, Chief Engineer, Second Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Third Officer, Third Engineer, Gas Engineer, and Master. Interested candidates are encouraged to apply via email or WhatsApp with their CV. Official contact numbers are provided for genuine inquiries.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230796/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230796/</link>
-  <title>[AI Job] Multiple Maritime Officer &amp;amp; Engineer Roles on Tankers, Bulk Carriers, LNG, LPG at Ocean One Ship Management</title>
-  <dc:date>2026-10-02 14:55:31</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>04-10-2026</dc:date>
+  <dc:date>05-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230871/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230863/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230851/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230849/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230805/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230765/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230764/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230754/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230687/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230684/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/230871/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Port Moresby, Papua New Guinea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A General Hand position is available for individuals to provide general manual labour and operational support within a dockyard. Responsibilities include assisting skilled workers, maintaining a safe environment, and handling cargo. The role requires a Year 10 High School Certificate and the ability to perform physical tasks in challenging marine environments. Experience in a dockyard or ship repair facility is desirable. Benefits include a competitive hourly rate, free &lt;span class=&quot;caps&quot;&gt;PPE&lt;/span&gt;, daily meals, and transportation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230871/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230871/</link>
+  <title>[AI Job] General Hand Job - Ship Repair Dockyard at Curtain Bros (CB) Group</title>
+  <dc:date>2026-10-05 11:11:12</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230863/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bosun position is available on a 30000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; tanker vessel. The salary offered is $1500-1700. Applicants must have previous rank experience and an Indian national CoC. An Able Seaman (AB) may also be considered for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230863/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230863/</link>
+  <title>[AI Job] Bosun Vacancy on Tanker Vessel at Ishaque Ansari</title>
+  <dc:date>2026-10-05 11:11:11</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230851/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB/CROP) is sought for a small General Cargo vessel. Requirements include &lt;span class=&quot;caps&quot;&gt;CROP&lt;/span&gt; experience on similar vessels, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents, and good English proficiency. The position offers a salary of 2750 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; for a 3-month contract, with joining scheduled for October 13th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230851/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230851/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/230754/</link>
   <title>[AI Job] Bosun Vacancy - Offshore Survey Vessel at Gardline</title>
   <dc:date>2026-10-01 18:17:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230687/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A qualified Crane Operator with an Able Seaman ticket is required for a Multipurpose Sub-Sea Vessel DP 3 operating in Germany. The contract is 6 weeks on/off, with an immediate start. Experience with heavy lifting operations on offshore vessels is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230687/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230687/</link>
-  <title>[AI Job] Crane Operator Vacancy on DP 3 Vessel at Seaworthy Consulting LTD</title>
-  <dc:date>2026-10-01 18:17:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230684/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; United Kingdom&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deckhand is needed for a Workboat operating in the United Kingdom. The position offers a 4-week rotation on/off, with employment commencing as soon as possible. Applicants must have experience in deck operations on workboats.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230684/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230684/</link>
-  <title>[AI Job] Deckhand Job on Workboat at Seaworthy Consulting LTD</title>
-  <dc:date>2026-10-01 18:17:31</dc:date>
  </item>
 </rdf:RDF>
