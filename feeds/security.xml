@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Maritime Security</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>05-10-2026</dc:date>
+  <dc:date>06-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231096/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/228578/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/226036/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223812/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/221176/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219351/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/201029/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/201533/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231096/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A career opportunity is available for Agniveers retiring this month to join the Merchant Navy as a Maritime Security Guard. This role offers a new career path after military service. Key requirements include prior service as an Agniveer.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231096/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231096/</link>
+  <title>[AI Job] Maritime Security Guard Job - Merchant Navy at Ocean Marine Security</title>
+  <dc:date>2026-10-05 20:20:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/228578/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking experienced Security Supervisors and Security Guards for a modern cruise line. This role offers the chance to travel the world while enjoying benefits such as free accommodation, food, and transportation. Attractive rotations and onboard amenities are provided. Due to limited positions, early application is encouraged for suitable candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/228578/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/228578/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/201029/</link>
   <title>[Hot Job] Maritime Security Officers at Al Safina Security</title>
   <dc:date>2025-08-24 13:00:05</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/201533/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Russia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Камчатская производственно-коммерческая фирма &amp;laquo;Камлайн&amp;raquo; основана в 1991 году. Основная сфера деятельности фирмы &amp;ndash; круглогодичная добыча и переработка на борту судов гидробионтов, обитающих в богатых сырьевыми ресурсами и экологически чистых Охотском и Беринговом морях, что само по себе является гарантией высокого качества продукции.&lt;/p&gt;&#10;&#10;&lt;p&gt;Компания владеет современными судами, оборудованными для ведения тралового промысла и выпуска готовой свежемороженой продукции всех видов разделки &amp;ndash; от неразделанной и штучной до потрошено-обезглавленной.&amp;nbsp;&lt;/p&gt;&#10;&#10;&lt;p&gt;Флот оснащен всем необходимым оборудованием &amp;ndash; специализированными траловыми системами и автоматизированными конвейерными линиями обработки улова.&lt;/p&gt;&#10;&#10;&lt;p&gt;На судах находятся цеха с современным технологическим и морозильным оборудованием, которое позволяет перерабатывать рыбопродукцию на уровне мировых стандартов.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;img alt=&quot;kamline&quot; src=&quot;http://maritime-union.com/uploads/files/images/kamline.jpg&quot; /&gt;&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&lt;p&gt;На данный момент в нашей компании открыта&amp;nbsp;вакансия:&lt;strong&gt;&amp;nbsp;Старший помощник капитана&lt;/strong&gt;&amp;nbsp;(диплом до 3000 р.т.)&lt;/p&gt;&#10;&#9;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;ДОПОЛНИТЕЛЬНО ДЛЯ ВСЕХ ВАКАНСИЙ ТРЕБУЕТСЯ ПРОХОЖДЕНИЕ МЕДИЦИНСКОЙ КОМИССИИ И ИНСТРУКТАЖА ПО ТБ, НАЛИЧИЕ ПАСПОРТА МОРЯКА И РАБОЧЕГО ДИПЛОМА МРП С ПОДТВЕРЖДЕНИЯМИ. ДЛЯ ВАКАНСИЙ СУДОВОГО ВРАЧА И МЕХАНИКА ТО ОБЯЗАТЕЛЬНО ПРОХОЖДЕНИЕ ОБУЧЕНИЯ ПО НПБЖС.&lt;/p&gt;&#10;&#10;&lt;p&gt;Если Вас заинтересовало предложение, свяжитесь с нами по адресу:&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/201533/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/201533/</link>
-  <title>[Hot Job] Судовой врач (фельдшер) at Камлайн</title>
-  <dc:date>2025-08-09 13:00:03</dc:date>
  </item>
 </rdf:RDF>

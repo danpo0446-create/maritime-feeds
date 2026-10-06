@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>05-10-2026</dc:date>
+  <dc:date>06-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231099/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230905/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230835/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230694/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230268/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230157/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230023/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229801/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229674/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229426/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/229427/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231099/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple sailing yacht crew positions are available, including Captain, Cook/Stew Couple, Chef, Sole Chef, Sole Stewardess, Chief Mate, Second Mate, Mate, Deckhand, Engineer, and Second Engineer. Roles are on various private and charter sailing yachts ranging from 23m to 65m+, with some positions heading to the Pacific. Specific requirements may include B1/B2 visa and Y3 or equivalent certification for engineers. Experience in any department on sailing yachts is beneficial.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231099/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231099/</link>
+  <title>[AI Job] Sailing Yacht Crew Vacancies at Hello Sailor Crew Recruitment</title>
+  <dc:date>2026-10-05 20:20:35</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230905/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deckhand required for a 45m private motor yacht. Minimum 1-2 years of industry experience is necessary, with Yacht Master Offshore preferred. Key skills include yard maintenance, painting, and tender driving. A B1B2 visa is required. Salary offered is 4000-5000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month, with 42 days leave. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, with travel planned for the Bahamas, Caribbean, and Panama Canal.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230905/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230905/</link>
+  <title>[AI Job] Deckhand Job on 45m Motor Yacht in USA at YOA Yacht Crew</title>
+  <dc:date>2026-10-05 14:37:42</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230898/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Support position is available on a Yacht. This role requires specific technical expertise to ensure the smooth operation of onboard systems. Further details regarding responsibilities and qualifications can be found via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230898/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230898/</link>
+  <title>[AI Job] Technical Support Job on Yacht at Michael Page</title>
+  <dc:date>2026-10-05 14:37:41</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/230835/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Captain required to command and operate a luxury yacht, manage crew, and ensure high service standards. Position requires a valid Captain’s License for vessels over 24 meters, proven experience on luxury yachts, strong leadership, and good knowledge of yacht operations and safety. Relocation to Jeddah and Europe may be required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230835/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230835/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/229801/</link>
   <title>[AI Job] Deckhand Job on 85m+ Motor Yacht at Seven Seas Recruitment</title>
   <dc:date>2026-09-22 08:20:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229674/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Master with significant yacht background on minimum 45m yachts, previous references, and Master certificate degree is sought for a position on a luxury yacht. Fluency in English is essential, with Spanish, French, or Italian being advantageous. &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 95 certification is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229674/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229674/</link>
-  <title>[AI Job] Master Vacancy on Luxury Yacht at SAPKO-C. E. Ltd</title>
-  <dc:date>2026-09-21 17:33:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229426/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engineer position is being offered for employment on yachts ranging from 28 to 82 meters. Interested individuals should send their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229426/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229426/</link>
-  <title>[AI Job] Engineer Vacancy on Yacht at INTERIDAN Company Ltd</title>
-  <dc:date>2026-09-21 17:33:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229427/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deckhand position is available on yachts between 28 and 82 meters. The salary for this role is 1200-2500 €. Applicants are requested to send their CV with a photo.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229427/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229427/</link>
-  <title>[AI Job] Deckhand Vacancy on Yacht at INTERIDAN Company Ltd</title>
-  <dc:date>2026-09-21 17:33:07</dc:date>
  </item>
 </rdf:RDF>
