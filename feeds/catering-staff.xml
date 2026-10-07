@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-10-2026</dc:date>
+  <dc:date>07-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231199/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231204/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231102/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231098/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231100/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231072/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231073/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231074/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231075/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231065/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231199/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Ship Cook (Sudovoy Povár) position is available in the Ob-Irtysh basin, with a salary starting from 72,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This catering role is essential for crew welfare. For application details, please use the provided contact number.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231199/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231199/</link>
+  <title>[AI Job] Ship Cook Vacancy - Ob-Irtysh Basin at АО Северное речное пароходство</title>
+  <dc:date>2026-10-06 16:46:39</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231204/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Балтийское море (Санкт-Петербург - Калининград)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook position is available on vessels operating in the Baltic Sea, including &lt;span class=&quot;caps&quot;&gt;STK&lt;/span&gt;-1020, &lt;span class=&quot;caps&quot;&gt;STK&lt;/span&gt;-1005, Sormovskiy-3063, and Sormovskiy-3068. The salary is 90,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This catering role is essential for crew well-being. Interested candidates can apply via the provided contact information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231204/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231204/</link>
+  <title>[AI Job] Cook Vacancy - Baltic Sea at АО Северное речное пароходство</title>
+  <dc:date>2026-10-06 16:46:39</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231102/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; world cruising&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Spa Stewardess with massage and beauty expertise is sought for a 60m+ motor yacht undertaking world cruising itineraries. The role involves primarily back-of-house duties including laundry and housekeeping, with some service assistance required. Candidates must possess a strong land-based background in various massage types and ideally beauty treatments, demonstrating adaptability and a strong work ethic.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231102/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231102/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231074/</link>
   <title>[AI Job] Bar Waiter/Waitress Job - Cruise Ship at UAB ISMIRA</title>
   <dc:date>2026-10-05 17:00:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231075/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is hiring a Barkeeper. This is a remote, worldwide contract position. The role involves preparing and serving drinks to passengers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231075/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231075/</link>
-  <title>[AI Job] Barkeeper Job - Cruise Ship at UAB ISMIRA</title>
-  <dc:date>2026-10-05 17:00:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231065/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is hiring Bar Waiters. This is a remote, worldwide contract position. The role involves serving beverages and attending to guest needs in bar areas.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231065/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231065/</link>
-  <title>[AI Job] Bar Waiter Job - Cruise Ship at UAB ISMIRA</title>
-  <dc:date>2026-10-05 17:00:45</dc:date>
  </item>
 </rdf:RDF>

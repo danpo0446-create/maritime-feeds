@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-10-2026</dc:date>
+  <dc:date>07-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231226/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231200/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231110/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231097/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231035/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230984/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230986/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230969/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230959/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230933/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231226/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An urgent requirement exists for an Industrial Electrician with a minimum of 5 years of experience in the Oil &amp;amp; Gas sector. Candidates should possess an &lt;span class=&quot;caps&quot;&gt;ITI&lt;/span&gt; or Diploma in Electrical Trade. Saudi or &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; experience is preferred. The role offers a salary of &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 1,500–1,700 with a &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 400 food allowance, along with provided accommodation, transportation, and overtime. A walk-in interview is scheduled from October 6th to 10th, 2026.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231226/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231226/</link>
+  <title>[AI Job] Industrial Electrician Job - Oil &amp;amp; Gas Sector at ASMACS Jobs</title>
+  <dc:date>2026-10-07 09:46:38</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231200/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electromechanical Engineer position is open in the Ob-Irtysh basin, project R-33B, with a salary starting from 125,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This role is crucial for maintaining the vessel&amp;#8217;s electrical and mechanical systems. Interested parties should contact the provided number for more information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231200/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231200/</link>
+  <title>[AI Job] Electromechanical Engineer Job - Ob-Irtysh at АО Северное речное пароходство</title>
+  <dc:date>2026-10-06 16:46:39</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231110/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician with 2-3 years of experience is needed for marine projects in Abu Dhabi. The rotation is 150 days on and 30 days off. Salary offered is 3000-3500 &lt;span class=&quot;caps&quot;&gt;AED&lt;/span&gt; per month, with free accommodation and transportation provided. The job is located in Abu Dhabi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231110/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231110/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/230969/</link>
   <title>[AI Job] ETO Vacancy on Container Ship at Seacover GmbH</title>
   <dc:date>2026-10-05 17:00:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230959/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Training is offered for the Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position within the Merchant Navy. This specialized course covers electrical systems and equipment onboard vessels, preparing candidates for certification and employment. Inquire about the application process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230959/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230959/</link>
-  <title>[AI Job] ETO Course for Merchant Navy at Officers Maritime Academy</title>
-  <dc:date>2026-10-05 17:00:27</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230933/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is needed for a container ship. The offered salary ranges from 5,900 to 6,500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; for a 4-month contract. Embarkation is expected in 6 days.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230933/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230933/</link>
-  <title>[AI Job] ETO Vacancy on Container Ship at Crewplanet</title>
-  <dc:date>2026-10-05 17:00:23</dc:date>
  </item>
 </rdf:RDF>

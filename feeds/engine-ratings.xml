@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-10-2026</dc:date>
+  <dc:date>07-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231221/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231132/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231125/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231128/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231039/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231040/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231041/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231042/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230962/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230939/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230929/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230912/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230913/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230852/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231221/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available on a container vessel (19-25K &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;). The role offers a salary of $1,499 per month with a contract duration of 9 +/- 2 months. Joining is scheduled for October 18, 2026, in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. Candidates must have a minimum of 18 months of valid documents, speak English well, and possess at least 18 months of experience as an Oiler on container or similar vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231221/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231221/</link>
+  <title>[AI Job] Oiler Job on Container Vessel at PT. Abdas Marine Sinergy</title>
+  <dc:date>2026-10-07 09:46:38</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231132/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Japan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A position for a Filter is open on a Container Vessel, with a salary of 1800 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. The joining date is scheduled for the second week of January in Japan. Further information regarding contract duration is available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231132/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231132/</link>
+  <title>[AI Job] Filter Position on Container Vessel at GMA MARITIME SERVICE</title>
+  <dc:date>2026-10-06 16:46:30</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231125/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Japan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Container vessel (Evergreen, &lt;span class=&quot;caps&quot;&gt;TEU&lt;/span&gt; 500) is seeking an Oiler with a salary of 1400 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. The contract is for 3/5-1, with joining in Japan during the second week of January. Two positions are open for qualified candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231125/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231125/</link>
+  <title>[AI Job] Oiler Vacancy on Container Vessel at Global Max Asia Maritime</title>
+  <dc:date>2026-10-06 16:46:29</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231128/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is open on a Hongkong-based Bulk Carrier (&lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; 30000). Specific contract details and salary are not provided, but no application fees are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231128/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231128/</link>
+  <title>[AI Job] Oiler Job on Bulk Carrier (Hongkong based) at GMA MARITIME SERVICE</title>
+  <dc:date>2026-10-06 16:46:29</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231039/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman is required for a maritime vessel. This role involves the operation and maintenance of the vessel&amp;#8217;s pumping systems, particularly for cargo handling. Experience with various types of pumps and safety procedures is essential. Further information regarding the vessel and contract will be shared.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231039/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231039/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/230939/</link>
   <title>[AI Job] Oiler Vacancy on Bunkering Tanker at Performar Ltd</title>
   <dc:date>2026-10-05 17:00:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230929/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Leer, Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Apprenticeship positions for Industrial Mechanics starting in 2027 are available. This role is located in Leer, Germany. Information on vessel type, contract duration, and salary is not provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230929/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230929/</link>
-  <title>[AI Job] Apprentice Industrial Mechanic (2027 Intake) at Briese Schiffahrt</title>
-  <dc:date>2026-10-05 17:00:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230912/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Cape Town&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available in Cape Town. This role requires a skilled individual to perform fitting and turning duties. Further details regarding the specific vessel or industry are not provided. Interested candidates can find more information and apply through the company&amp;#8217;s website or by phone.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230912/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230912/</link>
-  <title>[AI Job] Fitter Job Vacancy in Cape Town at Staff Unlimited</title>
-  <dc:date>2026-10-05 14:37:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230913/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Project Location&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Rig Mechanic is sought for a drilling rig operation. Responsibilities include maintenance and repair of rig machinery and equipment, routine checks for operational readiness, troubleshooting field breakdowns, coordinating spare parts needs, and ensuring equipment safety and functionality. Adherence to &lt;span class=&quot;caps&quot;&gt;SOP&lt;/span&gt;, K3, and company procedures is required. Competitive salary and provision of food and accommodation are offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230913/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230913/</link>
-  <title>[AI Job] Rig Mechanic Job - Drilling Rig at PT Dunggio Drilling</title>
-  <dc:date>2026-10-05 14:37:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230852/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;), two Oilers, and a Trainee General Steward (TR GS) are needed for a 5000 &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; tanker. The &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; position offers a salary of $2500, Oilers $800 each, and TR GS $400. Candidates must possess relevant rank experience and Indian seaman&amp;#8217;s book. This is an urgent requirement for a tanker vessel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230852/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230852/</link>
-  <title>[AI Job] ETO, Oiler, TR GS Vacancy on Tanker at IRPSL Holder</title>
-  <dc:date>2026-10-04 10:16:09</dc:date>
  </item>
 </rdf:RDF>
