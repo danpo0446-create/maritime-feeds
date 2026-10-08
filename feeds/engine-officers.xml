@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-10-2026</dc:date>
+  <dc:date>08-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231230/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231229/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231224/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231214/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231203/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231201/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231194/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231230/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231230/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231230/</link>
+  <title>[Gold Job] Second Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-10-07 13:05:42</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231229/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231229/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231229/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231201/</link>
   <title>[AI Job] Chief Engineer/Assistant Captain Vacancy at АО Северное речное пароходство</title>
   <dc:date>2026-10-06 16:46:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231194/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain-Shift Mechanic position is available on an OS (cleaning station) vessel operating in the Ob-Irtysh basin. Compensation is negotiable. This role is primarily focused on engine department operations. Interested candidates should use the contact details provided for inquiries.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231194/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231194/</link>
-  <title>[AI Job] Captain-Shift Mechanic Job - OS Vessel at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:38</dc:date>
  </item>
 </rdf:RDF>
