@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>08-10-2026</dc:date>
+  <dc:date>09-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231235/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231234/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231232/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231230/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231229/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231224/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231209/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231208/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231207/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231203/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231202/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231201/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231235/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231235/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231235/</link>
+  <title>[Gold Job] Third Engineer for DP2 AHTS vessel at </title>
+  <dc:date>2026-10-08 14:02:57</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231234/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231234/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231234/</link>
+  <title>[Gold Job] Second Engineer for Work Boat / Utility vessel  at </title>
+  <dc:date>2026-10-08 14:02:02</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231232/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231232/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231232/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-10-08 13:59:39</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231230/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231230/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231230/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231207/</link>
   <title>[AI Job] 3rd Engineer Job - Baltic Sea Vessels at АО Северное речное пароходство</title>
   <dc:date>2026-10-06 16:46:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231203/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain-Shift Mechanic position is advertised for project R-33B in the Ob-Irtysh basin, with a salary starting from 200,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This senior role demands expertise in both vessel operation and engine management. Please use the contact details provided for inquiries.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231203/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231203/</link>
-  <title>[AI Job] Captain-Shift Mechanic Job - Project R-33B at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231202/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An opportunity exists for a Mechanic-Shift Captain on project R-33B in the Ob-Irtysh basin, with a salary of 180,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt; and above. This role requires a blend of engineering and command skills. Interested candidates should contact the provided number for further information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231202/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231202/</link>
-  <title>[AI Job] Mechanic-Shift Captain Vacancy - Project R-33B at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231201/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A vacancy exists for a Chief Engineer/Assistant Captain on project 1741 in the Ob-Irtysh basin, with a salary from 116,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This senior role combines engine department oversight with navigational responsibilities. For details, please use the contact information provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231201/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231201/</link>
-  <title>[AI Job] Chief Engineer/Assistant Captain Vacancy at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:39</dc:date>
  </item>
 </rdf:RDF>

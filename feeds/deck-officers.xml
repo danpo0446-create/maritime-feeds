@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>08-10-2026</dc:date>
+  <dc:date>09-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231236/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231233/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231231/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231225/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231212/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231196/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231195/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231121/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231120/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230241/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231236/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231236/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231236/</link>
+  <title>[Gold Job] Applications for experienced seafarers for an LPG Vessel (Approx. 3,000 GRT). at </title>
+  <dc:date>2026-10-09 09:04:14</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231233/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231233/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231233/</link>
+  <title>[Gold Job] Second Officer for Crew Boat – NON DP at </title>
+  <dc:date>2026-10-08 14:01:04</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231231/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231231/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231231/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231121/</link>
   <title>[Gold Job] Master for NON DP AHTS vessel at </title>
   <dc:date>2026-10-06 11:01:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231120/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231120/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231120/</link>
-  <title>[Gold Job] Need Deck side applications from experienced Indian seafarers for LPG / VLGC Tankers. at </title>
-  <dc:date>2026-10-06 09:57:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230241/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230241/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230241/</link>
-  <title>[Gold Job] Need Master , chief officer, 2nd officer as Aramco / Adnoc Approved at </title>
-  <dc:date>2026-10-06 09:41:34</dc:date>
  </item>
 </rdf:RDF>
