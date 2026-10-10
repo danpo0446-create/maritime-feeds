@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>09-10-2026</dc:date>
+  <dc:date>10-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231237/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231236/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231233/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231231/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231210/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231196/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231195/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231121/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231237/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231237/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231237/</link>
+  <title>[Gold Job] Applications For 2nd off &amp;amp; bosun for offshore vessel only sri lank at </title>
+  <dc:date>2026-10-09 13:39:12</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231236/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231236/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231236/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231195/</link>
   <title>[AI Job] Shift Skipper-Crane Operator Vacancy at АО Северное речное пароходство</title>
   <dc:date>2026-10-06 16:46:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231121/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231121/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231121/</link>
-  <title>[Gold Job] Master for NON DP AHTS vessel at </title>
-  <dc:date>2026-10-06 11:01:02</dc:date>
  </item>
 </rdf:RDF>
