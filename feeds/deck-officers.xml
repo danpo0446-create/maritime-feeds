@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-10-2026</dc:date>
+  <dc:date>12-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231242/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231240/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231239/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231237/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231236/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231233/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231225/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231212/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231211/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231210/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231196/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231195/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231242/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231242/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231242/</link>
+  <title>[Gold Job] Chief Officer for Self-Propelled Jack-Up Barge (NON-DP) at </title>
+  <dc:date>2026-10-12 11:32:10</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231240/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231240/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231240/</link>
+  <title>[Gold Job] Master for NON DP AHTS vessel at </title>
+  <dc:date>2026-10-12 11:30:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231239/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231239/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231239/</link>
+  <title>[Gold Job] Chief Officer for Panamax Bulk Carrier Vessel at </title>
+  <dc:date>2026-10-12 11:18:19</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231237/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231237/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231237/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231211/</link>
   <title>[AI Job] Chief Officer Job - Baltic Sea Fleet at АО Северное речное пароходство</title>
   <dc:date>2026-10-06 16:46:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231210/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Балтийское море (Санкт-Петербург - Калининград)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Watchkeeping Officer (Vahtenniy Pomoshchnik Kapitana) position is available for vessels on the Baltic Sea route (St. Petersburg to Kaliningrad). The salary is 180,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This deck officer role requires navigation and vessel management skills. For application details, please refer to the contact information provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231210/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231210/</link>
-  <title>[AI Job] Watchkeeping Officer Vacancy - Baltic Sea at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231196/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Skipper-Crane Operator position is open in the Ob-Irtysh basin, with a salary starting from 170,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This role involves deck operations and crane management. Qualified individuals are encouraged to inquire using the contact information provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231196/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231196/</link>
-  <title>[AI Job] Skipper-Crane Operator Job - Ob-Irtysh at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231195/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking a Shift Skipper-Crane Operator for the Ob-Irtysh basin. The role offers a salary starting from 150,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This position requires deck department skills, specifically operating cranes. For more information or to apply, please refer to the contact details provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231195/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231195/</link>
-  <title>[AI Job] Shift Skipper-Crane Operator Vacancy at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:38</dc:date>
  </item>
 </rdf:RDF>

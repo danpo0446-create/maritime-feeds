@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-10-2026</dc:date>
+  <dc:date>12-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229938/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/229937/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231206/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231205/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231198/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231176/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231130/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231129/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231127/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231126/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229938/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229938/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229938/</link>
+  <title>[Gold Job] AB-Cook for Dredger / Start October 21 at </title>
+  <dc:date>2026-10-12 10:57:16</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/229937/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229937/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229937/</link>
+  <title>[Gold Job] AB-Cook for Dredger / Start October 21 at </title>
+  <dc:date>2026-10-12 10:56:21</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231206/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Балтийское море (Санкт-Петербург - Калининград)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bosun position is available for vessels sailing the Baltic Sea route (St. Petersburg to Kaliningrad). The offered salary is 110,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This deck department role involves supervision of maintenance and deck operations. Interested individuals should use the provided contact information to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231206/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231206/</link>
@@ -66,18 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Japan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB 2/5) is needed for a Container Vessel (Evergreen, &lt;span class=&quot;caps&quot;&gt;TEU&lt;/span&gt; 1000, Panama, built 2014). The joining date is the second week of January in Japan. The salary is 1400 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; for a 1-contract duration. Three positions are available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231129/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231129/</link>
   <title>[AI Job] AB Vacancy - Container Vessel at GMA MARITIME SERVICE</title>
-  <dc:date>2026-10-06 16:46:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231127/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple Able Seaman (AB) positions are available on a Hongkong-based Bulk Carrier (&lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; 30000). The contract is 2/4 with a salary of 700 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per post. No fees are required for application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231127/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231127/</link>
-  <title>[AI Job] AB Job on Bulk Carrier (Hongkong based) at GMA MARITIME SERVICE</title>
-  <dc:date>2026-10-06 16:46:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231126/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Japan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Container vessel requires a D/C for service in Japan. Embarkation is scheduled for the second week of January. Further details on salary and contract duration will be provided upon application. Experienced individuals are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231126/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231126/</link>
-  <title>[AI Job] D/C Vacancy on Container Vessel at Global Max Asia Maritime</title>
   <dc:date>2026-10-06 16:46:29</dc:date>
  </item>
 </rdf:RDF>

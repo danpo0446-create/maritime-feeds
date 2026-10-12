@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-10-2026</dc:date>
+  <dc:date>12-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231238/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231227/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231222/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231219/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231189/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231187/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231186/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231185/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231238/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231238/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231238/</link>
+  <title>[Gold Job] Offshore Job Application at </title>
+  <dc:date>2026-10-11 16:20:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231227/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; KSA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Offshore vacancies are available for Master, Chief Officer, Chief Engineer, and Second Engineer positions on &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt; (Anchor Handling Tug Supply) vessels operating in &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt;. The contract duration is 90 days on/off (unpaid). A minimum of 2 years of relevant experience on &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt; or similar offshore vessels is required, along with relevant &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Code certifications. Salary is negotiable. Joining is as soon as possible.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231227/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231227/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Guyana, Angola, Nigeria&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking Chief Engineers with DP Maintenance certification and 2 years of experience on &lt;span class=&quot;caps&quot;&gt;FSV&lt;/span&gt; vessels, specifically with &lt;span class=&quot;caps&quot;&gt;MTU&lt;/span&gt; engines. Positions are available in Guyana, Angola, and Nigeria, with a 2 months on / 2 months off contract rotation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231186/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231186/</link>
   <title>[AI Job] Chief Engineer Job - FSV (Guyana, Angola, Nigeria) at Deepwater Group S. de R.L.</title>
-  <dc:date>2026-10-06 16:46:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231185/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Guyana, Angola, Nigeria&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Captains with DP Full certification and at least 2 years of experience on &lt;span class=&quot;caps&quot;&gt;FSV&lt;/span&gt; vessels are sought for operations in Guyana, Angola, and Nigeria. The contract rotation is 2 months on and 2 months off.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231185/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231185/</link>
-  <title>[AI Job] Captain Vacancy - FSV (Guyana, Angola, Nigeria) at Deepwater Group S. de R.L.</title>
   <dc:date>2026-10-06 16:46:37</dc:date>
  </item>
 </rdf:RDF>
