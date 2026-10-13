@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-10-2026</dc:date>
+  <dc:date>13-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231246/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231245/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231242/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231240/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231239/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231233/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231231/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231225/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231212/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231211/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231246/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231246/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231246/</link>
+  <title>[Gold Job] Master for Crew Boat – NON DP at </title>
+  <dc:date>2026-10-13 10:56:46</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231245/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231245/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231245/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-10-13 10:55:38</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231242/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231242/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231242/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231225/</link>
   <title>[AI Job] 3rd Officer Job on General Cargo Vessel at CSM Manning Agency</title>
   <dc:date>2026-10-07 09:46:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231212/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a Bunkering Tanker with &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; 3,500, built in 2004. Joining is expected at the end of October for a contract duration of 2 months on/2 months off. The offered salary is 7,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Key requirements include experience relevant to the vessel type and rank.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231212/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231212/</link>
-  <title>[AI Job] Chief Officer Job on Bunkering Tanker at TBC Shipmanagement (The Best Crew LTD)</title>
-  <dc:date>2026-10-07 09:46:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231211/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Балтийское море (Санкт-Петербург - Калининград)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is open for vessels operating in the Baltic Sea, including &lt;span class=&quot;caps&quot;&gt;STK&lt;/span&gt;-1020, &lt;span class=&quot;caps&quot;&gt;STK&lt;/span&gt;-1005, Sormovskiy-3063, and Sormovskiy-3068. The salary starts from 210,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This senior deck officer role is crucial for safe navigation and vessel operations. Contact details are provided for interested candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231211/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231211/</link>
-  <title>[AI Job] Chief Officer Job - Baltic Sea Fleet at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:40</dc:date>
  </item>
 </rdf:RDF>

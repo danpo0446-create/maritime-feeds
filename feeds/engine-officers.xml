@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-10-2026</dc:date>
+  <dc:date>13-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231244/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230843/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231241/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231235/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231234/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231229/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231224/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231214/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231209/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231208/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231244/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231244/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231244/</link>
+  <title>[Gold Job] Need 2nd Engineer for AHTS DP2  Vessel  at </title>
+  <dc:date>2026-10-13 09:39:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230843/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230843/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230843/</link>
+  <title>[Gold Job] 2nd Engineer with MTU ME experience at </title>
+  <dc:date>2026-10-13 03:55:51</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231241/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231241/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231241/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231214/</link>
   <title>[AI Job] 3rd Engineer Job on Bunkering Tanker at OJ Crew</title>
   <dc:date>2026-10-07 09:46:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231209/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Балтийское море (Санкт-Петербург - Калининград)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer position is open for vessels operating in the Baltic Sea, including &lt;span class=&quot;caps&quot;&gt;STK&lt;/span&gt;-1020, &lt;span class=&quot;caps&quot;&gt;STK&lt;/span&gt;-1005, Sormovskiy-3063, and Sormovskiy-3068. The salary is 230,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This senior engine department role is critical for vessel performance and safety. Contact details are provided for interested candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231209/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231209/</link>
-  <title>[AI Job] Chief Engineer Job - Baltic Sea Vessels at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:40</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231208/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Балтийское море (Санкт-Петербург - Калининград)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Second Engineer position is available on vessels sailing the Baltic Sea route (St. Petersburg to Kaliningrad). The salary offered is 195,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This key engine department role requires experience in maintaining ship machinery. Please use the provided contact information for application inquiries.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231208/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231208/</link>
-  <title>[AI Job] 2nd Engineer Vacancy - Baltic Sea Fleet at АО Северное речное пароходство</title>
-  <dc:date>2026-10-06 16:46:40</dc:date>
  </item>
 </rdf:RDF>

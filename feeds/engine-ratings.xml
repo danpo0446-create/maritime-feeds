@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-10-2026</dc:date>
+  <dc:date>13-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231243/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231221/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231132/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231125/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231041/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231042/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230962/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230939/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231243/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231243/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231243/</link>
+  <title>[Gold Job] Need oiler with PSV DP Expeirence with valid Schengen Visa. at </title>
+  <dc:date>2026-10-13 09:23:58</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231221/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available on a container vessel (19-25K &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt;). The role offers a salary of $1,499 per month with a contract duration of 9 +/- 2 months. Joining is scheduled for October 18, 2026, in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. Candidates must have a minimum of 18 months of valid documents, speak English well, and possess at least 18 months of experience as an Oiler on container or similar vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231221/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231221/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/230962/</link>
   <title>[AI Job] Motorman Vacancy on Survey Vessel at Ogenus Offshore</title>
   <dc:date>2026-10-05 17:00:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230939/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler is needed for a bunkering tanker. The monthly salary offered is 2,680 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; for a 4-month contract. Sign-on is scheduled in 2 weeks.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230939/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230939/</link>
-  <title>[AI Job] Oiler Vacancy on Bunkering Tanker at Performar Ltd</title>
-  <dc:date>2026-10-05 17:00:24</dc:date>
  </item>
 </rdf:RDF>
