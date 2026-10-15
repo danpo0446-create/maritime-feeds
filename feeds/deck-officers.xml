@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-10-2026</dc:date>
+  <dc:date>15-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231248/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231246/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231245/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231242/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231236/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231233/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231231/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231225/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231248/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231248/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231248/</link>
+  <title>[Gold Job] Chief Officer for Crew Boat – NON DP at </title>
+  <dc:date>2026-10-14 10:50:45</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231246/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231246/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231246/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231231/</link>
   <title>[Gold Job] Second Engineer for DP2 AHTS vessel at </title>
   <dc:date>2026-10-07 13:06:58</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231225/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer position is available on a General Cargo Vessel. The joining date is mid-November for a contract duration of 4 months, with a negotiable salary. Candidates require good English, at least 4 months of relevant experience in rank, a strong safety culture, and experience in a multinational working environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231225/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231225/</link>
-  <title>[AI Job] 3rd Officer Job on General Cargo Vessel at CSM Manning Agency</title>
-  <dc:date>2026-10-07 09:46:38</dc:date>
  </item>
 </rdf:RDF>

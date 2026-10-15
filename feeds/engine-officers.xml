@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-10-2026</dc:date>
+  <dc:date>15-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231251/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231250/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231249/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231244/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230843/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231241/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231234/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231232/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231230/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231229/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231224/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231214/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231251/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231251/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231251/</link>
+  <title>[Gold Job] Need ETO For LPG Tanker experince  at </title>
+  <dc:date>2026-10-14 15:56:41</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231250/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231250/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231250/</link>
+  <title>[Gold Job] ETO for DP2 AHTS / PSV vessel at </title>
+  <dc:date>2026-10-14 10:55:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231249/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231249/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231249/</link>
+  <title>[Gold Job] Chief Engineer for Crew Boat – NON DP at </title>
+  <dc:date>2026-10-14 10:52:36</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231244/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231244/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231244/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231230/</link>
   <title>[Gold Job] Second Engineer for NON DP AHTS vessel at </title>
   <dc:date>2026-10-07 13:05:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231229/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231229/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231229/</link>
-  <title>[Gold Job] Need  Experience as an ETO on Tanker / Bunker Barge at </title>
-  <dc:date>2026-10-07 10:28:15</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231224/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 4th Engineer is sought for a Chemical/Oil Products Tanker built in 2010. The position requires a minimum of 4 months contract duration, with joining expected in mid-November. Candidates must possess good English, relevant experience in rank, and specific knowledge of &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W 2-stroke engines and advanced Oil/Chem Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;. Salary is negotiable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231224/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231224/</link>
-  <title>[AI Job] 4th Engineer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
-  <dc:date>2026-10-07 09:46:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231214/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Engineer with &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/1 and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates is needed for a bunkering tanker operating in the Mediterranean Sea. The position offers a net salary of 5500 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; per month on a contract duration of 3 months +/-1, with joining expected in mid-October. Experience on &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessels is considered a significant advantage. Applicants must hold an EU passport and a valid medical certificate. Good English proficiency is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231214/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231214/</link>
-  <title>[AI Job] 3rd Engineer Job on Bunkering Tanker at OJ Crew</title>
-  <dc:date>2026-10-07 09:46:36</dc:date>
  </item>
 </rdf:RDF>
