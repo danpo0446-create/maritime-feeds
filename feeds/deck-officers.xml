@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-10-2026</dc:date>
+  <dc:date>18-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231262/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231261/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231258/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231257/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231256/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231253/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231248/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231246/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231245/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231242/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231262/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231262/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231262/</link>
+  <title>[Gold Job] Master for NON DP AHTS vessel at </title>
+  <dc:date>2026-10-17 10:55:23</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231261/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231261/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231261/</link>
+  <title>[Gold Job] Chief Officer DPO for DP2 DSV vessel at </title>
+  <dc:date>2026-10-17 10:54:15</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231258/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231258/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231258/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231246/</link>
   <title>[Gold Job] Master for Crew Boat – NON DP at </title>
   <dc:date>2026-10-13 10:56:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231245/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231245/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231245/</link>
-  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
-  <dc:date>2026-10-13 10:55:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231242/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231242/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231242/</link>
-  <title>[Gold Job] Chief Officer for Self-Propelled Jack-Up Barge (NON-DP) at </title>
-  <dc:date>2026-10-12 11:32:10</dc:date>
  </item>
 </rdf:RDF>
