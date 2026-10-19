@@ -4,7 +4,7 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-10-2026</dc:date>
+  <dc:date>19-10-2026</dc:date>
   <items>
    <rdf:Seq>
     <rdf:li rdf:resource="https://maritime-union.com/job/231226/"/>
@@ -14,8 +14,8 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231035/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231029/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230988/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230984/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230986/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/230984/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230969/"/>
    </rdf:Seq>
   </items>
@@ -62,16 +62,16 @@
   <title>[AI Job] Electrician Job on Oil Tanker at IQrew management</title>
   <dc:date>2026-10-05 17:00:32</dc:date>
  </item>
- <item rdf:about="https://maritime-union.com/job/230984/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electromechanical Engineer is required for vessel operations. This position focuses on maintaining and repairing electrical and mechanical systems. Interested candidates should apply for further details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230984/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230984/</link>
-  <title>[AI Job] Electromechanical Engineer Job at ООО КПКФ Камлайн</title>
-  <dc:date>2026-10-05 17:00:31</dc:date>
- </item>
  <item rdf:about="https://maritime-union.com/job/230986/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician is needed for an Oil/Chemical tanker. The position requires joining on October 1, 2026, for a 4-month contract.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230986/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/230986/</link>
   <title>[AI Job] Electrician Job on Oil/Chemical Tanker at IQrew management</title>
+  <dc:date>2026-10-05 17:00:31</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/230984/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electromechanical Engineer is required for vessel operations. This position focuses on maintaining and repairing electrical and mechanical systems. Interested candidates should apply for further details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230984/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/230984/</link>
+  <title>[AI Job] Electromechanical Engineer Job at ООО КПКФ Камлайн</title>
   <dc:date>2026-10-05 17:00:31</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/230969/">
