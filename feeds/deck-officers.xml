@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>20-10-2026</dc:date>
+  <dc:date>21-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231267/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231264/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231262/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231261/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231255/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231254/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231253/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231248/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231267/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231267/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231267/</link>
+  <title>[Gold Job] 2O JDPO for OSV vessel / ONE-TIME contract / Joining November 24 at </title>
+  <dc:date>2026-10-20 12:38:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231264/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231264/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231264/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231253/</link>
   <title>[Gold Job] Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
   <dc:date>2026-10-15 11:06:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231248/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231248/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231248/</link>
-  <title>[Gold Job] Chief Officer for Crew Boat – NON DP at </title>
-  <dc:date>2026-10-14 10:50:45</dc:date>
  </item>
 </rdf:RDF>
