@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-10-2026</dc:date>
+  <dc:date>22-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231270/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231268/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231266/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231265/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231263/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231251/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231250/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231249/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231244/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230843/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231270/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231270/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231270/</link>
+  <title>[Gold Job] Second Engineer for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-10-22 10:30:05</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231268/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231268/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231268/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-10-21 10:44:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231266/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231266/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231266/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231249/</link>
   <title>[Gold Job] Chief Engineer for Crew Boat – NON DP at </title>
   <dc:date>2026-10-14 10:52:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231244/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231244/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231244/</link>
-  <title>[Gold Job] Need 2nd Engineer for AHTS DP2  Vessel  at </title>
-  <dc:date>2026-10-13 09:39:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230843/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230843/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230843/</link>
-  <title>[Gold Job] 2nd Engineer with MTU ME experience at </title>
-  <dc:date>2026-10-13 03:55:51</dc:date>
  </item>
 </rdf:RDF>
