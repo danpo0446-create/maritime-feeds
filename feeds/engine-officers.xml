@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-10-2026</dc:date>
+  <dc:date>23-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231270/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231268/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231266/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231252/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231251/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231250/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231249/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231272/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231272/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231272/</link>
+  <title>[Gold Job] Need engine side Seafarers for the following positions on LPG / VLGC Tankers. at </title>
+  <dc:date>2026-10-22 13:49:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231270/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231270/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231270/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231250/</link>
   <title>[Gold Job] ETO for DP2 AHTS / PSV vessel at </title>
   <dc:date>2026-10-14 10:55:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231249/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231249/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231249/</link>
-  <title>[Gold Job] Chief Engineer for Crew Boat – NON DP at </title>
-  <dc:date>2026-10-14 10:52:36</dc:date>
  </item>
 </rdf:RDF>
