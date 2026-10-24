@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-10-2026</dc:date>
+  <dc:date>24-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231270/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231268/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231259/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231252/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231251/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231250/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231274/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231274/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231274/</link>
+  <title>[Gold Job] ETO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-10-23 10:42:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231272/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231272/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231272/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231251/</link>
   <title>[Gold Job] Need ETO For LPG Tanker experince  at </title>
   <dc:date>2026-10-14 15:56:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231250/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231250/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231250/</link>
-  <title>[Gold Job] ETO for DP2 AHTS / PSV vessel at </title>
-  <dc:date>2026-10-14 10:55:43</dc:date>
  </item>
 </rdf:RDF>
