@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>26-10-2026</dc:date>
+  <dc:date>27-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231279/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231276/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231272/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231265/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231263/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231259/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231252/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231279/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231279/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231279/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
+  <dc:date>2026-10-27 10:12:00</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231276/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231276/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231276/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231259/</link>
   <title>[Gold Job] ETO for DP2 AHTS vessel at </title>
   <dc:date>2026-10-16 11:03:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231252/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231252/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231252/</link>
-  <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
-  <dc:date>2026-10-15 11:04:53</dc:date>
  </item>
 </rdf:RDF>
