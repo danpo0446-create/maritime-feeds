@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>28-10-2026</dc:date>
+  <dc:date>29-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231286/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231285/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231243/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231221/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231132/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231039/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231040/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231041/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231042/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230962/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231286/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231286/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231286/</link>
+  <title>[Gold Job] Need Oiler &amp;amp; Cook For AHTS DP2 at </title>
+  <dc:date>2026-10-28 13:31:29</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231285/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231285/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231285/</link>
+  <title>[Gold Job] Need Cook &amp;amp; Oiler for AHTS DP2 at </title>
+  <dc:date>2026-10-28 13:15:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231243/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231243/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231243/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231041/</link>
   <title>[AI Job] Motorman Vacancy at IQrew management</title>
   <dc:date>2026-10-05 17:00:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231042/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Wiper position is available in the engine department. This entry-level role supports the engine crew with cleaning, maintaining, and assisting in the upkeep of machinery and the engine room. It provides a foundation for a career in marine engineering. Vessel and contract details will be provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231042/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231042/</link>
-  <title>[AI Job] Wiper Vacancy at IQrew management</title>
-  <dc:date>2026-10-05 17:00:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230962/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A survey vessel operating in the Mediterranean requires Motormen. This role is part of a full marine crew supplied and managed under tight mobilization timelines. Key qualifications include verified &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, offshore survival, and vessel-specific certifications.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230962/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230962/</link>
-  <title>[AI Job] Motorman Vacancy on Survey Vessel at Ogenus Offshore</title>
-  <dc:date>2026-10-05 17:00:28</dc:date>
  </item>
 </rdf:RDF>
