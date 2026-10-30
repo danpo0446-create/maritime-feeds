@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>29-10-2026</dc:date>
+  <dc:date>30-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231292/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231289/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231288/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231282/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231270/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231268/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231266/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231292/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231292/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231292/</link>
+  <title>[Gold Job] ETO for DP2 AHTS vessel at </title>
+  <dc:date>2026-10-30 10:22:40</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231289/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231289/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231289/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231268/</link>
   <title>[Gold Job] Chief Engineer for NON DP AHTS vessel at </title>
   <dc:date>2026-10-21 10:44:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231266/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231266/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231266/</link>
-  <title>[Gold Job] Open vacancy for Ch. Engineer on Gen. cargo at </title>
-  <dc:date>2026-10-19 11:59:21</dc:date>
  </item>
 </rdf:RDF>
