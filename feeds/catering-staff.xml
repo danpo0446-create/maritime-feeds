@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-10-2026</dc:date>
+  <dc:date>31-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231385/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231387/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231299/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231199/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231204/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231102/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231100/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231101/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231071/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231072/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231073/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231074/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231385/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Recruitment interviews are being held in Mumbai for culinary and galley positions on international cruise ships. Openings include Sous Chef, Chef de Partie, Commis I, and Commis II in various restaurant and galley specialities, including fine dining, hot pot, steak house, baking, butchery, and pastry. Candidates with hotel management, food production, or &lt;span class=&quot;caps&quot;&gt;ITI&lt;/span&gt; training, or relevant experience are encouraged to apply. Freshers with good English communication skills may be considered for Commis roles. Applicants must be at least 18 years old and possess a valid Indian passport.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231385/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231385/</link>
+  <title>[AI Job] Culinary and Galley Team Recruitment - Cruise Ships at MSC Cruises</title>
+  <dc:date>2026-10-31 08:20:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231387/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cabin Stewardess is sought for European river cruise ships. The role involves cleaning passenger cabins to high standards, maintaining pantries, and adhering to strict hygiene rules. Applicants require hotel business training, good English, and a professional demeanor. The position offers paid travel, onboard accommodation and catering, and career advancement opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231387/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231387/</link>
+  <title>[AI Job] Cabin Stewardess Job on European River Cruise Ships at sea chefs</title>
+  <dc:date>2026-10-31 08:20:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231299/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Housekeeping Attendant is sought for a position aboard an international cruise ship. The role involves maintaining the cleanliness and safety of guest and crew areas, including cabins and public spaces, to high hospitality standards. Candidates require a minimum of one year of hotel housekeeping experience, conversational English, and the physical ability to perform demanding tasks. The position is open for application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231299/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231299/</link>
+  <title>[AI Job] Housekeeping Attendant Job on Cruise Ship at Job Selection</title>
+  <dc:date>2026-10-30 21:18:05</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231199/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Обь-Иртышский бассейн&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Ship Cook (Sudovoy Povár) position is available in the Ob-Irtysh basin, with a salary starting from 72,000 &lt;span class=&quot;caps&quot;&gt;RUB&lt;/span&gt;. This catering role is essential for crew welfare. For application details, please use the provided contact number.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231199/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231199/</link>
@@ -60,24 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise line is hiring a Sommelier. This is a remote, worldwide full-time position. The role requires expertise in wine service and guest recommendations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231071/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231071/</link>
   <title>[AI Job] Sommelier Job - Cruise Ship at UAB ISMIRA</title>
-  <dc:date>2026-10-05 17:00:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231072/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise line is seeking Bar Waiters/Waitresses. This is a remote, worldwide full-time position. The role involves serving beverages and attending to guest requests.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231072/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231072/</link>
-  <title>[AI Job] Bar Waiter/ess Job - Cruise Ship at UAB ISMIRA</title>
-  <dc:date>2026-10-05 17:00:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231073/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is hiring a Bar Manager. This is a remote, worldwide contract position. The role involves overseeing all aspects of bar operations and staff management.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231073/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231073/</link>
-  <title>[AI Job] Bar Manager Job - Cruise Ship at UAB ISMIRA</title>
-  <dc:date>2026-10-05 17:00:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231074/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship requires Bar Waiters/Waitresses. This is a remote, worldwide contract position. The role involves serving beverages and attending to guest needs.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231074/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231074/</link>
-  <title>[AI Job] Bar Waiter/Waitress Job - Cruise Ship at UAB ISMIRA</title>
   <dc:date>2026-10-05 17:00:46</dc:date>
  </item>
 </rdf:RDF>

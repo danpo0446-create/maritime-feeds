@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Companies Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-10-2026</dc:date>
+  <dc:date>31-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/197132/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/136849/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/125241/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/121177/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/108698/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/107515/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/103191/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/101996/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/197132/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/197132/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/197132/</link>
+  <title>[Gold Job] Chief Officer for general cargo at </title>
+  <dc:date>2026-10-30 12:54:24</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/136849/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/136849/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/136849/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/103191/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/103191/</link>
   <title>[Gold Job] AB/EXCAVATOR  DRIVER at </title>
-  <dc:date>2026-02-04 19:18:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/101996/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/101996/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/101996/</link>
-  <title>[Gold Job] CHEMICAL TANKER at </title>
   <dc:date>2026-02-04 19:18:08</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-10-2026</dc:date>
+  <dc:date>31-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231350/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231290/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231286/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231285/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231125/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231128/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231039/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231040/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231350/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Room Rating (Motorman) and an Engine Room Operator (4th Class Engineer) are being sought for a maritime role. Key responsibilities include general engine room duties and operational tasks. This position requires relevant certifications and experience in marine engineering.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231350/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231350/</link>
+  <title>[AI Job] Motorman &amp;amp; Engine Room Operator Job Vacancy at Puglisevich</title>
+  <dc:date>2026-10-30 21:18:12</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231290/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231290/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231290/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman is required for a maritime vessel. This role involves the operation and maintenance of the vessel&amp;#8217;s pumping systems, particularly for cargo handling. Experience with various types of pumps and safety procedures is essential. Further information regarding the vessel and contract will be shared.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231039/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231039/</link>
   <title>[AI Job] Pumpman Vacancy at IQrew management</title>
-  <dc:date>2026-10-05 17:00:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231040/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available within the engine department. This role requires skilled individuals to perform maintenance, repair, and fabrication tasks on various machinery and equipment onboard. Proficiency in metalworking and understanding of mechanical systems are necessary. Vessel and contract details will be provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231040/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231040/</link>
-  <title>[AI Job] Fitter Vacancy at IQrew management</title>
   <dc:date>2026-10-05 17:00:41</dc:date>
  </item>
 </rdf:RDF>

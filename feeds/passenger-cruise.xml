@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>30-10-2026</dc:date>
+  <dc:date>31-10-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231386/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231300/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231191/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231105/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231057/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/230917/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230899/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/230837/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230317/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230283/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231386/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK &amp; International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple roles are available for work on cruise ships. Salaries range from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 2,000 to 8,000, with opportunities for both freshers and experienced candidates. Positions are located in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, UK, and internationally. This is an opportunity to join the maritime industry in the passenger and cruise sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231386/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231386/</link>
+  <title>[AI Job] Cruise Ship Jobs - Multiple Roles Available at Cruise Line Recruitment</title>
+  <dc:date>2026-10-31 08:20:33</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231300/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Housekeeping Attendant is sought to maintain clean and welcoming guest and crew areas aboard an international cruise ship. Responsibilities include cleaning public areas, cabins, and corridors to high hospitality standards, reporting maintenance needs, and adhering to safety procedures. Candidates require at least one year of hotel-housekeeping experience, conversational English, and the ability to perform physically demanding tasks. Minimum age is 21.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231300/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231300/</link>
+  <title>[AI Job] Housekeeping Attendant Job on Cruise Ship at Job Selection</title>
+  <dc:date>2026-10-30 21:18:05</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231191/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Individuals are sought to join the cruise line industry. This is an opportunity to take career steps within the cruise and travel sector. The role involves working on modern cruise vessels within a growing fleet.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231191/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231191/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/230837/</link>
   <title>[AI Job] Cruise Ship Jobs: Deck, Engine &amp;amp; Hotel Operations at MSC Cruises</title>
   <dc:date>2026-10-02 22:16:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230317/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified maritime engineers and electricians are sought for a fleet of cruise vessels. Positions include Chief Engineer, 1st Engineer, Hotel Engineer, 2nd Engineer, and 2nd Electrician. Candidates with relevant expertise and a passion for the maritime industry are encouraged to apply for these onboard roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230317/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230317/</link>
-  <title>[AI Job] Engineers and Electrician Jobs on Cruise Ships at BSM Cruise Services</title>
-  <dc:date>2026-10-01 14:21:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230283/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on cruise ships for individuals with EU citizenship and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documentation. Successful candidates will have relevant experience, qualifications, and a good command of English. This role offers the chance to travel the world and gain valuable experience in an international environment. Contracts are for 3 months, with a potential variation of +/- 1 month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230283/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230283/</link>
-  <title>[AI Job] Cruise Ship Jobs: Multiple Positions Available at Anglo-Eastern Latvia</title>
-  <dc:date>2026-09-30 20:21:52</dc:date>
  </item>
 </rdf:RDF>
