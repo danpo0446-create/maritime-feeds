@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-10-2026</dc:date>
+  <dc:date>01-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231411/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231383/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231382/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231378/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231333/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231310/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231307/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231302/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231411/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bahrain&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced 2nd Engineers are sought for an Aframax oil tanker joining &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; in Bahrain. Standard wages apply. Previous oil tanker experience is mandatory. This role requires a valid Certificate of Proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231411/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231411/</link>
+  <title>[AI Job] 2nd Engineer Job on Aframax Oil Tanker at SEAGER MARITIME PRIVATE LIMITED</title>
+  <dc:date>2026-10-31 23:33:46</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231383/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Gas Engineer is sought for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; Tanker position. The contract duration is 4 months, with joining scheduled for November 24, 2026. The monthly salary offered is $14980. This role requires a skilled engineer with experience in gas systems on tankers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231383/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231383/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231307/</link>
   <title>[AI Job] 4th Engineer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
   <dc:date>2026-10-30 21:18:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231302/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A vacancy exists for a Second Engineer on a Bulk Carrier vessel. Interested candidates are invited to apply. Key requirements and joining details will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231302/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231302/</link>
-  <title>[AI Job] Second Engineer Job - Bulk Carrier at NorMonte</title>
-  <dc:date>2026-10-30 21:18:05</dc:date>
  </item>
 </rdf:RDF>

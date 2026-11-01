@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>31-10-2026</dc:date>
+  <dc:date>01-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231422/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231420/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231400/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231399/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231368/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231325/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231312/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231311/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231296/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231293/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231422/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate (&lt;span class=&quot;caps&quot;&gt;ANT&lt;/span&gt; II) with at least 1 year of experience on utility vessels is needed for an operation with Saudi Aramco. The contract duration is 3+1 or 4+1 months, with a daily salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 220. Six individuals are required to join soon.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231422/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231422/</link>
+  <title>[AI Job] Chief Mate (ANT II) Job on Utility Vessel at PISTON ALANG MERIDIAN</title>
+  <dc:date>2026-11-01 08:19:42</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231420/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 1st Officer Navigation is sought to serve as a watchkeeping officer, responsible for the safety of navigation on passenger vessels. Duties include conducting bridge watches, following emergency procedures, maintaining navigational records, and performing stability calculations. Applicants require appropriate deck officer qualifications, licenses, and ideally, experience on passenger ships. This role involves command on behalf of the Master during watch.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231420/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231420/</link>
+  <title>[AI Job] 1st Officer Navigation Job on Passenger Vessel at Norwegian Cruise Line Holdings</title>
+  <dc:date>2026-11-01 08:19:42</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231400/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231400/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231400/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231311/</link>
   <title>[AI Job] Senior Marine Surveyor Job - Remote AI Project at micro1</title>
   <dc:date>2026-10-30 21:18:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231296/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231296/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231296/</link>
-  <title>[Gold Job] Master with good English and Schengen visa. at </title>
-  <dc:date>2026-10-30 17:22:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231293/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231293/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231293/</link>
-  <title>[Gold Job] Chief Officer for Panamax Bulk Carrier Vessel at </title>
-  <dc:date>2026-10-30 10:23:42</dc:date>
  </item>
 </rdf:RDF>
