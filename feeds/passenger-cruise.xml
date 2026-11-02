@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-11-2026</dc:date>
+  <dc:date>02-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231477/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231456/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231426/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231427/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231405/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231300/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231191/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231105/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231057/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230948/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231477/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Photographer position is available onboard a cruise ship, focusing on capturing guest photos during voyages and at port destinations. This role requires strong photography skills and the ability to engage positively with guests in a cruise environment. The contract is fixed-term.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231477/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231477/</link>
+  <title>[AI Job] Photographer Job on Cruise Ship at Holland America Line</title>
+  <dc:date>2026-11-02 08:19:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231456/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Resort World Cruises is offering new career opportunities on cruise ships. Interested candidates can apply via the provided link. Further details regarding specific roles, joining dates, and contract durations are available through the application process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231456/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231456/</link>
+  <title>[AI Job] Cruise Ship Jobs - Resort World Cruises at All Cruise Jobs – Worldwide Ship Careers</title>
+  <dc:date>2026-11-02 01:36:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231426/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK &amp; International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Various positions are available on cruise ships with Mystic Cruises. Opportunities are open for international applicants in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, UK, and other global locations. Benefits such as visa, airfare, and accommodation may be provided. Interested candidates can apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231426/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231426/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231105/</link>
   <title>[AI Job] Head of Operations Job - Passenger Vessels at Jobs In Maritime</title>
   <dc:date>2026-10-05 20:20:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231057/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;This announcement concerns a job vacancy on a Cruise Ship. Details regarding the specific role, embarkation date, contract duration, salary, and location are not provided. Interested individuals should contact the agency for further information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231057/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231057/</link>
-  <title>[AI Job] Cruise Ship Vacancy at 3 Seas Shipping</title>
-  <dc:date>2026-10-05 17:00:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230948/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities exist for qualified seafarers of all ranks on Cruise Vessels, covering both Marine and Hotel crew. Interested candidates are encouraged to provide their full contact information for consideration of current vacancies.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230948/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230948/</link>
-  <title>[AI Job] Seafarer Vacancy on Cruise Vessel at Bernhard Schulte Shipmanagement (BSM) Indonesia</title>
-  <dc:date>2026-10-05 17:00:25</dc:date>
  </item>
 </rdf:RDF>

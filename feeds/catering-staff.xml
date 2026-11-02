@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-11-2026</dc:date>
+  <dc:date>02-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231478/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231385/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231387/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231299/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231098/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231100/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231101/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231071/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231478/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Baker and Chief Baker are sought to join the galley department aboard a cruise fleet. Responsibilities include preparing and baking fresh bakery goods, designing special creations, managing raw material orders, and overseeing bakery team operations. The role is offered on an initial 4-month contract with potential for extension.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231478/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231478/</link>
+  <title>[AI Job] Baker / Chief Baker Job on Cruise Ship Fleet at sea chefs</title>
+  <dc:date>2026-11-02 08:19:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231385/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Recruitment interviews are being held in Mumbai for culinary and galley positions on international cruise ships. Openings include Sous Chef, Chef de Partie, Commis I, and Commis II in various restaurant and galley specialities, including fine dining, hot pot, steak house, baking, butchery, and pastry. Candidates with hotel management, food production, or &lt;span class=&quot;caps&quot;&gt;ITI&lt;/span&gt; training, or relevant experience are encouraged to apply. Freshers with good English communication skills may be considered for Commis roles. Applicants must be at least 18 years old and possess a valid Indian passport.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231385/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231385/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231101/</link>
   <title>[AI Job] Assistant Server Job on Cruise Ships at Job Selection</title>
   <dc:date>2026-10-05 20:20:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231071/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise line is hiring a Sommelier. This is a remote, worldwide full-time position. The role requires expertise in wine service and guest recommendations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231071/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231071/</link>
-  <title>[AI Job] Sommelier Job - Cruise Ship at UAB ISMIRA</title>
-  <dc:date>2026-10-05 17:00:46</dc:date>
  </item>
 </rdf:RDF>

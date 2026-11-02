@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-11-2026</dc:date>
+  <dc:date>02-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231443/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231442/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231441/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231410/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231376/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231370/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231308/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231223/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231220/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231215/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231213/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231168/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231443/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Ras Laffan, Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Marine Specialist is sought for a role focusing on &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;/oil tanker operations, marine assurance, and terminal operations. The position is based in Ras Laffan, Qatar. Candidates should possess a strong background in these specific maritime areas.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231443/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231443/</link>
+  <title>[AI Job] Marine Specialist Job - LNG/Oil Tanker Operations at QatarEnergy LNG</title>
+  <dc:date>2026-11-02 01:36:06</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231442/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Master with 12 months of experience is sought for a Bitumen Tanker. This role requires a strong background in tanker operations and a proven track record. The position is urgent and requires immediate attention. Further details regarding joining date and contract duration will be provided upon successful application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231442/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231442/</link>
+  <title>[AI Job] Master Vacancy on Bitumen Tanker at NAUTICAL MARINE MANAGEMENT</title>
+  <dc:date>2026-11-02 01:36:06</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231441/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified seafarers are sought for immediate joining on an Aframax Tanker. Positions include Master, Chief Engineer, Officers, Ratings, and Catering staff. Applicants must possess experience in the same rank and vessel type, with valid documents and certificates for over 18 months. Fluent English is required. Free of charge.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231441/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231441/</link>
+  <title>[AI Job] Aframax Tanker Crew Vacancies - All Ranks at PT. ALIYAH EST INDONESIA</title>
+  <dc:date>2026-11-02 01:36:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231410/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Indonesia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chemical/Oil Products Tanker is seeking experienced Masters, Chief Engineers, Chief Officers, 2nd Engineers, 2nd Officers, and 3rd Officers. Candidates with Indian or White &lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; are encouraged to apply. Salary will be based on last drawn wages. Joining is expected from Indonesia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231410/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231410/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231220/</link>
   <title>[AI Job] 3rd Officer Job on Chemical/Oil Tanker at CSM Manning Agency</title>
   <dc:date>2026-10-07 09:46:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231215/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore → Korea → Panama → Venezuela → Trinidad&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for Master, Chief Officer, and Chief Engineer positions on a 115m Bunker Tanker. The vessel will be trading from Singapore to Korea, Panama, Venezuela, and Trinidad. Joining is required &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; or within 3 days. Relevant oil-handling experience and certificates are mandatory for all applicants.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231215/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231215/</link>
-  <title>[AI Job] Master, Chief Officer, Chief Engineer - Bunker Tanker at tospeople.com</title>
-  <dc:date>2026-10-07 09:46:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231213/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a bunkering tanker built in 2004 with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 3,500. The joining date is scheduled for the end of October. This role offers a salary of 7,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; with a contract duration of 2 months on and 2 months off. Key requirements include experience relevant to the rank and vessel type.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231213/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231213/</link>
-  <title>[AI Job] Chief Officer Job on Bunkering Tanker at TBC Shipmanagement (The Best Crew LTD)</title>
-  <dc:date>2026-10-07 09:46:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231168/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; United States - TX - The Woodlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Manager position in &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; and Gas Marketing is open in The Woodlands, Texas, &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;. The role is with a global energy company that operates a fleet of &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carriers and is dedicated to delivering clean energy.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231168/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231168/</link>
-  <title>[AI Job] Manager - LNG and Gas Marketing at Excelerate Energy Singapore PTE. LTD.</title>
-  <dc:date>2026-10-06 16:46:35</dc:date>
  </item>
 </rdf:RDF>

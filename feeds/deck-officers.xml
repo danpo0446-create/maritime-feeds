@@ -4,22 +4,52 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-11-2026</dc:date>
+  <dc:date>02-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231483/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231469/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231463/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231462/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231447/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231422/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231420/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231400/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231399/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231368/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231338/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231335/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231325/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231312/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231311/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231483/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231483/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231483/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-11-02 10:04:10</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231469/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancy for a 2nd Officer position on a bulk carrier. This is a critical role requiring immediate placement. Further details regarding joining date, contract duration, and specific requirements will be provided upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231469/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231469/</link>
+  <title>[AI Job] 2nd Officer Job - Bulk Carrier at sea lane crewing company</title>
+  <dc:date>2026-11-02 08:19:06</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231463/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Master with 12 months of experience is sought for a Bitumen Tanker. This role requires a strong background in tanker operations and a proven track record. The position is urgent and offers a significant opportunity for career advancement within the maritime sector. Further details regarding joining date and contract duration will be provided upon successful application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231463/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231463/</link>
+  <title>[AI Job] Master Vacancy on Bitumen Tanker at NAUTICAL MARINE MANAGEMENT</title>
+  <dc:date>2026-11-02 08:19:06</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231462/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Karachi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent (&lt;span class=&quot;caps&quot;&gt;MSI&lt;/span&gt;) position is available for overseeing the marine, nautical, safety, security, and commercial operations of assigned Container, Oil, or Gas Tanker vessels. The role requires a Bachelor&amp;#8217;s Degree in Nautical Science, Mechanical Engineering, Marine Engineering, or Naval Architecture, with a minimum of 2 years of experience as a Marine or &lt;span class=&quot;caps&quot;&gt;HSSQE&lt;/span&gt; Superintendent. Key responsibilities include ensuring compliance with international maritime regulations, conducting vessel inspections, and supporting various third-party inspections. Strong knowledge of maritime regulations, &lt;span class=&quot;caps&quot;&gt;HSSEQ&lt;/span&gt; practices, and excellent communication skills are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231462/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231462/</link>
+  <title>[AI Job] Marine Superintendent Job - Container, Oil, Gas Tanker at Esquare Global Partners</title>
+  <dc:date>2026-11-02 01:36:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231447/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancy for a 2nd Officer position on a bulk carrier vessel. This is a critical role requiring immediate attention. Further details regarding joining date, contract duration, and specific requirements will be provided upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231447/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231447/</link>
+  <title>[AI Job] 2nd Officer Job - Bulk Carrier at sea lane crewing company</title>
+  <dc:date>2026-11-02 01:36:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231422/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Aramco&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate (&lt;span class=&quot;caps&quot;&gt;ANT&lt;/span&gt; II) with at least 1 year of experience on utility vessels is needed for an operation with Saudi Aramco. The contract duration is 3+1 or 4+1 months, with a daily salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 220. Six individuals are required to join soon.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231422/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231422/</link>
@@ -49,35 +79,5 @@
   <link>https://maritime-union.com/job/231368/</link>
   <title>[AI Job] Chief Officer Job - MCV Cargo Vessel at MANNING AGENCY 1971</title>
   <dc:date>2026-10-31 08:20:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231338/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Malaysia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer experienced in Z-Peller operation is sought for an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tug Vessel operating in Malaysia. The contract duration is 4 months on and 2 months off. The monthly salary offered is &lt;span class=&quot;caps&quot;&gt;MYR&lt;/span&gt; 4,000 with an additional &lt;span class=&quot;caps&quot;&gt;MYR&lt;/span&gt; 600 for meal allowance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231338/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231338/</link>
-  <title>[AI Job] Chief Officer Job - ASD Tug Vessel at PT WAHANA RAHMAH</title>
-  <dc:date>2026-10-30 21:18:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231335/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kitimat, British Columbia, Canada&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available for a tug vessel operating in Kitimat, British Columbia, Canada. The role involves ensuring the safe and efficient operation of the vessel, crew, cargo, and environment. Requirements include Master 3000 Domestic certification (or higher) for Escort tugs, or Master 500 Domestic certification (or higher) for Harbour tugs, along with experience on &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; 60+ Ton Bollard Pull Tugs and knowledge of Canadian maritime legislation and &lt;span class=&quot;caps&quot;&gt;ISM&lt;/span&gt; Code. The position offers a full-time, permanent, on-site rotating shift with an hourly rate of $75.17 &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231335/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231335/</link>
-  <title>[AI Job] Master Job - Tug Vessel in Canada at Marine People</title>
-  <dc:date>2026-10-30 21:18:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231325/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Portland, OR&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate position, serving as a Dredging Control Officer, is available in Portland, Oregon. This role is with the U.S. Army Corps of Engineers, focusing on maritime operations. Further details on specific requirements, contract duration, and joining dates can be found through the provided application channels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231325/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231325/</link>
-  <title>[AI Job] Chief Mate Job - Dredging Vessel at U.S. Army Corps of Engineers</title>
-  <dc:date>2026-10-30 21:18:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231312/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available on an Ultra Large Container vessel built in 2023. The joining date is mid-November for a contract duration of 4 months, with a negotiable salary. Minimum one year of experience as Master on container vessels exceeding 10K &lt;span class=&quot;caps&quot;&gt;TEU&lt;/span&gt;s is required. Experience with twin island accommodation and a multinational working environment is preferred. Effective English communication and a strong safety culture are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231312/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231312/</link>
-  <title>[AI Job] Master Vacancy on Ultra Large Container Vessel at CSM Manning Agency</title>
-  <dc:date>2026-10-30 21:18:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231311/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Remote&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A remote contractor position is available for a Senior Marine Cargo &amp;amp; Draft Surveyor. This role involves assessing cargo condition imagery and documentation, analyzing vessel draft marks, and preparing survey reports. The position requires 7+ years of marine survey experience and a maritime certification. This is an opportunity to contribute to an AI project focused on maritime decision-making.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231311/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231311/</link>
-  <title>[AI Job] Senior Marine Surveyor Job - Remote AI Project at micro1</title>
-  <dc:date>2026-10-30 21:18:07</dc:date>
  </item>
 </rdf:RDF>

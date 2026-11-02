@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>01-11-2026</dc:date>
+  <dc:date>02-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231473/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231472/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231468/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231419/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231408/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231404/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231363/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231345/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231332/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231327/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231324/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231306/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231473/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai, Navi Mumbai, Punjab, Delhi NCR&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shore-based positions are available with reputable shipping companies. Opportunities include Technical and Marine roles such as Training Superintendent, Technical Superintendent, &lt;span class=&quot;caps&quot;&gt;QHSE&lt;/span&gt; Superintendent, and Marine Superintendent, requiring previous sailing experience. Shipping office roles such as Assistant Crewing Manager, HR Manager, Recruitment Officer, Purchase Officer, and Crewing Manager are also open. These positions are located in Mumbai, Navi Mumbai, Punjab, and Delhi &lt;span class=&quot;caps&quot;&gt;NCR&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231473/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231473/</link>
+  <title>[AI Job] Shore-Based Maritime &amp;amp; Shipping Office Jobs at The Shipping Tribune</title>
+  <dc:date>2026-11-02 08:19:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231472/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Karachi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent (&lt;span class=&quot;caps&quot;&gt;MSI&lt;/span&gt;) position is available for overseeing the marine, nautical, safety, security, and commercial operations of assigned vessels. The role requires a Bachelor&amp;#8217;s Degree in Nautical Science or equivalent, with a minimum of 2 years of experience as a Marine or &lt;span class=&quot;caps&quot;&gt;HSSQE&lt;/span&gt; Superintendent handling Container, Oil, or Gas Tanker vessels. Strong knowledge of maritime regulations, safety practices, and vessel management is essential. Responsibilities include ensuring compliance, conducting inspections, and providing operational guidance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231472/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231472/</link>
+  <title>[AI Job] Marine Superintendent Job - Container, Oil, Gas Tanker at Esquare Global Partners</title>
+  <dc:date>2026-11-02 08:19:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231468/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Sohar, Oman, Morocco, China – Far East&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers are sought for various positions including 2nd Officer, 3rd Engineer, Able Seaman, and Oiler across multiple vessels. Opportunities are available on bulk carriers, oil and chemical tankers, and general cargo ships. Joining dates range from early November to December, with some positions requiring immediate embarkation. Specific roles may involve navigating war zones or operating cranes. Salaries offered vary, with some positions including all-in packages.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231468/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231468/</link>
+  <title>[AI Job] Multiple Maritime Vacancies on Bulk Carriers and Tankers at PT. ASLAN MARINE PRATAMA</title>
+  <dc:date>2026-11-02 08:19:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231419/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai | Punjab | Delhi NCR&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shore-based maritime positions are available with leading companies. Roles include Training Superintendent for Chemical Tankers, Technical Superintendent for Bulk Carriers/Container Vessels and Tankers, &lt;span class=&quot;caps&quot;&gt;QHSE&lt;/span&gt; Superintendent for Tankers, and Marine Superintendent for Chemical Tankers. Previous sailing experience as Master Mariner or Chief Engineer for 1-2 years is required. Positions are located in Mumbai, Punjab, and Delhi &lt;span class=&quot;caps&quot;&gt;NCR&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231419/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231419/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231332/</link>
   <title>[AI Job] Marine Superintendent Job - Container, Oil, Gas Tanker at Esquare Global Partners</title>
   <dc:date>2026-10-30 21:18:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231327/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mozambique&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers are sought for upcoming Bulk Carrier deployments in Mozambique. Immediate requirements include Master/Chief Officer and Chief Engineer for November 2026, representing the company during vessel takeover. Subsequent deployments in late November/early December 2026 will require Deck Officers (Master, Chief Officer, Second Officer, Third Officer, Bosun, AB, OS), Engine Officers (Chief, Second, Third, Fourth Engineer), Electrician, Fitter, Oiler, Engine Trainee, and Catering Staff (Chief Cook, Messman). Candidates with relevant Bulk Carrier experience are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231327/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231327/</link>
-  <title>[AI Job] Bulk Carrier Crew Vacancies - Officers &amp;amp; Ratings at Lianson Fleet Group</title>
-  <dc:date>2026-10-30 21:18:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231324/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime job vacancies are available across various roles including Deck Ratings, Deck Officers, Engine Ratings, Catering Staff, and Crane Operators. Positions are offered on different vessel types such as &lt;span class=&quot;caps&quot;&gt;TSHD&lt;/span&gt;, Multicat, Survey, Dredger, Work Vessel, and Crane Barge, with varied contract durations and joining dates starting from late October 2026. Opportunities are located in Europe, Taiwan, West Africa, and other regions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231324/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231324/</link>
-  <title>[AI Job] Maritime Job Vacancies - Deck, Engine, Catering &amp;amp; Offshore at ORCA Crew Services</title>
-  <dc:date>2026-10-30 21:18:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231306/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime officer positions are available across various vessel types including MR Tankers, Bulk Carriers, Gen Cargo, &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;, and &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt;. Open roles include Master, Chief Officer, Chief Engineer, Second Engineer, Third Officer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;. Interested candidates are encouraged to apply via email or WhatsApp.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231306/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231306/</link>
-  <title>[AI Job] Multiple Maritime Officer Roles on Tankers, Bulk Carriers, LNG, LPG at Ocean One Ship Management</title>
-  <dc:date>2026-10-30 21:18:06</dc:date>
  </item>
 </rdf:RDF>
