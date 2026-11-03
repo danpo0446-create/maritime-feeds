@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-11-2026</dc:date>
+  <dc:date>03-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231530/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231505/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231487/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231443/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231442/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231441/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231376/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231370/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231309/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231308/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231223/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231220/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231530/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers are sought for multiple positions on a modern &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; Carrier. Roles include Master, Chief Engineer, Chief Officer, 2nd Engineer, and &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;. A 3-month contract is offered, with joining required at short notice. Essential requirements include previous &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel experience, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, and proven experience in the respective rank. Experience with WinGD X-DF engines is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231530/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231530/</link>
+  <title>[AI Job] LNG Carrier Officer &amp;amp; Engineer Jobs at LAT BGI</title>
+  <dc:date>2026-11-03 11:55:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231505/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are available for experienced officers and engineers on a Very Large Crude Carrier (&lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt;). Positions include Master, Chief Engineer, Chief Officer, Second Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Second Officer, Third Engineer, Third Officer, and Fourth Engineer. Candidates must have relevant &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; experience and be ready for immediate assignment. Ukrainian, Indonesian, and Georgian nationalities are preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231505/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231505/</link>
+  <title>[AI Job] VLCC Officer and Engineer Jobs - Immediate Hiring at One Vision Maritime (OVM)</title>
+  <dc:date>2026-11-03 00:39:45</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231487/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers are sought for various positions on Aframax tankers. Open roles include Master, Chief Engineer, Chief Officer, Second Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Second Officer, Third Engineer, Third Officer, Fourth Engineer, AB, Oiler, OS, and Chief Cook, with competitive salaries offered for each. Candidates must have the required experience and be available to join. Interested individuals should submit their updated CV and relevant documents to initiate the application process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231487/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231487/</link>
+  <title>[AI Job] Aframax Tanker Crew Hiring - Multiple Ranks at One Vision Maritime (OVM)</title>
+  <dc:date>2026-11-02 16:56:18</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231443/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Ras Laffan, Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Marine Specialist is sought for a role focusing on &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;/oil tanker operations, marine assurance, and terminal operations. The position is based in Ras Laffan, Qatar. Candidates should possess a strong background in these specific maritime areas.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231443/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231443/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231309/</link>
   <title>[AI Job] Master Vacancy on Crude Oil Tanker at CSM Manning Agency</title>
   <dc:date>2026-10-30 21:18:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231308/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Gulf and Yemen trading area, joining port Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified ratings are sought for tanker fleet positions including Bosun, Deck Fitter, Engine Fitter, and Pumpman. A minimum of two contracts in the applied rank and previous tanker experience are required, with documents valid for at least 18 months. The contract duration is 9 months, trading in the Gulf and Yemen, with joining in Oman during the second week of November. Salaries range from 1500 to 1600 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231308/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231308/</link>
-  <title>[AI Job] Ratings Job on Tanker Fleet - Bosun, Fitter, Pumpman at Navix Global Maritime Services</title>
-  <dc:date>2026-10-30 21:18:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231223/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A chemical tanker requires experienced crew for various positions including Able Seaman, Bosun, 3rd Officer, 2nd Officer, Cook, 4th Engineer, and Oiler. Candidates must possess valid documents for at least 1.5 years and be fluent in English, with prior experience on Korean vessels being advantageous. Joining is estimated for the end of October 2026.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231223/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231223/</link>
-  <title>[AI Job] Chemical Tanker Crew Vacancies - AB, 3/O, 4/E, Cook at PT KIA MARINDO JUSEMA</title>
-  <dc:date>2026-10-07 09:46:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231220/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer is sought for a Chemical/Oil Products Tanker with 46000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, built in 2016. Joining is expected at the end of October for a contract duration of 4 months, with a negotiable salary. Candidates require good English, an Advanced Oil/Chem Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;, relevant experience in rank, and a strong safety culture. Experience in a multinational working environment is also preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231220/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231220/</link>
-  <title>[AI Job] 3rd Officer Job on Chemical/Oil Tanker at CSM Manning Agency</title>
-  <dc:date>2026-10-07 09:46:37</dc:date>
  </item>
 </rdf:RDF>

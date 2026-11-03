@@ -4,11 +4,11 @@
   <description>Latest marine jobs for Onshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>02-11-2026</dc:date>
+  <dc:date>03-11-2026</dc:date>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://maritime-union.com/job/224343/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/229818/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/224343/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223822/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223649/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223646/"/>
@@ -20,17 +20,17 @@
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/229818/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229818/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/229818/</link>
+  <title>[Gold Job] Port Captain for DP2 DSV vessel at </title>
+  <dc:date>2026-11-03 09:32:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/224343/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/224343/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/224343/</link>
   <title>[Gold Job] Project Manager  at </title>
   <dc:date>2026-09-29 13:10:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/229818/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/229818/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/229818/</link>
-  <title>[Gold Job] Port Captain for DP2 DSV vessel at </title>
-  <dc:date>2026-09-22 10:17:26</dc:date>
  </item>
  <item rdf:about="https://maritime-union.com/job/223822/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Finland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;Skilled professionals are sought for shipbuilding and construction projects in Finland. Open positions include Pipe Fitters, Welders, Heavy Plate Fabricators, Sheet Metal Workers, and Steel Structure Workers. Applicants require a valid Finnish work permit, Occupational Safety Card, Hot Work Certificate, and 3-5 years of relevant experience in shipbuilding or construction. A strong work ethic and commitment to quality and safety are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/223822/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
