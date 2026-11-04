@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-11-2026</dc:date>
+  <dc:date>04-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231636/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231604/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231545/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231537/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/218170/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/218918/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219037/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219956/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/220092/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/222786/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231636/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK &amp; International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple roles are available for freshers and experienced candidates on cruise ships. Salaries range from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 2,000 to 8,000. Opportunities are open for candidates based in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, UK, and internationally. This is a chance to join the maritime industry in a variety of positions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231636/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231636/</link>
+  <title>[AI Job] Multiple Roles Hiring on Cruise Ships at Cruise Line Recruitment</title>
+  <dc:date>2026-11-04 04:27:16</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231604/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK &amp; International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available on cruise ships for both freshers and experienced candidates. Salary ranges from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 4,000 to 14,000. Opportunities are located in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, UK, and internationally. Visa, airfare, and accommodation may be provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231604/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231604/</link>
+  <title>[AI Job] Multiple Positions on Cruise Ships - Emerald Cruises at Emerald Cruises Jobs</title>
+  <dc:date>2026-11-03 15:54:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231545/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Head Butler is sought to lead the Yacht Club butler team on a cruise ship. Responsibilities include providing personalized guest service, supervising daily operations, and coaching the team to ensure all guest needs are met. Requirements include fluent English, a diploma from a hotel school, and at least three years of experience in a similar luxury hospitality role. Cruise ship experience is advantageous, and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and medical certifications are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231545/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231545/</link>
@@ -66,18 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/219956/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/219956/</link>
   <title>[Gold Job] Nurse for Passenger Cruise Ship at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/220092/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/220092/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/220092/</link>
-  <title>[Gold Job] Nurse for Passenger Cruise Ship at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/222786/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/222786/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/222786/</link>
-  <title>[Gold Job] Nurse / Healthcare Assistant for Passenger Cruise Ship at </title>
   <dc:date>2026-11-03 09:32:28</dc:date>
  </item>
 </rdf:RDF>

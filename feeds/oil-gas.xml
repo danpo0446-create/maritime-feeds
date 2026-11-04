@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-11-2026</dc:date>
+  <dc:date>04-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231610/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231592/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231591/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231569/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231563/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231565/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231534/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231535/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231517/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231506/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231464/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231465/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231610/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Technical Advisor / Project Engineer with an engineering degree and advanced cementing engineering certification is required for offshore oil and gas operations in Qatar. The role involves developing technical job designs, providing real-time support, and coordinating between customers and service delivery teams. A minimum of fifteen years of experience in oil and gas well cementing operations, including ten years offshore, is essential. Previous Qatar or &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; experience is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231610/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231610/</link>
+  <title>[AI Job] Technical Advisor Job - Offshore Oil &amp;amp; Gas in Qatar at QatarEnergy</title>
+  <dc:date>2026-11-03 15:54:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231592/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Jordan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for an onshore drilling project in Jordan. Immediate mobilization is required for roles including Rig Manager, Company Man, Drilling Engineer, Toolpusher, Driller, Derrickman, and Roustabout. Previous drilling rig operations experience is essential, along with overseas or offshore rig experience and relevant technical qualifications. Physical fitness is also required for immediate deployment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231592/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231592/</link>
+  <title>[AI Job] Rig Manager Job - Onshore Drilling Rig in Jordan at GULF JOBS</title>
+  <dc:date>2026-11-03 15:54:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231591/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Jordan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for an onshore drilling project in Jordan. Immediate mobilization is required for roles including Rig Manager, Company Man, Drilling Engineer, Toolpusher, Driller, Derrickman, and Chief Rig Mechanic. Previous drilling rig operations experience is essential, along with overseas or offshore rig experience and relevant technical qualifications. Candidates must be physically fit and ready for immediate deployment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231591/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231591/</link>
+  <title>[AI Job] Rig Manager Job - Onshore Drilling Rig in Jordan at GULF JOBS TODAY</title>
+  <dc:date>2026-11-03 15:54:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231569/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Turkey&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced drilling personnel are sought for an upcoming onshore drilling project in Turkey. Open positions include Driller, Assistant Driller, Pumpman, and Derrickhand. The project offers long-term contracts with a 35/35 rotation and is expected to last a minimum of 24 months. A start date around 20 November 2026 is anticipated. Candidates require a minimum of 5 years of relevant experience and a valid &lt;span class=&quot;caps&quot;&gt;IWCF&lt;/span&gt; Well Control Certificate. Good English proficiency is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231569/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231569/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231517/</link>
   <title>[AI Job] Piping, Valve &amp;amp; Vessel Supervisor Job - LNG Construction at Groupe Gismic</title>
   <dc:date>2026-11-03 00:39:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231506/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Norway&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Senior Mechanical Engineers are sought for offshore oil and gas projects in Norway, focusing on mechanical equipment packages for brownfield modification projects. Responsibilities include developing technical specifications, evaluating supplier bids, and coordinating with multidisciplinary teams. The role requires strong expertise in mechanical equipment and collaboration with engineering teams in Bergen.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231506/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231506/</link>
-  <title>[AI Job] Senior Mechanical Engineer Job - Offshore Oil &amp;amp; Gas Norway at SPERTON</title>
-  <dc:date>2026-11-03 00:39:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231464/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Angola, Africa&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Engineering and design professionals are sought for a 2-year project on an &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; in Angola, Africa. Positions include Process Design Engineer, Technical Safety Engineer, Piping Design Engineer, Structural Design Engineer, Electrical Design Engineer, Instrumentation Design Engineer, Telecom Design Engineer, and &lt;span class=&quot;caps&quot;&gt;HVAC&lt;/span&gt; Design Engineer. Designers and 3D Modelers with experience in E3D, &lt;span class=&quot;caps&quot;&gt;PDMS&lt;/span&gt;, or SP3D are also required across various disciplines. A minimum of 8 years of experience is necessary for these roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231464/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231464/</link>
-  <title>[AI Job] Offshore FPSO Engineering &amp;amp; Design Roles - Angola at VIRAL JOBS</title>
-  <dc:date>2026-11-02 08:19:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231465/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Angola, Africa&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Engineering and design professionals are sought for a 2-year &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; and offshore Oil &amp;amp; Gas project in Angola, Africa. Positions include Process Design Engineer, Technical Safety Engineer, Piping Design Engineer, Structural Design Engineer, Electrical Design Engineer, Instrumentation Design Engineer, Telecom Design Engineer, and &lt;span class=&quot;caps&quot;&gt;HVAC&lt;/span&gt; Design Engineer. Experienced Designers and 3D Modelers in Piping, Electrical, Instrumentation, and Structural disciplines are also required. A minimum of 8 years of experience is necessary for engineering roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231465/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231465/</link>
-  <title>[AI Job] Offshore Engineering &amp;amp; Design Jobs - FPSO Project at Jobs info</title>
-  <dc:date>2026-11-02 08:19:06</dc:date>
  </item>
 </rdf:RDF>

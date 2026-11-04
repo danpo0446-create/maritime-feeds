@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-11-2026</dc:date>
+  <dc:date>04-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231637/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231605/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231595/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231540/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/200521/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/200522/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/203307/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/203722/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/203936/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/204752/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/205017/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/205018/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231637/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Gulf&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Hostess position is available on a cruise ship. This role is part of the hotel functions and guest services department. The position offers a career at sea within a large, organised operation. Candidates should understand the professional standards and responsibilities associated with shipboard roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231637/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231637/</link>
+  <title>[AI Job] Hostess Job on Cruise Ship at Carnival Cruise Line</title>
+  <dc:date>2026-11-04 04:27:16</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231605/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Stewardess with additional skills is sought for a yacht position. The role requires proven experience and specific supplementary abilities. Further details on yacht jobs can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231605/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231605/</link>
+  <title>[AI Job] Experienced Stewardess Job on Yacht at Lighthouse Careers</title>
+  <dc:date>2026-11-03 15:54:08</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231595/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Steward position is available, requiring management of stewarding operations, ensuring high standards of cleaning, sanitation, hygiene, and staff supervision. Candidates should possess 3-5 years of experience in stewarding or kitchen sanitation, with relevant certifications in Food Safety and Hygiene, and preferably a diploma or bachelor&amp;#8217;s degree in Hospitality Management or a related field. Knowledge of &lt;span class=&quot;caps&quot;&gt;ISO&lt;/span&gt; 22000 and &lt;span class=&quot;caps&quot;&gt;GMP&lt;/span&gt; is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231595/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231595/</link>
+  <title>[AI Job] Chief Steward Job Vacancy at </title>
+  <dc:date>2026-11-03 15:54:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231540/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; San Ramon, CA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An entry-level Galley Utility/Messman position is available on a US Flag fleet vessel. The role operates within the Galley Department, reporting to the Steward and Chief Mate. The anticipated hourly rate is $22.31, with an assignment length of approximately 90 days for unlicensed personnel. Vacation accrues at 25 days for every 30 days worked. Required credentials include a &lt;span class=&quot;caps&quot;&gt;USCG&lt;/span&gt; Merchant Mariner Document, &lt;span class=&quot;caps&quot;&gt;TWIC&lt;/span&gt;, valid passport, &lt;span class=&quot;caps&quot;&gt;USCG&lt;/span&gt;/STCW Medical Certificate, and &lt;span class=&quot;caps&quot;&gt;VPDSD&lt;/span&gt; endorsement.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231540/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231540/</link>
@@ -60,24 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/203936/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/203936/</link>
   <title>[Gold Job] Messman for Ice class Bulk Carrier at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/204752/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/204752/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/204752/</link>
-  <title>[Gold Job] MESSMAN for Ice class Bulk Carrier Vessel at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/205017/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/205017/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/205017/</link>
-  <title>[Gold Job] Cook for Ice Class Bulk Carrier Vessel at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/205018/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/205018/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/205018/</link>
-  <title>[Gold Job] Messman for Ice Class Bulk Carrier Vessel at </title>
   <dc:date>2026-11-03 09:32:28</dc:date>
  </item>
 </rdf:RDF>

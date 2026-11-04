@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-11-2026</dc:date>
+  <dc:date>04-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231619/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231602/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231593/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231560/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231542/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231541/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231528/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231527/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231526/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231483/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231400/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231399/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231619/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean-Black Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain is sought for a foreign-flagged 18,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; general cargo vessel operating in the Mediterranean-Black Sea region. The position requires experience suitable for command on this vessel type. Further details regarding the role and application process are available through the provided contact information.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231619/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231619/</link>
+  <title>[AI Job] Captain Vacancy on General Cargo Vessel at United Crew Management</title>
+  <dc:date>2026-11-04 04:27:13</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231602/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Master is required to join a Multipurpose General Cargo vessel. Conditions include negotiable net salary, joining on the 16th or 30th of November, and a 3-month contract duration. Benefits offered are company-paid taxes, long-term contract with promotion opportunities, compensation for specialized certificates, and rotational employment. Requirements include valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, good command of English, and experience in rank on a similar fleet.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231602/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231602/</link>
+  <title>[AI Job] Master Vacancy on Multipurpose General Cargo Vessel at OJ Crew</title>
+  <dc:date>2026-11-03 15:54:08</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231593/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers are sought for 3rd Officer, 3rd Engineer, and 4th Engineer positions aboard a new build RO-RO Ferry. The contract duration is 6 months, with an embarkation date of November 10, 2026. Mandatory experience includes RO-RO/PCTC for officers and Dual Fuel for engineers. The vessel has a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 18500 and was built in 2026.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231593/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231593/</link>
+  <title>[AI Job] 3rd Officer &amp;amp; Engineer Jobs on RO-RO Ferry at Columbia Shipmanagement Ukraine Dry Fleet</title>
+  <dc:date>2026-11-03 15:54:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231560/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Middle East&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Officer position is available with an Oil and Gas company in the Middle East. Applicants require an Unlimited Foreign Going Class I (Ship Masters) Certificate of Competency, an &lt;span class=&quot;caps&quot;&gt;HND&lt;/span&gt; or equivalent in Nautical Sciences with D.C.E (Petroleum) endorsement, and a minimum of 10 years&amp;#8217; experience, including in oil and gas operations. Experience in other marine operations such as general cargo or offshore oil operations is desirable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231560/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231560/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231526/</link>
   <title>[Gold Job] Need 2ND OFF DPO For FSIV DP2 at </title>
   <dc:date>2026-11-03 09:40:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231483/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231483/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231483/</link>
-  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231400/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231400/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231400/</link>
-  <title>[Gold Job] Second Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231399/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231399/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231399/</link>
-  <title>[Gold Job] Second Officer for Work Boat at </title>
-  <dc:date>2026-11-03 09:32:28</dc:date>
  </item>
 </rdf:RDF>

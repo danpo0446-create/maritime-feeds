@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>03-11-2026</dc:date>
+  <dc:date>04-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231633/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231632/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231594/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231558/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/217069/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/214844/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/214504/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/209433/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231500/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231488/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231396/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231395/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231633/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a modern container vessel. The contract duration is approximately 4 months, with an expected embarkation date around November 15, 2026. Key vessel details include a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 139550 and a 2024 build year, powered by a &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W 8G95ME-C10-&lt;span class=&quot;caps&quot;&gt;LPSCR&lt;/span&gt; engine.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231633/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231633/</link>
+  <title>[AI Job] ETO Job on Container Vessel at Columbia Shipmanagement Ukraine Dry Fleet</title>
+  <dc:date>2026-11-04 04:27:15</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231632/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position is available on a Handy size Bulker vessel. The joining date is November 15, 2026, for a contract duration of 4 months. Salary is negotiable. Preference is given to candidates with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W engine experience, relevant experience in rank, a Schengen visa, good English proficiency, and experience in a multinational working environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231632/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231632/</link>
+  <title>[AI Job] ETO Job on Handy Size Bulker at CSM Manning Agency</title>
+  <dc:date>2026-11-04 04:27:15</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231594/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position is available on a modern Aframax Crude Oil Tanker built in 2023. The contract duration is 4 months, with a negotiable salary. Joining is scheduled for November 12, 2026. Essential requirements include experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W engines, relevant experience in rank, and effective English communication skills. Experience in a multinational working environment is also required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231594/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231594/</link>
+  <title>[AI Job] ETO Job on Aframax Crude Oil Tanker at CSM Manning Agency</title>
+  <dc:date>2026-11-03 15:54:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231558/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a Crane Vessel joining in Week 52 of 2026. Candidates require a valid DP Maintenance Certificate and prior experience on heavy lift, crane, or offshore construction vessels. Strong practical electrical and technical maintenance skills are essential for this hands-on operational role. Long-term project prospects and stable rotations are offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231558/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231558/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231500/</link>
   <title>[AI Job] ETO Job - AHTS/PSV/DSV DP2 Vessel at UDYA Shipping Services Pvt Ltd</title>
   <dc:date>2026-11-02 16:56:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231488/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Taiwan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a jack-up vessel. Applicants must have valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certification and an &lt;span class=&quot;caps&quot;&gt;ILO&lt;/span&gt; medical certificate. Mobilization is scheduled for Taiwan. Interested candidates should submit their updated CV for consideration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231488/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231488/</link>
-  <title>[AI Job] ETO Job - Jack Up Vessel at TRea Resources</title>
-  <dc:date>2026-11-02 16:56:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231396/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Houma, Louisiana&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Marine Electricians are sought for a long-term shipyard opportunity in Houma, Louisiana. This role involves marine and industrial electrical installations and distribution panels, requiring the ability to read prints and perform terminations. Work is scheduled for 6 days per week, 11-12 hours per day, with several years of employment anticipated. Pay is $20-$25 per hour depending on experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231396/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231396/</link>
-  <title>[AI Job] Marine Electrician Job - Shipyard Opportunity at E3 Industrial</title>
-  <dc:date>2026-10-31 08:20:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231395/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Rotterdam&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced freelance electrician with marine experience on luxury superyachts is available for projects in Rotterdam and surroundings. Holds &lt;span class=&quot;caps&quot;&gt;VCA&lt;/span&gt;-&lt;span class=&quot;caps&quot;&gt;VOL&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;NEN&lt;/span&gt; 3140, &lt;span class=&quot;caps&quot;&gt;NEN&lt;/span&gt; 1010 certificates and has expertise in fire alarm systems and full electrical installations. Rate is 45 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;/hour excluding &lt;span class=&quot;caps&quot;&gt;VAT&lt;/span&gt;. Equipped with own transport and basic tools.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231395/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231395/</link>
-  <title>[AI Job] Electrician Job on Superyacht - Rotterdam at RH Marine</title>
-  <dc:date>2026-10-31 08:20:35</dc:date>
  </item>
 </rdf:RDF>
