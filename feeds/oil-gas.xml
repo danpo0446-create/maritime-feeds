@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>04-11-2026</dc:date>
+  <dc:date>05-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231690/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231610/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231592/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231591/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231533/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231534/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231535/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231517/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/231690/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A commercially driven &lt;span class=&quot;caps&quot;&gt;CEO&lt;/span&gt; is sought to lead a prominent oil &amp;amp; gas marine logistics business in Dubai. This executive role will spearhead fleet expansion and drive operational excellence and revenue growth. The position requires leadership of a dynamic executive team and shaping the future of offshore logistics.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231690/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231690/</link>
+  <title>[AI Job] CEO Job - Oil &amp;amp; Gas Marine Logistics at Careerfier | Jobs in Gulf</title>
+  <dc:date>2026-11-04 16:08:28</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231610/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Technical Advisor / Project Engineer with an engineering degree and advanced cementing engineering certification is required for offshore oil and gas operations in Qatar. The role involves developing technical job designs, providing real-time support, and coordinating between customers and service delivery teams. A minimum of fifteen years of experience in oil and gas well cementing operations, including ten years offshore, is essential. Previous Qatar or &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; experience is preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231610/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231610/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231535/</link>
   <title>[AI Job] Oil &amp;amp; Gas Drilling Positions - Land Rig in Jordan at World Wide Career</title>
   <dc:date>2026-11-03 11:55:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231517/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mozambique&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Piping, Valve &amp;amp; Vessel Supervisor is sought for onshore &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; construction in Mozambique. The role involves supervising construction activities, coordinating with contractors, and ensuring quality and &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; compliance. This position offers a rotation of 28 days on and 28 days off. A degree or diploma in Mechanical Engineering or a related field, with a minimum of 10 years of relevant experience in large-scale &lt;span class=&quot;caps&quot;&gt;EPC&lt;/span&gt; projects, is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231517/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231517/</link>
-  <title>[AI Job] Piping, Valve &amp;amp; Vessel Supervisor Job - LNG Construction at Groupe Gismic</title>
-  <dc:date>2026-11-03 00:39:46</dc:date>
  </item>
 </rdf:RDF>
