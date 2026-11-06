@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>05-11-2026</dc:date>
+  <dc:date>06-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232082/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/231963/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231930/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231876/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231871/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231796/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231789/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231769/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231751/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231743/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232082/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Amsterdam, Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Steward position is available on an Offshore Multi-Purpose Support Vessel (&lt;span class=&quot;caps&quot;&gt;MPSV&lt;/span&gt;) joining on 10 November 2026. The contract duration is 6 days. Required documents include a Food Hygiene Certificate, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Certificates, Designated Security Duties (&lt;span class=&quot;caps&quot;&gt;DSD&lt;/span&gt;), Seaman&amp;#8217;s Book, Medical Certificate, and Passport. The vessel will be located in Amsterdam, Netherlands.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232082/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232082/</link>
+  <title>[AI Job] Steward Job on Offshore MPSV at BalticCareer</title>
+  <dc:date>2026-11-05 20:23:04</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/231963/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; World Wide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook position is available on a General Cargo vessel trading worldwide. The contract duration is 6 months, with wages ranging from $2,430 to $2,700. Joining date is November 1, 2026. Knowledge of European and Ukrainian cuisine is required. Free internet is provided onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231963/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/231963/</link>
+  <title>[AI Job] Cook Vacancy on General Cargo Vessel at E-CREWING, LLC</title>
+  <dc:date>2026-11-05 16:56:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/231930/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Housekeeping Attendant is sought to maintain high cleanliness, safety, and hospitality standards on an international cruise ship. Responsibilities include cleaning public areas, crew quarters, and guest cabins, operating housekeeping equipment, and adhering to safety and environmental procedures. Candidates require at least one year of hotel-housekeeping experience and conversational English.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231930/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231930/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231769/</link>
   <title>[AI Job] Cook Job on ERRV - North Sea at Global Maritime Services LLC</title>
   <dc:date>2026-11-04 17:00:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231751/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Cook required for an &lt;span class=&quot;caps&quot;&gt;ERRV&lt;/span&gt;. Responsible for preparing meals for the crew, maintaining galley hygiene, and managing provisions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231751/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231751/</link>
-  <title>[AI Job] Cook Job - ERRV at Global Maritime Services</title>
-  <dc:date>2026-11-04 17:00:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231743/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook position is available on a Cargo Tanker or Product Tanker. The application period is from 10/09/2026 to 11/09/2026. One cook is needed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231743/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231743/</link>
-  <title>[AI Job] Cook Vacancy on Cargo/Product Tanker at SeaCrest Maritime Management</title>
-  <dc:date>2026-11-04 17:00:31</dc:date>
  </item>
 </rdf:RDF>
