@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-11-2026</dc:date>
+  <dc:date>07-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232194/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232061/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232044/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232041/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231990/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231980/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231979/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231970/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232194/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Lockport, Louisiana&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Marine Electricians are sought for a long-term opportunity at a local shipyard. This role requires the ability to read and interpret electrical prints and schematics, perform electrical terminations, and has experience with marine/industrial electrical installations. A minimum of 5-10 positions are available, with work anticipated for several years. The position offers $20-$25 per hour based on experience and requires a 6-day work week with 11-12 hour days.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232194/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232194/</link>
+  <title>[AI Job] Marine Electrician Job - Long Term Opportunity at E3 Industrial</title>
+  <dc:date>2026-11-07 08:19:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232061/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a Crude Oil Tanker built in 2013. The position requires experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W 2-stroke engines, steam turbines, and boilers, along with relevant experience in rank on oil tankers and good English proficiency. The contract duration is 4 months +/- 1 month, with a negotiable salary. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232061/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232061/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231979/</link>
   <title>[AI Job] ETO Vacancy on Chemical-Oil Tanker at Pomorska Agencija Mustra</title>
   <dc:date>2026-11-05 16:56:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231970/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position is available on &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tankers, with joining dates throughout October and November 2026. The vessels operate worldwide. Further details on qualifications and contract specifics can be obtained by contacting the agency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231970/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231970/</link>
-  <title>[AI Job] ETO Vacancy on LPG Tanker at Pomorska Agencija Mustra</title>
-  <dc:date>2026-11-05 16:56:24</dc:date>
  </item>
 </rdf:RDF>

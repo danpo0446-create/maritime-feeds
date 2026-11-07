@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-11-2026</dc:date>
+  <dc:date>07-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232169/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232105/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231941/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231718/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231495/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231486/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231340/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231339/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232169/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; South Pacific&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A yacht is seeking an Activities &amp;amp; Events Associate with a strong aquatic safety background and experience in open-water environments. Candidates should possess &lt;span class=&quot;caps&quot;&gt;RYA&lt;/span&gt; Powerboat certification or the ability to obtain it, along with watersports experience. StarGuard Instructor Certification is preferred. Outstanding customer service and communication skills are essential for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232169/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232169/</link>
+  <title>[AI Job] Activities &amp;amp; Events Associate Job on Yacht at StarGuard ELITE</title>
+  <dc:date>2026-11-06 21:12:59</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232105/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Senior Commercial Managers are sought for yacht charter brokerage roles within boutique firms. These positions offer greater autonomy, enhanced commercial support, and modern technological tools to streamline operations and client intelligence. The focus is on leveraging technology for efficiency, allowing brokers to concentrate on client relationships and business generation. Ideal candidates possess strong client understanding and a proven track record in charter business development.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232105/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232105/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Greece&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A yacht maintenance technician is sought for direct placement in Greece. Responsibilities include diagnosing, repairing, and maintaining diverse systems on yachts and boats, covering electrical and mechanical aspects. Candidates require 3-5 years of experience in yacht/boat maintenance or marine technical services, with expertise in either marine electrical or mechanical systems. A degree or professional certification in a relevant technical field is necessary. The net salary offered is €900 per month, with accommodation, medical, and life insurance provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231340/</link>
   <title>[AI Job] Marine Maintenance Technician Job on Yachts in Greece at Suntech Engineers and Contractors</title>
-  <dc:date>2026-10-30 21:18:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231339/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 23m private sailing yacht is seeking a Captain and a Stew/Cook couple. The Captain should possess a Yachtmaster Offshore (minimum) certification, with strong navigation, passage planning, and administrative skills, alongside hands-on engineering experience. The Stew/Cook must be proficient in preparing fresh, healthy Mediterranean-inspired cuisine for up to six guests and assist on deck when required. This role offers an exciting itinerary, starting in the Mediterranean and progressing to the Caribbean and Pacific.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231339/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231339/</link>
-  <title>[AI Job] Captain and Cook/Stew Couple for Private Sailing Yacht at Crew &amp; Concierge Ltd.</title>
   <dc:date>2026-10-30 21:18:10</dc:date>
  </item>
 </rdf:RDF>

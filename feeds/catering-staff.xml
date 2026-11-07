@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>06-11-2026</dc:date>
+  <dc:date>07-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232137/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232136/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232082/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231963/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231930/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231864/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231835/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231796/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231789/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231769/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232137/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Indian Ocean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Charter Chef sought for a busy charter season on a yacht in the Indian Ocean. This role offers the chance to work within a close-knit team and explore unique cruising grounds. The position is ideal for a skilled chef looking for an exciting opportunity in a stable environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232137/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232137/</link>
+  <title>[AI Job] Charter Chef Job on Yacht at Vela Recruitment</title>
+  <dc:date>2026-11-06 17:34:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232136/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Assistant Server is sought to support dining, room-service, and alternate venue operations aboard an international cruise ship. Responsibilities include delivering table service, maintaining service stations, handling room-service deliveries, and supporting dining room operations. Candidates require at least one year of restaurant experience, conversational English, and customer-service experience in continental cuisine. Minimum age is 21 years.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232136/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232136/</link>
+  <title>[AI Job] Assistant Server Job on International Cruise Ship at Job Selection</title>
+  <dc:date>2026-11-06 17:34:23</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232082/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Amsterdam, Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Steward position is available on an Offshore Multi-Purpose Support Vessel (&lt;span class=&quot;caps&quot;&gt;MPSV&lt;/span&gt;) joining on 10 November 2026. The contract duration is 6 days. Required documents include a Food Hygiene Certificate, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Certificates, Designated Security Duties (&lt;span class=&quot;caps&quot;&gt;DSD&lt;/span&gt;), Seaman&amp;#8217;s Book, Medical Certificate, and Passport. The vessel will be located in Amsterdam, Netherlands.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232082/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232082/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231796/</link>
   <title>[AI Job] Saloon Rating Course - Merchant Navy at Blue Bird Shipping Management Pvt Ltd</title>
   <dc:date>2026-11-04 17:00:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231789/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Saloon Rating positions are open for recruitment. These roles are within the Catering Department. Applicants must be medically fit according to Merchant Shipping Rules, with specific age limits applying. This is an opportunity to work in maritime catering.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231789/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231789/</link>
-  <title>[AI Job] Saloon Rating Vacancy - Merchant Navy at Blue Bird Shipping Management Pvt Ltd</title>
-  <dc:date>2026-11-04 17:00:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231769/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; North Sea, UK offshore sector&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An opportunity exists for a Cook on an &lt;span class=&quot;caps&quot;&gt;ERRV&lt;/span&gt; vessel in the North Sea, UK offshore sector. The rotation is 1 month on/off, and the daily rate is €181. Interested applicants should check the details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231769/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231769/</link>
-  <title>[AI Job] Cook Job on ERRV - North Sea at Global Maritime Services LLC</title>
-  <dc:date>2026-11-04 17:00:35</dc:date>
  </item>
 </rdf:RDF>
