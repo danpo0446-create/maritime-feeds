@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-11-2026</dc:date>
+  <dc:date>08-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232252/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232235/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232220/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232193/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232185/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232172/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232158/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232147/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232135/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232128/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232126/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232108/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232252/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; KSA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shipyard positions are available for long-term employment in Saudi Arabia. Openings include Pipe Fabricators, Structural Fabricators, Welders (6G, &lt;span class=&quot;caps&quot;&gt;FCAW&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;SMAW&lt;/span&gt;), Marine Electricians, Foremen, and various Supervisor roles. Excellent salary packages are offered, including free food, accommodation, overtime, and medical refunds. Interviews are scheduled in Mumbai, Gorakhpur, and Vizag.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232252/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232252/</link>
+  <title>[AI Job] Shipyard Jobs in KSA - Fabricators, Welders, Electricians at International Maritime Industries</title>
+  <dc:date>2026-11-08 08:18:44</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232235/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Turkey&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime positions are available on a Tug Boat, including Master, Chief Engineer, Chief Officer, 2nd Engineer, 2nd Officer, 3rd Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Bosun, Fitter, Cook, Able Seaman, and Motorman. Salaries range from $1500 to $5000 per month. Any CoC is accepted. Joining is in Turkey, with flights scheduled for November 20th. This is a permanent employment opportunity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232235/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232235/</link>
+  <title>[AI Job] Various Ranks Job on Tug Boat at NSMAR SHIP MANAGEMENT SERVICES PVT LTD</title>
+  <dc:date>2026-11-08 08:18:42</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232220/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; KSA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple shipyard positions are available for long-term contracts in &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt;. Openings include Pipe Fabricators, Structural Fabricators, Welders (6G, &lt;span class=&quot;caps&quot;&gt;FCAW&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;SMAW&lt;/span&gt;), Marine Electricians, Foremen, and various Supervisor roles. Excellent salary packages are offered, including free food, accommodation, overtime, and medical refunds. Interviews are scheduled in Mumbai, Gorakhpur, and Vizag.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232220/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232220/</link>
+  <title>[AI Job] Shipyard Jobs in KSA - Fabricators, Welders, Electricians at International Maritime Industries</title>
+  <dc:date>2026-11-07 17:22:51</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232193/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Poland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Shipyard worker positions are available in Poland, with potential work visa sponsorship for eligible foreign nationals. Opportunities exist in shipbuilding, ship repair, offshore fabrication, and marine engineering firms. Roles may include welders, ship fitters, pipe fitters, steel fabricators, electricians, and labourers. Experience and trade certifications are advantageous. Positions are full-time or project-based.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232193/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232193/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/232135/</link>
   <title>[AI Job] Shore-Based Maritime Superintendent Roles - Various Vessels at The Shipping Tribune</title>
   <dc:date>2026-11-06 17:34:23</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232128/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime positions are available across various vessel types including MR Tankers (Oil/Chem), Bulk Carriers/General Cargo, &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt;, and &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessels. Opportunities exist for officers and engineers at all levels, including Master, Chief Officer, Chief Engineer, Second Engineer, and more. Interested candidates are encouraged to apply via email or WhatsApp.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232128/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232128/</link>
-  <title>[AI Job] Maritime Job Openings on Tanker, Bulk Carrier, LNG, LPG Vessels at Ocean One Ship Management</title>
-  <dc:date>2026-11-06 17:34:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232126/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple maritime positions are available for Container and General Cargo vessels. Roles include officers (Master, Chief Officer, 2nd Officer, 3rd Officer, Chief Engineer, 2nd Engineer, 3rd Engineer, 4th Engineer), technical staff (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;/Electrician, Reefer Engineer, Fitter, Oiler, Motorman/Wiper), deck ratings (Bosun, AB, OS), catering staff (Cook, Messman), and cadets (Deck Cadet, Engine Cadet).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232126/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232126/</link>
-  <title>[AI Job] Multiple Maritime Positions on Container/General Cargo Vessels at AngloGold Ashanti</title>
-  <dc:date>2026-11-06 17:34:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232108/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for a 3rd Officer and Bosun on a container vessel. Candidates must possess valid documents for at least 18 months, updated &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560 certification, experience with mixed crews, fluent English, and completed &lt;span class=&quot;caps&quot;&gt;COVID&lt;/span&gt;-19 vaccination. Salary offered is $2960 for 3/O and $1710 for Bosun.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232108/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232108/</link>
-  <title>[AI Job] 3/O and Bosun Vacancy on Container Ship at PT. KSM INDONESIA</title>
-  <dc:date>2026-11-06 08:19:59</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-11-2026</dc:date>
+  <dc:date>08-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232206/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232194/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232061/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232044/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231994/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231990/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231980/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231979/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232206/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) or Marine Electrical Engineer is sought for roles on bulk carriers, container ships, oil tankers, gas tankers, or cruise vessels. Responsibilities include troubleshooting engine and auxiliary machinery, automation systems, reefer systems, and performing routine checks and testing on marine navigational equipment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232206/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232206/</link>
+  <title>[AI Job] ETO Job - Bulk Carrier, Container, Tanker, Cruise at </title>
+  <dc:date>2026-11-07 17:22:49</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232194/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Lockport, Louisiana&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Marine Electricians are sought for a long-term opportunity at a local shipyard. This role requires the ability to read and interpret electrical prints and schematics, perform electrical terminations, and has experience with marine/industrial electrical installations. A minimum of 5-10 positions are available, with work anticipated for several years. The position offers $20-$25 per hour based on experience and requires a 6-day work week with 11-12 hour days.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232194/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232194/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) vacancy is open for an Orange Juice tanker, with a joining date in November 2026. The vessel operates worldwide. Interested candidates should contact the agency for more information on requirements and contract details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231980/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/231980/</link>
   <title>[AI Job] Electrician Vacancy on Orange Juice Tanker at Pomorska Agencija Mustra</title>
-  <dc:date>2026-11-05 16:56:26</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231979/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position is available on Chemical-Oil tankers, with joining dates throughout October and November 2026. The vessels operate worldwide. Further details on qualifications and contract specifics can be obtained by contacting the agency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231979/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231979/</link>
-  <title>[AI Job] ETO Vacancy on Chemical-Oil Tanker at Pomorska Agencija Mustra</title>
   <dc:date>2026-11-05 16:56:26</dc:date>
  </item>
 </rdf:RDF>

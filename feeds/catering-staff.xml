@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-11-2026</dc:date>
+  <dc:date>08-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232247/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232137/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232136/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232082/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231871/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231864/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231835/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231796/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232247/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Longyearbyen&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hospitality professionals are sought for roles including Chef, Cook, Waiter, and Head Waiter on expedition cruise ships operating in the Arctic. Key requirements include strong communication skills, adaptability, and experience in multicultural teams, along with relevant maritime certifications. English and Norwegian are the primary working languages onboard. This is a fantastic opportunity to work at sea on a unique route.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232247/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232247/</link>
+  <title>[AI Job] Hospitality Staff Jobs on Hurtigruten Cruise Ships at Hurtigruten</title>
+  <dc:date>2026-11-08 08:18:43</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232137/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Indian Ocean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Charter Chef sought for a busy charter season on a yacht in the Indian Ocean. This role offers the chance to work within a close-knit team and explore unique cruising grounds. The position is ideal for a skilled chef looking for an exciting opportunity in a stable environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232137/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232137/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231835/</link>
   <title>[AI Job] Camp Boss Job Worldwide at OJ Crew</title>
   <dc:date>2026-11-04 17:00:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231796/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Saloon Rating course is offered for individuals with &lt;span class=&quot;caps&quot;&gt;SSC&lt;/span&gt;, aged 18-25. Medical fitness according to Merchant Shipping Rules is a requirement. This course prepares individuals for roles within the catering department on vessels. Information can be found at www.dgshipping.gov.in.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231796/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231796/</link>
-  <title>[AI Job] Saloon Rating Course - Merchant Navy at Blue Bird Shipping Management Pvt Ltd</title>
-  <dc:date>2026-11-04 17:00:39</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-11-2026</dc:date>
+  <dc:date>08-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232211/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232187/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232167/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232168/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232052/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232049/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232000/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231953/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232211/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;All positions are available for cruise ship employment. Both freshers and experienced candidates are welcome to apply. Benefits include visa, ticket, and accommodation provision. Salary ranges from 4,000 to 15,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Positions are located in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232211/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232211/</link>
+  <title>[AI Job] All Positions Hiring on Cruise Ship at Cruise Line Recruitment</title>
+  <dc:date>2026-11-07 17:22:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232187/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A luxury cruise line is seeking a Wine and Bar Manager and a Restaurant Services Manager. The Wine and Bar Manager will lead the onboard bar team and wine cellar operations. The Restaurant Services Manager will oversee food and beverage service across the ship&amp;#8217;s restaurants. Both positions offer a contract duration of four months on and two months off. Applications are processed through the hiring company&amp;#8217;s listings, where full requirements can be reviewed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232187/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232187/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232000/</link>
   <title>[AI Job] Hotel Superintendent - Cruise Ship at Wilhelmsen Marine Personnel Novorossiysk Ltd.</title>
   <dc:date>2026-11-05 16:56:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231953/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking a Stage Manager, Assistant Stage Manager, or Production Stage Manager role on cruise ships. This professional has over 9 years of experience in live events and theatrical productions, including 4 years onboard cruise ships managing technical operations and interdepartmental communication for production shows and guest entertainment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231953/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231953/</link>
-  <title>[AI Job] Stage Manager Job on Cruise Ships at </title>
-  <dc:date>2026-11-05 08:19:40</dc:date>
  </item>
 </rdf:RDF>

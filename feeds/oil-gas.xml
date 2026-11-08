@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-11-2026</dc:date>
+  <dc:date>08-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232253/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232191/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232180/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232183/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231592/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231591/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231569/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231563/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232253/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kitimat, BC&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for welders, pipefitters, electricians, and marine and civil crews involved in late-stage &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; and marine terminal construction. Permanent operations roles are expected to follow in 2028. This project is located in Kitimat, British Columbia, and is part of the Cedar &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; facility development.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232253/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232253/</link>
+  <title>[AI Job] FLNG Construction &amp;amp; Operations Jobs in Kitimat at ShutdownBoard</title>
+  <dc:date>2026-11-08 08:18:44</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232191/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for oil and gas drilling roles in Oman. Positions include Night Toolpusher, Driller, Assistant Driller, Derrickman, and Floorman, with monthly salaries ranging from &lt;span class=&quot;caps&quot;&gt;OMR&lt;/span&gt; 600 to &lt;span class=&quot;caps&quot;&gt;OMR&lt;/span&gt; 1,600. Mandatory requirements include overseas high-capacity drilling rig experience and specific &lt;span class=&quot;caps&quot;&gt;IWCF&lt;/span&gt; certifications for certain roles. The rotation is 35 days on and 35 days off, with fully paid off days. The maximum age limit is 45 years.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232191/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232191/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231569/</link>
   <title>[AI Job] Onshore Drilling Jobs in Turkey - Multiple Positions at Global Drilling Careers</title>
   <dc:date>2026-11-03 11:56:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231563/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Niigata Prefecture, Japan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Machine Maintenance position is available for onshore drilling operations in Niigata Prefecture, Japan. The role involves cleaning, painting, and assembling equipment, as well as performing manual dismantling and maintenance. Candidates require at least 10 years of experience in the oil, natural gas, or well drilling industry, with hands-on experience in equipment maintenance. Business-level English is required; Japanese is not necessary. Salary offered is &lt;span class=&quot;caps&quot;&gt;JPY&lt;/span&gt; 350,000–380,000 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231563/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231563/</link>
-  <title>[AI Job] Machine Maintenance Job - Onshore Drilling at </title>
-  <dc:date>2026-11-03 11:55:59</dc:date>
  </item>
 </rdf:RDF>

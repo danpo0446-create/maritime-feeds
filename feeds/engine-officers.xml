@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-11-2026</dc:date>
+  <dc:date>08-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232241/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232223/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232198/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232160/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232157/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232129/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232124/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232116/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232115/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232099/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232241/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Non-War Zones&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Engineers and Oilers are sought for upcoming maritime roles. The Chief Engineer position offers a salary range of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 5,000 to 5,500, while the Oiler role offers &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,800. Vessels will operate in non-war zones. This is an opportunity to progress your career at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232241/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232241/</link>
+  <title>[AI Job] Chief Engineer &amp;amp; Oiler Jobs - Maritime Vacancies at Royal Atlas Marine Services</title>
+  <dc:date>2026-11-08 08:18:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232223/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for an &lt;span class=&quot;caps&quot;&gt;OSV&lt;/span&gt; vessel. The contract duration is 6 weeks (+/-1) with a salary of 22000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Boarding is scheduled for the beginning of December. Relevant experience is required for this position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232223/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232223/</link>
+  <title>[AI Job] Chief Engineer Job - OSV at BalticCareer</title>
+  <dc:date>2026-11-07 22:19:05</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232198/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232198/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232198/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232116/</link>
   <title>[Gold Job] Second Engineer for NON DP AHTS vessel at </title>
   <dc:date>2026-11-06 10:10:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232115/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232115/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232115/</link>
-  <title>[Gold Job] Need chief Engineer &amp;amp; ETO For AHTS/ PSV vessel with Minimum 24 months at </title>
-  <dc:date>2026-11-06 10:04:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232099/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Superintendent position is available for Bunker Tankers. Candidates with relevant experience are sought for this role. Further details and application instructions can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232099/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232099/</link>
-  <title>[AI Job] Technical Superintendent Job - Bunker Tanker at Direct Search Global</title>
-  <dc:date>2026-11-06 08:19:58</dc:date>
  </item>
 </rdf:RDF>

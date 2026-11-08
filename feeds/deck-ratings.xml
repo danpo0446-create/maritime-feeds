@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>07-11-2026</dc:date>
+  <dc:date>08-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232231/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232199/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232166/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232133/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231893/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231888/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231874/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232231/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Denmark&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Boatswain is sought for tugboats operating in Denmark. This deck rating position requires experience in maritime operations. Further details regarding joining date, contract duration, and salary are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232231/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232231/</link>
+  <title>[AI Job] Boatswain Job on Tugboat at NH Towage</title>
+  <dc:date>2026-11-07 22:19:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232199/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232199/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232199/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231888/</link>
   <title>[AI Job] Able Seaman Vacancy on Bulk Carrier at Adriatico-Brig</title>
   <dc:date>2026-11-04 17:00:51</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231874/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunity for an Ordinary Seaman (OS) to join a maritime vessel. This role involves assisting the deck department with various tasks, including maintenance and general duties. Suitable for individuals starting their seafaring career.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231874/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231874/</link>
-  <title>[AI Job] Ordinary Seaman (OS) Job Vacancy at STS Agency</title>
-  <dc:date>2026-11-04 17:00:49</dc:date>
  </item>
 </rdf:RDF>
