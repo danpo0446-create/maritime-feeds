@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>09-11-2026</dc:date>
+  <dc:date>10-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232268/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232267/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232211/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232187/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232167/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232068/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232069/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232052/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232049/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232000/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232268/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for the Norwegian Prima cruise ship. Both freshers and experienced candidates are welcome to apply. Salary ranges from 5,200 to 16,500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Visa, ticket, and accommodation will be provided. Positions are based in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232268/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232268/</link>
+  <title>[AI Job] All Positions Hiring on Norwegian Prima Cruise Ship at Cruise Line Recruitment</title>
+  <dc:date>2026-11-09 14:46:11</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232267/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple catering positions are available onboard cruise ships. Roles include Chef de Partie, Chef de Partie Pastry, and Sous Chef. This is an opportunity to join the maritime industry in Dubai. Further details on specific requirements and joining dates will be provided upon application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232267/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232267/</link>
+  <title>[AI Job] Cruise Ship Catering Jobs in Dubai at Hiren International</title>
+  <dc:date>2026-11-09 14:46:10</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232211/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;All positions are available for cruise ship employment. Both freshers and experienced candidates are welcome to apply. Benefits include visa, ticket, and accommodation provision. Salary ranges from 4,000 to 15,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Positions are located in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; and UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232211/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232211/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232052/</link>
   <title>[AI Job] 2nd Officer Job on Cruise Ship at Columbia Shipmanagement Ukraine Cruise Services</title>
   <dc:date>2026-11-05 20:23:00</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232049/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Porto, Portugal&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 1st Officer with a focus on safety is sought for an expedition cruise vessel. This seagoing position offers a unique opportunity within the luxury expedition cruise industry. Key responsibilities include ensuring safety protocols are maintained onboard. The role is based on an expedition cruise ship, offering a dynamic working environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232049/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232049/</link>
-  <title>[AI Job] 1st Officer - Safety Job on Expedition Cruise Ship at Mystic Cruises</title>
-  <dc:date>2026-11-05 20:22:59</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232000/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Lysaker&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Hotel Superintendent position is open for a cruise ship in Lysaker. Specifics regarding joining date, contract duration, and salary are not detailed in this listing.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232000/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232000/</link>
-  <title>[AI Job] Hotel Superintendent - Cruise Ship at Wilhelmsen Marine Personnel Novorossiysk Ltd.</title>
-  <dc:date>2026-11-05 16:56:29</dc:date>
  </item>
 </rdf:RDF>

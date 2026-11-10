@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>09-11-2026</dc:date>
+  <dc:date>10-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232324/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232322/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232323/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232253/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232191/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232180/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232064/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231690/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231610/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231592/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231591/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231569/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232324/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; vessels, including Cargo Operator, Production Superintendent, Mechanical &amp;amp; Hydraulic Supervisor, Instrument Technician, Electrical Technician, Engine Room Supervisor, &lt;span class=&quot;caps&quot;&gt;ICSS&lt;/span&gt; Technician, and Mechanical Technician. Candidates should possess relevant experience, with specific requirements varying by role. Experience on &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt;s or offshore petrochemical environments is preferred for some positions. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232324/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232324/</link>
+  <title>[AI Job] FPSO Vacancies: Cargo Operator, Production Supt, Technicians &amp;amp; More at Golden Jobs</title>
+  <dc:date>2026-11-09 14:46:18</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232322/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for candidates to join &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; vessels. Roles include Cargo Operator, Production Superintendent, Mechanical &amp;amp; Hydraulic Supervisor, Instrument Technician, Electrical Technician, Engine Room Supervisor, &lt;span class=&quot;caps&quot;&gt;ICSS&lt;/span&gt; Technician, and Mechanical Technician. Specific experience requirements vary by role, with some positions requiring offshore or tanker experience. Joining dates are &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; for most roles. Singapore employment permits may be required for some positions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232322/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232322/</link>
+  <title>[AI Job] FPSO Vacancies: Cargo Operator, Production Supt, Technicians &amp;amp; Engineers at VIRAL JOBS</title>
+  <dc:date>2026-11-09 14:46:17</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232323/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; vessels, including Cargo Operator, Production Superintendent, Mechanical &amp;amp; Hydraulic Supervisor, Instrument Technician, Electrical Technician, Engine Room Supervisor, &lt;span class=&quot;caps&quot;&gt;ICSS&lt;/span&gt; Technician, and Mechanical Technician. Experience requirements vary by role, with specific preferences for offshore, supervisory, and tanker experience. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232323/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232323/</link>
+  <title>[AI Job] FPSO Vacancies: Cargo Operator, Production Supt, Technicians &amp;amp; Supervisors at Jobs info</title>
+  <dc:date>2026-11-09 14:46:17</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232253/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Kitimat, BC&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for welders, pipefitters, electricians, and marine and civil crews involved in late-stage &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; and marine terminal construction. Permanent operations roles are expected to follow in 2028. This project is located in Kitimat, British Columbia, and is part of the Cedar &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; facility development.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232253/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232253/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/231610/</link>
   <title>[AI Job] Technical Advisor Job - Offshore Oil &amp;amp; Gas in Qatar at QatarEnergy</title>
   <dc:date>2026-11-03 15:54:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231592/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Jordan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for an onshore drilling project in Jordan. Immediate mobilization is required for roles including Rig Manager, Company Man, Drilling Engineer, Toolpusher, Driller, Derrickman, and Roustabout. Previous drilling rig operations experience is essential, along with overseas or offshore rig experience and relevant technical qualifications. Physical fitness is also required for immediate deployment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231592/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231592/</link>
-  <title>[AI Job] Rig Manager Job - Onshore Drilling Rig in Jordan at GULF JOBS</title>
-  <dc:date>2026-11-03 15:54:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231591/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Jordan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for an onshore drilling project in Jordan. Immediate mobilization is required for roles including Rig Manager, Company Man, Drilling Engineer, Toolpusher, Driller, Derrickman, and Chief Rig Mechanic. Previous drilling rig operations experience is essential, along with overseas or offshore rig experience and relevant technical qualifications. Candidates must be physically fit and ready for immediate deployment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231591/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231591/</link>
-  <title>[AI Job] Rig Manager Job - Onshore Drilling Rig in Jordan at GULF JOBS TODAY</title>
-  <dc:date>2026-11-03 15:54:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231569/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Turkey&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced drilling personnel are sought for an upcoming onshore drilling project in Turkey. Open positions include Driller, Assistant Driller, Pumpman, and Derrickhand. The project offers long-term contracts with a 35/35 rotation and is expected to last a minimum of 24 months. A start date around 20 November 2026 is anticipated. Candidates require a minimum of 5 years of relevant experience and a valid &lt;span class=&quot;caps&quot;&gt;IWCF&lt;/span&gt; Well Control Certificate. Good English proficiency is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231569/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231569/</link>
-  <title>[AI Job] Onshore Drilling Jobs in Turkey - Multiple Positions at Global Drilling Careers</title>
-  <dc:date>2026-11-03 11:56:00</dc:date>
  </item>
 </rdf:RDF>

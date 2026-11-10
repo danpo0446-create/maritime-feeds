@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>09-11-2026</dc:date>
+  <dc:date>10-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232309/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232109/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232080/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232036/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/231875/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231877/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231878/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231867/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232309/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available on an oil tanker. Responsibilities include assisting engineers with machinery maintenance, monitoring equipment, and supporting repair activities. Requirements include relevant qualifications, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, previous oil tanker experience, and readiness for shipboard employment. The contract duration is 6 months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232309/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232309/</link>
+  <title>[AI Job] Motorman Job on Oil Tanker at Jobs Maritime GPT</title>
+  <dc:date>2026-11-09 14:46:16</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232109/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Room Rating (Motorman) and an Engine Room Operator (4th Class Engineer) are required for an upcoming position. Key responsibilities include maintaining engine room operations and equipment. This role is suitable for qualified individuals seeking to advance their maritime careers. Further details on specific vessel type and contract terms can be found via the application links.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232109/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232109/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231878/</link>
   <title>[AI Job] Wiper Job Vacancy at STS Agency</title>
   <dc:date>2026-11-04 17:00:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231867/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter is needed for engine room duties on a maritime vessel. The role involves assisting with mechanical repairs and maintenance. Previous experience in a similar capacity is necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231867/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231867/</link>
-  <title>[AI Job] Fitter Job Vacancy at STS Agency</title>
-  <dc:date>2026-11-04 17:00:48</dc:date>
  </item>
 </rdf:RDF>

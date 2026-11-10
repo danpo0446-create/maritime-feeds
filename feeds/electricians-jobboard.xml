@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>09-11-2026</dc:date>
+  <dc:date>10-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232327/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232289/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232206/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232194/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232061/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232026/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232013/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231994/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231990/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231980/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232327/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Passenger Ship is seeking a 2nd Electrical Engineer for a 3:3 rotation. Immediate joining is required. Previous experience on passenger vessels is mandatory for this role. This is an excellent opportunity for qualified seafarers to advance their careers at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232327/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232327/</link>
+  <title>[AI Job] 2nd Electrical Engineer Job - Passenger Ship at Columbia Shipmanagement Ltd.</title>
+  <dc:date>2026-11-09 20:51:06</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232289/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean Sea, West Africa and Western Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for a modern gearless container vessel trading in the Mediterranean Sea, West Africa, and Western Europe. The position requires a minimum of 12 years of experience in rank, with prior experience on similar &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; ME-C main engines. The contract duration is 3 months, with an approximate joining date of December 4th. Back-to-back contracts are offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232289/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232289/</link>
+  <title>[AI Job] ETO Job on Container Vessel at Lighthaus-Marine Europe Sp. z o.o. Polska</title>
+  <dc:date>2026-11-09 14:46:13</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232206/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) or Marine Electrical Engineer is sought for roles on bulk carriers, container ships, oil tankers, gas tankers, or cruise vessels. Responsibilities include troubleshooting engine and auxiliary machinery, automation systems, reefer systems, and performing routine checks and testing on marine navigational equipment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232206/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232206/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/231994/</link>
   <title>[AI Job] Electrical Engineer Vacancy on Bulk Carrier at Crewplanet</title>
   <dc:date>2026-11-05 16:56:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231990/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Engineer is required for a Multi-Purpose Vessel. The contract duration is 4 months, with joining expected in 2 months. Salary ranges from 5890 to 6500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231990/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231990/</link>
-  <title>[AI Job] Electrical Engineer Vacancy on Multi-Purpose Vessel at Crewplanet</title>
-  <dc:date>2026-11-05 16:56:27</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231980/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) vacancy is open for an Orange Juice tanker, with a joining date in November 2026. The vessel operates worldwide. Interested candidates should contact the agency for more information on requirements and contract details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231980/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231980/</link>
-  <title>[AI Job] Electrician Vacancy on Orange Juice Tanker at Pomorska Agencija Mustra</title>
-  <dc:date>2026-11-05 16:56:26</dc:date>
  </item>
 </rdf:RDF>
