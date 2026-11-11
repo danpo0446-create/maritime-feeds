@@ -4,22 +4,58 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>10-11-2026</dc:date>
+  <dc:date>11-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232745/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232647/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232439/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232423/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232422/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232399/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232258/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231960/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231946/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231880/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231868/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231839/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231781/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231734/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230989/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/230966/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232745/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Applications are open for a Deck Cadet position, requiring full-time student status at Massachusetts Maritime Academy. Candidates must be eligible for a &lt;span class=&quot;caps&quot;&gt;USCG&lt;/span&gt; Issued License Upon Graduation, possess Vessel Personnel with Designated Security Duties, a valid &lt;span class=&quot;caps&quot;&gt;TWIC&lt;/span&gt; card, US Passport, and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Medical certificate. Preferred qualifications include extracurricular activities. Competitive compensation and benefits are offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232745/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232745/</link>
+  <title>[AI Job] Deck Cadet Job - Massachusetts Maritime Academy at Chevron Marine</title>
+  <dc:date>2026-11-10 20:25:46</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232647/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet opportunity exists on a Bulk Carrier built in 2011. The joining date is November 18, 2026, with a contract duration of 6 months +/- 2, and a salary of $500. Stable seagoing service with the same shipowner/shipmanager and vaccination are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232647/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232647/</link>
+  <title>[AI Job] Deck Cadet Job - Bulk Carrier at Staff Centre</title>
+  <dc:date>2026-11-10 17:13:40</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232439/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Tanker vessel is urgently seeking a Deck Cadet. The basic salary offered is $600.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232439/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232439/</link>
+  <title>[AI Job] Deck Cadet Vacancy on Tanker at WORLD SHIPS MANAGEMENT PVT.LTD.</title>
+  <dc:date>2026-11-10 17:13:08</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232423/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bulk Carrier is urgently seeking an Engine Cadet. The basic salary offered is $450.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232423/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232423/</link>
+  <title>[AI Job] Engine Cadet Vacancy on Bulk Carrier at WORLD SHIPS MANAGEMENT PVT.LTD.</title>
+  <dc:date>2026-11-10 17:13:05</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232422/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An urgent requirement exists for a Deck Cadet on a Bulk Carrier, with a basic salary of $450.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232422/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232422/</link>
+  <title>[AI Job] Deck Cadet Vacancy on Bulk Carrier at WORLD SHIPS MANAGEMENT PVT.LTD.</title>
+  <dc:date>2026-11-10 17:13:05</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232399/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available for individuals seeking to gain experience at sea. The role involves assisting officers with navigation, cargo watch, and general deck duties. A maritime qualification is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232399/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232399/</link>
+  <title>[AI Job] Deck Cadet Vacancy at Bridgeview Maritime Pvt Ltd</title>
+  <dc:date>2026-11-10 17:13:01</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232258/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; United Kingdom&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Cadet programme is available in the United Kingdom, offering training both ashore and at sea. Applicants must hold a UK passport. This opportunity is part of a broader maritime job update.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232258/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232258/</link>
@@ -43,41 +79,5 @@
   <link>https://maritime-union.com/job/231880/</link>
   <title>[AI Job] Trainee Programme Opportunity at Tananger Offshore</title>
   <dc:date>2026-11-04 17:00:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231868/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Maritime company is offering opportunities for Junior Cadets to gain sea experience. This entry-level position provides training and development within the maritime industry. Aspiring seafarers are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231868/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231868/</link>
-  <title>[AI Job] Maritime Cadet Vacancy at STS Agency</title>
-  <dc:date>2026-11-04 17:00:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231839/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Engine Cadet position is available for worldwide assignment with a contract duration of 6 months +/-1. Details regarding the vessel type, joining date, and salary are not specified in this listing.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231839/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231839/</link>
-  <title>[AI Job] Engine Cadet Job Worldwide at OJ Crew</title>
-  <dc:date>2026-11-04 17:00:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231781/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities exist for &lt;span class=&quot;caps&quot;&gt;TNOC&lt;/span&gt; (Cadets) in the Nautical Department. This is an entry-level position for aspiring deck officers. Candidates must meet the physical fitness and vision standards outlined in the Merchant Shipping Rules.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231781/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231781/</link>
-  <title>[AI Job] Deck Cadet Vacancy - Merchant Navy at Blue Bird Shipping Management Pvt Ltd</title>
-  <dc:date>2026-11-04 17:00:37</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231734/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for aspiring Merchant Navy cadets to commence a career at sea with a tanker fleet. Sponsored by the Watermark Group, this program supports trainees through college and onboard training, covering living costs and providing a training allowance. Key personal attributes include motivation, commitment, initiative, teamwork, and physical fitness. Academic requirements include a minimum of 4 &lt;span class=&quot;caps&quot;&gt;GCSE&lt;/span&gt;s in Maths, English, and Combined Science.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231734/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231734/</link>
-  <title>[AI Job] Merchant Navy Cadetship - Tanker Fleet at John H. Whitaker (Tankers) Limited</title>
-  <dc:date>2026-11-04 17:00:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230989/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cadet Deck position is available on a Container vessel. The joining date is October 3, 2026, for a 6-month contract.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230989/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230989/</link>
-  <title>[AI Job] Cadet Deck Job on Container Vessel at IQrew management</title>
-  <dc:date>2026-10-05 17:00:32</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/230966/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cadetship programme is available for individuals seeking a career at sea in the Merchant Navy. This three-year program involves a combination of college-based study and practical experience onboard, leading to an Officer of the Watch (&lt;span class=&quot;caps&quot;&gt;OOW&lt;/span&gt;) certificate in either Deck or Engineering, along with an Advanced Certificate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/230966/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/230966/</link>
-  <title>[AI Job] Cadetship Programme - Merchant Navy at James Fisher Marine Services Limited</title>
-  <dc:date>2026-10-05 17:00:28</dc:date>
  </item>
 </rdf:RDF>
