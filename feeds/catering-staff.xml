@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-11-2026</dc:date>
+  <dc:date>12-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232844/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232769/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232770/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232727/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232728/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232672/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232630/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232631/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232610/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232602/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232596/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232597/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232844/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Perth point of hire&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Cook position is available with a 28:28 contract duration. The point of hire is Perth. This role requires catering experience and the ability to work effectively in a marine environment. Further details on specific requirements and application procedures can be found in the full listing.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232844/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232844/</link>
+  <title>[AI Job] Marine Cook Vacancy at Sodexo</title>
+  <dc:date>2026-11-12 01:47:32</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232769/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Public Area Attendant is sought for an international cruise ship to uphold high standards of cleanliness, safety, and hospitality. Responsibilities include maintaining public areas, crew spaces, and assigned facilities, operating housekeeping equipment, and adhering to safety and service protocols. Candidates require at least one year of hotel housekeeping experience and conversational English proficiency.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232769/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232769/</link>
+  <title>[AI Job] Public Area Attendant Job on International Cruise Ship at Job Selection</title>
+  <dc:date>2026-11-11 13:27:05</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232770/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Public Area Attendant is sought to maintain high cleanliness, safety, and hospitality standards on an international cruise ship. Responsibilities include cleaning public areas, decks, crew areas, and assigned facilities, operating housekeeping equipment, and handling chemicals safely. The role requires a minimum of one year of hotel-housekeeping experience and conversational English. Applicants must be physically strong, reliable, and guest-focused, with a minimum age of 21 years.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232770/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232770/</link>
+  <title>[AI Job] Public Area Attendant Job on International Cruise Ship at Job Selection</title>
+  <dc:date>2026-11-11 13:27:05</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232727/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An experienced Chef is sought to lead a premium specialty-dining operation onboard an international cruise ship. Responsibilities include maintaining food quality, developing culinary staff, managing costs, and ensuring guest satisfaction. Key requirements include restaurant leadership experience, preferably on cruise lines or in a 4-star multi-venue setting, with comprehensive knowledge of various cuisines and food safety procedures. Strong English communication skills are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232727/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232727/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/232610/</link>
   <title>[AI Job] Cook Vacancy on Ro-Pax Ship at Crewplanet Ltd.</title>
   <dc:date>2026-11-10 17:13:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232602/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship is seeking an Assistant Shorex Manager. This role is offered by a service that connects global talent with maritime careers, following international recruitment standards. Recruitment is strictly by appointment and invitation only, with applications submitted online.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232602/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232602/</link>
-  <title>[AI Job] Assistant Shorex Manager Job on Cruise Ship at Crew Life at Sea (Pty) Ltd</title>
-  <dc:date>2026-11-10 17:13:34</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232596/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Purser position is available on a cruise ship. This role connects global talent with cruise ship opportunities. The hiring process is strictly online, and candidates are never charged placement fees. All applications must be submitted through official channels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232596/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232596/</link>
-  <title>[AI Job] 2nd Purser Job on Cruise Ship at Crew Life at Sea (Pty) Ltd</title>
-  <dc:date>2026-11-10 17:13:33</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232597/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Art Associate role is open for a cruise ship. This opportunity is part of a program connecting international talent with maritime careers, adhering to global recruitment standards. Applications are exclusively accepted via official online channels, with no fees charged to candidates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232597/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232597/</link>
-  <title>[AI Job] Art Associate Job on Cruise Ship at Crew Life at Sea (Pty) Ltd</title>
-  <dc:date>2026-11-10 17:13:33</dc:date>
  </item>
 </rdf:RDF>

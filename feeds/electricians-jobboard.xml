@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-11-2026</dc:date>
+  <dc:date>12-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232815/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232793/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232733/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232684/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232646/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232622/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232616/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232585/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232574/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232544/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232815/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Houma, Louisiana&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Marine Electricians are sought for a long-term shipyard opportunity in Houma, Louisiana. This role requires the ability to read electrical prints and schematics, perform electrical terminations, and possess experience with marine/industrial installations. Candidates must demonstrate strong attendance, reliability, and professionalism. The position offers an anticipated several years of work with a pay rate of $20-$25 per hour based on experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232815/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232815/</link>
+  <title>[AI Job] Marine Electrician Job - Long Term Shipyard Work at E3 Industrial</title>
+  <dc:date>2026-11-11 14:31:14</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232793/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position is available on a modern Crude Oil Tanker built in 2023. The vessel is equipped with a &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W 6G70ME-C main engine. Joining is expected in mid-December for a contract duration of 4 months, with a flexible +/- 1 month. Salary is negotiable. Candidates require good English, experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W ME engines and steam turbines, an Advanced Oil Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;, and relevant experience in rank on oil tankers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232793/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232793/</link>
+  <title>[AI Job] ETO Job on Crude Oil Tanker at Marine and Off Shore Recruitment. CSM Manning Agency</title>
+  <dc:date>2026-11-11 14:31:10</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232733/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; North Sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; required for a &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt; vessel in the North Sea. Joining on 02.12 for a 4-week contract. Candidates must possess relevant CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;s, medicals, and other required certifications. Seafarer&amp;#8217;s experience and relevant documentation are essential for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232733/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232733/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232585/</link>
   <title>[AI Job] Ship Electrician Job - Research Vessel at Briese Crewing Ukraine</title>
   <dc:date>2026-11-10 17:13:31</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232574/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is needed for Oil / Asphalt Tankers, joining in Oman. The salary is 650 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Previous experience on this type of vessel and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates are required. Applicants should submit their CV and relevant certificates.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232574/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232574/</link>
-  <title>[AI Job] ETO Vacancy on Oil / Asphalt Tanker at Terra-Marine Agencies (Pvt) Ltd.</title>
-  <dc:date>2026-11-10 17:13:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232544/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) position is open on a Research Vessel. This vacancy was updated on October 27, 2026. Further details and application are available through the link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232544/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232544/</link>
-  <title>[AI Job] ETO Job - Research Vessel at Azureus Offshore Training INDONESIA</title>
-  <dc:date>2026-11-10 17:13:24</dc:date>
  </item>
 </rdf:RDF>

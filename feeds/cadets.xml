@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Cadets</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-11-2026</dc:date>
+  <dc:date>12-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232778/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232745/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232647/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232439/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232258/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231960/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231946/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/231880/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232778/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Deck Cadet position is available on a Bulk Carrier vessel for a 6-month contract. This role offers an opportunity to gain experience at sea. The position requires a motivated individual eager to learn and contribute to the deck department&amp;#8217;s operations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232778/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232778/</link>
+  <title>[AI Job] Deck Cadet Job on Bulk Carrier at L-STREAM</title>
+  <dc:date>2026-11-11 13:27:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232745/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Applications are open for a Deck Cadet position, requiring full-time student status at Massachusetts Maritime Academy. Candidates must be eligible for a &lt;span class=&quot;caps&quot;&gt;USCG&lt;/span&gt; Issued License Upon Graduation, possess Vessel Personnel with Designated Security Duties, a valid &lt;span class=&quot;caps&quot;&gt;TWIC&lt;/span&gt; card, US Passport, and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; Medical certificate. Preferred qualifications include extracurricular activities. Competitive compensation and benefits are offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232745/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232745/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/231946/</link>
   <title>[AI Job] Engine Cadet Job on Bulk Carrier at L-STREAM.COM.UA</title>
   <dc:date>2026-11-05 08:19:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/231880/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A trainee programme is available for individuals seeking to start a career in the maritime industry. This opportunity offers a path for growth within the sector. Further details regarding the programme and application process can be obtained from the hiring entity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/231880/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/231880/</link>
-  <title>[AI Job] Trainee Programme Opportunity at Tananger Offshore</title>
-  <dc:date>2026-11-04 17:00:50</dc:date>
  </item>
 </rdf:RDF>

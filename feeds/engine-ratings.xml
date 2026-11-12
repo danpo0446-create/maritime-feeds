@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>11-11-2026</dc:date>
+  <dc:date>12-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232792/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232749/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232678/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232670/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232578/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232580/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232581/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232575/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232792/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for experienced Fitter and Oiler positions on a Bulk Carrier. Candidates must possess valid documents for at least 18 months, updated &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560 certification, experience with mixed crews, fluent English skills, and completed &lt;span class=&quot;caps&quot;&gt;COVID&lt;/span&gt;-19 vaccination. This is a free recruitment opportunity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232792/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232792/</link>
+  <title>[AI Job] Fitter and Oiler Jobs on Bulk Carrier at PT. KSM INDONESIA</title>
+  <dc:date>2026-11-11 14:31:10</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232749/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman position is available on a &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; vessel. The joining date is scheduled for the end of November 2026, with a contract duration of 2 months. The offered salary is $2000 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232749/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232749/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232581/</link>
   <title>[AI Job] Oiler Vacancy on Oil Tanker at Terra-Marine Agencies (Pvt) Ltd.</title>
   <dc:date>2026-11-10 17:13:30</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232575/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oman&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available on Oil / Asphalt Tankers, with joining in Oman. The salary offered is 500 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Prior experience on this vessel type and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates are necessary. CVs and scanned copies of relevant certificates must be submitted.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232575/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232575/</link>
-  <title>[AI Job] Fitter Job on Oil / Asphalt Tanker at Terra-Marine Agencies (Pvt) Ltd.</title>
-  <dc:date>2026-11-10 17:13:29</dc:date>
  </item>
 </rdf:RDF>
