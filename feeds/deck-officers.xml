@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-11-2026</dc:date>
+  <dc:date>13-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232886/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232883/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232866/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232857/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232856/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232840/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232806/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232753/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232731/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232703/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232691/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232654/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232886/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate position is available for sea service. The required period is from November 25, 2026, to December 23, 2026. Candidates must be experienced and possess all necessary valid certificates and qualifications. Food and travel expenses will be fully covered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232886/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232886/</link>
+  <title>[AI Job] Chief Mate Job - Sea Service at Kapitein Crewing</title>
+  <dc:date>2026-11-12 20:22:04</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232883/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a Chemical/Oil Products Tanker, built in 2025 with 50606 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. Joining is expected at the end of January for a contract duration of 4 months, with flexibility of +/-1 month. Salary is negotiable. Candidates require good English, Framo experience, and relevant experience in rank, along with a strong safety culture and experience in a multinational working environment. Family insurance is provided as an extra benefit.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232883/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232883/</link>
+  <title>[AI Job] Chief Officer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
+  <dc:date>2026-11-12 20:22:03</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232866/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Hamburg&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Captain or Chief Officer with tanker operational background is sought for an ashore &lt;span class=&quot;caps&quot;&gt;SSHEQ&lt;/span&gt; Superintendent position in Hamburg. This role requires a strong interest in safety, quality, and responsible ship operations. A career change ashore is offered to a qualified candidate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232866/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232866/</link>
+  <title>[AI Job] SSHEQ Superintendent Job Ashore - Tanker Experience at John T. Essberger GmbH &amp; Co KG</title>
+  <dc:date>2026-11-12 20:22:00</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232857/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232857/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232857/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/232731/</link>
   <title>[AI Job] Master Vacancy on ASD Tug Vessel at ORCA Crew Services</title>
   <dc:date>2026-11-10 20:25:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232703/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available on an Oil/Chemical Tanker of 13062 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;. The joining date is November 15, 2026, with a contract duration of 4 months. The offered salary is $14700 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232703/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232703/</link>
-  <title>[AI Job] Master Job on Oil/Chemical Tanker at NextShip</title>
-  <dc:date>2026-11-10 20:25:41</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232691/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate position is available on a General Cargo vessel operating in Europe. The contract is temporary, with a duration of 4 weeks, and the joining date is November 23, 2026. This role is suitable for experienced deck officers seeking short-term assignments.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232691/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232691/</link>
-  <title>[AI Job] Chief Mate Vacancy on General Cargo Vessel at ORCA Crew Services</title>
-  <dc:date>2026-11-10 20:25:39</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232654/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a Chemical/Oil Products Tanker built in 2010. Joining date is November 20, 2026, for a 5 months +/- 1 contract, with a salary of $11,200. The vessel will operate on coastal/regional routes in Chile for an extended period. Candidates must have good English proficiency and prior rank experience. Stable seagoing service and vaccination are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232654/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232654/</link>
-  <title>[AI Job] Chief Officer Vacancy - Chemical Tanker at Staff Centre</title>
-  <dc:date>2026-11-10 17:13:42</dc:date>
  </item>
 </rdf:RDF>

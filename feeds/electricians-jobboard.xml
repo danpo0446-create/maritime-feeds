@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-11-2026</dc:date>
+  <dc:date>13-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232904/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232865/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232815/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232793/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232733/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232644/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232643/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232622/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232616/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232585/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232904/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Marine Electrician available for immediate start on shipbuilding projects in the Netherlands. Proficient in cable pulling, equipment installation, and reading technical drawings, with experience in maritime systems. Possesses own van, tools, and valid &lt;span class=&quot;caps&quot;&gt;VCA&lt;/span&gt;-&lt;span class=&quot;caps&quot;&gt;VOL&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;NEN&lt;/span&gt; 3140, and &lt;span class=&quot;caps&quot;&gt;NEN&lt;/span&gt; 1010 certificates. Fluent in English and basic Dutch, ready to integrate into your team and assist with tight deadlines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232904/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232904/</link>
+  <title>[AI Job] Marine Electrician Job - Shipbuilding Projects at </title>
+  <dc:date>2026-11-12 20:22:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232865/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for modern Supramax and Ultramax geared bulk carrier vessels. Essential qualifications include previous &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; experience, mandatory experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W ME / ME-C electronic main engines, and experience with fully electric cargo cranes. Candidates must possess strong technical and troubleshooting skills, along with very good English proficiency. The contract duration is 4 months, with joining as soon as possible.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232865/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232865/</link>
+  <title>[AI Job] ETO Job on Bulk Carrier Vessels at Nedcon Maritime Manpower Supply</title>
+  <dc:date>2026-11-12 20:22:00</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232815/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Houma, Louisiana&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Marine Electricians are sought for a long-term shipyard opportunity in Houma, Louisiana. This role requires the ability to read electrical prints and schematics, perform electrical terminations, and possess experience with marine/industrial installations. Candidates must demonstrate strong attendance, reliability, and professionalism. The position offers an anticipated several years of work with a pay rate of $20-$25 per hour based on experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232815/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232815/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232622/</link>
   <title>[AI Job] Electrical Engineer Job on Container Ship at OCEAN ARMADA</title>
   <dc:date>2026-11-10 17:13:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232616/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) is sought for an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessel. The contract duration is 6 months, with a salary of 6900. Interested candidates should submit their application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232616/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232616/</link>
-  <title>[AI Job] ETO Job on LPG Vessel at Epsilon Odessa</title>
-  <dc:date>2026-11-10 17:13:36</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232585/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Leer, Germany&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Ship Electrician is sought for a research vessel. The position is based in Leer, Germany. Key responsibilities include electrical maintenance and repair onboard.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232585/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232585/</link>
-  <title>[AI Job] Ship Electrician Job - Research Vessel at Briese Crewing Ukraine</title>
-  <dc:date>2026-11-10 17:13:31</dc:date>
  </item>
 </rdf:RDF>

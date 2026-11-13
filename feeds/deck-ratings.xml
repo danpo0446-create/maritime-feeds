@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-11-2026</dc:date>
+  <dc:date>13-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232918/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232916/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232889/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232735/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232719/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232704/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232699/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232679/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232677/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232669/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232656/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232651/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232918/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A civilian Able Seaman position is available with the Military Sealift Command, operating on ships that transport Navy fuel and ammunition. The role offers a base salary of $64,000, with an average earning potential of $119,000 including overtime and premiums. The contract involves approximately 4 months at sea. Applicants require US citizenship and Coast Guard credentials.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232918/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232918/</link>
+  <title>[AI Job] Able Seaman Job - Military Sealift Command at Military Sealift Command (MSC)</title>
+  <dc:date>2026-11-13 10:43:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232916/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A seafarer is sought for the position of Able Seaman (AB) on a container vessel. The role offers a salary of 800 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. All documents must be valid, and joining is expected between the end of November and December. Good speaking ability is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232916/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232916/</link>
+  <title>[AI Job] AB Vacancy on Container Ship at PT. ARSYA SHIP MANAGEMENT</title>
+  <dc:date>2026-11-13 10:43:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232889/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) is sought for a General Cargo vessel. The contract duration is 6-7 months, with joining expected at the end of November. Candidates require good English, previous AB experience, and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 2010 (Manila) certificates. Experience with multinational crews and a Schengen Visa are advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232889/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232889/</link>
+  <title>[AI Job] Able Seaman Job on General Cargo Vessel at PT Delphine Comar Indonesia</title>
+  <dc:date>2026-11-12 20:22:04</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232735/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple Bosun positions are available on Tanker and General Cargo vessels. Joining dates are December 6 or December 19 for a 3-month contract. Salary is negotiable based on experience. Benefits include company-paid taxes and rotation. Requirements include valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, medical certificate, Basic Tanker Training, and good command of English.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232735/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232735/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/232677/</link>
   <title>[AI Job] OS/AB Vacancy - UAE at Navico Marine</title>
   <dc:date>2026-11-10 17:13:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232669/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking an Able Seaman (AB) for a position based in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. Candidates should possess a Watch Keeping Certificate and a minimum of 9 months of sea experience. Further details regarding joining date and contract duration are available upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232669/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232669/</link>
-  <title>[AI Job] AB Vacancy - UAE at Navico Marine</title>
-  <dc:date>2026-11-10 17:13:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232656/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman position is available on a Bulk Carrier constructed in 2005. Joining date is November 25, 2026, for a 5 months +/- 1 contract, with a salary of $1,800. Stable seagoing service with the same shipowner/shipmanager and vaccination are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232656/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232656/</link>
-  <title>[AI Job] Able Seaman Job - Bulk Carrier at Staff Centre</title>
-  <dc:date>2026-11-10 17:13:42</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232651/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking an Ordinary Seaman for a Bulk Carrier constructed in 2009. The role commences on November 19, 2026, with a contract duration of 1 month +/- 1 and a salary of $1,500. Stable seagoing service with the same shipowner/shipmanager and vaccination are mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232651/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232651/</link>
-  <title>[AI Job] Ordinary Seaman Job - Bulk Carrier at Staff Centre</title>
-  <dc:date>2026-11-10 17:13:41</dc:date>
  </item>
 </rdf:RDF>

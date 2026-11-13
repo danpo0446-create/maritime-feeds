@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>12-11-2026</dc:date>
+  <dc:date>13-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232820/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232811/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232661/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232214/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232210/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232202/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232169/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232898/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; South of France&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A highly technical 55m motor yacht based in the South of France is seeking a practical and determined 2nd Engineer. The role requires strong hands-on mechanical, electrical, and technical troubleshooting skills, with a focus on problem-solving and proactive ownership. The position offers approximately €6,000 per month negotiable salary and around 55 days of leave per year. A commitment of at least 12 months is expected. The yacht spends most of its time alongside, offering an excellent opportunity to systematically address technical issues.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232898/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232898/</link>
+  <title>[AI Job] 2nd Engineer Job - 55m Motor Yacht at Hodgson Marine</title>
+  <dc:date>2026-11-12 20:22:06</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232820/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Med / Caribbean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a 50m private and charter sailing yacht operating a dual-season program between the Mediterranean and Caribbean. The role involves supporting the Captain in yacht operations, managing the deck department, and overseeing deck maintenance and guest activities. Candidates require a Chief Mate 3000GT license and prior experience on sailing yachts, preferably on vessels over 50m. Strong sailing knowledge and leadership skills are essential for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232820/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232820/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232202/</link>
   <title>[AI Job] Chief Engineer Job - 150&apos; Palmer Johnson Private Yacht at Blue Oceans Yachting Powered by Crew Unlimited</title>
   <dc:date>2026-11-07 17:22:49</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232169/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; South Pacific&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A yacht is seeking an Activities &amp;amp; Events Associate with a strong aquatic safety background and experience in open-water environments. Candidates should possess &lt;span class=&quot;caps&quot;&gt;RYA&lt;/span&gt; Powerboat certification or the ability to obtain it, along with watersports experience. StarGuard Instructor Certification is preferred. Outstanding customer service and communication skills are essential for this role.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232169/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232169/</link>
-  <title>[AI Job] Activities &amp;amp; Events Associate Job on Yacht at StarGuard ELITE</title>
-  <dc:date>2026-11-06 21:12:59</dc:date>
  </item>
 </rdf:RDF>
