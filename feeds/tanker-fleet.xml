@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-11-2026</dc:date>
+  <dc:date>14-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232929/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232922/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232921/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232877/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232819/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232805/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232804/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232803/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232929/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced officers and engineers are sought for multiple positions on five Steam &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessels. Open roles include Master, Chief Engineer, Chief Officer, Second Engineer, Second Officer, Third Officer, Third Engineer, Fourth Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, and Gas Engineer. Joining dates are available between November and January. Contract durations are 3 months for senior ranks and 4 months for junior ranks, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, and Gas Engineer. Mandatory requirements include specific Steam &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; and Steam Turbine propulsion experience, Moss tank experience for certain ranks, and a minimum of 6 months in rank. Attractive monthly wages and performance-based bonuses are offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232929/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232929/</link>
+  <title>[AI Job] LNG Officer and Engineer Jobs on Steam LNG Vessels at One Vision Maritime (OVM)</title>
+  <dc:date>2026-11-13 23:35:40</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232922/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Vessel Operator position is available for chemical tankers. Candidates with relevant experience are encouraged to apply. Further details about this job opportunity can be found via the provided link. Interested individuals should send an email to the specified address, mentioning the job title.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232922/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232922/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Chennai, India / Pune, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Marine Superintendents and Training Superintendents are sought for roles involving specialized tanker management on oil/chemical tankers. Responsibilities include overseeing operations and developing crews. Positions are based in Chennai and Pune, India. Candidates should possess strong industry understanding and sound judgment. This is an opportunity to contribute to a robust maritime team.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232804/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232804/</link>
   <title>[AI Job] Marine Superintendent Job - Chemical Tanker at Maritimesolutionsltd</title>
-  <dc:date>2026-11-11 14:31:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232803/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Chennai, India / Pune, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Opportunities are available for a Training Superintendent and Marine Superintendent roles within the specialized tanker sector. These positions require professionals with strong industry understanding and sound judgment for overseeing marine operations and developing crews. The roles are based in Chennai and Pune, India. Candidates with experience in oil and chemical tanker management are encouraged to explore these openings.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232803/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232803/</link>
-  <title>[AI Job] Marine Superintendent &amp;amp; Training Superintendent Jobs - Tanker Fleet at Navora Pte Ltd</title>
   <dc:date>2026-11-11 14:31:12</dc:date>
  </item>
 </rdf:RDF>

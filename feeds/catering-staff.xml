@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-11-2026</dc:date>
+  <dc:date>14-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232942/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232844/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232769/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232770/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232671/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232630/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232631/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232610/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232942/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook with offshore experience is sought for a 6-week contract on a Jack-Up barge. Immediate joining is required. Key requirements include previous offshore experience. The role offers a fixed-term contract duration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232942/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232942/</link>
+  <title>[AI Job] Cook Job on Jack-Up Barge at CSM Manning Agency</title>
+  <dc:date>2026-11-13 23:35:42</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232844/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Perth point of hire&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Cook position is available with a 28:28 contract duration. The point of hire is Perth. This role requires catering experience and the ability to work effectively in a marine environment. Further details on specific requirements and application procedures can be found in the full listing.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232844/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232844/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232631/</link>
   <title>[AI Job] Cook Vacancy on LCT Vessel at OCEAN ARMADA</title>
   <dc:date>2026-11-10 17:13:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232610/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook is needed for a Ro-Pax vessel. The contract duration is 2 weeks, with a salary of 4652 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. Joining is expected within 3 weeks.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232610/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232610/</link>
-  <title>[AI Job] Cook Vacancy on Ro-Pax Ship at Crewplanet Ltd.</title>
-  <dc:date>2026-11-10 17:13:35</dc:date>
  </item>
 </rdf:RDF>

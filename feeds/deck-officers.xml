@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-11-2026</dc:date>
+  <dc:date>14-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232947/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232930/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232886/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232883/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232866/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232840/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232824/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232806/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232753/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232731/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232947/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a heavy lift vessel. The joining date is mid-February for a contract duration of 4 months, +/-1 month. Salary is negotiable. Candidates must have at least two contracts with crane experience and a minimum of 2-3 contracts as Chief Officer in rank. Good English is required. Family insurance is offered as an extra benefit.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232947/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232947/</link>
+  <title>[AI Job] Chief Officer Job on Heavy Lift Vessel at CSM Manning Agency</title>
+  <dc:date>2026-11-13 23:35:43</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232930/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Shinas, Oman to Karachi, Pakistan&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master Mariner is sought for a short delivery voyage on an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tanker, traveling from Shinas, Oman, to Karachi, Pakistan. The voyage is expected to last approximately 15 days, with a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 3,000 for this period. Should the voyage extend beyond 15 days, payment will be calculated at a rate of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 6,000 per month. Any valid and applicable Master CoC will be considered for this position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232930/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232930/</link>
+  <title>[AI Job] Master Mariner Job on LPG Tanker - Delivery Voyage at WE ARE NAVIGATORS (PRIVATE) LIMITED</title>
+  <dc:date>2026-11-13 23:35:41</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232886/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Mate position is available for sea service. The required period is from November 25, 2026, to December 23, 2026. Candidates must be experienced and possess all necessary valid certificates and qualifications. Food and travel expenses will be fully covered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232886/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232886/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232806/</link>
   <title>[AI Job] 3rd Officer Job - Oil Products Tanker at CSM Manning Agency</title>
   <dc:date>2026-11-11 14:31:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232753/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232753/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232753/</link>
-  <title>[Gold Job] Second Officer for NON DP Crew Boat at </title>
-  <dc:date>2026-11-11 09:53:28</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232731/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Master position is available on an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tug vessel operating in Europe. The temporary contract is scheduled to commence on November 10, 2026, with a duration of one week. Key requirements and further details are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232731/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232731/</link>
-  <title>[AI Job] Master Vacancy on ASD Tug Vessel at ORCA Crew Services</title>
-  <dc:date>2026-11-10 20:25:44</dc:date>
  </item>
 </rdf:RDF>

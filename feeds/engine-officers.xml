@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-11-2026</dc:date>
+  <dc:date>14-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232948/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232924/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232910/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232891/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232884/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232876/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232875/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232874/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232948/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 4th Engineer is sought for a heavy lift vessel. The contract duration is 4 months +/- 1 month, with a negotiable salary. Joining is expected in early January. Candidates must have experience with &lt;span class=&quot;caps&quot;&gt;MAN&lt;/span&gt; B&amp;amp;W (or RT-Flex) engines, relevant experience in rank, and a strong safety culture. Good English is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232948/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232948/</link>
+  <title>[AI Job] 4th Engineer Job - Heavy Lift Vessel at CSM Manning Agency</title>
+  <dc:date>2026-11-13 23:35:43</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232924/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chief Engineers and Second Engineers are sought for a General Cargo vessel trading worldwide. Indian, UK, and Panama CoC holders with relevant experience on similar vessels are preferred. This is an opportunity to join an &lt;span class=&quot;caps&quot;&gt;ISO&lt;/span&gt;-certified, &lt;span class=&quot;caps&quot;&gt;MLC&lt;/span&gt;-compliant agency focused on transparent management and crew welfare.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232924/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232924/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer position is available on a tug vessel. The role is based in Abu Dhabi. Key responsibilities include overseeing the vessel&amp;#8217;s engine department and ensuring operational efficiency. This opportunity is for experienced maritime professionals seeking a challenging role within the offshore sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232875/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232875/</link>
   <title>[AI Job] Tug Chief Engineer Job in Abu Dhabi at NMDC</title>
-  <dc:date>2026-11-12 20:22:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232874/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer position is available on a tug vessel operating in Abu Dhabi. This role requires a qualified engineer to manage the vessel&amp;#8217;s engine department. Further details regarding the contract duration and joining date are not specified in the announcement.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232874/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232874/</link>
-  <title>[AI Job] Chief Engineer Job - Tug Vessel at Global Career Pulse Hub</title>
   <dc:date>2026-11-12 20:22:02</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-11-2026</dc:date>
+  <dc:date>14-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232933/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232821/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232761/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232729/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232659/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232660/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232662/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232663/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232933/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK, International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are available for all positions on the Queen Mary 2 cruise ship. Both freshers and experienced candidates are welcome to apply. Salary ranges from 2,500 to 9,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Visa, ticket, and accommodation will be provided. Positions are located in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, UK, and internationally.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232933/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232933/</link>
+  <title>[AI Job] All Positions Hiring on Queen Mary 2 Cruise Ship at Cruise Line Recruitment</title>
+  <dc:date>2026-11-13 23:35:41</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232821/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Hotel Services Engineer sought for an international cruise ship to ensure safe and high-quality technical operations. Responsibilities include coordinating maintenance and repairs for hotel and F&amp;amp;B equipment, leading a technical team, and managing &lt;span class=&quot;caps&quot;&gt;AMOS&lt;/span&gt; work orders. Requires at least 5 years of technical maintenance experience and a valid 2nd Engineer license. Contract is 3 months on/3 months off. European candidates preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232821/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232821/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Regent Seven Seas is seeking qualified individuals for positions on their cruise liners. This listing covers various roles within the fleet. Details regarding specific job openings, embarkation schedules, contract terms, and salary will be provided upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232662/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232662/</link>
   <title>[AI Job] Regent Seven Seas Cruise Ship Jobs at REGENT SEVEN SEAS</title>
-  <dc:date>2026-11-10 17:13:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232663/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bishkek&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Scylla is hiring for positions on their cruise liners, with in-person interviews scheduled in Bishkek. This vacancy is for various roles aboard their fleet. Further information on specific job requirements, joining dates, contract duration, and remuneration is available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232663/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232663/</link>
-  <title>[AI Job] Scylla Cruise Ship Jobs - Bishkek Interviews at SCYLLA</title>
   <dc:date>2026-11-10 17:13:43</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>13-11-2026</dc:date>
+  <dc:date>14-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232936/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232931/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232820/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232811/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232248/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232214/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232210/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232202/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232936/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Bodrum, Türkiye&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A private 29-metre motor yacht requires a Captain, Chief Engineer, and Deckhand/Mate in Bodrum, Türkiye. The position offers 30 days of annual leave, with salary based on experience. Immediate availability is advantageous. Candidates must possess relevant maritime experience, appropriate professional certifications, and a reliable, motivated attitude with strong teamwork skills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232936/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232936/</link>
+  <title>[AI Job] Captain, Chief Engineer, Deckhand Jobs on Private Yacht at Gulf &amp; Middle East Jobs</title>
+  <dc:date>2026-11-13 23:35:41</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/232931/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Europe&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deckhand required for a 70m motor yacht. Position is permanent, working on charter and private vessels with a dual season itinerary. Joining date is 21 November 2026, with embarkation in Europe. Salary offered is 3000 Euros per month plus tips, with full medical insurance and 60 days of vacation. A training budget is also provided. B1/B2 visa is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232931/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232931/</link>
+  <title>[AI Job] Deckhand Job on 70m Yacht at Blue Oceans Yachting Powered by Crew Unlimited</title>
+  <dc:date>2026-11-13 23:35:41</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232898/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; South of France&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A highly technical 55m motor yacht based in the South of France is seeking a practical and determined 2nd Engineer. The role requires strong hands-on mechanical, electrical, and technical troubleshooting skills, with a focus on problem-solving and proactive ownership. The position offers approximately €6,000 per month negotiable salary and around 55 days of leave per year. A commitment of at least 12 months is expected. The yacht spends most of its time alongside, offering an excellent opportunity to systematically address technical issues.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232898/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232898/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232214/</link>
   <title>[AI Job] Technical Operations Manager Job - Sailing Yacht at K-Challenge Racing &amp; Lab</title>
   <dc:date>2026-11-07 17:22:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232210/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Cochin, Kerala, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A position for a Laskar/Seaman is available on a luxurious yacht operating in Cochin, Kerala, India. The role offers a salary of ₹15,000 per month with working hours from Monday to Friday, 09:00 AM to 05:00 PM, and weekends off. Requirements include a valid passport and &lt;span class=&quot;caps&quot;&gt;PCC&lt;/span&gt;, along with basic seafaring attitude and good team spirit. Candidates aspiring for a career in the Merchant Navy are encouraged to apply. Benefits include PF &amp;amp; &lt;span class=&quot;caps&quot;&gt;ESI&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232210/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232210/</link>
-  <title>[AI Job] Laskar / Seaman Job on Luxurious Yacht in Cochin at DAGON SEA INNOVATION PVT. LTD.</title>
-  <dc:date>2026-11-07 17:22:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232202/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Fort Lauderdale, Florida&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 150-foot Palmer Johnson private motor yacht is seeking an experienced Chief Engineer. Candidates should possess prior private motor yacht engineering experience and hold &lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt; and/or Y3 certifications. Essential skills include strong technical knowledge, troubleshooting capabilities, and a proactive approach to preventative maintenance. The position offers a 10 weeks on / 10 weeks off rotation and full health insurance. The yacht is based in Fort Lauderdale, Florida, and cruises the Caribbean and Mediterranean.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232202/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232202/</link>
-  <title>[AI Job] Chief Engineer Job - 150&apos; Palmer Johnson Private Yacht at Blue Oceans Yachting Powered by Crew Unlimited</title>
-  <dc:date>2026-11-07 17:22:49</dc:date>
  </item>
 </rdf:RDF>
