@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-11-2026</dc:date>
+  <dc:date>15-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233036/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233012/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232942/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232844/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232769/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232728/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232672/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232671/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232630/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232631/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233036/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering staff positions are available for maritime professionals. The roles include Cook and General Steward. The job opening is located in Mumbai. Further details regarding vessel type, contract duration, and joining date are not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233036/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233036/</link>
+  <title>[AI Job] Cook and Steward Vacancy at T &amp; M GROUPS</title>
+  <dc:date>2026-11-15 01:50:10</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233012/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Housekeeping Attendant is sought for an international cruise ship to uphold high standards of cleanliness, safety, and hospitality. Responsibilities include maintaining public and private areas, operating equipment, and adhering to safety protocols. A minimum of one year of hotel housekeeping experience and conversational English are required. Candidates must be physically fit and at least 21 years old.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233012/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233012/</link>
+  <title>[AI Job] Housekeeping Attendant Job on International Cruise Ship at Job Selection</title>
+  <dc:date>2026-11-14 14:18:30</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232942/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook with offshore experience is sought for a 6-week contract on a Jack-Up barge. Immediate joining is required. Key requirements include previous offshore experience. The role offers a fixed-term contract duration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232942/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232942/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232671/</link>
   <title>[AI Job] Steward Vacancy - UAE at Navico Marine</title>
   <dc:date>2026-11-10 17:13:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232630/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Persian Gulf (ADNOC - UAE)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook is required for an &lt;span class=&quot;caps&quot;&gt;AHT&lt;/span&gt;/AHTS vessel sailing in the Persian Gulf (&lt;span class=&quot;caps&quot;&gt;ADNOC&lt;/span&gt; &amp;#8211; &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;). The contract is for 9 months, with a monthly salary of 800 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. International experience is a prerequisite. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232630/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232630/</link>
-  <title>[AI Job] Cook Job on AHT/AHTS Vessel at OCEAN ARMADA</title>
-  <dc:date>2026-11-10 17:13:38</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232631/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Persian Gulf (ADNOC - UAE)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook position is available on an &lt;span class=&quot;caps&quot;&gt;LCT&lt;/span&gt; vessel operating in the Persian Gulf (&lt;span class=&quot;caps&quot;&gt;ADNOC&lt;/span&gt; &amp;#8211; &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;). The contract duration is 9 months, with a monthly salary of 800 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. Candidates must have international experience. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232631/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232631/</link>
-  <title>[AI Job] Cook Vacancy on LCT Vessel at OCEAN ARMADA</title>
-  <dc:date>2026-11-10 17:13:38</dc:date>
  </item>
 </rdf:RDF>

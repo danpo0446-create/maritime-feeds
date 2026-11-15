@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-11-2026</dc:date>
+  <dc:date>15-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233024/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232936/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232931/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232898/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232286/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232272/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232248/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232214/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233024/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Palma based&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 50m Motor Yacht is seeking a practical, hands-on Second Engineer with a can-do attitude. Responsibilities include daily engine room operations and assisting on deck. The position offers a 10 weeks on / 10 weeks off rotation, with a base in Palma. Salary is around €6,000 per month, plus reported annual tips of approximately €15,000. The yacht is currently undergoing a 30-year survey with refit work.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233024/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233024/</link>
+  <title>[AI Job] 2nd Engineer Job - 50m Motor Yacht at Hodgson Marine</title>
+  <dc:date>2026-11-15 01:50:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232936/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Bodrum, Türkiye&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A private 29-metre motor yacht requires a Captain, Chief Engineer, and Deckhand/Mate in Bodrum, Türkiye. The position offers 30 days of annual leave, with salary based on experience. Immediate availability is advantageous. Candidates must possess relevant maritime experience, appropriate professional certifications, and a reliable, motivated attitude with strong teamwork skills.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232936/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232936/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232248/</link>
   <title>[AI Job] Yacht Crew Opportunities at Four Seasons Yacht at All Cruise Jobs – Worldwide Ship Careers</title>
   <dc:date>2026-11-08 08:18:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232214/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Naples, Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Technical Operations Manager is sought to oversee technical operations, coordinate teams, and ensure the smooth running of activities for a sailing campaign. Responsibilities include coordinating daily planning, overseeing infrastructure and support vessels, managing the technical team, and ensuring operational efficiency, maintenance, and safety. The role requires experience in logistics, strong technical and nautical knowledge, excellent organizational skills, and fluency in French and English. Location is Naples, Italy, with travel to France and Europe.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232214/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232214/</link>
-  <title>[AI Job] Technical Operations Manager Job - Sailing Yacht at K-Challenge Racing &amp; Lab</title>
-  <dc:date>2026-11-07 17:22:50</dc:date>
  </item>
 </rdf:RDF>

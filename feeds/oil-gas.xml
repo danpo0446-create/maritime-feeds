@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-11-2026</dc:date>
+  <dc:date>15-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233032/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232774/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232775/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232776/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232744/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232324/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232322/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232323/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233032/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Barmer, Rajasthan, India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for multiple positions on workover rig operations in Barmer, Rajasthan. Openings include roles in Drilling Operations, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt;, Mechanical &amp;amp; Electrical, and other departments. Candidates must possess relevant workover rig experience and specific experience related to the applied position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233032/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233032/</link>
+  <title>[AI Job] Workover Rig Crew Vacancies in India at KRISS Drilling</title>
+  <dc:date>2026-11-15 01:50:10</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232774/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced mechanical professionals are sought for a major Oil &amp;amp; Gas shutdown project in Qatar. Multiple skilled trades and technical positions are available, including Fabricator, Fitter, Rigger, and Technician roles. Previous Oil &amp;amp; Gas shutdown experience and relevant mechanical expertise are required for these assignments.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232774/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232774/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for candidates to join &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; vessels. Roles include Cargo Operator, Production Superintendent, Mechanical &amp;amp; Hydraulic Supervisor, Instrument Technician, Electrical Technician, Engine Room Supervisor, &lt;span class=&quot;caps&quot;&gt;ICSS&lt;/span&gt; Technician, and Mechanical Technician. Specific experience requirements vary by role, with some positions requiring offshore or tanker experience. Joining dates are &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; for most roles. Singapore employment permits may be required for some positions.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232322/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232322/</link>
   <title>[AI Job] FPSO Vacancies: Cargo Operator, Production Supt, Technicians &amp;amp; Engineers at VIRAL JOBS</title>
-  <dc:date>2026-11-09 14:46:17</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232323/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; vessels, including Cargo Operator, Production Superintendent, Mechanical &amp;amp; Hydraulic Supervisor, Instrument Technician, Electrical Technician, Engine Room Supervisor, &lt;span class=&quot;caps&quot;&gt;ICSS&lt;/span&gt; Technician, and Mechanical Technician. Experience requirements vary by role, with specific preferences for offshore, supervisory, and tanker experience. Joining is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232323/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232323/</link>
-  <title>[AI Job] FPSO Vacancies: Cargo Operator, Production Supt, Technicians &amp;amp; Supervisors at Jobs info</title>
   <dc:date>2026-11-09 14:46:17</dc:date>
  </item>
 </rdf:RDF>

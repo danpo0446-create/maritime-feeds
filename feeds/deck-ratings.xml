@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>14-11-2026</dc:date>
+  <dc:date>15-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/232991/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232918/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232916/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232889/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232701/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232699/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232679/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232677/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/232991/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Norway, North Sea and Baltic&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) is sought for a dry cargo coaster (6400 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;NIS&lt;/span&gt; flag) trading in Norway, the North Sea, and the Baltic. The contract duration is approximately 2 months on board, followed by 4 weeks off. Joining is expected around November 17th. Previous coaster experience and immediate availability are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232991/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/232991/</link>
+  <title>[AI Job] AB Seaman Job on Dry Cargo Coaster at Arriva Shipping</title>
+  <dc:date>2026-11-14 13:31:35</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232918/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A civilian Able Seaman position is available with the Military Sealift Command, operating on ships that transport Navy fuel and ammunition. The role offers a base salary of $64,000, with an average earning potential of $119,000 including overtime and premiums. The contract involves approximately 4 months at sea. Applicants require US citizenship and Coast Guard credentials.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232918/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232918/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232679/</link>
   <title>[AI Job] AB Vacancy - Dammam at Navico Marine</title>
   <dc:date>2026-11-10 17:13:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232677/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company requires four Ordinary Seamen (OS) or Able Seamen (AB) for a position in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. Applicants must possess a Watch Keeping Certificate and have a minimum of 9 months of sea experience. Inquire for joining dates and contract details.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232677/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232677/</link>
-  <title>[AI Job] OS/AB Vacancy - UAE at Navico Marine</title>
-  <dc:date>2026-11-10 17:13:45</dc:date>
  </item>
 </rdf:RDF>
