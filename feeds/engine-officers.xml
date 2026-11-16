@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-11-2026</dc:date>
+  <dc:date>16-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233103/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233030/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233008/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233006/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232924/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232910/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232891/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232890/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233103/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233103/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233103/</link>
+  <title>[Gold Job] Chief Engineer for DP2 AHTS vessel at </title>
+  <dc:date>2026-11-16 10:58:32</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233030/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced 2nd and 3rd Engineers with previous drillship experience are sought for immediate travel. Requirements include a valid Marshall Islands License Endorsement &amp;amp; Seaman Book, &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt;/FOET, &lt;span class=&quot;caps&quot;&gt;OGUK&lt;/span&gt; Medical, and prior drillship experience. Further details are available upon CV submission.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233030/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233030/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232891/</link>
   <title>[AI Job] Chief Engineer Job - 55m Motor Yacht at Hodgson Marine</title>
   <dc:date>2026-11-12 20:22:05</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232890/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Engineer (&lt;span class=&quot;caps&quot;&gt;COC&lt;/span&gt; Class II) with at least one year of sea time experience in the same rank is required for an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; Tug. Indonesian crew are encouraged to apply. The position offers a contract duration and joining date to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232890/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232890/</link>
-  <title>[AI Job] 2nd Engineer Job - ASD Tug at Melya Janwarita</title>
-  <dc:date>2026-11-12 20:22:04</dc:date>
  </item>
 </rdf:RDF>

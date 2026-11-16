@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-11-2026</dc:date>
+  <dc:date>16-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233112/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233009/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232979/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232974/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232929/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232922/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232921/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232877/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233112/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Domestic&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are available for 2nd Officer, 3rd Engineer, and Electro Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) positions on an Aframax Tanker operating domestically. Candidates must possess suitable experience for their respective ranks and vessel type. Immediate joining is required. Seafarers are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233112/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233112/</link>
+  <title>[AI Job] 2nd Officer, 3rd Engineer, ETO Jobs on Aframax Tanker at PT Soechi Lines Tbk</title>
+  <dc:date>2026-11-16 11:24:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233009/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Worldwide&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple officer and engineer positions are available on an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carrier trading worldwide. Joining is scheduled for December 5, 2026. Contract durations range from 3 to 4 months. Salaries vary by rank, from $6,275 for a 4th Engineer/3rd Officer to $24,750 for a Chief Engineer. Additional bonuses for high-risk areas may apply. Relevant experience and valid maritime certificates are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233009/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233009/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232921/</link>
   <title>[AI Job] Vessel Operator Job - Chemical Tankers at Direct Search Global</title>
   <dc:date>2026-11-13 10:43:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232877/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced officers and ratings are sought for a chemical/oil products tanker. Minimum 12 months of relevant experience in the applied rank is required, along with valid Oil/Chemical Tanker and &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates. CoCs from India, the UK, Singapore, or New Zealand are accepted. Expected joining is at the end of November 2026.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232877/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232877/</link>
-  <title>[AI Job] Deck and Engine Officers/Ratings for Chemical/Oil Tanker at RIGEL MARINE SERVICES Pvt. Ltd.</title>
-  <dc:date>2026-11-12 20:22:02</dc:date>
  </item>
 </rdf:RDF>

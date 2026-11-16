@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>15-11-2026</dc:date>
+  <dc:date>16-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233048/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233036/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233012/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232942/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232727/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232728/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232672/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232671/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233048/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Global&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chef position is available within Viking Cruises, a global cruise line operating ocean and river voyages. This role is part of the culinary operations within the maritime hospitality industry. The position is open for global fleet opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233048/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233048/</link>
+  <title>[AI Job] Chef Job - Viking Cruises Fleet at Viking Cruises</title>
+  <dc:date>2026-11-15 13:41:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233036/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering staff positions are available for maritime professionals. The roles include Cook and General Steward. The job opening is located in Mumbai. Further details regarding vessel type, contract duration, and joining date are not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233036/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233036/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232672/</link>
   <title>[AI Job] Cook Vacancy - Abu Dhabi at Navico Marine</title>
   <dc:date>2026-11-10 17:13:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232671/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is recruiting for a Steward role in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. This position is suitable for individuals with experience in catering services at sea. Further information regarding the joining date and contract duration is available.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232671/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232671/</link>
-  <title>[AI Job] Steward Vacancy - UAE at Navico Marine</title>
-  <dc:date>2026-11-10 17:13:44</dc:date>
  </item>
 </rdf:RDF>
