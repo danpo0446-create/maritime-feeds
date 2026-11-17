@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-11-2026</dc:date>
+  <dc:date>17-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233196/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233079/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233078/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233024/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232820/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232811/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232661/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232286/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233196/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Housekeeping Attendant position is available on The World Residences at Sea, the largest privately owned residential yacht. Candidates with housekeeping or hospitality experience seeking a career at sea are encouraged to apply. Key requirements include an up-to-date CV, name, and email address.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233196/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233196/</link>
+  <title>[AI Job] Housekeeping Attendant Job on Private Yacht at The World Residences at Sea</title>
+  <dc:date>2026-11-17 13:41:47</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233079/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Mate/Engineer is sought for a 30m+ motor yacht currently based in Italy. The role requires previous experience as a Mate or Engineer with strong general maintenance skills, particularly in hydraulics, electrical systems, and jet ski upkeep. This position offers a seasonal or permanent contract, with a joining date of &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;. Salary is dependent on experience. Italian language skills are a bonus. EU passport or Schengen visa is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233079/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233079/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232661/</link>
   <title>[AI Job] Yacht Crew Vacancies at FOUR SEASONS YACHTS</title>
   <dc:date>2026-11-10 17:13:43</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232286/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Captain is sought for a 28m yacht with a permanent contract. The joining date is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;, and the cruising area is the Mediterranean. Salary is dependent on experience (&lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt;). Relevant experience and valid certificates are required for this position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232286/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232286/</link>
-  <title>[AI Job] Captain Job - 28m Yacht at boutique.yachts</title>
-  <dc:date>2026-11-09 14:46:13</dc:date>
  </item>
 </rdf:RDF>

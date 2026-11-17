@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-11-2026</dc:date>
+  <dc:date>17-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233202/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233158/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233085/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233086/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233083/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232894/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232792/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232749/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232678/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232670/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233202/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available on a Semi-Submersible unit. This role requires experience as a Motorman. Further details regarding joining date, contract duration, and salary are to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233202/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233202/</link>
+  <title>[AI Job] Motorman Job on Semi-Submersible Unit at Blackford Dolphin</title>
+  <dc:date>2026-11-17 13:41:48</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233158/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; at sea&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available for work at sea. The role involves engine department duties. Further details regarding joining date, contract duration, and specific vessel type are not provided. Interested candidates can apply through the provided job board link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233158/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233158/</link>
+  <title>[AI Job] Motorman Job at Sea at DFDS</title>
+  <dc:date>2026-11-16 14:31:21</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233085/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Marine Mechanical Fitters are sought for a project in Saudi Arabia. Responsibilities include repairing and maintaining pumps, valves, compressors, and hydraulic systems, as well as supporting mechanical repair activities for vessels and marine facilities. Candidates must have relevant hands-on experience in marine, shipbuilding, or shipyard environments. Immediate availability is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233085/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233085/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232749/</link>
   <title>[AI Job] Pumpman Job on VLCC at ROHI Global Services Pvt. Ltd.</title>
   <dc:date>2026-11-10 20:25:47</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232678/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dammam&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A maritime company is seeking an Oiler for a position in Dammam. The role is suitable for individuals who are Ratings Forming Part of a Navigational Watch. Details on the joining date and contract duration are available upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232678/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232678/</link>
-  <title>[AI Job] Oiler Vacancy - Dammam at Navico Marine</title>
-  <dc:date>2026-11-10 17:13:45</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232670/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) and Oiler position is available with a maritime company operating in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. Applicants should meet the requirements for Ratings forming Part of a Navigational Watch. Specifics on joining dates and contract terms can be provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232670/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232670/</link>
-  <title>[AI Job] Oiler Vacancy - UAE at Navico Marine</title>
-  <dc:date>2026-11-10 17:13:44</dc:date>
  </item>
 </rdf:RDF>

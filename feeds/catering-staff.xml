@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>16-11-2026</dc:date>
+  <dc:date>17-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233216/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233149/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233048/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233036/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233012/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232769/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232770/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232727/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232728/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232672/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233216/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Steward position is available on a Construction Support Vessel. The role requires experience on similar vessels, along with UK &lt;span class=&quot;caps&quot;&gt;FWP&lt;/span&gt;, National Insurance number, Basic Safety training, Security Awareness, and Boat Transfer or &lt;span class=&quot;caps&quot;&gt;GWO&lt;/span&gt; Sea Survival certification. The contract duration is 4 weeks on / 4 weeks off, with a joining date of December 9, 2026. The vessel will be located in the UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233216/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233216/</link>
+  <title>[AI Job] Steward Job on Construction Support Vessel at Orca Crew Services</title>
+  <dc:date>2026-11-17 13:41:50</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233149/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook and General Steward position is available for offshore operations. Key requirements include experience in catering services. This role is based in Mumbai.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233149/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233149/</link>
+  <title>[AI Job] Cook / General Steward Job - Offshore at T &amp; M GROUPS</title>
+  <dc:date>2026-11-16 14:31:20</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233048/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Global&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chef position is available within Viking Cruises, a global cruise line operating ocean and river voyages. This role is part of the culinary operations within the maritime hospitality industry. The position is open for global fleet opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233048/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233048/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232727/</link>
   <title>[AI Job] Chef Job on International Cruise Ship at Job Selection</title>
   <dc:date>2026-11-10 20:25:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232728/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Chef is sought for a premium specialty-dining operation aboard an international cruise ship. Responsibilities include maintaining food quality, developing culinary personnel, managing costs, and ensuring guest satisfaction. Requires restaurant leadership experience, preferably with cruise line or 4-star multi-venue background, and strong English skills. Knowledge of various cuisines is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232728/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232728/</link>
-  <title>[AI Job] Chef Job on Cruise Ship at Job Selection</title>
-  <dc:date>2026-11-10 20:25:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232672/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Abu Dhabi&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook position is open for applications, with joining from Abu Dhabi. This role is within the maritime sector. Interested candidates should inquire for more details on the joining date and contract duration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232672/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232672/</link>
-  <title>[AI Job] Cook Vacancy - Abu Dhabi at Navico Marine</title>
-  <dc:date>2026-11-10 17:13:45</dc:date>
  </item>
 </rdf:RDF>
