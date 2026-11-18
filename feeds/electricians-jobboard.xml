@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-11-2026</dc:date>
+  <dc:date>18-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233260/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233163/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233150/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233143/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233065/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233064/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233059/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233058/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233260/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) with at least 1 year of experience on DP2 vessels is needed for an immediate joining on an &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;PSV&lt;/span&gt;, or &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt;. The contract duration is 3 months on and 1 month off. Joining is in Qatar. A valid Indian &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; CoC (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/6) is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233260/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233260/</link>
+  <title>[AI Job] ETO Job - AHTS / PSV / DSV DP2 Vessel at UDYA Shipping Services Pvt Ltd</title>
+  <dc:date>2026-11-18 12:05:11</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233163/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrician position is available for individuals with &lt;span class=&quot;caps&quot;&gt;OND&lt;/span&gt;/HND in Electrical/Electronic Engineering or a related technical qualification. Candidates require 3-5 years of experience in electrical maintenance, preferably within the oil and gas or marine sectors. Proficiency in troubleshooting, installation, and maintenance of electrical systems, generators, motors, and switchgears is essential, along with knowledge of &lt;span class=&quot;caps&quot;&gt;PTW&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;LOTO&lt;/span&gt; procedures. Offshore or marine experience is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233163/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233163/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233059/</link>
   <title>[AI Job] Senior Electrical Technician Job - Marine &amp;amp; Shipyard Project at Brilliant Boss HR Consultancy</title>
   <dc:date>2026-11-15 13:41:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233058/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Senior Electrical Technician is sought for a marine and shipyard project in Saudi Arabia. The role involves maintaining, troubleshooting, and repairing electrical distribution systems, control panels, &lt;span class=&quot;caps&quot;&gt;PLC&lt;/span&gt; systems, and power systems. Candidates must have relevant experience in electrical maintenance, with a preference for prior work in marine, shipbuilding, or shipyard environments. Immediate availability is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233058/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233058/</link>
-  <title>[AI Job] Senior Electrical Technician Job - Marine Shipyard Project at Brilliant Boss Human Resources Consultancy</title>
-  <dc:date>2026-11-15 13:41:08</dc:date>
  </item>
 </rdf:RDF>

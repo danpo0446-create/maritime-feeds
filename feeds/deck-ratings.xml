@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-11-2026</dc:date>
+  <dc:date>18-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233255/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233229/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233207/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233184/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233179/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233055/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232991/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232918/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232916/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232889/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233255/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seafarers are invited to submit CVs for Deck Rating positions on General Cargo and Bulk Carrier vessels. The joining date is 11 November 2026, with deployment to China. This role requires experience in deck operations and adherence to safety protocols. Successful candidates will complete their contract and return home safely.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233255/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233255/</link>
+  <title>[AI Job] Deck Rating Job on General Cargo Vessel at 36 Power Marine Myanmar Company</title>
+  <dc:date>2026-11-18 12:05:10</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233229/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia (KSA)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seeking Able Seamen (AB) and Oilers for an &lt;span class=&quot;caps&quot;&gt;ASD&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;TUG&lt;/span&gt; operating in Saudi Arabia. Candidates must hold relevant &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certifications, &lt;span class=&quot;caps&quot;&gt;ILO&lt;/span&gt; medical, H2S training, and possess a minimum of 2 years of experience in the specified rank on similar vessels. Experience on all vessel types is required for Oilers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233229/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233229/</link>
+  <title>[AI Job] AB and Oiler Vacancy on ASD TUG in Saudi Arabia at Zaki Al Zayer Marine Service / Sea Eagles</title>
+  <dc:date>2026-11-17 14:20:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233207/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Queensland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Metal Fabricator position is available for marine fabrication work in North Queensland, Australia. The role is part of a broader recruitment drive for skilled tradespeople. Advertised salaries for selected roles range from A$73,150 to A$79,423 per year, plus superannuation. Specific qualifications and experience requirements will vary by role. Interested candidates should submit their CV detailing trade qualifications, experience, location, and availability.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233207/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233207/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232918/</link>
   <title>[AI Job] Able Seaman Job - Military Sealift Command at Military Sealift Command (MSC)</title>
   <dc:date>2026-11-13 10:43:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232916/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A seafarer is sought for the position of Able Seaman (AB) on a container vessel. The role offers a salary of 800 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt;. All documents must be valid, and joining is expected between the end of November and December. Good speaking ability is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232916/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232916/</link>
-  <title>[AI Job] AB Vacancy on Container Ship at PT. ARSYA SHIP MANAGEMENT</title>
-  <dc:date>2026-11-13 10:43:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232889/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) is sought for a General Cargo vessel. The contract duration is 6-7 months, with joining expected at the end of November. Candidates require good English, previous AB experience, and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 2010 (Manila) certificates. Experience with multinational crews and a Schengen Visa are advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232889/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232889/</link>
-  <title>[AI Job] Able Seaman Job on General Cargo Vessel at PT Delphine Comar Indonesia</title>
-  <dc:date>2026-11-12 20:22:04</dc:date>
  </item>
 </rdf:RDF>

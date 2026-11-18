@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>17-11-2026</dc:date>
+  <dc:date>18-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233233/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233230/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233196/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233079/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233078/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232931/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232898/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232820/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232811/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232661/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233233/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Deckhand required for a confidential +90m superyacht currently located in the Mediterranean. The position offers a rotational schedule of 4 months on and 2 months off. Essential qualifications include previous strong experience on similar yachts and excellent tender driving skills. Candidates must possess a professional attitude and strong teamwork abilities. Immediate joining is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233233/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233233/</link>
+  <title>[AI Job] Deckhand Job on +90m Superyacht at Superyacht Industry</title>
+  <dc:date>2026-11-17 21:22:24</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233230/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Florida, USA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Sole Chef is sought for a 34m private motor yacht based in Florida, cruising between Florida and the Bahamas. The role requires previous yacht chef experience, a passion for cooking healthy and varied family-style meals, and a positive, flexible, team-oriented attitude. A valid B1/B2 visa is necessary. The position offers a salary of $7,500–$8,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month with 30 days of leave per year. Immediate start is preferred, or by November 20th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233230/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233230/</link>
+  <title>[AI Job] Sole Chef Job on 30m+ Motor Yacht at YOA Yacht Crew</title>
+  <dc:date>2026-11-17 14:20:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233196/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Housekeeping Attendant position is available on The World Residences at Sea, the largest privately owned residential yacht. Candidates with housekeeping or hospitality experience seeking a career at sea are encouraged to apply. Key requirements include an up-to-date CV, name, and email address.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233196/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233196/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232820/</link>
   <title>[AI Job] Chief Officer Job on 50m Sailing Yacht at Crew &amp; Concierge Ltd.</title>
   <dc:date>2026-11-12 01:47:29</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232811/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Individuals with relevant experience are invited to discuss crew opportunities within Navaia&amp;#8217;s yacht racing program. This involves contributing to various roles aboard vessels like the Contessa 32, focusing on teamwork and practical execution during races. Inquire directly to explore potential positions and suitability.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232811/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232811/</link>
-  <title>[AI Job] Yacht Crew Opportunities - Navaia Racing at Navaia</title>
-  <dc:date>2026-11-11 14:31:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232661/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Employment opportunities exist for crew on luxury yachts with Four Seasons Yachts. This is a general listing for various roles aboard these vessels. Interested individuals can obtain more information regarding specific positions, joining dates, contract lengths, and compensation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232661/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232661/</link>
-  <title>[AI Job] Yacht Crew Vacancies at FOUR SEASONS YACHTS</title>
-  <dc:date>2026-11-10 17:13:43</dc:date>
  </item>
 </rdf:RDF>
