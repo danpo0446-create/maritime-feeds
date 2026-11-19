@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-11-2026</dc:date>
+  <dc:date>19-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233364/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233158/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233085/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/232915/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232894/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232792/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232749/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233364/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for Fitter and Oiler positions on a bulk carrier. Requirements include valid documents for a minimum of 18 months, updated &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560 certification, experience with mixed crews, fluent English, and completed &lt;span class=&quot;caps&quot;&gt;COVID&lt;/span&gt;-19 vaccination. All positions are free of charge.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233364/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233364/</link>
+  <title>[AI Job] Fitter and Oiler Vacancies on Bulk Carrier at PT. KSM INDONESIA</title>
+  <dc:date>2026-11-19 09:22:15</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233202/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available on a Semi-Submersible unit. This role requires experience as a Motorman. Further details regarding joining date, contract duration, and salary are to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233202/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233202/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/232792/</link>
   <title>[AI Job] Fitter and Oiler Jobs on Bulk Carrier at PT. KSM INDONESIA</title>
   <dc:date>2026-11-11 14:31:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232749/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman position is available on a &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; vessel. The joining date is scheduled for the end of November 2026, with a contract duration of 2 months. The offered salary is $2000 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232749/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232749/</link>
-  <title>[AI Job] Pumpman Job on VLCC at ROHI Global Services Pvt. Ltd.</title>
-  <dc:date>2026-11-10 20:25:47</dc:date>
  </item>
 </rdf:RDF>

@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-11-2026</dc:date>
+  <dc:date>19-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233343/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233308/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233297/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233290/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233255/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233229/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233207/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233184/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233179/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233174/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233056/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233055/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232991/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232918/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233343/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman is sought for a Container Vessel. The contract duration is 6 months, with embarkation scheduled for December 1, 2026. Key requirements include experience as an Ordinary Seaman. This role offers an opportunity to work on a container ship.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233343/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233343/</link>
+  <title>[AI Job] Ordinary Seaman Job on Container Vessel at Columbia Shipmanagement Ukraine | Offshore Fleet</title>
+  <dc:date>2026-11-19 01:25:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233308/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oceania&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A proactive Deckhand is sought for a 40m private/charter sailing yacht currently based in Oceania. The role involves hands-on deck life, including maintenance, sail handling, and watersports operations. Basic engineering knowledge is also required for routine checks and troubleshooting. The vessel will undergo a refit period before heading to the Pacific and South East Asia for cruising.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233308/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233308/</link>
+  <title>[AI Job] Deckhand Job on 40m Sailing Yacht at Crew &amp; Concierge Ltd.</title>
+  <dc:date>2026-11-18 14:21:11</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233297/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is sought for a Supply Vessel with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 3709. The joining date is December 15, 2026, with a contract duration of 5 weeks. The monthly salary offered is €5000.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233297/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233297/</link>
+  <title>[AI Job] Able Seaman Job on Supply Vessel at Crewing agency &quot;Saga&quot;</title>
+  <dc:date>2026-11-18 14:21:10</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233290/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman position is available on a Panamax bulk carrier for Indonesian crew. The monthly salary offered is $900. Joining is expected at the end of November 2026. Interested candidates should submit their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233290/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233290/</link>
+  <title>[AI Job] AB Vacancy on Panamax Bulk Carrier at </title>
+  <dc:date>2026-11-18 14:21:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233255/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seafarers are invited to submit CVs for Deck Rating positions on General Cargo and Bulk Carrier vessels. The joining date is 11 November 2026, with deployment to China. This role requires experience in deck operations and adherence to safety protocols. Successful candidates will complete their contract and return home safely.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233255/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233255/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/233174/</link>
   <title>[Gold Job] Need AB Cum Crane operator with 2 years experience and offshore vessel experience. at </title>
   <dc:date>2026-11-17 11:03:54</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233056/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Carpenter with marine, shipbuilding, or shipyard experience is needed for a project in Saudi Arabia. Responsibilities include repairing and maintaining wooden fixtures, doors, and furniture within workshops, warehouses, and vessel accommodation areas. The role requires hands-on fabrication, installation, and maintenance skills. Free food, accommodation, and transportation are provided. Immediate availability is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233056/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233056/</link>
-  <title>[AI Job] Carpenter Job in Shipbuilding/Shipyard Project at Brilliant Boss Human Resources Consultancy</title>
-  <dc:date>2026-11-15 13:41:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233055/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Carpenter is needed for a marine and shipyard project in Saudi Arabia. The role involves repairing and maintaining wooden structures, doors, hatches, and fittings within workshops, warehouses, vessel accommodation areas, and shipyard facilities. Candidates must have relevant experience in carpentry, door repairs, and lock fitting, with a preference for prior experience in marine, shipbuilding, or shipyard projects. The offered salary is &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 2,750 per month, with free food, accommodation, and transportation provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233055/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233055/</link>
-  <title>[AI Job] Carpenter Job - Marine &amp;amp; Shipyard Project at Brilliant Boss HR Consultancy</title>
-  <dc:date>2026-11-15 13:41:08</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232991/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Norway, North Sea and Baltic&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman (AB) is sought for a dry cargo coaster (6400 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;NIS&lt;/span&gt; flag) trading in Norway, the North Sea, and the Baltic. The contract duration is approximately 2 months on board, followed by 4 weeks off. Joining is expected around November 17th. Previous coaster experience and immediate availability are required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232991/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232991/</link>
-  <title>[AI Job] AB Seaman Job on Dry Cargo Coaster at Arriva Shipping</title>
-  <dc:date>2026-11-14 13:31:35</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232918/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A civilian Able Seaman position is available with the Military Sealift Command, operating on ships that transport Navy fuel and ammunition. The role offers a base salary of $64,000, with an average earning potential of $119,000 including overtime and premiums. The contract involves approximately 4 months at sea. Applicants require US citizenship and Coast Guard credentials.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232918/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232918/</link>
-  <title>[AI Job] Able Seaman Job - Military Sealift Command at Military Sealift Command (MSC)</title>
-  <dc:date>2026-11-13 10:43:09</dc:date>
  </item>
 </rdf:RDF>

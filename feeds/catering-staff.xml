@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>18-11-2026</dc:date>
+  <dc:date>19-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233277/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233273/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233149/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233048/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233036/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233012/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233340/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering professionals are sought for Steward positions aboard a Ro-Ro cargo ship operating on UK routes. This role requires the right to work in the UK. The position offers a competitive salary, paid travel, fixed rotations, and comprehensive benefits including medical insurance and training support. Joining is scheduled for December 9th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233340/</link>
+  <title>[AI Job] Steward Job on Ro-Ro Cargo Ship - UK at Jobs In Maritime</title>
+  <dc:date>2026-11-19 01:25:21</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233274/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Assistant Cook is sought to support food production and galley operations on an international ocean cruise ship. Responsibilities include food preparation, maintaining quality, assisting with service, and adhering to &lt;span class=&quot;caps&quot;&gt;USPH&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;HACCP&lt;/span&gt; procedures. Candidates require at least one year of experience in a high-volume culinary environment and strong English comprehension. The role involves teamwork and physical demands.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233274/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233274/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233036/</link>
   <title>[AI Job] Cook and Steward Vacancy at T &amp; M GROUPS</title>
   <dc:date>2026-11-15 01:50:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233012/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Housekeeping Attendant is sought for an international cruise ship to uphold high standards of cleanliness, safety, and hospitality. Responsibilities include maintaining public and private areas, operating equipment, and adhering to safety protocols. A minimum of one year of hotel housekeeping experience and conversational English are required. Candidates must be physically fit and at least 21 years old.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233012/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233012/</link>
-  <title>[AI Job] Housekeeping Attendant Job on International Cruise Ship at Job Selection</title>
-  <dc:date>2026-11-14 14:18:30</dc:date>
  </item>
 </rdf:RDF>
