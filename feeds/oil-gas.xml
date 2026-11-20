@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-11-2026</dc:date>
+  <dc:date>20-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233388/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233350/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233204/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233205/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233108/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233109/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233087/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233060/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233388/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Tilbury, Essex&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Mechanical and Electrical, Controls and Instrumentation Technicians are sought for a new build Energy from Waste Power Station in Tilbury, Essex. Candidates with prior hands-on maintenance experience in heavy process engineering environments are encouraged to apply. Royal/Merchant Navy Marine Engineers are also welcome. The role offers a salary of £49,129 plus location allowance, overtime, call out payments, bonus, and benefits.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233388/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233388/</link>
+  <title>[AI Job] Maintenance Technician Job - New Build Power Station at Power Generation Recruiter</title>
+  <dc:date>2026-11-19 20:22:20</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233350/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; Motorman is sought for a full-time position within the oil and gas industry in Dubai, &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. The salary offered is market competitive. This role presents an opportunity for career growth in a professional work environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233350/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233350/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233087/</link>
   <title>[AI Job] Workover Rig Job Vacancies in India at Drilling &amp; Marine Jobs</title>
   <dc:date>2026-11-15 14:29:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233060/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; India&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced drilling professionals are sought for multiple positions within Oil &amp;amp; Gas Workover Rig Operations in India. Roles include Senior Tool Pusher, Driller, Derrickman, Floorman, Roustabout, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Officer, Chief Mechanic, Chief Electrician, Rig Mechanic, Rig Electrician, Welder, Radio Officer, and Store Officer. A minimum of 21 days rotation is offered. Relevant workover rig experience is mandatory for all applicants. Specific educational qualifications, experience, and certifications are required for specialized roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233060/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233060/</link>
-  <title>[AI Job] Workover Rig Crew Vacancies in India at KRISS Drilling</title>
-  <dc:date>2026-11-15 13:41:09</dc:date>
  </item>
 </rdf:RDF>

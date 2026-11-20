@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-11-2026</dc:date>
+  <dc:date>20-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233395/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233345/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233302/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233303/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233259/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233245/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233192/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233193/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233395/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; USA, UK, International&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;All positions are available for the Carnival Mardi Gras cruise ship. Both freshers and experienced candidates are welcome to apply. Salary ranges from 4,000 to 14,000 &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; per month. Visa, ticket, and accommodation will be provided. Positions are open for international applicants in the &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, UK, and other international locations.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233395/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233395/</link>
+  <title>[AI Job] All Positions Hiring on Carnival Mardi Gras Cruise Ship at Cruise Line Recruitment</title>
+  <dc:date>2026-11-19 20:34:54</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233345/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Genoa&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Field Service Engineer position is available for onboard systems on a cruise ship. The role is based in Genoa. Further details regarding joining date and contract duration are not specified. Interested candidates can apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233345/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233345/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Career opportunities are available on Viking cruise ships. This role is within the catering department. Interested candidates can apply via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233192/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233192/</link>
   <title>[AI Job] Cruise Ship Jobs - Viking Cruise Line at Viking Cruise Jobs</title>
-  <dc:date>2026-11-17 13:41:46</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233193/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Nantong, China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced engineers are sought for a cruise ship project in Nantong, China, offering a 3-year contract with potential for extension. The role requires a Bachelor&amp;#8217;s degree in marine or thermal energy engineering, over 10 years of marine engineering design experience, and at least 5 years in independent equipment calculation and selection. Proficiency in classification society rules (&lt;span class=&quot;caps&quot;&gt;ABS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;DNV&lt;/span&gt;-GL, BV, &lt;span class=&quot;caps&quot;&gt;IMO&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;SOLAS&lt;/span&gt;) and AutoCAD is essential, along with professional marine engineering English.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233193/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233193/</link>
-  <title>[AI Job] Engineer Job - Cruise Ship Project at SynapsCo</title>
   <dc:date>2026-11-17 13:41:46</dc:date>
  </item>
 </rdf:RDF>

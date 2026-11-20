@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-11-2026</dc:date>
+  <dc:date>20-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233369/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233343/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233308/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233297/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233207/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233184/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233179/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233174/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233369/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233369/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233369/</link>
+  <title>[Gold Job] Able Seaman on Oil Chemical tanker at </title>
+  <dc:date>2026-11-19 13:49:27</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233343/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman is sought for a Container Vessel. The contract duration is 6 months, with embarkation scheduled for December 1, 2026. Key requirements include experience as an Ordinary Seaman. This role offers an opportunity to work on a container ship.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233343/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233343/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233179/</link>
   <title>[AI Job] AB Seafarer Job on Bulk Carrier / General Cargo at KISM Myanmar Company Limited</title>
   <dc:date>2026-11-17 13:41:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233174/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233174/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233174/</link>
-  <title>[Gold Job] Need AB Cum Crane operator with 2 years experience and offshore vessel experience. at </title>
-  <dc:date>2026-11-17 11:03:54</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-11-2026</dc:date>
+  <dc:date>20-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233402/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233397/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233370/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233277/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233227/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233228/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233216/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233149/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233048/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233036/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233402/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering professionals are sought for Steward positions on a Ro-Ro cargo ship operating on UK routes. This role involves ensuring smooth onboard catering services and delivering outstanding hospitality. Applicants require the right to work in the UK. Joining is scheduled for December 9th, with competitive salary and benefits offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233402/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233402/</link>
+  <title>[AI Job] Steward Job on Ro-Ro Cargo Ship - UK at Jobs In Maritime</title>
+  <dc:date>2026-11-19 20:34:55</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233397/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean / Caribbean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Sole Chef is sought for a 30m+ sailing yacht operating a dual-season program between the Mediterranean and Caribbean. The role involves catering for up to 3 guests and 5 crew, with the ability to prepare simple lunches for up to 25 crew during racing events. Previous experience as a Sole Chef on a sailing yacht, particularly with racing programs and Mediterranean cuisine, is preferred. The position requires strong organizational skills and adaptability to owner preferences.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233397/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233397/</link>
+  <title>[AI Job] Sole Chef Job - 30m+ Sailing Yacht at Crew &amp; Concierge Ltd.</title>
+  <dc:date>2026-11-19 20:34:54</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233370/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook position is available for a 3500 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; vessel under the Turkish flag, with joining expected in late November. Interested candidates should reach out via the provided contact details for further information and application procedures.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233370/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233370/</link>
+  <title>[AI Job] Cook Vacancy on LPG Tanker at United Crew Management</title>
+  <dc:date>2026-11-19 20:22:17</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233340/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering professionals are sought for Steward positions aboard a Ro-Ro cargo ship operating on UK routes. This role requires the right to work in the UK. The position offers a competitive salary, paid travel, fixed rotations, and comprehensive benefits including medical insurance and training support. Joining is scheduled for December 9th.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233340/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233340/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/233216/</link>
   <title>[AI Job] Steward Job on Construction Support Vessel at Orca Crew Services</title>
   <dc:date>2026-11-17 13:41:50</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233149/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Cook and General Steward position is available for offshore operations. Key requirements include experience in catering services. This role is based in Mumbai.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233149/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233149/</link>
-  <title>[AI Job] Cook / General Steward Job - Offshore at T &amp; M GROUPS</title>
-  <dc:date>2026-11-16 14:31:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233048/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Global&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chef position is available within Viking Cruises, a global cruise line operating ocean and river voyages. This role is part of the culinary operations within the maritime hospitality industry. The position is open for global fleet opportunities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233048/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233048/</link>
-  <title>[AI Job] Chef Job - Viking Cruises Fleet at Viking Cruises</title>
-  <dc:date>2026-11-15 13:41:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233036/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; mumbai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering staff positions are available for maritime professionals. The roles include Cook and General Steward. The job opening is located in Mumbai. Further details regarding vessel type, contract duration, and joining date are not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233036/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233036/</link>
-  <title>[AI Job] Cook and Steward Vacancy at T &amp; M GROUPS</title>
-  <dc:date>2026-11-15 01:50:10</dc:date>
  </item>
 </rdf:RDF>

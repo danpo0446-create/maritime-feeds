@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-11-2026</dc:date>
+  <dc:date>20-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233412/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233389/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233260/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233163/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233150/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233069/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233067/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233065/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233064/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233059/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233412/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pre-Commissioning Electrical Technician is sought for a Pipelay/Construction Vessel. Responsibilities include executing electrical pre-commissioning tasks, installation checks, testing, and troubleshooting. The role requires technical certification in electrical engineering or a related field, with 3-5 years of experience in industrial, oil &amp;amp; gas, or power projects. Essential skills include interpreting electrical drawings, knowledge of electrical codes, attention to detail, and effective communication. A 12-month renewable contract with 90/30 rotations is offered. Salary details are available upon inquiry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233412/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233412/</link>
+  <title>[AI Job] Electrical Technician Job - Pipelay/Construction Vessel at MNR Recruitment Ltd</title>
+  <dc:date>2026-11-19 20:34:56</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233389/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Scotland&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Electro-Technical Officers are sought for two vessels operating in Scotland. One position is on a passenger ferry, joining between November 18th and December 2nd, with a daily rate of £385+. The second role is on a buoy tender, embarking between November 19th and December 3rd, offering £327 per day. Both roles require a valid &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; Certificate of Competency, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates, ENG1 Medical, and UK work authorization. Travel expenses are covered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233389/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233389/</link>
+  <title>[AI Job] ETO Jobs on Passenger Ferry and Buoy Tender in Scotland at Clyde Marine Recruitment</title>
+  <dc:date>2026-11-19 20:22:20</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233260/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electro-Technical Officer (&lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;) with at least 1 year of experience on DP2 vessels is needed for an immediate joining on an &lt;span class=&quot;caps&quot;&gt;AHTS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;PSV&lt;/span&gt;, or &lt;span class=&quot;caps&quot;&gt;DSV&lt;/span&gt;. The contract duration is 3 months on and 1 month off. Joining is in Qatar. A valid Indian &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt; CoC (&lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/6) is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233260/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233260/</link>
@@ -66,18 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A high-voltage Marine Electrician is sought for a marine and shipyard project in Saudi Arabia. The role involves maintaining and troubleshooting high-voltage substations, electrical distribution systems, switchgear, transformers, and circuit breakers. Candidates must have relevant hands-on experience in high-voltage electrical systems, preferably within marine, shipbuilding, or shipyard environments. Immediate availability is preferred. The monthly salary is &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 4,300, with company-provided food, accommodation, and transportation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233065/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233065/</link>
   <title>[AI Job] Marine Electrician Job - High Voltage - Saudi Arabia at Brilliant Boss Human Resources Consultancy</title>
-  <dc:date>2026-11-15 13:41:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233064/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A marine electrician with high voltage and substation experience is needed for a project in Saudi Arabia. Responsibilities include maintaining and troubleshooting high-voltage substations, electrical distribution systems, switchgear, transformers, and circuit breakers. Previous experience in marine, shipbuilding, or shipyard electrical maintenance is preferred. The role involves 8-hour workdays, 6 days a week, with a monthly salary of &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 4,300, plus free food, accommodation, and transportation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233064/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233064/</link>
-  <title>[AI Job] Marine Electrician Job - High Voltage - Saudi Arabia at Brilliant Boss HR Consultancy</title>
-  <dc:date>2026-11-15 13:41:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233059/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Senior Electrical Technician is needed for a marine and shipyard project in Saudi Arabia. The role involves maintaining, troubleshooting, and repairing electrical systems, control panels, and &lt;span class=&quot;caps&quot;&gt;PLC&lt;/span&gt; systems. Candidates should have relevant experience in electrical maintenance, preferably within marine, shipbuilding, or shipyard environments. Immediate availability is advantageous. Benefits include free food, accommodation, and transportation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233059/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233059/</link>
-  <title>[AI Job] Senior Electrical Technician Job - Marine &amp;amp; Shipyard Project at Brilliant Boss HR Consultancy</title>
   <dc:date>2026-11-15 13:41:09</dc:date>
  </item>
 </rdf:RDF>

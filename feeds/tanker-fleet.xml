@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-11-2026</dc:date>
+  <dc:date>20-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233386/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233382/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233376/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233339/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233279/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233268/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233257/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233256/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233244/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233181/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233178/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233170/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233386/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer position is available on an Oil Tanker. The joining date is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;, with a contract duration of 4 months, +/- 1 month. Salary is negotiable. Requirements include a minimum of 9 months of relevant experience in rank, effective English communication skills, a strong safety culture, and experience in a multinational working environment. A US Visa is also required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233386/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233386/</link>
+  <title>[AI Job] 3rd Officer Job - Oil Tanker at CSM Manning Agency</title>
+  <dc:date>2026-11-19 20:22:20</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233382/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer is sought for a Chemical/Oil Tanker joining in early February. The contract duration is 4 months, with a negotiable salary. Candidates require Framo experience, an Advanced Chem/Oil Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;, relevant experience in rank, and effective English communication skills. Experience in a multinational working environment is also preferred.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233382/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233382/</link>
+  <title>[AI Job] 3rd Officer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
+  <dc:date>2026-11-19 20:22:19</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233376/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Persian Gulf / UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for officers on a 7,500 &lt;span class=&quot;caps&quot;&gt;CBM&lt;/span&gt; fully pressurised &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tanker trading in the Persian Gulf/UAE. Positions include Master, Chief Officer, Second Officer, Third Officer, Chief Engineer, Second Engineer, Third Engineer, Fourth Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, and Gas Engineer. Joining is on 5 December in Sri Lanka for a contract of 4 months +/- 1 month. Salaries range from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 4,000 to &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 16,500 depending on the rank.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233376/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233376/</link>
+  <title>[AI Job] Master Vacancy on LPG Tanker - Singapore Flag at OceanTrust Crewing</title>
+  <dc:date>2026-11-19 20:22:18</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233339/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced crew are sought for immediate joining on chemical tankers. This role offers world-class perks including a rejoining bonus for officers, pension funds, health insurance, internet access, and onboard gym equipment. Michelin Star Chef support is also provided for the fleet. Don&amp;#8217;t miss this opportunity to advance your maritime career.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233339/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233339/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/233244/</link>
   <title>[AI Job] Chemical Tanker Officer &amp;amp; Engineer Jobs - Turkish Seafarers at DESE Crew Management</title>
   <dc:date>2026-11-18 12:05:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233181/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chartering Manager position is available for a tanker fleet. Candidates with relevant experience are encouraged to apply. Further details about this opportunity can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233181/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233181/</link>
-  <title>[AI Job] Chartering Manager Job - Tanker Fleet at Direct Search Global</title>
-  <dc:date>2026-11-17 13:41:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233178/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Strait of Hormuz&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced officers and engineers are sought for &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; carrier positions. Previous &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; experience is mandatory, with relevant experience in rank required. Engineers must hold a valid steam license or endorsement. Contracts are for 3 months for senior ranks and 4 months for junior ranks, with joining in December 2026. Significant bonuses are offered per crossing, in addition to monthly wages.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233178/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233178/</link>
-  <title>[AI Job] LNG Carrier Jobs - Senior and Junior Ranks at SeaFormat</title>
-  <dc:date>2026-11-17 13:41:44</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233170/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A crude oil tanker is seeking experienced 3rd Officers, 4th Engineers, and Electro-Technical Officers. The contract duration for all positions is 6 months, with a potential extension of 1 month. Salaries range from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 3,700 to &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 8,250 per month, depending on the rank. Joining dates are to be confirmed. Key requirements include relevant experience and qualifications for each position.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233170/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233170/</link>
-  <title>[AI Job] 3rd Officer, 4th Engineer, ETO Jobs on Crude Oil Tanker at ABA CREWING</title>
-  <dc:date>2026-11-16 20:49:54</dc:date>
  </item>
 </rdf:RDF>

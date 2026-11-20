@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>19-11-2026</dc:date>
+  <dc:date>20-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233429/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233405/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233364/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233158/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233083/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233052/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232915/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232894/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232792/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233429/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman is sought for an oil tanker position, focusing on safe cargo transfer and pump-room operations. Responsibilities include assisting with cargo operations, maintaining pumping equipment, monitoring systems, and adhering to strict safety protocols. Candidates require relevant experience on oil tankers, familiarity with cargo systems, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; training, and proper seafarer documentation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233429/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233429/</link>
+  <title>[AI Job] Pumpman Job on Oil Tanker at Jobs Maritime GPT</title>
+  <dc:date>2026-11-20 10:28:15</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233405/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Engine Room Ratings and 4th Class Engineers are sought for immediate opportunities. This role involves engine room operations and maintenance. Further details regarding specific vessel types, contract terms, and application procedures are available via the provided links.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233405/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233405/</link>
+  <title>[AI Job] Motorman / Engine Room Operator Job at Puglisevich</title>
+  <dc:date>2026-11-19 20:34:55</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233364/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for Fitter and Oiler positions on a bulk carrier. Requirements include valid documents for a minimum of 18 months, updated &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560 certification, experience with mixed crews, fluent English, and completed &lt;span class=&quot;caps&quot;&gt;COVID&lt;/span&gt;-19 vaccination. All positions are free of charge.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233364/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233364/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/232915/</link>
   <title>[AI Job] Fitter and Oiler Jobs on Bulk Carrier at PT. KSM INDONESIA</title>
   <dc:date>2026-11-13 10:43:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232894/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Hiring is open for a Motorman (Engine Room Rating) and an Engine Room Operator (4th Class Engineer). These roles are essential for maintaining the engine room operations. Further details regarding responsibilities and application procedures can be found via the provided links.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232894/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232894/</link>
-  <title>[AI Job] Motorman / Engine Room Operator Job at Puglisevich</title>
-  <dc:date>2026-11-12 20:22:05</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232792/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for experienced Fitter and Oiler positions on a Bulk Carrier. Candidates must possess valid documents for at least 18 months, updated &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560 certification, experience with mixed crews, fluent English skills, and completed &lt;span class=&quot;caps&quot;&gt;COVID&lt;/span&gt;-19 vaccination. This is a free recruitment opportunity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232792/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232792/</link>
-  <title>[AI Job] Fitter and Oiler Jobs on Bulk Carrier at PT. KSM INDONESIA</title>
-  <dc:date>2026-11-11 14:31:10</dc:date>
  </item>
 </rdf:RDF>
