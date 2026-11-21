@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>20-11-2026</dc:date>
+  <dc:date>21-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233466/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233444/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233436/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233386/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233382/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233376/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233279/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233268/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233263/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233257/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233256/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233244/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233466/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Khorfakkan - Kuwait - Khorfakkan / Salalah / Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A full crew is urgently required for a short-term project on an Oil Tanker (74,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). The vessel will undertake a direct voyage from Khorfakkan to Kuwait and back, with 12 days on articles. Alternatively, a two-leg voyage via Dubai is offered, including 8 days standby ashore with hotel covered. Joining is immediate. Candidates must be of Indian or Indonesian nationality, possess good English, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;/CoC, medical, and all updated seafarer documents. A Hormuz transit bonus is provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233466/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233466/</link>
+  <title>[AI Job] Full Crew Required for Oil Tanker - Short Term Project at DESE Crew Management</title>
+  <dc:date>2026-11-21 11:17:59</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233444/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer is sought for a Chemical/Oil Tanker joining &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;. The contract duration is 4 months +/- 1. A negotiable salary is offered. Applicants require a Schengen visa, good English, Advanced Oil/Chem Tanker &lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt;, and relevant experience in rank on similar vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233444/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233444/</link>
+  <title>[AI Job] 2nd Officer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
+  <dc:date>2026-11-21 01:08:51</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233436/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Algeciras/Gibraltar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent search for EU/UKR crew for bunkering tankers joining in November/December. Contract duration is 2 months for officers and 4 months for ratings. Experience on tanker fleet, good English, and valid tanker documents are required. Position is located in Algeciras/Gibraltar with a mixed crew.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233436/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233436/</link>
+  <title>[AI Job] Urgent Crew Search for Bunkering Tankers at Performar Ltd</title>
+  <dc:date>2026-11-21 01:08:50</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233386/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Officer position is available on an Oil Tanker. The joining date is &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt;, with a contract duration of 4 months, +/- 1 month. Salary is negotiable. Requirements include a minimum of 9 months of relevant experience in rank, effective English communication skills, a strong safety culture, and experience in a multinational working environment. A US Visa is also required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233386/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233386/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/233263/</link>
   <title>[AI Job] 2nd Officer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
   <dc:date>2026-11-18 12:05:11</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233257/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers are sought for an oil tanker vessel. This is an opportunity for Indonesian seafarers seeking their next role at sea. Shortlisted candidates will be contacted directly by the hiring team. Please be aware of potential fraud and note that no recruitment fees are charged.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233257/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233257/</link>
-  <title>[AI Job] Seafarer Vacancy on Oil Tanker Vessel at Andhini Eka Karya Sejahtera</title>
-  <dc:date>2026-11-18 12:05:11</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233256/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Domestic&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on an Aframax Tanker operating domestically. Candidates must possess relevant experience for the rank and vessel type. Immediate joining is required. Suitable Indonesian seafarers are encouraged to apply.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233256/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233256/</link>
-  <title>[AI Job] 2nd Officer Job - Aframax Tanker (Domestic) at PT Soechi Lines Tbk</title>
-  <dc:date>2026-11-18 12:05:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233244/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Qualified and experienced Turkish seafarers are sought for multiple positions on a Chemical Tanker. Openings include Deck Officers (Master, Chief Officer, Second Officer, Third Officer) and Engine Officers (Chief Engineer, Second Engineer, Third Engineer, Fourth Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;). The contract duration is 4 + 1 months, with joining expected in mid-December 2026. Previous experience on Chemical Tankers is required, along with good English proficiency. Age limits apply for certain ranks.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233244/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233244/</link>
-  <title>[AI Job] Chemical Tanker Officer &amp;amp; Engineer Jobs - Turkish Seafarers at DESE Crew Management</title>
-  <dc:date>2026-11-18 12:05:09</dc:date>
  </item>
 </rdf:RDF>

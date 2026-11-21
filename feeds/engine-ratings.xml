@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>20-11-2026</dc:date>
+  <dc:date>21-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233445/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233429/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233405/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233364/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233086/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233083/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233052/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/232915/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233445/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available on an Oil/Chemical Tanker. The offered salary is $2,800 per month. Further details and application instructions can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233445/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233445/</link>
+  <title>[AI Job] Fitter Job on Oil/Chemical Tanker at Find Sea Jobs</title>
+  <dc:date>2026-11-21 01:08:51</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233429/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Pumpman is sought for an oil tanker position, focusing on safe cargo transfer and pump-room operations. Responsibilities include assisting with cargo operations, maintaining pumping equipment, monitoring systems, and adhering to strict safety protocols. Candidates require relevant experience on oil tankers, familiarity with cargo systems, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; training, and proper seafarer documentation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233429/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233429/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233052/</link>
   <title>[AI Job] Motorman Job on Semi-Submersible Unit at Blackford Dolphin</title>
   <dc:date>2026-11-15 13:41:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/232915/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for experienced Fitter and Oiler positions on a Bulk Carrier. Candidates must possess valid documents with a minimum of 18 months validity and updated &lt;span class=&quot;caps&quot;&gt;BST&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MSC&lt;/span&gt; 560 certification. Experience with mixed crews and fluent English skills are required. &lt;span class=&quot;caps&quot;&gt;COVID&lt;/span&gt;-19 vaccination is mandatory.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232915/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/232915/</link>
-  <title>[AI Job] Fitter and Oiler Jobs on Bulk Carrier at PT. KSM INDONESIA</title>
-  <dc:date>2026-11-13 10:43:09</dc:date>
  </item>
 </rdf:RDF>

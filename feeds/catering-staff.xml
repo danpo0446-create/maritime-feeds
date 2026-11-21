@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>20-11-2026</dc:date>
+  <dc:date>21-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233484/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233455/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233441/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233402/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233397/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233370/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233277/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233273/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233227/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233228/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233216/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233484/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship company is seeking an Assistant Waiter for the Yacht Club F&amp;amp;B department. This role is open to Mauritian citizens only. The position offers an opportunity to advance your career in the hospitality sector at sea. Further details about the job and its requirements are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233484/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233484/</link>
+  <title>[AI Job] Assistant Waiter Job - MSC Cruises Yacht Club F&amp;amp;B at Oceangoers Ltd</title>
+  <dc:date>2026-11-21 11:18:02</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233455/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; venezia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A position for a Cabin Steward is available on a luxury European train, operating in Venezia. This role is within the hospitality sector, focusing on guest services. The contract details and joining date are to be confirmed with the hiring party. Interested candidates should follow the provided application link for further details and to submit their application.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233455/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233455/</link>
+  <title>[AI Job] Cabin Steward Job on Luxury Cruise Ship at My Cruise Job</title>
+  <dc:date>2026-11-21 01:08:53</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233441/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering staff are sought for a position on an Oil/Chemical Tanker. The offered salary is $1,400 per month. This role requires experience in a similar capacity onboard vessels.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233441/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233441/</link>
+  <title>[AI Job] Steward/ess Job on Oil/Chemical Tanker at Find Sea Jobs</title>
+  <dc:date>2026-11-21 01:08:51</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233402/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Catering professionals are sought for Steward positions on a Ro-Ro cargo ship operating on UK routes. This role involves ensuring smooth onboard catering services and delivering outstanding hospitality. Applicants require the right to work in the UK. Joining is scheduled for December 9th, with competitive salary and benefits offered.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233402/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233402/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/233273/</link>
   <title>[AI Job] Assistant Cook Job on Ocean Cruise Ship at Job Selection</title>
   <dc:date>2026-11-18 12:05:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233227/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Assistant Butcher is sought to support safe and efficient preparation, storage, and inventory control for meat, fish, and poultry aboard an international cruise ship. Responsibilities include following specifications for product quality, receiving and storing products according to &lt;span class=&quot;caps&quot;&gt;USPH&lt;/span&gt; requirements, preparing products, and maintaining hygiene standards. Candidates require a high school diploma, technical training in butchery, at least 1 year of relevant experience, and conversational English.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233227/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233227/</link>
-  <title>[AI Job] Assistant Butcher Job on International Cruise Ship at Job Selection</title>
-  <dc:date>2026-11-17 14:20:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233228/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Assistant Butcher is sought to support the preparation, storage, and inventory control of meat, fish, and poultry aboard an international cruise ship. Responsibilities include following product specifications, receiving and storing goods according to &lt;span class=&quot;caps&quot;&gt;USPH&lt;/span&gt; requirements, preparing products, preventing cross-contamination, and monitoring cold rooms. Candidates require a high school diploma, technical training in butchery, at least one year of relevant experience, and conversational English. Minimum age is 21.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233228/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233228/</link>
-  <title>[AI Job] Assistant Butcher Job on International Cruise Ship at Job Selection</title>
-  <dc:date>2026-11-17 14:20:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233216/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Steward position is available on a Construction Support Vessel. The role requires experience on similar vessels, along with UK &lt;span class=&quot;caps&quot;&gt;FWP&lt;/span&gt;, National Insurance number, Basic Safety training, Security Awareness, and Boat Transfer or &lt;span class=&quot;caps&quot;&gt;GWO&lt;/span&gt; Sea Survival certification. The contract duration is 4 weeks on / 4 weeks off, with a joining date of December 9, 2026. The vessel will be located in the UK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233216/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233216/</link>
-  <title>[AI Job] Steward Job on Construction Support Vessel at Orca Crew Services</title>
-  <dc:date>2026-11-17 13:41:50</dc:date>
  </item>
 </rdf:RDF>
