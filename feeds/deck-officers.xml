@@ -4,22 +4,46 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-11-2026</dc:date>
+  <dc:date>22-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233525/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233512/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233506/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233490/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233477/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233437/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233433/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233431/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233392/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233390/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233371/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233366/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233335/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233334/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233525/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233525/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233525/</link>
+  <title>[Gold Job] Chief Officer for Panamax Bulk Carrier Vessel at </title>
+  <dc:date>2026-11-22 11:53:22</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233512/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; River Thames&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Part-Time Pilotage Coordinator is sought to join a busy Pilotage Planning Team. This key role involves liaising with stakeholders, processing voyage orders, planning vessel movements, and allocating pilots to ensure the safe and efficient movement of ships on the Thames. Responsibilities include matching authorised pilots to vessels, arranging transport logistics, and adapting plans to changing operational requirements.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233512/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233512/</link>
+  <title>[AI Job] Pilotage Coordinator Job - Port of London at Port of London Authority</title>
+  <dc:date>2026-11-21 14:20:07</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233506/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Somalia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Barge Master position is available for a barge. The deadline for applications is December 20, 2026. This role is based in Somalia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233506/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233506/</link>
+  <title>[AI Job] Barge Master Job - Somalia at DESCON ARCHITECTURE ENGINEERING CONSULTANCY</title>
+  <dc:date>2026-11-21 14:20:06</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233490/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on a scientific research vessel operating in Qatar. Applicants must possess at least 5 years of seagoing experience as a deck officer, with specific experience in passage planning, navigation, and safety management. A valid Certificate of Competency as Officer in Charge of a Navigational Watch, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;ECDIS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;GMDSS&lt;/span&gt; certificates, and a valid medical fitness certificate are required. The monthly salary ranges from QR 6,000 to QR 7,000, with free work permit, food, accommodation, and transport provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233490/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233490/</link>
+  <title>[AI Job] 2nd Officer Job on Scientific Research Vessel in Qatar at KEYSTONE CONSULT LIMITED</title>
+  <dc:date>2026-11-21 14:20:04</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233477/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Domestic&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A vacancy exists for a 2nd Officer on an Aframax Tanker operating domestically. Candidates must possess suitable experience for the rank and vessel type. Immediate joining is required. Salary offered is between 37-40 million &lt;span class=&quot;caps&quot;&gt;IDR&lt;/span&gt;.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233477/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233477/</link>
@@ -55,29 +79,5 @@
   <link>https://maritime-union.com/job/233390/</link>
   <title>[AI Job] Marine Officer Job - FPSO Operations at Shell SPDC</title>
   <dc:date>2026-11-19 20:34:53</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233371/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Second or Third Officer is required for &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt; and Parcel Chemical Tanker vessels. Candidates must be from the European Union and possess relevant experience in rank. The contract duration is 4 to 5 months, with salary depending on experience. This is an urgent requirement.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233371/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233371/</link>
-  <title>[AI Job] Second/Third Officer Job - VLCC/Chemical Tanker at DESE Crew Management</title>
-  <dc:date>2026-11-19 20:22:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233366/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Superintendent position is available for experienced professionals to oversee container vessel operations. This role requires relevant experience for a next career move. Further details and application instructions are available via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233366/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233366/</link>
-  <title>[AI Job] Marine Superintendent Job - Container Vessels at Direct Search Global</title>
-  <dc:date>2026-11-19 09:22:15</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233335/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a Bulk Carrier. The monthly salary offered is $8,000. Further details regarding joining date and contract duration are not specified. This role is suitable for experienced maritime professionals seeking new opportunities at sea.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233335/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233335/</link>
-  <title>[AI Job] Chief Officer Job on Bulk Carrier at Find Sea Jobs</title>
-  <dc:date>2026-11-19 01:25:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233334/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Officer position is available on a &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt;. The monthly salary offered is up to $10,800. Further details regarding joining date and contract duration are not specified.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233334/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233334/</link>
-  <title>[AI Job] Chief Officer Vacancy on VLCC at Find Sea Jobs</title>
-  <dc:date>2026-11-19 01:25:21</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-11-2026</dc:date>
+  <dc:date>22-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233513/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219603/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233450/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233412/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233150/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233143/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233127/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233069/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233513/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician with shipbuilding or offshore experience is sought for a role in Saudi Arabia. The position offers a salary range of &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 2,000–7,000 and a contract duration of 2 years. This opportunity is part of a recruitment drive for skilled trades in the &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; and Azerbaijan.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233513/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233513/</link>
+  <title>[AI Job] Marine Electrician Job - Shipbuilding/Offshore at IPO Manpower Counselling Consultancy</title>
+  <dc:date>2026-11-21 14:20:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/219603/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/219603/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/219603/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233127/</link>
   <title>[AI Job] Marine Electrician Job in Dubai at VIRAL JOBS</title>
   <dc:date>2026-11-16 11:24:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233069/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Foreman is needed for a marine and shipyard project in Saudi Arabia. The role involves supervising electrical maintenance teams, troubleshooting systems, and coordinating activities for vessel electrical systems. Candidates must have relevant experience in electrical maintenance, preferably within marine, shipbuilding, or shipyard environments. Immediate availability is advantageous. Benefits include free food, accommodation, and transportation.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233069/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233069/</link>
-  <title>[AI Job] Electrical Foreman Job - Marine &amp;amp; Shipyard Project at Brilliant Boss Human Resources Consultancy</title>
-  <dc:date>2026-11-15 13:41:10</dc:date>
  </item>
 </rdf:RDF>

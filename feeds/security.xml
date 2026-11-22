@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Maritime Security</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-11-2026</dc:date>
+  <dc:date>22-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233501/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/232858/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231451/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/231096/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/223767/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223414/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/223272/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/221176/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233501/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Ex-military personnel are encouraged to apply for maritime security roles on cargo vessels and ferry operations. The position requires transferable skills from military service, including discipline, threat assessment, and calm decision-making. Candidates must possess valid seafarer medical fitness (ENG1 or equivalent), relevant maritime security certifications (&lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;PSSR&lt;/span&gt;/PSA awareness), strong reporting standards, and the ability to integrate professionally with shipboard crew. Adaptability to shipboard life and adherence to maritime procedures are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233501/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233501/</link>
+  <title>[AI Job] Maritime Security Officer Vacancy - Vessel Protection at M.S Security Group</title>
+  <dc:date>2026-11-21 14:20:05</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/232858/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/232858/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/232858/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/223272/</link>
   <title>[AI Job] Maritime Security Guard Jobs on Various Vessels at M.S Security &amp; Personnel Ltd</title>
   <dc:date>2026-07-14 01:33:55</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/221176/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Salary:&lt;/strong&gt; 120 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt; p/d &lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Joining:&lt;/strong&gt; 10.03.2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 28 days&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience in rank on similar vessels&lt;/li&gt;&lt;li&gt;All valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; documents&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;COP&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;III&lt;/span&gt;/5&lt;/li&gt;&lt;li&gt;LV/LT citizens only&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/221176/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/221176/</link>
-  <title>[AI Job] Marine Mechanic on Guard Vessel – STCW and COP III/5 Required at OJ Crew</title>
-  <dc:date>2026-03-03 16:45:31</dc:date>
  </item>
 </rdf:RDF>

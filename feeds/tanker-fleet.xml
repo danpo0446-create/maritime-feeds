@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-11-2026</dc:date>
+  <dc:date>22-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233486/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233466/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233444/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233436/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233339/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233279/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233268/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233263/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233486/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced seafarers are sought for an Oil/Chemical Tanker. Positions include AB, Oiler, Bosun, and Pumpman, with salaries ranging from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,200 to &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,800. A Certificate of Proficiency is mandatory, and relevant tanker experience is preferred. The vessel has a &lt;span class=&quot;caps&quot;&gt;GRT&lt;/span&gt; of 30,000.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233486/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233486/</link>
+  <title>[AI Job] Seafarer Jobs on Oil/Chemical Tanker at Oceanic Star Shipping Pvt Ltd.</title>
+  <dc:date>2026-11-21 14:20:03</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233466/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Khorfakkan - Kuwait - Khorfakkan / Salalah / Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A full crew is urgently required for a short-term project on an Oil Tanker (74,000 &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt;). The vessel will undertake a direct voyage from Khorfakkan to Kuwait and back, with 12 days on articles. Alternatively, a two-leg voyage via Dubai is offered, including 8 days standby ashore with hotel covered. Joining is immediate. Candidates must be of Indian or Indonesian nationality, possess good English, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;/CoC, medical, and all updated seafarer documents. A Hormuz transit bonus is provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233466/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233466/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233268/</link>
   <title>[AI Job] Crew Vacancy on Oil Tanker Vessel at Andhini Eka Karya Sejahtera</title>
   <dc:date>2026-11-18 12:05:12</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233263/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer is sought for a Chemical/Oil Tanker built in 2025. The joining date is November 22, 2026, with a contract duration of 4 months, +/-1 month. Salary is negotiable. Candidates must have good English, Framo experience, relevant experience in rank on similar vessels, and a strong safety culture. Experience in a multinational working environment is also required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233263/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233263/</link>
-  <title>[AI Job] 2nd Officer Job - Chemical/Oil Tanker at CSM Manning Agency</title>
-  <dc:date>2026-11-18 12:05:11</dc:date>
  </item>
 </rdf:RDF>

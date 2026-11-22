@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>21-11-2026</dc:date>
+  <dc:date>22-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233509/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233484/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233455/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233441/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233340/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233274/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233277/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233273/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233509/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A rotational Chief Stewardess is sought for a 60m+ motor yacht operating in Italy. The position offers a salary up to €7000 &lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt;, a 2:2 rotation, medical insurance, and charter tips. Essential qualifications include &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, ENG1, Food Hygiene Level 2, and a B1/2 visa. Candidates require 4-5 years of yachting experience, including charter work on similar-sized vessels, extensive silver service skills, and proven leadership abilities for the interior team. Longevity in previous roles is also necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233509/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233509/</link>
+  <title>[AI Job] Chief Stewardess Job - 60m+ Motor Yacht in Italy at YOA Yacht Crew</title>
+  <dc:date>2026-11-21 14:20:07</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233484/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A cruise ship company is seeking an Assistant Waiter for the Yacht Club F&amp;amp;B department. This role is open to Mauritian citizens only. The position offers an opportunity to advance your career in the hospitality sector at sea. Further details about the job and its requirements are available via the application link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233484/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233484/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233277/</link>
   <title>[AI Job] Sous Chef Job on 50m+ Motor Yacht in New Zealand at YOA Yacht Crew</title>
   <dc:date>2026-11-18 12:05:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233273/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Assistant Cook is sought to support professional food production and daily galley operations aboard an international ocean cruise ship. Responsibilities include preparing food, following recipes and company specifications, assisting with production and service, maintaining food quality, and applying &lt;span class=&quot;caps&quot;&gt;USPH&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;HACCP&lt;/span&gt; procedures. Candidates require at least one year of experience in a high-volume culinary environment and strong English comprehension.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233273/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233273/</link>
-  <title>[AI Job] Assistant Cook Job on Ocean Cruise Ship at Job Selection</title>
-  <dc:date>2026-11-18 12:05:12</dc:date>
  </item>
 </rdf:RDF>
