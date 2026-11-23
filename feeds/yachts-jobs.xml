@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Yachts Jobs</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-11-2026</dc:date>
+  <dc:date>23-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233527/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233485/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233456/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233307/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233196/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233079/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233078/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233024/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233527/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Panama&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Captain sought for a private 76&amp;#8217; Sunseeker yacht based in Panama. This permanent role requires a professional, hands-on Captain with proven experience in operating and maintaining luxury motor yachts. Responsibilities include overseeing all vessel operations, maintenance, safety, and readiness, working with a team of two deckhands. Navigational and technical skills, leadership abilities, and discretion are essential. Spanish-speaking skills are a plus.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233527/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233527/</link>
+  <title>[AI Job] Captain Job - 76&apos; Sunseeker Yacht at Blue Oceans Yachting Powered by Crew Unlimited</title>
+  <dc:date>2026-11-22 20:20:44</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233485/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Mediterranean &amp; Caribbean&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A yacht-based &lt;span class=&quot;caps&quot;&gt;VIP&lt;/span&gt; Helicopter Captain is sought for an ACH135 helicopter. The role involves operations in the Mediterranean and Caribbean regions. This position requires a skilled and experienced captain with a strong aviation background, suitable for a yacht environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233485/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233485/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233078/</link>
   <title>[AI Job] Yacht Crew Jobs: Chief Stewardess, Captain, Engineer at Seazone</title>
   <dc:date>2026-11-15 14:29:23</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233024/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Palma based&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 50m Motor Yacht is seeking a practical, hands-on Second Engineer with a can-do attitude. Responsibilities include daily engine room operations and assisting on deck. The position offers a 10 weeks on / 10 weeks off rotation, with a base in Palma. Salary is around €6,000 per month, plus reported annual tips of approximately €15,000. The yacht is currently undergoing a 30-year survey with refit work.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233024/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233024/</link>
-  <title>[AI Job] 2nd Engineer Job - 50m Motor Yacht at Hodgson Marine</title>
-  <dc:date>2026-11-15 01:50:09</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Full Crew</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-11-2026</dc:date>
+  <dc:date>23-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233534/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233533/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233524/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233521/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233517/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233496/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233495/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233494/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233492/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233473/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233534/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Vacancies are available for Indonesian seafarers to join a Bulk Carrier vessel immediately. Minimum 24 months of experience in a similar rank and on a Bulk Carrier vessel, valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; 2010 certification, and proficiency in English are required. Suitable candidates will be processed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233534/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233534/</link>
+  <title>[AI Job] Bulk Carrier Vacancy for Indonesian Seafarers at Columbia Shipmanagement Indonesia</title>
+  <dc:date>2026-11-23 09:15:09</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233533/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Domestic (Indonesia)&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Bulk Carrier positions for Chief Officer and 2nd Engineer are available for service in Indonesian domestic waters. Candidates interested in these roles should submit their applications. Further details regarding joining dates and contract terms will be provided to suitable applicants.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233533/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233533/</link>
+  <title>[AI Job] Chief Officer &amp;amp; 2nd Engineer Job - Bulk Carrier at PT. SOLUSI PELAYARAN NUSANTARA (SPN)</title>
+  <dc:date>2026-11-23 09:15:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233524/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent vacancies are available for Indonesian crew members to join reefer, bulk carrier, and general cargo vessels. Estimated joining date is December 2026. Interested candidates are encouraged to send their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233524/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233524/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/233494/</link>
   <title>[AI Job] 3rd Engineer, ETO, 3rd Officer Jobs on Tanker &amp;amp; Container Vessels at COLUMBIA AURUS SHIP MANAGEMENT</title>
   <dc:date>2026-11-21 14:20:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233492/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai, UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Vessel Planner required for a shipowning company operating bulk carriers and tankers. The role involves optimizing fleet scheduling, cargo stowage, and voyage execution, acting as a central link between chartering, vessel Masters, and port agents. Responsibilities include developing vessel schedules, coordinating cargo plans, ensuring regulatory compliance, and tracking vessel movements to minimize delays. A Bachelor&amp;#8217;s degree in a relevant field and at least 5 years of experience in vessel planning or marine operations are necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233492/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233492/</link>
-  <title>[AI Job] Vessel Planner Job - Bulk Carriers &amp;amp; Tankers at DEGTRD</title>
-  <dc:date>2026-11-21 14:20:04</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233473/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Ship management company seeks experienced maritime professionals for key roles. Seeking a Technical Superintendent for tugs and barges with Chief Engineer or Naval Architecture background and 3-5 years relevant experience. Also hiring a Marine Superintendent for bulk carriers, requiring a Master Mariner (&lt;span class=&quot;caps&quot;&gt;ATT&lt;/span&gt;-I) with prior Captain experience on bulk carriers. A Crewing Executive/Senior Staff for bulk carriers is also sought, with 3+ years experience in crewing, knowledge of maritime regulations, and strong administrative skills. All roles require English proficiency and willingness to travel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233473/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233473/</link>
-  <title>[AI Job] Maritime Vacancies: Technical, Marine Superintendents &amp;amp; Crewing at Amancare Group</title>
-  <dc:date>2026-11-21 11:18:01</dc:date>
  </item>
 </rdf:RDF>

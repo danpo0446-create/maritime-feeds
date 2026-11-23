@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Offshore</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-11-2026</dc:date>
+  <dc:date>23-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233531/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233523/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233520/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233519/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233507/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233505/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233504/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233502/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233531/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Spain / Offshore Projects&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple offshore positions are available for experienced professionals in Spain&amp;#8217;s Oil &amp;amp; Gas, Marine, Subsea, and &lt;span class=&quot;caps&quot;&gt;EPC&lt;/span&gt; projects starting in 2026. Roles include Offshore Installation Manager, Project Engineer, various Technicians, Welder, Crane Operator, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; Officer, Marine Engineer, Deck Crew, and Roustabout. Candidates require relevant qualifications, offshore experience, valid safety certificates, good communication skills, and a valid passport for international assignments. Applications are processed via the Global Job Hub RK website.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233531/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233531/</link>
+  <title>[AI Job] Offshore Job Opportunities in Spain 2026 at Global Job Hub Rk</title>
+  <dc:date>2026-11-23 09:15:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233523/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; International Waters&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced marine crew are sought for roles including Master / Sr. &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, Chief Mate / Sr. &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, 2nd Officer / &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, 3rd Officer / &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, Sr. &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;DPO&lt;/span&gt;, Radio Operator, Bosun, AB Seaman / &lt;span class=&quot;caps&quot;&gt;HLO&lt;/span&gt;, Chief Engineer, 2nd Engineer, 3rd Engineer, &lt;span class=&quot;caps&quot;&gt;ETO&lt;/span&gt;, Mechanical &lt;span class=&quot;caps&quot;&gt;FMN&lt;/span&gt;, Mechanics (Hydraulic Technicians), Oilers, Electrical &lt;span class=&quot;caps&quot;&gt;FMN&lt;/span&gt;, and Electricians. Previous experience on Pipelay, Heavy Lift, or Offshore Construction Vessels is preferred. Valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; and offshore certificates, along with valid travel documents and a seaman&amp;#8217;s book, are required. Joining is scheduled for December 2026 in international waters.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233523/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233523/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; international&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Barge Master sought for a major offshore oil and gas project involving subsea construction and pipeline installation. This international opportunity offers a high salary package. Key responsibilities include marine operations and barge management within the energy infrastructure sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233504/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233504/</link>
   <title>[AI Job] Barge Master Job - Offshore Oil &amp;amp; Gas Project at VIRAL JOBS</title>
-  <dc:date>2026-11-21 14:20:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233502/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kuwait&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple drilling and workover positions are available for 1000 HP projects in Kuwait. These long-term projects offer a safe and compliant work environment with opportunities for career growth in the oil and gas industry. Open roles include Senior Tool Pusher, Night Tool Pusher, Driller, Assistant Driller, Drilling Safety Officer, Rig Electrician, Rig Mechanic, Derrickman, and Floorman.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233502/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233502/</link>
-  <title>[AI Job] Drilling &amp;amp; Workover Jobs in Kuwait - Offshore at SEA Updates</title>
   <dc:date>2026-11-21 14:20:06</dc:date>
  </item>
 </rdf:RDF>

@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-11-2026</dc:date>
+  <dc:date>23-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233540/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233538/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233479/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233451/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233432/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233393/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233391/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233387/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233384/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233373/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233540/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233540/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233540/</link>
+  <title>[Gold Job] CE - 8400 usd, 4 months, 03/12 at </title>
+  <dc:date>2026-11-23 13:29:40</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233538/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233538/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233538/</link>
+  <title>[Gold Job] Second Engineer for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-11-23 10:20:21</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233479/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Engineer position is available in Qatar. Candidates require at least 5 years of seagoing experience, including routine engine maintenance, inspection, system servicing, generator maintenance, and assisting with overhauls. A valid Engineer Officer CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; training, and medical fitness are necessary. The role offers a salary of QR5,000 &amp;#8211; QR6,000, with free work permit, food, accommodation, and transport provided in Qatar. Nigerian nationality is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233479/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233479/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/233387/</link>
   <title>[AI Job] Chief Engineer Job on Crude Oil Tanker at Find Sea Jobs</title>
   <dc:date>2026-11-19 20:22:20</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233384/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Riga, Latvia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A vacancy exists for a 3rd Engineer on a heavy lift vessel. The joining date is early January, with a contract duration of 4 months +/- 1. Salary is negotiable. Candidates require good English, experience with &lt;span class=&quot;caps&quot;&gt;SULZER&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;WARTSILA&lt;/span&gt; RT-&lt;span class=&quot;caps&quot;&gt;FLEX&lt;/span&gt; engines, heavy lift cranes and cargo operations, and relevant experience in rank.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233384/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233384/</link>
-  <title>[AI Job] 3rd Engineer Job - Heavy Lift Vessel at Marine and Off Shore Recruitment. CSM Manning Agency</title>
-  <dc:date>2026-11-19 20:22:19</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233373/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An edible oil tanker requires an engineer for immediate joining. The contract duration is 2 months, with a salary of 8,500 &lt;span class=&quot;caps&quot;&gt;EUR&lt;/span&gt;. The vessel has a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 3,400 and was built in 1997.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233373/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233373/</link>
-  <title>[AI Job] Engineer Job on Edible Oil Tanker at TBC Shipmanagement (The Best Crew LTD)</title>
-  <dc:date>2026-11-19 20:22:18</dc:date>
  </item>
 </rdf:RDF>

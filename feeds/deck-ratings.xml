@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-11-2026</dc:date>
+  <dc:date>23-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233539/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233482/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233453/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233452/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233308/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233297/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233290/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233255/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233539/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233539/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233539/</link>
+  <title>[Gold Job] AB -1861 usd, 6 months. 15/12 at </title>
+  <dc:date>2026-11-23 12:28:19</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233482/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bosun position is available on a cruise ship. The role involves deck operations and requires attention to detail in checking lines and winches. Candidates should be prepared to learn and ask questions. This is an opportunity for individuals seeking a career in cruise ship deck crew roles.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233482/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233482/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233290/</link>
   <title>[AI Job] AB Vacancy on Panamax Bulk Carrier at </title>
   <dc:date>2026-11-18 14:21:09</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233255/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; China&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Seafarers are invited to submit CVs for Deck Rating positions on General Cargo and Bulk Carrier vessels. The joining date is 11 November 2026, with deployment to China. This role requires experience in deck operations and adherence to safety protocols. Successful candidates will complete their contract and return home safely.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233255/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233255/</link>
-  <title>[AI Job] Deck Rating Job on General Cargo Vessel at 36 Power Marine Myanmar Company</title>
-  <dc:date>2026-11-18 12:05:10</dc:date>
  </item>
 </rdf:RDF>

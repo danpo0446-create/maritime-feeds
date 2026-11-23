@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>22-11-2026</dc:date>
+  <dc:date>23-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233536/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233445/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233429/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233405/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233085/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233086/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233083/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233052/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233536/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; ASIA&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Oiler position is available on a Chemical Tanker trading in Asia. The contract duration is 6 months, with a salary of &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,450 per month. Candidates require a minimum of 3 years of experience on similar vessels and valid &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; certificates with at least one year of remaining validity. Good English communication skills, responsibility, discipline, and fitness for work are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233536/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233536/</link>
+  <title>[AI Job] Oiler Job on Chemical Tanker - Asia Trading Area at PT WAHANA RAHMAH</title>
+  <dc:date>2026-11-23 09:15:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233445/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Fitter position is available on an Oil/Chemical Tanker. The offered salary is $2,800 per month. Further details and application instructions can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233445/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233445/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233083/</link>
   <title>[AI Job] Plumber Job in Saudi Arabia - Marine &amp;amp; Shipyard Project at Brilliant Boss Human Resources Consultancy</title>
   <dc:date>2026-11-15 14:29:23</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233052/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available on a Semi-Submersible unit. This role requires experience as a Motorman. Further details regarding joining date, contract duration, and salary are to be confirmed.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233052/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233052/</link>
-  <title>[AI Job] Motorman Job on Semi-Submersible Unit at Blackford Dolphin</title>
-  <dc:date>2026-11-15 13:41:07</dc:date>
  </item>
 </rdf:RDF>
