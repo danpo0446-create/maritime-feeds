@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-11-2026</dc:date>
+  <dc:date>24-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233543/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233537/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233532/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233530/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233525/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233512/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233506/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233490/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233543/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233543/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233543/</link>
+  <title>[Gold Job] Chief Officer for NON DP AHTS vessel at </title>
+  <dc:date>2026-11-24 09:52:11</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233537/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233537/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233537/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233506/</link>
   <title>[AI Job] Barge Master Job - Somalia at DESCON ARCHITECTURE ENGINEERING CONSULTANCY</title>
   <dc:date>2026-11-21 14:20:06</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233490/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 2nd Officer position is available on a scientific research vessel operating in Qatar. Applicants must possess at least 5 years of seagoing experience as a deck officer, with specific experience in passage planning, navigation, and safety management. A valid Certificate of Competency as Officer in Charge of a Navigational Watch, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;ECDIS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;GMDSS&lt;/span&gt; certificates, and a valid medical fitness certificate are required. The monthly salary ranges from QR 6,000 to QR 7,000, with free work permit, food, accommodation, and transport provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233490/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233490/</link>
-  <title>[AI Job] 2nd Officer Job on Scientific Research Vessel in Qatar at KEYSTONE CONSULT LIMITED</title>
-  <dc:date>2026-11-21 14:20:04</dc:date>
  </item>
 </rdf:RDF>

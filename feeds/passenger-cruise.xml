@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Passenger And Cruise</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>23-11-2026</dc:date>
+  <dc:date>24-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233542/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233522/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233511/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233508/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233474/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233475/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219617/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233454/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233542/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233542/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233542/</link>
+  <title>[Gold Job] Nurse on passenger vessel ASAP at </title>
+  <dc:date>2026-11-23 17:23:01</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233522/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Weybridge, England&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Refurbishment Manager is sought to plan and deliver ship refurbishments, both in service and in drydock, from concept to final acceptance. This role requires an engineer with 7 to 10 years of project management experience, with cruise, shipyard, or naval experience being a significant advantage. The position involves up to 50% travel.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233522/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233522/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/219617/</link>
   <title>[Gold Job] PLUMBER ON CRUISE VESSEL - SALARY 1483$ (+BONUS) - 8 MONTHS CONTRACT  at </title>
   <dc:date>2026-11-21 01:48:11</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233454/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; US, USA, UK&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Career opportunities are available aboard international cruise ships. Positions may be open in the US and UK. Interested candidates can apply via the provided link. Follow the page for more updates on cruise ship employment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233454/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233454/</link>
-  <title>[AI Job] Cruise Ship Jobs - Various Positions Available at Cruise Ship Careers</title>
-  <dc:date>2026-11-21 01:08:52</dc:date>
  </item>
 </rdf:RDF>
