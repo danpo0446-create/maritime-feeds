@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>24-11-2026</dc:date>
+  <dc:date>25-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233548/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233543/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233537/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233532/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233526/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233525/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233512/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233506/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233548/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233548/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233548/</link>
+  <title>[Gold Job] Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
+  <dc:date>2026-11-25 09:46:27</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233543/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233543/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233543/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233512/</link>
   <title>[AI Job] Pilotage Coordinator Job - Port of London at Port of London Authority</title>
   <dc:date>2026-11-21 14:20:07</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233506/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Somalia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Barge Master position is available for a barge. The deadline for applications is December 20, 2026. This role is based in Somalia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233506/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233506/</link>
-  <title>[AI Job] Barge Master Job - Somalia at DESCON ARCHITECTURE ENGINEERING CONSULTANCY</title>
-  <dc:date>2026-11-21 14:20:06</dc:date>
  </item>
 </rdf:RDF>
