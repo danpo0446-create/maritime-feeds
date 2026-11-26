@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-11-2026</dc:date>
+  <dc:date>26-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233582/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233552/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233539/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233482/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233453/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233369/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233343/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233308/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233297/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233290/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233582/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman is sought to join the crew for the first navigation on a groundbreaking polar expedition sailing vessel. This role offers a unique challenge for individuals ready to push the boundaries of navigation and be part of a new era of sustainable exploration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233582/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233582/</link>
+  <title>[AI Job] Ordinary Seaman Job - Expedition Sailing Vessel at Selar</title>
+  <dc:date>2026-11-25 21:11:11</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233552/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Australia / South Pacific&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Bosun sought for a private 80m motor yacht operating in Australia and the South Pacific. The role requires strong leadership, proven experience on similar-sized vessels, and excellent tender-driving skills. Additional water sports abilities are advantageous. Joining date is December 1, 2026, with a 4:2 rotation. Salary is dependent on experience.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233552/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233552/</link>
+  <title>[AI Job] Bosun Job on 80m+ Motor Yacht at YOA Yacht Crew</title>
+  <dc:date>2026-11-25 16:14:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233539/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233539/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233539/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/233308/</link>
   <title>[AI Job] Deckhand Job on 40m Sailing Yacht at Crew &amp; Concierge Ltd.</title>
   <dc:date>2026-11-18 14:21:11</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233297/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman is sought for a Supply Vessel with a &lt;span class=&quot;caps&quot;&gt;DWT&lt;/span&gt; of 3709. The joining date is December 15, 2026, with a contract duration of 5 weeks. The monthly salary offered is €5000.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233297/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233297/</link>
-  <title>[AI Job] Able Seaman Job on Supply Vessel at Crewing agency &quot;Saga&quot;</title>
-  <dc:date>2026-11-18 14:21:10</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233290/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Able Seaman position is available on a Panamax bulk carrier for Indonesian crew. The monthly salary offered is $900. Joining is expected at the end of November 2026. Interested candidates should submit their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233290/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233290/</link>
-  <title>[AI Job] AB Vacancy on Panamax Bulk Carrier at </title>
-  <dc:date>2026-11-18 14:21:09</dc:date>
  </item>
 </rdf:RDF>

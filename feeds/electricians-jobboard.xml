@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Electricians</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-11-2026</dc:date>
+  <dc:date>26-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233560/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233513/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/219603/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233450/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233163/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233150/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233143/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233127/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233560/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Electrical Engineer is sought for a Heavy Lift Vessel. The contract duration is 4 months, with joining expected at the end of November 2026. The offered salary is $6000 per month.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233560/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233560/</link>
+  <title>[AI Job] Electrical Engineer Job - Heavy Lift Vessel at Lysbon Shipping Services OU</title>
+  <dc:date>2026-11-25 16:14:09</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233513/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician with shipbuilding or offshore experience is sought for a role in Saudi Arabia. The position offers a salary range of &lt;span class=&quot;caps&quot;&gt;SAR&lt;/span&gt; 2,000–7,000 and a contract duration of 2 years. This opportunity is part of a recruitment drive for skilled trades in the &lt;span class=&quot;caps&quot;&gt;GCC&lt;/span&gt; and Azerbaijan.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233513/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233513/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233143/</link>
   <title>[AI Job] ETO Job on Container Vessel at Jobs Maritime GPT</title>
   <dc:date>2026-11-16 14:31:19</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233127/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Marine Electrician position is available for commissioning work in Dubai. This role requires a skilled professional for electrical tasks during the commissioning phase. Further details and application instructions can be found via the provided link.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233127/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233127/</link>
-  <title>[AI Job] Marine Electrician Job in Dubai at VIRAL JOBS</title>
-  <dc:date>2026-11-16 11:24:52</dc:date>
  </item>
 </rdf:RDF>

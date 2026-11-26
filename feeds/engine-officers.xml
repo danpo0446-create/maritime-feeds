@@ -4,9 +4,12 @@
   <description>Latest marine jobs for Engine Officers</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-11-2026</dc:date>
+  <dc:date>26-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233593/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233592/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233550/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233547/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233546/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233545/"/>
@@ -14,12 +17,27 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233541/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233540/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233538/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233479/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233451/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233432/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233593/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233593/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233593/</link>
+  <title>[Gold Job] Chief Engineer for NON DP AHTS Vessel at </title>
+  <dc:date>2026-11-26 10:56:31</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233592/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233592/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233592/</link>
+  <title>[Gold Job] Second Engineer for DP2 AHTS vessel at </title>
+  <dc:date>2026-11-26 10:52:45</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233550/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for an &lt;span class=&quot;caps&quot;&gt;LNG&lt;/span&gt; vessel with a Dual-Fuel Diesel-Electric (&lt;span class=&quot;caps&quot;&gt;DFDE&lt;/span&gt;) propulsion system. Immediate joining is required for a 3-month contract. Attractive wages are offered for experienced candidates seeking their next sea opportunity.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233550/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233550/</link>
+  <title>[AI Job] Chief Engineer Job - LNG Tanker at Bernhard Schulte Shipmanagement CSC Romania</title>
+  <dc:date>2026-11-25 16:14:08</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233547/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233547/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233547/</link>
@@ -61,23 +79,5 @@
   <link>https://maritime-union.com/job/233538/</link>
   <title>[Gold Job] Second Engineer for DP2 Fast Supply Intervention Vessel / Crew Boat at </title>
   <dc:date>2026-11-23 10:20:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233479/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Qatar&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A 3rd Engineer position is available in Qatar. Candidates require at least 5 years of seagoing experience, including routine engine maintenance, inspection, system servicing, generator maintenance, and assisting with overhauls. A valid Engineer Officer CoC, &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt; training, and medical fitness are necessary. The role offers a salary of QR5,000 &amp;#8211; QR6,000, with free work permit, food, accommodation, and transport provided in Qatar. Nigerian nationality is required.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233479/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233479/</link>
-  <title>[AI Job] 3rd Engineer Job in Qatar at KEYSTONE CONSULT LIMITED</title>
-  <dc:date>2026-11-21 11:18:02</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233451/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; U.A.E&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Engineer is sought for a &lt;span class=&quot;caps&quot;&gt;VSP&lt;/span&gt; Tug vessel operating in the U.A.E. The contract duration is 6-8 weeks on/off, with a negotiable &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; rate. Joining is required &lt;span class=&quot;caps&quot;&gt;ASAP&lt;/span&gt; or by mid-December at the latest. Essential requirements include a Chief Engineer Certificate or higher, &lt;span class=&quot;caps&quot;&gt;VSP&lt;/span&gt; experience, &lt;span class=&quot;caps&quot;&gt;SBM&lt;/span&gt; Mooring Tug experience, and &lt;span class=&quot;caps&quot;&gt;ARAMCO&lt;/span&gt; experience or over 24 months in rank.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233451/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233451/</link>
-  <title>[AI Job] Chief Engineer Job - VSP Tug in UAE at OOL</title>
-  <dc:date>2026-11-21 01:08:52</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233432/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233432/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233432/</link>
-  <title>[Gold Job] Need all engine officers for FPSO Vessel type. at </title>
-  <dc:date>2026-11-20 13:30:01</dc:date>
  </item>
 </rdf:RDF>

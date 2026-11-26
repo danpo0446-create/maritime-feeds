@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Oil And Gas</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>25-11-2026</dc:date>
+  <dc:date>26-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233563/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233514/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233515/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233464/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233204/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233205/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233206/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233119/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233563/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Kuwait&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Solid Control Operators are sought for oil and gas rig operations in Kuwait. The role involves hands-on experience with solid control equipment, including rig-up, rig-down, daily operations, and preventive maintenance. Candidates must possess valid Mechanical Lifting, H2S, and General &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; certifications, along with a strong understanding of rig operations and safety procedures. Previous experience as part of a rig crew is essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233563/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233563/</link>
+  <title>[AI Job] Solid Control Operator Job - Oil &amp;amp; Gas Rig in Kuwait at Global HR Solutions</title>
+  <dc:date>2026-11-25 16:14:10</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233514/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Kuwait&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced professionals are sought for a major upcoming drilling project in Kuwait. Open positions include Drilling Management &amp;amp; Supervision (Toolpusher, Driller), Technical &amp;amp; Industrial Maintenance (Rig Electrician, Rig Mechanic), &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt; (Safety Officer), and Drilling Rig Crew &amp;amp; Floor Operations (Derrickman, Floorman, Roustabout). This is a full-time, rotational contract opportunity within the Oil &amp;amp; Gas sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233514/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233514/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233206/</link>
   <title>[AI Job] Junior Mud Logger Job - Oil &amp;amp; Gas Wells at jobshelpconsultants</title>
   <dc:date>2026-11-17 13:41:48</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233119/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Malaysia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Multiple positions are available for offshore operations on an &lt;span class=&quot;caps&quot;&gt;FPSO&lt;/span&gt; vessel in Malaysia. Roles include Offshore Installation Manager, Supervisors (Production, Marine, Maintenance, &lt;span class=&quot;caps&quot;&gt;HSE&lt;/span&gt;), Technicians (Production, Marine, Mechanical, E&amp;amp;I, Engine Room), Medic/Radio Operator, Bosun, Crane Operators, Pumpman, Able Bodied Seamen, and Roustabouts. This is an opportunity to join global career prospects within the oil and gas sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233119/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233119/</link>
-  <title>[AI Job] Offshore &amp;amp; Maritime Jobs on FPSO in Malaysia at World Wide Career</title>
-  <dc:date>2026-11-16 11:24:51</dc:date>
  </item>
 </rdf:RDF>
