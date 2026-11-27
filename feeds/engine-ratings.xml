@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>26-11-2026</dc:date>
+  <dc:date>27-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233594/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233576/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233536/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233445/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233158/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233085/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233086/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233594/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233594/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233594/</link>
+  <title>[Gold Job] TOP URGENT – 3E – RESEARCH/SURVEY VESSEL – 150 USD p/d at </title>
+  <dc:date>2026-11-26 18:47:57</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233576/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233576/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233576/</link>
@@ -72,12 +78,6 @@
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Marine Mechanical Fitters are sought for a project in Saudi Arabia. Responsibilities include repairing and maintaining pumps, valves, compressors, and hydraulic systems, as well as supporting mechanical repair activities for vessels and marine facilities. Candidates must have relevant hands-on experience in marine, shipbuilding, or shipyard environments. Immediate availability is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233085/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233085/</link>
   <title>[AI Job] Mechanical Fitter Job - Marine &amp;amp; Shipyard Project at Brilliant Boss Human Resources Consultancy</title>
-  <dc:date>2026-11-15 14:29:24</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233086/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Marine Mechanical Fitters are sought for a project in Saudi Arabia. Responsibilities include repairing and maintaining pumps, valves, compressors, and vessel machinery. Candidates must have relevant hands-on experience as a Mechanical Fitter, with practical knowledge of pump repair, valves, and hydraulic systems. Previous experience in marine, shipbuilding, or shipyard projects is highly preferred. Free food, accommodation, and transportation are provided.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233086/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233086/</link>
-  <title>[AI Job] Mechanical Fitter Job - Marine &amp;amp; Shipyard Project at Brilliant Boss HR Consultancy</title>
   <dc:date>2026-11-15 14:29:24</dc:date>
  </item>
 </rdf:RDF>
