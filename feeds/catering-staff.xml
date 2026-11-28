@@ -4,9 +4,11 @@
   <description>Latest marine jobs for Catering Staff</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-11-2026</dc:date>
+  <dc:date>28-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233626/"/>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233614/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233509/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233484/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233455/"/>
@@ -15,11 +17,21 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233397/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233370/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233340/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233274/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233277/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233626/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; UAE&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Bartender position is available on a cruise ship operating in the &lt;span class=&quot;caps&quot;&gt;UAE&lt;/span&gt;. This role is part of the 2026 job opportunities with Windstar Cruises. Further details regarding the position and application process are provided in the first comment of the original post.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233626/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233626/</link>
+  <title>[AI Job] Bartender Job on Cruise Ship in UAE at Windstar Cruises</title>
+  <dc:date>2026-11-28 00:50:49</dc:date>
+ </item>
+ <item rdf:about="https://maritime-union.com/job/233614/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Chief Cook position is available on an Oil/Chemical Tanker. The monthly salary offered is $2,350. Further details regarding joining date and contract duration are not specified. This role is suitable for experienced maritime professionals seeking employment in the tanker sector.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233614/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233614/</link>
+  <title>[AI Job] Chief Cook Job - Oil/Chemical Tanker at Find Sea Jobs</title>
+  <dc:date>2026-11-28 00:50:48</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233509/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; Italy&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A rotational Chief Stewardess is sought for a 60m+ motor yacht operating in Italy. The position offers a salary up to €7000 &lt;span class=&quot;caps&quot;&gt;DOE&lt;/span&gt;, a 2:2 rotation, medical insurance, and charter tips. Essential qualifications include &lt;span class=&quot;caps&quot;&gt;STCW&lt;/span&gt;, ENG1, Food Hygiene Level 2, and a B1/2 visa. Candidates require 4-5 years of yachting experience, including charter work on similar-sized vessels, extensive silver service skills, and proven leadership abilities for the interior team. Longevity in previous roles is also necessary.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233509/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233509/</link>
@@ -67,17 +79,5 @@
   <link>https://maritime-union.com/job/233340/</link>
   <title>[AI Job] Steward Job on Ro-Ro Cargo Ship - UK at Jobs In Maritime</title>
   <dc:date>2026-11-19 01:25:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233274/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Assistant Cook is sought to support food production and galley operations on an international ocean cruise ship. Responsibilities include food preparation, maintaining quality, assisting with service, and adhering to &lt;span class=&quot;caps&quot;&gt;USPH&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;HACCP&lt;/span&gt; procedures. Candidates require at least one year of experience in a high-volume culinary environment and strong English comprehension. The role involves teamwork and physical demands.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233274/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233274/</link>
-  <title>[AI Job] Assistant Cook Job on Ocean Cruise Ship at Job Selection</title>
-  <dc:date>2026-11-18 12:05:13</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233277/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; New Zealand&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Sous Chef is required for a 60m private explorer motor yacht located in New Zealand. The temporary contract runs from December 7, 2026, to January 23, 2027, with a salary of €5,000–€5,500 per month. Responsibilities include assisting with galley setup, provisioning, and potentially joining a Pacific crossing. Previous superyacht experience, strong organizational skills, and a flexible attitude are essential.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233277/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233277/</link>
-  <title>[AI Job] Sous Chef Job on 50m+ Motor Yacht in New Zealand at YOA Yacht Crew</title>
-  <dc:date>2026-11-18 12:05:13</dc:date>
  </item>
 </rdf:RDF>

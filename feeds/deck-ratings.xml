@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Deck Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-11-2026</dc:date>
+  <dc:date>28-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233617/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233582/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233552/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233539/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233443/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233369/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233343/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233308/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233617/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Deck professionals are sought for Able Seaman and Ordinary Seaman positions aboard international cruise ships. Responsibilities include deck maintenance, navigational watch duties, steering, lookout, and participation in tender boat operations. A strong safety mindset and teamwork are essential for these roles in a multicultural environment. Salaries are &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 2,050 per month for Able Seaman and &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 1,550 per month for Ordinary Seaman.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233617/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233617/</link>
+  <title>[AI Job] Able Seaman &amp;amp; Ordinary Seaman Jobs on Cruise Ships at Job Selection</title>
+  <dc:date>2026-11-28 00:50:48</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233582/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;An Ordinary Seaman is sought to join the crew for the first navigation on a groundbreaking polar expedition sailing vessel. This role offers a unique challenge for individuals ready to push the boundaries of navigation and be part of a new era of sustainable exploration.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233582/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233582/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233343/</link>
   <title>[AI Job] Ordinary Seaman Job on Container Vessel at Columbia Shipmanagement Ukraine | Offshore Fleet</title>
   <dc:date>2026-11-19 01:25:22</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233308/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Oceania&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A proactive Deckhand is sought for a 40m private/charter sailing yacht currently based in Oceania. The role involves hands-on deck life, including maintenance, sail handling, and watersports operations. Basic engineering knowledge is also required for routine checks and troubleshooting. The vessel will undergo a refit period before heading to the Pacific and South East Asia for cruising.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233308/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233308/</link>
-  <title>[AI Job] Deckhand Job on 40m Sailing Yacht at Crew &amp; Concierge Ltd.</title>
-  <dc:date>2026-11-18 14:21:11</dc:date>
  </item>
 </rdf:RDF>

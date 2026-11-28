@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Tanker Fleet</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-11-2026</dc:date>
+  <dc:date>28-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233603/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233535/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233528/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233486/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233386/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233382/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233376/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233339/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233603/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced Second Officers, Third Officers, Third Engineers, and Fourth Engineers are sought for immediate joining on &lt;span class=&quot;caps&quot;&gt;VLCC&lt;/span&gt;, Aframax, Oil Tanker, and Chemical Tanker vessels. Monthly wages range from &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 4,700–6,000 for deck officers and &lt;span class=&quot;caps&quot;&gt;USD&lt;/span&gt; 3,700–4,400 for engine officers. Candidates from Ukraine, Georgia, Romania, Latvia, and Turkey are encouraged to apply if they possess the required rank experience and are ready for a new maritime challenge.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233603/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233603/</link>
+  <title>[AI Job] Deck and Engine Officers Vacancies on Tankers at One Vision Maritime (OVM)</title>
+  <dc:date>2026-11-28 00:50:46</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233535/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Urgent requirement for Indonesian crew to join an &lt;span class=&quot;caps&quot;&gt;LPG&lt;/span&gt; tanker. Estimated joining date is December 2026. Interested candidates are encouraged to submit their CV.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233535/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233535/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233376/</link>
   <title>[AI Job] Master Vacancy on LPG Tanker - Singapore Flag at OceanTrust Crewing</title>
   <dc:date>2026-11-19 20:22:18</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233339/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Experienced crew are sought for immediate joining on chemical tankers. This role offers world-class perks including a rejoining bonus for officers, pension funds, health insurance, internet access, and onboard gym equipment. Michelin Star Chef support is also provided for the fleet. Don&amp;#8217;t miss this opportunity to advance your maritime career.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233339/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233339/</link>
-  <title>[AI Job] Chemical Tanker Crew Vacancies at Elburg Shipmanagement Philippines Inc.</title>
-  <dc:date>2026-11-19 01:25:21</dc:date>
  </item>
 </rdf:RDF>

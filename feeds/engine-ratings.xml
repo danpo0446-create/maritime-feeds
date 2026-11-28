@@ -4,9 +4,10 @@
   <description>Latest marine jobs for Engine Ratings</description>
   <link>https://maritime-union.com/</link>
   <title>Maritime Union - Job for Mariners</title>
-  <dc:date>27-11-2026</dc:date>
+  <dc:date>28-11-2026</dc:date>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://maritime-union.com/job/233647/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233594/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233576/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233536/"/>
@@ -16,10 +17,15 @@
     <rdf:li rdf:resource="https://maritime-union.com/job/233364/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233202/"/>
     <rdf:li rdf:resource="https://maritime-union.com/job/233158/"/>
-    <rdf:li rdf:resource="https://maritime-union.com/job/233085/"/>
    </rdf:Seq>
   </items>
  </channel>
+ <item rdf:about="https://maritime-union.com/job/233647/">
+  <description>&lt;strong&gt;Location:&lt;/strong&gt; Netherlands&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;A Motorman position is available on a Cyprus-flagged &lt;span class=&quot;caps&quot;&gt;CLV&lt;/span&gt; vessel. The contract is from December 10, 2026, to January 8, 2027, with joining on December 10, 2026. Trading area is the Netherlands. Requirements include strong Motorman experience and &lt;span class=&quot;caps&quot;&gt;BOSIET&lt;/span&gt;/FOET certification. Salary information is available upon request.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233647/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
+  <link>https://maritime-union.com/job/233647/</link>
+  <title>[AI Job] Motorman Job on CLV Vessel at BalticCareer</title>
+  <dc:date>2026-11-28 00:50:52</dc:date>
+ </item>
  <item rdf:about="https://maritime-union.com/job/233594/">
   <description>&lt;strong&gt;Location:&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233594/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
   <link>https://maritime-union.com/job/233594/</link>
@@ -73,11 +79,5 @@
   <link>https://maritime-union.com/job/233158/</link>
   <title>[AI Job] Motorman Job at Sea at DFDS</title>
   <dc:date>2026-11-16 14:31:21</dc:date>
- </item>
- <item rdf:about="https://maritime-union.com/job/233085/">
-  <description>&lt;strong&gt;Location:&lt;/strong&gt; Saudi Arabia&lt;br /&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;&#9;&lt;p&gt;Marine Mechanical Fitters are sought for a project in Saudi Arabia. Responsibilities include repairing and maintaining pumps, valves, compressors, and hydraulic systems, as well as supporting mechanical repair activities for vessels and marine facilities. Candidates must have relevant hands-on experience in marine, shipbuilding, or shipyard environments. Immediate availability is advantageous.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://maritime-union.com/job/233085/&quot;&gt;Apply to this job&lt;/a&gt;&lt;br /&gt;</description>
-  <link>https://maritime-union.com/job/233085/</link>
-  <title>[AI Job] Mechanical Fitter Job - Marine &amp;amp; Shipyard Project at Brilliant Boss Human Resources Consultancy</title>
-  <dc:date>2026-11-15 14:29:24</dc:date>
  </item>
 </rdf:RDF>
